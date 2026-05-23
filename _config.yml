@@ -1,0 +1,27 @@
+# pinpai.ai.in — Jekyll配置
+# GitHub Pages legacy模式
+
+title: pinpai.ai.in
+description: 全球品牌百科
+
+# 不处理的语言文件（让它们作为静态文件直接访问）
+include:
+  - zh-CN.md
+  - en.md
+  - fr.md
+  - es.md
+  - de.md
+  - ja.md
+  - ko.md
+  - ru.md
+  - pt.md
+  - ar.md
+  - brands_done.json
+
+# 默认布局
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: null
+      permalink: /:path/
