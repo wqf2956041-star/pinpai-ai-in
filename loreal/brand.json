@@ -1,0 +1,105 @@
+{
+  "slug": "loreal",
+  "names": {
+    "zh-CN": "欧莱雅",
+    "en": "L'Oreal"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1909,
+  "founding_location": "法国巴黎",
+  "founder": "欧仁·舒莱尔",
+  "official_website": "https://www.loreal.com",
+  "main_business": [
+    "化妆品",
+    "护肤品",
+    "护发",
+    "香水"
+  ],
+  "current_slogan": "Because You're Worth It",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "巴黎欧莱雅"
+    },
+    {
+      "name": "Lancome兰蔻"
+    },
+    {
+      "name": "YSL Beauty"
+    },
+    {
+      "name": "Kiehl's"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1909,
+      "event": "创立"
+    },
+    {
+      "year": 1971,
+      "event": "Because You're worth it"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "欧莱雅是全球最大化妆品集团，1909年创立。旗下36个国际品牌。",
+  "languages": {
+    "en": "L'Oreal is the world's largest cosmetics company."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "雅诗兰黛",
+      "en": "Estee Lauder",
+      "slug": "esteelauder"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "H&M",
+      "en": "H&M",
+      "slug": "hm"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    }
+  ]
+}

@@ -182,5 +182,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "索尼是日本最具全球影响力的电子娱乐公司，1946年创立。PlayStation是全球最成功游戏平台之一。"
+  },
+  {
+    "slug": "loreal",
+    "zh": "欧莱雅",
+    "en": "L'Oreal",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "欧莱雅是全球最大化妆品集团，1909年创立。旗下36个国际品牌。"
   }
 ]
