@@ -1,4 +1,4 @@
-# 普拉達 (Prada) — general
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gianni Versace (italiano: Gianni Versace SpA) é uma empresa de moda italiana fu
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [范思哲 Versace](../versace/)
 - [亞曼尼 Armani](../armani/)
-- [巴宝莉 Burberry](../burberry/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [香奈儿 Chanel](../chanel/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [古驰 Gucci](../gucci/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [普拉達 Prada](../prada/)
+- [范思哲 Versace](../versace/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

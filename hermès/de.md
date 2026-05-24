@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — fashion-luxury
+# 路易威登 (Louis Vuitton) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Hermès (französisch: Hermès, ausgesprochen: [ɛʁmɛs]) ist eine französisch
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [古驰 Gucci](../gucci/)
-- [范思哲 Versace](../versace/)
-- [巴宝莉 Burberry](../burberry/)
 - [普拉達 Prada](../prada/)
+- [古驰 Gucci](../gucci/)
+- [巴宝莉 Burberry](../burberry/)
 - [香奈儿 Chanel](../chanel/)
+- [范思哲 Versace](../versace/)
+- [愛馬仕 Hermès](../hermès/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [亞曼尼 Armani](../armani/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [愛馬仕 Hermès](../hermès/)
 
 ---
 

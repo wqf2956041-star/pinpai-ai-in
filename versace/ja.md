@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — general
+# 古驰 (Gucci) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [巴宝莉 Burberry](../burberry/)
-- [愛馬仕 Hermès](../hermès/)
-- [香奈儿 Chanel](../chanel/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [普拉達 Prada](../prada/)
-- [范思哲 Versace](../versace/)
+- [愛馬仕 Hermès](../hermès/)
 - [亞曼尼 Armani](../armani/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [巴宝莉 Burberry](../burberry/)
+- [范思哲 Versace](../versace/)
+- [普拉達 Prada](../prada/)
+- [香奈儿 Chanel](../chanel/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [古驰 Gucci](../gucci/)
 
 ---
 

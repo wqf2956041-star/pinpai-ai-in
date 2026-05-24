@@ -1,4 +1,4 @@
-# 亞曼尼 (Armani) — general
+# 圣罗兰 (Saint Laurent) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gianni Versace (Italian: Gianni Versace S.p.A) is an Italian fashion company fou
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [普拉達 Prada](../prada/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [愛馬仕 Hermès](../hermès/)
-- [古驰 Gucci](../gucci/)
-- [范思哲 Versace](../versace/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [香奈儿 Chanel](../chanel/)
 - [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [范思哲 Versace](../versace/)
 - [亞曼尼 Armani](../armani/)
+- [普拉達 Prada](../prada/)
+- [香奈儿 Chanel](../chanel/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

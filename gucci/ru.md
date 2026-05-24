@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — general
+# 愛馬仕 (Hermès) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gucci — бренд группы Kering. Она была основана в 19
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [范思哲 Versace](../versace/)
+- [亞曼尼 Armani](../armani/)
 - [普拉達 Prada](../prada/)
 - [古驰 Gucci](../gucci/)
-- [亞曼尼 Armani](../armani/)
-- [愛馬仕 Hermès](../hermès/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [香奈儿 Chanel](../chanel/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [愛馬仕 Hermès](../hermès/)
 
 ---
 

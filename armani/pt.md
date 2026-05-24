@@ -1,4 +1,4 @@
-# 古驰 (Gucci) — fashion-luxury
+# 巴宝莉 (Burberry) — fashion-luxury
 
 ## 品牌介绍
 
@@ -16,14 +16,14 @@ Giorgio Armani S.P.A. é uma empresa italiana de moda e bens de consumo de alta 
 
 - [埃舍尔Escher](../escher/)
 - [普拉達 Prada](../prada/)
+- [亞曼尼 Armani](../armani/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [古驰 Gucci](../gucci/)
 - [愛馬仕 Hermès](../hermès/)
 - [香奈儿 Chanel](../chanel/)
-- [范思哲 Versace](../versace/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [巴宝莉 Burberry](../burberry/)
-- [古驰 Gucci](../gucci/)
 
 ---
 

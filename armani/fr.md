@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — fashion-luxury
+# 巴宝莉 (Burberry) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Giorgio Armani S.P.A. est une entreprise italienne de mode et de biens de consom
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [古驰 Gucci](../gucci/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [香奈儿 Chanel](../chanel/)
-- [普拉達 Prada](../prada/)
 - [范思哲 Versace](../versace/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [巴宝莉 Burberry](../burberry/)
-- [亞曼尼 Armani](../armani/)
+- [古驰 Gucci](../gucci/)
 - [愛馬仕 Hermès](../hermès/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [亞曼尼 Armani](../armani/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [普拉達 Prada](../prada/)
+- [香奈儿 Chanel](../chanel/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

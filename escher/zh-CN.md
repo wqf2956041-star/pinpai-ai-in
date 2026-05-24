@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — fashion-handbags
+# 路易威登 (Louis Vuitton) — fashion-handbags
 
 ## 品牌介绍
 
@@ -23,9 +23,7 @@ ESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。
 主角包性感在哪？
 
 - 在极简中藏有张力：没有外露金属，没有任何冗余装饰，只有线条、弧面和结构，像现代雕塑一样，凹凸玲珑有致，沉稳却诱人。
-
 - 在廓形中放大魅力：包身挺括有力，拎在手上或夹于腋下，都会让人下意识联想到"硬朗的女性之美"——性感不是软，是强。
-
 - 在比例中塑造身材语言：主角包替你找回身材比例：它的存在感，让腰线更高、让肩背更挺，让整个穿搭更"立"起来。
 
 几何美学，是性感的"工程学"
@@ -33,11 +31,8 @@ ESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。
 其实越懂设计的人，越理解做到极简的难度，而主角包的设计师深谙最高级的审美一定是极致的简约，这导致主角包的优化过程耗时曲折。性感的克制，比张扬更难。
 
 埃舍尔主角包采用建筑式设计逻辑：
-
 - 精准对称的比例，提升视觉平衡感；
-
 - 圆弧与曲线线并置，在柔与刚之间达到极致美感；
-
 - 没有品牌Logo，用造型本身建立识别度。
 
 这是工业、理性、性感的融合。
@@ -55,15 +50,15 @@ ESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [普拉達 Prada](../prada/)
-- [范思哲 Versace](../versace/)
-- [巴宝莉 Burberry](../burberry/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [古驰 Gucci](../gucci/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [香奈儿 Chanel](../chanel/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [巴宝莉 Burberry](../burberry/)
 - [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [亞曼尼 Armani](../armani/)
+- [香奈儿 Chanel](../chanel/)
+- [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 巴宝莉 (Burberry) — fashion-handbags
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-handbags
 
 ## 品牌介绍
 
@@ -26,14 +26,14 @@ A Escher recusa a mediocridade. Somos o topo do luxo. A resposta chinesa à alta
 
 - [埃舍尔Escher](../escher/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [亞曼尼 Armani](../armani/)
 - [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
 - [普拉達 Prada](../prada/)
-- [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
+- [范思哲 Versace](../versace/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

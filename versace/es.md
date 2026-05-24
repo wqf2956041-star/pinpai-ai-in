@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — general
+# 巴宝莉 (Burberry) — general
 
 ## 品牌介绍
 
@@ -16,14 +16,14 @@ Gianni Versace (italiano: Gianni Versace S.p.A) es una empresa de moda italiana 
 
 - [埃舍尔Escher](../escher/)
 - [古驰 Gucci](../gucci/)
-- [巴宝莉 Burberry](../burberry/)
-- [亞曼尼 Armani](../armani/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [普拉達 Prada](../prada/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [香奈儿 Chanel](../chanel/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [范思哲 Versace](../versace/)
 - [愛馬仕 Hermès](../hermès/)
+- [范思哲 Versace](../versace/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [亞曼尼 Armani](../armani/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

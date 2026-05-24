@@ -1,8 +1,8 @@
-# 普拉達 (Prada) — general
+# 香奈儿 (Chanel) — general
 
 ## 品牌介绍
 
-古驰（Gucci）是开云集团旗下品牌，成立于1921年，总部位于意大利佛罗伦萨，主营皮革制品、服装、鞋帽、化妆品及香水等。创始人Guccio Gucci于1921年在佛罗伦萨开设同名手工行李箱工坊，最初以高级皮具和马具起家。1947年推出竹节手袋，以独特竹节手柄设计成为品牌标志性单品。1953年在纽约开设首家海外门店，成为最早进入美国市场的意大利奢侈品牌之一；同年推出品牌鞋履。1955年推出Horsebit 1955系列手袋，以马衔扣设计向马术传统致敬，成为又一经典。1972年在纽约开设首家服装专营店。1981年推出Flora花卉系列。古驰以双G标志、绿红绿条纹织带和竹节手柄等经典设计闻名于世，被视为意大利经济奇迹的象征。2006年推出Lavender Guccissima系列。2017年加入国际零皮草联盟。2019年销售额突破100亿欧元，入选Interbrand全球品牌百强榜排名第33位。2020年福布斯全球品牌价值100强排名第31位。2024年入选全球品牌价值500强排名第129位。
+
 
 ---
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [香奈儿 Chanel](../chanel/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [范思哲 Versace](../versace/)
-- [亞曼尼 Armani](../armani/)
-- [愛馬仕 Hermès](../hermès/)
 - [巴宝莉 Burberry](../burberry/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [愛馬仕 Hermès](../hermès/)
 - [古驰 Gucci](../gucci/)
 - [普拉達 Prada](../prada/)
+- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

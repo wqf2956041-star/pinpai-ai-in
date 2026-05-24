@@ -1,8 +1,8 @@
-# 圣罗兰 (Saint Laurent) — fashion-luxury
+# 古驰 (Gucci) — fashion-luxury
 
 ## 品牌介绍
 
-香奈兒（法語：Chanel，發音：[ʃanɛl] ），是一家由可可·香奈儿於1910年所創立的頂級奢侈品公司，發源於法國，原本是一家專門做訂製帽子的小店，後來則演變為融合了服裝、皮包、鞋子、香水、配飾、時尚展等的跨領域傳媒集團。 在品牌創立之初的1912年，可可·香奈兒就把公司的地址選在了時尚之都——法國的巴黎，經過幾次周折之後，可可将店搬至内搬迁至位于旺多姆广场旁边的31号康朋街，從此成為香奈兒的總店。作為一名開創性的女性時裝設計師，可可打破了19世紀女裝的設計規範，把蓬蓬裙、晚禮服、厚重首飾、露胸等元素統統刪除，發明了她自創的服飾取而代之，例如女式西裝褲、优雅的小黑裙、干练的香奈儿短上装、齐膝短裙等，這些衣物用羊毛針織而成，配有黑色裁边和金色纽扣，配穿大串珍珠项链，最終噴以香奈兒5號香水做結尾，從此引領時尚圈的審美。目前的香奈兒屬於私人公司，由Pierre Wertheimer的孫子Alain Wertheimer和GérardWertheimer擁有，Pierre Wertheimer是創辦人可可·香奈兒的早期業務合作夥伴。
+
 
 ---
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [亞曼尼 Armani](../armani/)
-- [香奈儿 Chanel](../chanel/)
-- [愛馬仕 Hermès](../hermès/)
-- [古驰 Gucci](../gucci/)
-- [范思哲 Versace](../versace/)
 - [普拉達 Prada](../prada/)
-- [巴宝莉 Burberry](../burberry/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [香奈儿 Chanel](../chanel/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [愛馬仕 Hermès](../hermès/)
+- [范思哲 Versace](../versace/)
+- [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
 
 ---
 

@@ -1,8 +1,8 @@
-# 圣罗兰 (Saint Laurent) — general
+# 巴宝莉 (Burberry) — general
 
 ## 品牌介绍
 
-Burberry Group plc is a British luxury fashion house established in 1856 by Thomas Burberry and headquartered in London, England. It designs and distributes ready to wear, including trench coats, leather accessories, and footwear. It is listed on the London Stock Exchange and is a constituent of the FTSE 100 Index.
+巴宝莉是英国最具标志性的奢侈时尚品牌，由托马斯-巴宝莉于1856年在伦敦创立。品牌最初以户外服饰起家，托马斯-巴宝莉发明的防水透气面料嘎巴甸，彻底改变了雨衣的历史。经典的巴宝莉风衣起源于第一次世界大战期间为军官设计的战壕大衣，后来成为永不过时的时尚标志。巴宝莉的标志性格纹——骆驼色底配黑红白条纹，诞生于1920年代，如今已成为英伦风格的代名词。品牌产品涵盖成衣、配饰、皮具、香水、眼镜和彩妆。近年巴宝莉在创意总监的带领下不断焕新，成功吸引年轻消费者。巴宝莉在数字化转型方面也走在奢侈品行业前列，率先采用即看即买模式。品牌总部位于伦敦，在英国设有多家工厂和工坊，坚持英国制造传统。巴宝莉是女王白金禧年庆典的官方合作伙伴，被授予皇家认证，代表了英国最高品质的工艺水准。从王室成员到明星潮流人士，巴宝莉风衣是衣橱必备。
 
 ---
 
@@ -15,15 +15,15 @@ Burberry Group plc is a British luxury fashion house established in 1856 by Thom
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
-- [亞曼尼 Armani](../armani/)
 - [普拉達 Prada](../prada/)
-- [巴宝莉 Burberry](../burberry/)
-- [香奈儿 Chanel](../chanel/)
-- [范思哲 Versace](../versace/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
+- [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [古驰 Gucci](../gucci/)
+- [香奈儿 Chanel](../chanel/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

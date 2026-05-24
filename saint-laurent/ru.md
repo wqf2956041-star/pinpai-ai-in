@@ -15,14 +15,14 @@ Yves Saint Laurent (французский: Yves Saint Laurent, французс
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [香奈儿 Chanel](../chanel/)
-- [范思哲 Versace](../versace/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [古驰 Gucci](../gucci/)
-- [巴宝莉 Burberry](../burberry/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [巴宝莉 Burberry](../burberry/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
 - [普拉達 Prada](../prada/)
 
 ---

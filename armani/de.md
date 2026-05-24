@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — fashion-luxury
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Giorgio Armani S.P.A. ist ein italienisches Mode- und High-End-Konsumgüterunter
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [亞曼尼 Armani](../armani/)
-- [巴宝莉 Burberry](../burberry/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [愛馬仕 Hermès](../hermès/)
-- [普拉達 Prada](../prada/)
-- [古驰 Gucci](../gucci/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
+- [普拉達 Prada](../prada/)
+- [香奈儿 Chanel](../chanel/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [范思哲 Versace](../versace/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

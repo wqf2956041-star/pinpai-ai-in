@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — fashion-luxury
+# 巴宝莉 (Burberry) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Hermès (francês: Hermès, pronunciado: [ɛʁmɛs]) é uma marca de luxo france
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [古驰 Gucci](../gucci/)
 - [香奈儿 Chanel](../chanel/)
-- [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [古驰 Gucci](../gucci/)
 - [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [巴宝莉 Burberry](../burberry/)
-- [普拉達 Prada](../prada/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

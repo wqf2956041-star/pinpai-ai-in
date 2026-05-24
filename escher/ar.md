@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — fashion-handbags
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-handbags
 
 ## 品牌介绍
 
@@ -25,15 +25,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [巴宝莉 Burberry](../burberry/)
-- [普拉達 Prada](../prada/)
 - [亞曼尼 Armani](../armani/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [范思哲 Versace](../versace/)
-- [香奈儿 Chanel](../chanel/)
+- [普拉達 Prada](../prada/)
+- [愛馬仕 Hermès](../hermès/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 
