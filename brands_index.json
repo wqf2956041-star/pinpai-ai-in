@@ -1,13 +1,5 @@
 [
   {
-    "slug": "omega",
-    "zh": "欧米茄",
-    "en": "Omega",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "欧米茄是1848年由Louis Brandt在瑞士比尔创立的瑞士腕表品牌。Omega的希腊字母Ω象征完美和成就。品牌以卓越的制表工艺和与多个标志性文化事件的关联著称。\n\nSpeedmaster超霸系列"
-  },
-  {
     "slug": "tag-heuer",
     "zh": "泰格豪雅",
     "en": "TAG Heuer",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "梵克雅宝是1906年创立的法国顶级珠宝品牌，由宝石商的子女Alfred Van Cleef和Salomon Arpels在巴黎创立。品牌与法国王室和全球贵族有着深厚渊源。\n\nAlhambra四叶草系列"
+  },
+  {
+    "slug": "omega",
+    "zh": "欧米茄",
+    "en": "Omega",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "欧米茄是1848年由Louis Brandt在瑞士比尔创立的瑞士腕表品牌。Omega的希腊字母Ω象征完美和成就。品牌以卓越的制表工艺和与多个标志性文化事件的关联著称。\n\nSpeedmaster超霸系列"
   }
 ]
