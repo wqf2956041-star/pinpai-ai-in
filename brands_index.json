@@ -486,5 +486,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "BAPE（安逸猿）是1993年由日本设计师NIGO创立的传奇街头品牌。全称A Bathing Ape in Lukewarm Water，源日本俗语比喻沉溺享乐的年轻人。猿人头标志和迷彩图案是最具辨识"
+  },
+  {
+    "slug": "stussy",
+    "zh": "Stüssy",
+    "en": "Stüssy",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Stüssy是1980年代加州冲浪文化诞生的街头品牌鼻祖。创始人Shawn Stussy原本冲浪板雕刻师，他在冲浪板上签名的草书标志演变为品牌最经典的Logo。Stüssy是最早将冲浪、滑板、嘻哈和朋"
   }
 ]

@@ -1,0 +1,116 @@
+{
+  "slug": "stussy",
+  "names": {
+    "zh-CN": "Stüssy",
+    "en": "Stüssy"
+  },
+  "founding_year": 1980,
+  "founding_location": "美国加州拉古纳海滩",
+  "founder": "Shawn Stussy",
+  "official_website": "https://www.stussy.com",
+  "main_business": [
+    "服装",
+    "配饰",
+    "帽子"
+  ],
+  "current_slogan": "Stüssy since 1980",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Stüssy签名T恤"
+    },
+    {
+      "name": "Stüssy卫衣"
+    },
+    {
+      "name": "Stüssy渔夫帽"
+    },
+    {
+      "name": "Stüssy牛仔"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1980,
+      "event": "Shawn Stussy开始在手绘T恤上签名"
+    },
+    {
+      "year": 1984,
+      "event": "正式成立品牌"
+    },
+    {
+      "year": 1990,
+      "event": "全球街头文化扩散"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Stüssy是1980年代加州冲浪文化诞生的街头品牌鼻祖。创始人Shawn Stussy原本冲浪板雕刻师，他在冲浪板上签名的草书标志演变为品牌最经典的Logo。Stüssy是最早将冲浪、滑板、嘻哈和朋克文化融合的品牌，直接启发了后来Supreme等品牌的诞生。黑色八角星标志和签名Logo是品牌核心设计元素。Stüssy没有大规模广告，依靠限量发售和街头口碑传播。",
+  "languages": {
+    "en": "Stüssy是1980年代加州冲浪文化诞生 街头品牌鼻祖. 创始人Shawn Stussy原本冲浪板雕刻师, 他在冲浪板上签名 草书标志演变为品牌最经典 Logo. Stüssy是最早将冲浪, 滑板, 嘻哈 and 朋克文化融合 品牌, 直接启发了后来Supreme等品牌 诞生. 黑色八角星标志 and 签名Logo是品牌核心设计元素. Stüssy没有大规模广告, 依靠限量发售 and 街头口碑传播. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Supreme",
+      "en": "Supreme",
+      "slug": "supreme",
+      "premium": false
+    },
+    {
+      "zh": "BAPE（安逸猿）",
+      "en": "BAPE",
+      "slug": "bape",
+      "premium": false
+    },
+    {
+      "zh": "Off-White",
+      "en": "Off-White",
+      "slug": "off-white",
+      "premium": false
+    },
+    {
+      "zh": "匡威",
+      "en": "Converse",
+      "slug": "converse",
+      "premium": false
+    },
+    {
+      "zh": "Vans",
+      "en": "Vans",
+      "slug": "vans",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas",
+      "premium": false
+    },
+    {
+      "zh": "彪马",
+      "en": "Puma",
+      "slug": "puma",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
