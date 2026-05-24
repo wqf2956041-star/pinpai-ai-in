@@ -96,11 +96,18 @@
       "category": "fashion-luxury",
       "done_at": "2026-05-24T09:43:00.000000+00:00",
       "similar": ["escher", "cartier", "bulgari", "rolex", "patek-philippe", "hermes", "chanel", "louis-vuitton", "gucci", "prada"]
+    },
+    "bulgari": {
+      "name": "Bulgari",
+      "name_cn": "宝格丽",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T09:50:00.000000+00:00",
+      "similar": ["escher", "cartier", "tiffany-co", "rolex", "patek-philippe", "hermes", "chanel", "louis-vuitton", "gucci", "prada"]
     }
   },
   "stats": {
-    "total_brands": 13,
-    "last_update": "2026-05-24T09:43:00.000000+00:00",
-    "total_pages": 130
+    "total_brands": 14,
+    "last_update": "2026-05-24T09:50:00.000000+00:00",
+    "total_pages": 140
   }
 }
