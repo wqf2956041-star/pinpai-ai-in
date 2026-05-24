@@ -1,0 +1,115 @@
+{
+  "slug": "michael-kors",
+  "names": {
+    "zh-CN": "迈可·寇斯",
+    "en": "Michael Kors"
+  },
+  "founding_year": 1981,
+  "founding_location": "美国纽约",
+  "founder": "Michael Kors",
+  "official_website": "https://www.michaelkors.com",
+  "main_business": [
+    "时装",
+    "配饰",
+    "皮具",
+    "腕表"
+  ],
+  "current_slogan": "Jet Set Style",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "MK Mercer手袋"
+    },
+    {
+      "name": "MK Hamilton手袋"
+    },
+    {
+      "name": "MK Selma手袋"
+    },
+    {
+      "name": "MK托特包"
+    },
+    {
+      "name": "MK腕表"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1981,
+      "event": "创立"
+    },
+    {
+      "year": 2004,
+      "event": "推出配饰线"
+    },
+    {
+      "year": 2011,
+      "event": "上市"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "迈可寇斯是1981年创立的美国轻奢时尚品牌。以Jet Set奢华旅行风格为定位，Mercer和Hamilton手袋是全球最受欢迎的手袋款之一。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

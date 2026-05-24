@@ -262,5 +262,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Coach是美国标志性皮具品牌，1941年成立于纽约。以优质皮革和实用设计闻名，从经典手袋到当代时尚，是轻奢皮具市场领导者。"
+  },
+  {
+    "slug": "michael-kors",
+    "zh": "迈可·寇斯",
+    "en": "Michael Kors",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "迈可寇斯是1981年创立的美国轻奢时尚品牌。以Jet Set奢华旅行风格为定位，Mercer和Hamilton手袋是全球最受欢迎的手袋款之一。"
   }
 ]
