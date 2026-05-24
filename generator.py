@@ -380,7 +380,7 @@ def generate_index_html(brand, brands_done, similar_count=10):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{name_cn}{f' ({name_en})' if name_en else ''} — 品牌百科</title>
-    <meta name="description" content="{name_cn}{f'（{name_en}）' if name_en else ''}是一个{category}品牌。了解{name_cn}的品牌故事、历史与特色。">
+    <meta name="description" content="%s品牌百科" % name_cn>
     <style>
         body {{ font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.8; color: #333; }}
         h1 {{ border-bottom: 2px solid #eee; padding-bottom: 10px; }}
