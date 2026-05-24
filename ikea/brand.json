@@ -54,8 +54,10 @@
   ],
   "philanthropy": [],
   "exhibitions": [],
-  "description_zh": "宜家是1943年创立的瑞典家居品牌，全球最大的家具零售商。平板包装革命降低了运输成本，让好设计走入千家万户。",
-  "languages": {},
+  "description_zh": "宜家是1943年由Ingvar Kamprad在瑞典艾尔姆胡特创立的全球最大家具零售商。品牌名称IKEA是其创始人姓名（Ingvar Kamprad）、家族农场（Elmtaryd）和村庄（Agunnaryd）的首字母组合。\n\n1956年推出的平板包装革命是宜家对家具行业最大的冲击——扁平包装降低了运输成本，让消费者自行组装也增加了参与感。Billy书架自1979年推出以来全球卖出超过1亿个。\n\n宜家标志性的产品包括KALLAX搁架、MALM床架、PAX衣柜、LACK边桌和POANG扶手椅。品牌以民主化设计为宗旨，让好设计不再昂贵。Swedish Meatballs是宜家门店最畅销的食物。\n\n品牌口号创造更美好的日常生活。宜家在全球62个市场拥有超过460家门店，年收入超过440亿欧元。宜家在中国有超过30家门店，北京和上海的门店是全球客流量最大的门店之一。",
+  "languages": {
+    "en": "宜家是1943年由Ingvar Kamprad在瑞典艾尔姆胡特创立 全球最大家具零售商。品牌名称IKEA是其创始人姓名（Ingvar Kamprad）, 家族农场（Elmtaryd） and 村庄（Agunnaryd） 首字母组合。 1956年推出 平板包装革命是宜家对家具行业最大 冲击——扁平包装降低了运输成本，让消费者自行组装也增加了参 and 感。Billy书架自1979年推出以来全球卖出超过1亿个。"
+  },
   "is_premium": false,
   "image_url": "",
   "similar_brands": [
