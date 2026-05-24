@@ -1,0 +1,97 @@
+{
+  "slug": "hm",
+  "names": {
+    "zh-CN": "H&M",
+    "en": "H&M"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1947,
+  "founding_location": "瑞典斯德哥尔摩",
+  "founder": "厄林·佩尔森",
+  "official_website": "https://www.hm.com",
+  "main_business": [
+    "时装",
+    "配饰",
+    "家居"
+  ],
+  "current_slogan": "时尚与品质，最佳价格",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "H&M女装"
+    },
+    {
+      "name": "H&M Divided"
+    },
+    {
+      "name": "H&M Home"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1947,
+      "event": "创立"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "H&M是瑞典全球快时尚巨头，1947年创立。以高性价比时装和顶级设计师联名系列著称。",
+  "languages": {
+    "en": "H&M is a Swedish fast-fashion brand founded in 1947."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "优衣库",
+      "en": "Uniqlo",
+      "slug": "uniqlo"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    },
+    {
+      "zh": "欧莱雅",
+      "en": "L'Oreal",
+      "slug": "loreal"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    }
+  ]
+}
