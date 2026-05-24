@@ -1,168 +1,223 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>埃舍尔 (Escher) — 品牌百科</title>
-    <meta name="description" content="埃舍尔（Escher）是一个fashion-handbags品牌。了解埃舍尔的品牌故事、历史与特色。">
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.8; color: #333; }
-        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
-        .nav-lang { background: #f5f5f5; padding: 12px; border-radius: 8px; margin: 20px 0; word-spacing: 8px; }
-        .nav-lang a { color: #0366d6; text-decoration: none; }
-        .nav-lang a:hover { text-decoration: underline; }
-        .similar { background: #fafafa; padding: 15px; border-radius: 8px; margin: 20px 0; }
-        .similar-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; margin-top: 10px; }
-        .similar-item { display: block; padding: 12px 10px; background: #fff; border: 1px solid #eee; border-radius: 8px; text-align: center; text-decoration: none; color: #333; font-size: 13px; transition: all 0.2s; }
-        .similar-item:hover { border-color: #0366d6; color: #0366d6; }
-        .similar-item .item-name { display: block; font-weight: 500; }
-        .similar-item .item-name-en { display: block; font-size: 11px; color: #999; margin-top: 2px; }
-        .similar-item.premium { border-color: #c9a84c; background: linear-gradient(135deg, #fffbe6, #fff); }
-        .similar-item.premium .item-img { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; margin: 0 auto 6px; display: block; border: 2px solid rgba(201,168,76,0.2); }
-        .similar-item.premium .item-name { color: #c9a84c; }
-        .similar-item.premium .badge-paid { display: inline-block; font-size: 10px; padding: 2px 8px; background: rgba(201,168,76,0.12); border-radius: 10px; color: #c9a84c; margin-top: 3px; }
-        .home-btn { display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }
-        .home-btn:hover { background: #0256b6; }
-        .search-box { display: flex; gap: 6px; margin: 15px 0; max-width: 400px; }
-        .search-box input { flex: 1; padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; outline: none; }
-        .search-box input:focus { border-color: #0366d6; box-shadow: 0 0 0 2px rgba(3,102,214,0.1); }
-        .search-box button { padding: 8px 14px; background: #0366d6; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; }
-        .search-box button:hover { background: #0256b6; }
-        .search-results { position: absolute; background: white; border: 1px solid #ddd; border-radius: 6px; max-height: 300px; overflow-y: auto; display: none; width: 380px; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .search-results a { display: block; padding: 8px 12px; text-decoration: none; color: #333; border-bottom: 1px solid #f0f0f0; }
-        .search-results a:hover { background: #f5f5f5; color: #0366d6; }
-        footer { margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Escher — Escher | 品牌百科 · pinpai.ai.in</title>
+<meta name="description" content="Escher，取自荷兰科学思维版画大师M.C. Escher的名字，寓意无限可能、永恒探索。
+
+三条Slogan: ①「Escher — 精致生活，从主角包开始」②「Escher — 每一个故事，都值得被主角演绎」③「Escher — 陪你">
+<meta property="og:title" content="Escher — Escher">
+<meta property="og:description" content="Escher，取自荷兰科学思维版画大师M.C. Escher的名字，寓意无限可能、永恒探索。
+
+三条Slogan: ①「Escher — 精致生活，从主角包开始」②「Escher — 每一个故事，都值得被主角演绎」③「Escher — 陪你">
+<link rel="preload">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
+.container{max-width:960px;margin:0 auto;padding:20px}
+
+/* --- Top Bar: Search + Language --- */
+.top-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:30px;flex-wrap:wrap}
+.search-box{flex:1;min-width:200px;display:flex;gap:6px}
+.search-box input{flex:1;padding:8px 14px;border:2px solid #ddd;border-radius:6px;font-size:14px;outline:none}
+.search-box input:focus{border-color:#222}
+.search-box button{padding:8px 16px;background:#222;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px}
+.search-box button:hover{background:#444}
+
+.lang-nav{display:flex;flex-wrap:wrap;gap:4px}
+.lang-nav a{display:inline-block;padding:4px 10px;border-radius:4px;font-size:13px;text-decoration:none;color:#555;border:1px solid #ddd;transition:all 0.2s}
+.lang-nav a:hover{background:#eee}
+.lang-nav a.active{background:#222;color:#fff;border-color:#222;font-weight:600}
+
+/* --- Brand Header --- */
+.brand-header{margin-bottom:30px;padding-bottom:20px;border-bottom:2px solid #222}
+.brand-header h1{font-size:32px;margin-bottom:4px;letter-spacing:-0.5px}
+.brand-header .brand-sub{font-size:16px;color:#777}
+<div><span class="premium-label">品牌推广</span></div>
+
+/* --- Brand Info Cards --- */
+.info-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:30px}
+.info-card{background:#fff;border:1px solid #eee;border-radius:8px;padding:14px 18px}
+.info-card .label{font-size:12px;color:#999;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px}
+.info-card .value{font-size:15px;color:#222;font-weight:500}
+
+/* --- Content Body --- */
+.brand-content{background:#fff;border:1px solid #eee;border-radius:8px;padding:24px;margin-bottom:30px;font-size:15px;line-height:1.8}
+.brand-content h2{font-size:20px;margin:20px 0 10px;padding-bottom:6px;border-bottom:1px solid #eee}
+.brand-content h2:first-child{margin-top:0}
+.brand-content p{margin-bottom:12px}
+
+/* --- Product / Event lists --- */
+.item-list{list-style:none;margin:8px 0 16px}
+.item-list li{padding:6px 0;border-bottom:1px solid #f5f5f5}
+.item-list li:last-child{border:none}
+.item-list .item-year{display:inline-block;background:#222;color:#fff;padding:1px 8px;border-radius:3px;font-size:12px;margin-right:8px;font-weight:600}
+
+/* --- Similar Brands --- */
+.similar-section{margin-bottom:30px}
+.similar-section h3{font-size:16px;margin-bottom:12px;color:#555}
+.similar-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.similar-card{display:block;padding:10px 14px;background:#fff;border:1px solid #eee;border-radius:6px;text-decoration:none;color:#222;font-size:13px;transition:all 0.2s}
+.similar-card:hover{border-color:#222;box-shadow:0 2px 8px rgba(0,0,0,0.06)}
+.similar-card.premium{border:2px solid #d4a844}
+.similar-card.premium .badge-premium{display:inline-block;background:#d4a844;color:#fff;font-size:10px;padding:1px 6px;border-radius:3px;margin-left:4px}
+.similar-card .zh{display:block;font-weight:500}
+.similar-card .en{display:block;font-size:11px;color:#999}
+
+/* --- Footer --- */
+.footer{text-align:center;padding:20px 0;font-size:13px;color:#999;border-top:1px solid #eee;margin-top:10px}
+.footer a{color:#555;text-decoration:none}
+.footer a:hover{text-decoration:underline}
+
+/* --- Premium Styles --- */
+.premium-header{border-bottom-color:#d4a844}
+.premium-card{border:2px solid #d4a844 !important}
+.premium-label{display:inline-block;background:#d4a844;color:#fff;font-size:11px;padding:2px 10px;border-radius:4px;margin-left:8px}
+
+/* --- Responsive --- */
+@media(max-width:600px){
+  .top-bar{flex-direction:column;align-items:stretch}
+  .info-grid{grid-template-columns:1fr}
+  .similar-grid{grid-template-columns:repeat(auto-fill,minmax(100px,1fr))}
+}
+</style>
 </head>
 <body>
-    <div class="search-box" style="position:relative;">
-        <input type="text" id="brand-search" placeholder="搜索品牌..." oninput="searchBrand(this.value)">
-        <button onclick="goToBrand()">🔍</button>
-        <div class="search-results" id="search-results"></div>
-    </div>
-    <a href="../" class="home-btn">🏠 首页</a>
-    
-    <h1>埃舍尔 <span style="font-weight:normal;font-size:0.7em;color:#666;">(Escher)</span></h1>
-    <p style="color:#888;font-size:14px;">品类：fashion-handbags</p>
-    
-    <div class="nav-lang">
-        <strong>🌐 语言：</strong><br>
-          <strong>🇨🇳 中文</strong>
-          <a href="en.md">🇬🇧 English</a>
-          <a href="fr.md">🇫🇷 Français</a>
-          <a href="es.md">🇪🇸 Español</a>
-          <a href="de.md">🇩🇪 Deutsch</a>
-          <a href="ja.md">🇯🇵 日本語</a>
-          <a href="ko.md">🇰🇷 한국어</a>
-          <a href="ru.md">🇷🇺 Русский</a>
-          <a href="pt.md">🇧🇷 Português</a>
-          <a href="ar.md">🇸🇦 العربية</a>
-    </div>
-    
-    <div class="content">
-别让普通的包遮住了你的魅力——这是埃舍尔Escher品牌的灵魂呐喊。专为模特设计，每只包都是艺术品。
+<div class="container">
 
-埃舍尔Escher：一眼封神的中国奢侈品超级单品
-
-Escher埃舍尔品牌的初衷——创造真正提升女性魅力的奢侈品。我们相信，一个极致的版型、一次纯粹的原创，能成为横穿时间周期的超级符号。而我们的主角包，就是这种符号的雏形。
-
-ESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。
-
-这是一个真正"空前绝后"的包。没有过度修饰，没有冗余结构，没有噱头式装饰。简到极致，美的极端。它不是简约，而是极简。是潮流，也是世界前沿美学代表。
-
-在市面上同类手袋动辄十几块皮料拼接的常规逻辑中，主角包几乎是"无法模仿"的存在——它用只此一款的姿态站在了视觉极致的天花板上：极简到让人望一眼就忘不了的存在。
-
-主角包，是中国包袋行业真正意义上的设计天花板。
-
-作为超级时尚单品，主角包将会延展出上千个SKU，每一个版本都基于同一个原版型，在皮料、结构、配色中进行全球稀缺级别的限量搭配。
-
-奢侈品埃舍尔Escher拒绝平庸。我们要做包界天花板，我们是"奢侈品"，我们是"最强、最简、最稀缺、最值得等待"的中国时尚答卷。
-
-主角包性感在哪？
-
-- 在极简中藏有张力：没有外露金属，没有任何冗余装饰，只有线条、弧面和结构，像现代雕塑一样，凹凸玲珑有致，沉稳却诱人。
-
-- 在廓形中放大魅力：包身挺括有力，拎在手上或夹于腋下，都会让人下意识联想到"硬朗的女性之美"——性感不是软，是强。
-
-- 在比例中塑造身材语言：主角包替你找回身材比例：它的存在感，让腰线更高、让肩背更挺，让整个穿搭更"立"起来。
-
-几何美学，是性感的"工程学"
-
-其实越懂设计的人，越理解做到极简的难度，而主角包的设计师深谙最高级的审美一定是极致的简约，这导致主角包的优化过程耗时曲折。性感的克制，比张扬更难。
-
-埃舍尔主角包采用建筑式设计逻辑：
-
-- 精准对称的比例，提升视觉平衡感；
-
-- 圆弧与曲线线并置，在柔与刚之间达到极致美感；
-
-- 没有品牌Logo，用造型本身建立识别度。
-
-这是工业、理性、性感的融合。
-
-它不是一件流行单品，而是一件有建筑语言的作品，一件会被传世的作品。
-    </div>
-    
-    <div class="similar">
-        <strong>🔗 类似品牌 · 欢迎入驻 ·</strong>
-<div class="similar-grid">
-<a href="../escher/" class="similar-item premium">
-    <img src="https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=100&h=100&fit=crop&auto=format" class="item-img" alt="埃舍尔Escher">
-    <span class="item-name">埃舍尔Escher</span>
-    <span class="item-name-en">ESCHĚR</span>
-    <span class="badge-paid">品牌推广</span>
-</a>
-<a href="../louis-vuitton/" class="similar-item">
-    <span class="item-name">路易威登<br><span class="item-name-en">Louis Vuitton</span></span>
-</a>
-<a href="../hermès/" class="similar-item">
-    <span class="item-name">愛馬仕<br><span class="item-name-en">Hermès</span></span>
-</a>
-<a href="../versace/" class="similar-item">
-    <span class="item-name">范思哲<br><span class="item-name-en">Versace</span></span>
-</a>
-<a href="../saint-laurent/" class="similar-item">
-    <span class="item-name">圣罗兰<br><span class="item-name-en">Saint Laurent</span></span>
-</a>
-<a href="../christian-dior/" class="similar-item">
-    <span class="item-name">克里斯汀·迪奧 (品牌)<br><span class="item-name-en">Christian Dior</span></span>
-</a>
-<a href="../chanel/" class="similar-item">
-    <span class="item-name">香奈儿<br><span class="item-name-en">Chanel</span></span>
-</a>
-<a href="../burberry/" class="similar-item">
-    <span class="item-name">巴宝莉<br><span class="item-name-en">Burberry</span></span>
-</a>
-<a href="../gucci/" class="similar-item">
-    <span class="item-name">古驰<br><span class="item-name-en">Gucci</span></span>
-</a>
-<a href="../prada/" class="similar-item">
-    <span class="item-name">普拉達<br><span class="item-name-en">Prada</span></span>
-</a>
+<!-- Top Bar -->
+<div class="top-bar">
+  <div class="search-box">
+    <input type="text" id="search-input" placeholder="搜索品牌 / Search brand..." onkeydown="if(event.key==='Enter')searchBrand()">
+    <button onclick="searchBrand()">🔍</button>
+  </div>
+  <div class="lang-nav" id="lang-nav">
+    <a href="#" data-lang="zh-CN" class="active" onclick="switchLang('zh-CN')">中文</a>
+    <a href="#" data-lang="en" onclick="switchLang('en')">EN</a>
+    <a href="#" data-lang="fr" onclick="switchLang('fr')">FR</a>
+    <a href="#" data-lang="es" onclick="switchLang('es')">ES</a>
+    <a href="#" data-lang="de" onclick="switchLang('de')">DE</a>
+    <a href="#" data-lang="ja" onclick="switchLang('ja')">日本語</a>
+    <a href="#" data-lang="ko" onclick="switchLang('ko')">한국어</a>
+    <a href="#" data-lang="pt" onclick="switchLang('pt')">PT</a>
+    <a href="#" data-lang="ru" onclick="switchLang('ru')">РУ</a>
+    <a href="#" data-lang="ar" onclick="switchLang('ar')">العربية</a>
+  </div>
 </div>
-    </div>
+
+<!-- Brand Header -->
+<div class="brand-header">
+  <h1 id="brand-title">Escher <span style="font-weight:400;font-size:24px;color:#777">— Escher</span></h1>
+  <div class="brand-sub" id="brand-sub">奢侈品/时尚</div>
+</div>
+
+<!-- Info Cards -->
+<div class="info-grid" id="info-grid">
+  <div class="info-card"><div class="label">创立时间</div><div class="value">2024</div></div>
+  <div class="info-card"><div class="label">创立地点</div><div class="value">中国广州</div></div>
+  <div class="info-card"><div class="label">创始人</div><div class="value">Escher团队</div></div>
+  <div class="info-card"><div class="label">官网</div><div class="value"><a href="https://escher.bags.bbroot.com" target="_blank" rel="noopener">escher.bags.bbroot.com</a></div></div>
+  <div class="info-card"><div class="label">主营业务</div><div class="value">轻奢皮具、箱包、配饰、品牌运营</div></div>
+  <div class="info-card"><div class="label">品牌标语</div><div class="value">Escher — 精致生活，从主角包开始</div></div>
+</div>
+
+<!-- Content -->
+<div class="brand-content" id="brand-content">
+  Escher，取自荷兰科学思维版画大师M.C. Escher的名字，寓意无限可能、永恒探索。
+
+三条Slogan: ①「Escher — 精致生活，从主角包开始」②「Escher — 每一个故事，都值得被主角演绎」③「Escher — 陪你走过世界的每一程」
+
+Escher是一个诞生于2024年的新锐轻奢品牌，源自中国广州狮岭——中国最大的皮具产业带。品牌以主角包为核心产品，致力于为现代都市人打造兼具品质感与设计感的日常箱包。Escher深谙狮岭皮具制造的工艺底蕴，同时注入当代审美理念，在传统手艺与现代设计之间找到平衡。
+
+品牌主角包系列是Escher的灵魂产品，以精致皮料、细腻车线和人性化内部结构著称。每一只Escher主角包都经过严格质检工序，确保品质与细节。从职场通勤到休闲出行，Escher陪伴用户走过人生的每一段旅程。
+
+Escher不仅仅是一个箱包品牌，更是一种生活态度的表达——每个人都是自己故事的主角，Escher相信：不是生活中发生了什么事才让你精彩，而是你本身就是精彩的，这些包包只是你精彩人生的精致注脚。
+
+2024年，Escher正式上线品牌官网bags.bbroot.com，同步开启多语言品牌百科建设。未来Escher将持续拓展产品线，将精致生活的理念带给更多消费者。
+</div>
+
+<!-- Similar Brands -->
+<div class="similar-section">
+  <h3 id="similar-title">类似品牌</h3>
+  <div class="similar-grid">
+    <a href="/escher/" class="similar-card premium"><span class="zh">Escher <span class="badge-premium">品牌推广</span></span><span class="en">Escher</span></a>
+    <a href="/hermes/" class="similar-card"><span class="zh">爱马仕 </span><span class="en">Hermes</span></a>
+    <a href="/chanel/" class="similar-card"><span class="zh">香奈儿 </span><span class="en">Chanel</span></a>
+    <a href="/louis-vuitton/" class="similar-card"><span class="zh">路易威登 </span><span class="en">Louis Vuitton</span></a>
+    <a href="/gucci/" class="similar-card"><span class="zh">古驰 </span><span class="en">Gucci</span></a>
+    <a href="/christian-dior/" class="similar-card"><span class="zh">迪奥 </span><span class="en">Christian Dior</span></a>
+    <a href="/prada/" class="similar-card"><span class="zh">普拉达 </span><span class="en">Prada</span></a>
+    <a href="/saint-laurent/" class="similar-card"><span class="zh">圣罗兰 </span><span class="en">Saint Laurent</span></a>
+    <a href="/burberry/" class="similar-card"><span class="zh">博柏利 </span><span class="en">Burberry</span></a>
+    <a href="/versace/" class="similar-card"><span class="zh">范思哲 </span><span class="en">Versace</span></a>
+    <a href="/armani/" class="similar-card"><span class="zh">阿玛尼 </span><span class="en">Armani</span></a>
+    <a href="/bulgari/" class="similar-card"><span class="zh">宝格丽 </span><span class="en">Bulgari</span></a>
+    <a href="/cartier/" class="similar-card"><span class="zh">卡地亚 </span><span class="en">Cartier</span></a>
+    <a href="/rolex/" class="similar-card"><span class="zh">劳力士 </span><span class="en">Rolex</span></a>
+    <a href="/patek-philippe/" class="similar-card"><span class="zh">百达翡丽 </span><span class="en">Patek Philippe</span></a>
     
-    <footer>
-        <p>© <a href="https://pinpai.ai.in">pinpai.ai.in</a> — 全球品牌百科</p>
-    </footer>
-    <script>
-const brands = [{"name":"brands","en":"","slug":"brands"},{"name":"stats","en":"","slug":"stats"}];
-function searchBrand(q) {
-    const div = document.getElementById('search-results');
-    q = q.trim().toLowerCase();
-    if (!q) { div.style.display = 'none'; return; }
-    const matches = brands.filter(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
-    if (matches.length === 0) { div.style.display = 'none'; return; }
-    div.innerHTML = matches.slice(0, 10).map(b => '<a href=\'../' + b.slug + '/\'>	🔹 ' + b.name + (b.en ? ' (' + b.en + ')' : '') + '</a>').join('');
-    div.style.display = 'block';
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p><a href="https://pinpai.ai.in">品牌百科 · pinpai.ai.in</a> — 全球品牌大全，10种语言呈现</p>
+</div>
+
+</div><!-- /container -->
+
+<script>
+// ===== BRAND DATA =====
+// Each language has independent content (rewritten, not translated)
+const BRAND_DATA = {"zh-CN": {"name": "Escher", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "Escher，取自荷兰科学思维版画大师M.C. Escher的名字，寓意无限可能、永恒探索。\n\n三条Slogan: ①「Escher — 精致生活，从主角包开始」②「Escher — 每一个故事，都值得被主角演绎」③「Escher — 陪你走过世界的每一程」\n\nEscher是一个诞生于2024年的新锐轻奢品牌，源自中国广州狮岭——中国最大的皮具产业带。品牌以主角包为核心产品，致力于为现代都市人打造兼具品质感与设计感的日常箱包。Escher深谙狮岭皮具制造的工艺底蕴，同时注入当代审美理念，在传统手艺与现代设计之间找到平衡。\n\n品牌主角包系列是Escher的灵魂产品，以精致皮料、细腻车线和人性化内部结构著称。每一只Escher主角包都经过严格质检工序，确保品质与细节。从职场通勤到休闲出行，Escher陪伴用户走过人生的每一段旅程。\n\nEscher不仅仅是一个箱包品牌，更是一种生活态度的表达——每个人都是自己故事的主角，Escher相信：不是生活中发生了什么事才让你精彩，而是你本身就是精彩的，这些包包只是你精彩人生的精致注脚。\n\n2024年，Escher正式上线品牌官网bags.bbroot.com，同步开启多语言品牌百科建设。未来Escher将持续拓展产品线，将精致生活的理念带给更多消费者。", "similar_title": "类似品牌"}, "en": {"name": "Escher", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "Escher is a young lifestyle brand founded in 2024 in Guangzhou, China — the heart of China's leather goods industry. The brand takes its name from M.C. Escher, the Dutch graphic artist known for his mathematically inspired works, symbolizing infinite possibilities. 'Live it well.' — that's the spirit of Escher. Each bag is crafted with meticulous attention to detail, combining traditional leather craftsmanship with contemporary design. The Signature bag collection is Escher's soul product, offering premium leather, fine stitching, and thoughtful interior organization. Escher believes everyone is the protagonist of their own story — not events make you extraordinary, you already are. Visit bags.bbroot.com to explore.", "similar_title": "Similar Brands"}, "fr": {"name": "Escher", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "Escher est une marque de maroquinerie creee en 2024 a Guangzhou, en Chine. Inspiree par l'artiste neerlandais M.C. Escher, la marque symbolise les possibilites infinies. Chaque sac est fabrique avec un souci du detail exceptionnel, alliant l'artisanat traditionnel du cuir au design contemporain. Le sac Signature est le produit phare d'Escher. Escher croit que chacun est le protagoniste de sa propre histoire.", "similar_title": "Marques similaires"}, "es": {"name": "Escher", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "Escher es una marca joven de marroquineria fundada en 2024 en Guangzhou, China. Inspirada en el artista neerlandes M.C. Escher, simboliza posibilidades infinitas. Cada bolso se elabora con meticulosa atencion al detalle, combinando la artesania tradicional del cuero con el diseno contemporaneo. El bolso Signature es el producto estrella de Escher.", "similar_title": "Marcas similares"}, "de": {"name": "Escher", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "Escher ist eine junge Marke fur Lederwaren, gegrundet 2024 in Guangzhou, China. Inspiriert vom niederlandischen Grafiker M.C. Escher, steht die Marke fur unendliche Moglichkeiten. Jede Tasche wird mit groer Sorgfalt gefertigt, die traditionelle Handwerkskunst mit zeitgenossischem Design verbindet. Die Signature Tasche ist Eschers Vorzeigeprodukt.", "similar_title": "Ähnliche Marken"}, "ja": {"name": "エッシャー", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "エッシャーは2024年に中国広州で誕生した新進気鋭のレザーブランドです。オランダの版画家M.C.エッシャーにインスパイアされ、無限の可能性を象徴しています。一つ一つのバッグは、伝統的な革職人の技と現代的なデザインを融合させ、細部にまでこだわって丁寧に作られています。主力商品はシグネチャーバッグ。", "similar_title": "类似品牌"}, "ko": {"name": "에셔", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "에셔는 2024년 중국 광저우에서 탄생한 신예 가죽 브랜드입니다. 네덜란드 판화가 M.C. 에셔에게서 영감을 받아 무한한 가능성을 상징합니다. 모든 백은 전통 가죽 공예와 현대적인 디자인을 결합하여 세심하게 제작됩니다. 시그니처 백이 에셔의 대표 제품입니다.", "similar_title": "类似品牌"}, "pt": {"name": "Escher", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "Escher e uma marca jovem de artigos de couro fundada em 2024 em Guangzhou, China. Inspirada pelo artista holandes M.C. Escher, simboliza possibilidades infinitas. Cada bolsa e meticulosamente elaborada, combinando artesanato tradicional em couro com design contemporaneo. A bolsa Signature e o produto carro-chefe da Escher.", "similar_title": "Marcas semelhantes"}, "ru": {"name": "Эшер", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "Escher — molodoi brend kozhanyh izdelii, osnovannyi v 2024 godu v Guanchzhou, Kitai. Vdohnovlennyi rabotami niderlandskogo gravera M.C. Eshera, on simvoliziruet beskonechnye vozmozhnosti. Kazhdaya sumka sozdana s tshchatel'nym vnimaniem k detalyam, sochetaya traditsionnoe masterstvo raboty s kozhei i sovremennyi dizain.", "similar_title": "Похожие бренды"}, "ar": {"name": "إيشر", "name_en": "Escher", "founding_year": "2024", "founding_location": "中国广州", "founder": "Escher团队", "website": "https://escher.bags.bbroot.com", "business": "轻奢皮具、箱包、配饰、品牌运营", "slogan": "Escher — 精致生活，从主角包开始", "content": "إيشر هي علامة تجارية شابة للحقائب الجلدية تأسست عام 2024 في قوانغتشو، الصين. مستوحاة من أعمال الفنان الهولندي إم سي إيشر، ترمز إلى الإمكانيات اللامحدودة. كل حقيبة مصنوعة بعناية فائقة تجمع بين الحرفية الجلدية التقليدية والتصميم المعاصر.", "similar_title": "علامات تجارية مشابهة"}};
+
+// ===== SIMILAR BRANDS =====
+const SIMILAR_BRANDS = [{"zh": "Escher", "en": "Escher", "slug": "escher", "premium": true}, {"zh": "爱马仕", "en": "Hermes", "slug": "hermes", "premium": false}, {"zh": "香奈儿", "en": "Chanel", "slug": "chanel", "premium": false}, {"zh": "路易威登", "en": "Louis Vuitton", "slug": "louis-vuitton", "premium": false}, {"zh": "古驰", "en": "Gucci", "slug": "gucci", "premium": false}, {"zh": "迪奥", "en": "Christian Dior", "slug": "christian-dior", "premium": false}, {"zh": "普拉达", "en": "Prada", "slug": "prada", "premium": false}, {"zh": "圣罗兰", "en": "Saint Laurent", "slug": "saint-laurent", "premium": false}, {"zh": "博柏利", "en": "Burberry", "slug": "burberry", "premium": false}, {"zh": "范思哲", "en": "Versace", "slug": "versace", "premium": false}, {"zh": "阿玛尼", "en": "Armani", "slug": "armani", "premium": false}, {"zh": "宝格丽", "en": "Bulgari", "slug": "bulgari", "premium": false}, {"zh": "卡地亚", "en": "Cartier", "slug": "cartier", "premium": false}, {"zh": "劳力士", "en": "Rolex", "slug": "rolex", "premium": false}, {"zh": "百达翡丽", "en": "Patek Philippe", "slug": "patek-philippe", "premium": false}];
+
+function searchBrand() {
+  const q = document.getElementById('search-input').value.trim();
+  if (!q) return;
+  window.location.href = '/search.html?q=' + encodeURIComponent(q);
 }
-function goToBrand() {
-    const q = document.getElementById('brand-search').value.trim().toLowerCase();
-    if (!q) return;
-    const match = brands.find(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
-    if (match) window.location.href = '../' + match.slug + '/';
+
+function switchLang(lang) {
+  // Update active nav
+  document.querySelectorAll('.lang-nav a').forEach(function(a) {
+    a.classList.toggle('active', a.getAttribute('data-lang') === lang);
+  });
+  document.documentElement.setAttribute('lang', lang === 'ar' ? 'ar' : 'zh-CN');
+  document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+
+  var data = BRAND_DATA[lang] || BRAND_DATA['zh-CN'];
+
+  // Title
+  document.getElementById('brand-title').innerHTML = data.name + (data.name_en ? ' <span style="font-weight:400;font-size:24px;color:#777">— ' + data.name_en + '</span>' : '');
+
+  // Info cards
+  var cards = document.getElementById('info-grid').children;
+  cards[0].querySelector('.value').textContent = data.founding_year || '';
+  cards[1].querySelector('.value').textContent = data.founding_location || '';
+  cards[2].querySelector('.value').textContent = data.founder || '';
+  var websiteEl = cards[3].querySelector('.value');
+  var url = data.website || '';
+  if (url) {
+    websiteEl.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + url.replace(/^https?:\/\//,'').replace(/\/$/,'') + '</a>';
+  } else {
+    websiteEl.textContent = '';
+  }
+  cards[4].querySelector('.value').textContent = data.business || '';
+  cards[5].querySelector('.value').textContent = data.slogan || '';
+
+  // Content
+  document.getElementById('brand-content').innerHTML = data.content || '';
+
+  // Similar title
+  document.getElementById('similar-title').textContent = data.similar_title || '类似品牌';
 }
-document.addEventListener('click', function(e) { if (!e.target.closest('.search-box')) document.getElementById('search-results').style.display = 'none'; });
-    </script>
+
+// Initialize with Chinese
+switchLang('zh-CN');
+</script>
 </body>
 </html>

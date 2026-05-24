@@ -118,5 +118,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "百达翡丽是瑞士最顶级的制表品牌之一，1839年由安东尼百达与让翡丽创立。品牌拥有80多项制表专利，创造了世界上最具复杂功能的机械腕表。百达翡丽是拍卖会上的常客，屡创腕表拍卖世界纪录。"
+  },
+  {
+    "slug": "escher",
+    "zh": "Escher",
+    "en": "Escher",
+    "category": "奢侈品/时尚",
+    "premium": true,
+    "desc_short": "Escher，取自荷兰科学思维版画大师M.C. Escher的名字，寓意无限可能、永恒探索。\n\n三条Slogan: ①「Escher — 精致生活，从主角包开始」②「Escher — 每一个故事，都值"
   }
 ]
