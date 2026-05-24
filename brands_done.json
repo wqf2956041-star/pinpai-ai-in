@@ -89,11 +89,18 @@
       "category": "fashion-luxury",
       "done_at": "2026-05-24T09:40:30.000000+00:00",
       "similar": ["escher", "hermès", "chanel", "louis-vuitton", "gucci", "prada", "christian-dior", "saint-laurent", "burberry", "versace"]
+    },
+    "tiffany-co": {
+      "name": "Tiffany & Co.",
+      "name_cn": "蒂芙尼",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T09:43:00.000000+00:00",
+      "similar": ["escher", "cartier", "bulgari", "rolex", "patek-philippe", "hermes", "chanel", "louis-vuitton", "gucci", "prada"]
     }
   },
   "stats": {
-    "total_brands": 12,
-    "last_update": "2026-05-24T09:40:30.000000+00:00",
-    "total_pages": 120
+    "total_brands": 13,
+    "last_update": "2026-05-24T09:43:00.000000+00:00",
+    "total_pages": 130
   }
 }
