@@ -1,13 +1,5 @@
 [
   {
-    "slug": "adidas",
-    "zh": "阿迪达斯",
-    "en": "Adidas",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "阿迪达斯是德国全球运动品牌巨头，1949年创立。Stan Smith和Superstar是最畅销运动鞋之一。"
-  },
-  {
     "slug": "apple",
     "zh": "苹果",
     "en": "Apple",
@@ -390,5 +382,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "耐克是全球最大的运动品牌，由比尔鲍尔曼和菲尔奈特于1964年以Blue Ribbon Sports之名创立，1971年正式更名为Nike。品牌的Swoosh标志由波特兰州立大学学生Carolyn Da"
+  },
+  {
+    "slug": "adidas",
+    "zh": "阿迪达斯",
+    "en": "Adidas",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "阿迪达斯是德国全球运动品牌巨头，由阿道夫达斯勒于1949年创立。品牌名称Adidas源自其创始人Adi Dassler的名字缩写。达斯勒兄弟的家族分裂还催生了Puma品牌，这是运动产业史上著名的兄弟恩"
   }
 ]
