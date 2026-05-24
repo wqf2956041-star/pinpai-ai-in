@@ -350,5 +350,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Supreme是1994年创立的美国街头服装品牌，以红底白字的Box Logo为标志。每周四的Drop发售模式和限量策略使其成为最具价值的街头品牌之一。"
+  },
+  {
+    "slug": "off-white",
+    "zh": "Off-White",
+    "en": "Off-White",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Off-White是2012年由Virgil Abloh创立的意大利街头时尚品牌。标志性斜杠、箭头和工业腰带是千禧一代最热门的时尚元素。"
   }
 ]

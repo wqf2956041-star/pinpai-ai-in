@@ -1,0 +1,112 @@
+{
+  "slug": "off-white",
+  "names": {
+    "zh-CN": "Off-White",
+    "en": "Off-White"
+  },
+  "founding_year": 2012,
+  "founding_location": "意大利米兰",
+  "founder": "Virgil Abloh",
+  "official_website": "https://www.off---white.com",
+  "main_business": [
+    "时装",
+    "配饰",
+    "鞋履",
+    "家居"
+  ],
+  "current_slogan": "Off-White c/o Virgil Abloh",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Off-White箭头标志卫衣"
+    },
+    {
+      "name": "Off-White Industrial Belt"
+    },
+    {
+      "name": "Off-White x Nike联名鞋"
+    },
+    {
+      "name": "Off-White斜杠图案系列"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 2012,
+      "event": "创立"
+    },
+    {
+      "year": 2017,
+      "event": "与Nike联名The Ten系列轰动"
+    },
+    {
+      "year": 2018,
+      "event": "Virgil Abloh出任Louis Vuitton男装总监"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Off-White是2012年由Virgil Abloh创立的意大利街头时尚品牌。标志性斜杠、箭头和工业腰带是千禧一代最热门的时尚元素。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
