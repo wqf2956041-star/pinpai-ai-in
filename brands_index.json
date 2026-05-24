@@ -1,13 +1,5 @@
 [
   {
-    "slug": "timberland",
-    "zh": "Timberland",
-    "en": "Timberland",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "Timberland是1952年创立的美国户外鞋履品牌，标志性大黄靴是经典工装靴代表，从登山装备变为嘻哈时尚标志。"
-  },
-  {
     "slug": "coach",
     "zh": "蔻驰",
     "en": "Coach",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "UGG是1978年创立的美国鞋履品牌，以羊皮雪地靴闻名全球。创始人Brian Smith将澳大利亚牧羊人穿着的UGG Boots引入美国，最初在加州冲浪圈流行。2003年被Deckers Outdoo"
+  },
+  {
+    "slug": "timberland",
+    "zh": "Timberland",
+    "en": "Timberland",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Timberland是1952年创立的美国户外鞋履品牌，以标志性大黄靴闻名。1973年推出的6寸防水靴（10061经典款）是品牌最具辨识度的产品，也是工装时尚的终极符号。\n\nTimberland大黄靴"
   }
 ]
