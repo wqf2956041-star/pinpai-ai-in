@@ -1,13 +1,5 @@
 [
   {
-    "slug": "puma",
-    "zh": "彪马",
-    "en": "Puma",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "彪马是1948年创立的德国运动品牌，由阿道夫达斯勒的弟弟鲁道夫达斯勒创立。达斯勒兄弟的家族分裂导致阿道夫创立Adidas（来自他的名字Adi Dassler）、鲁道夫创立Puma。这是运动品牌史上最著"
-  },
-  {
     "slug": "converse",
     "zh": "匡威",
     "en": "Converse",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "泰格豪雅是1860年创立的瑞士腕表品牌，以运动计时和赛车主宰著称。创始人Edouard Heuer在22岁就发明了第一个计时器。品牌始终与赛车运动保持最紧密的联系。\n\nHeuer Monaco在196"
+  },
+  {
+    "slug": "puma",
+    "zh": "彪马",
+    "en": "Puma",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "彪马是1948年创立的德国运动品牌，由阿道夫达斯勒的弟弟鲁道夫达斯勒创立。达斯勒兄弟的家族分裂导致阿道夫创立Adidas（来自他的名字Adi Dassler）、鲁道夫创立Puma。这是运动品牌史上最著"
   }
 ]
