@@ -1,0 +1,101 @@
+{
+  "slug": "pepsi",
+  "names": {
+    "zh-CN": "百事",
+    "en": "Pepsi"
+  },
+  "founding_year": 1898,
+  "founding_location": "美国北卡罗来纳",
+  "founder": "Caleb Bradham",
+  "official_website": "https://www.pepsi.com",
+  "main_business": [
+    "碳酸饮料",
+    "零食",
+    "果汁"
+  ],
+  "current_slogan": "Live For Now",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "百事可乐"
+    },
+    {
+      "name": "乐事薯片"
+    },
+    {
+      "name": "佳得乐"
+    },
+    {
+      "name": "七喜"
+    },
+    {
+      "name": "激浪"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1898,
+      "event": "发明百事可乐"
+    },
+    {
+      "year": 1965,
+      "event": "与菲多利合并为百事公司"
+    },
+    {
+      "year": 2000,
+      "event": "与百事可乐装瓶合并"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "百事公司是可口可乐在全球最大的竞争对手，1898年由药剂师Caleb Bradham发明。百事品牌以年轻活力的形象定位区别于可口可乐的经典传统。1965年与菲多利合并后，百事公司旗下还拥有了乐事薯片、佳得乐运动饮料、桂格麦片等食品巨头。百事可乐在营销上以流行文化明星和大规模尝试验活动著称。全球年营收超过860亿美元。",
+  "languages": {
+    "en": "百事公司是可口可乐在全球最大 竞争对手, 1898年由药剂师Caleb Bradham发明. 百事品牌以年轻活力 形象定位区别于可口可乐 经典传统. 1965年 and 菲多利合并后, 百事公司旗下还拥有了乐事薯片, 佳得乐运动饮料, 桂格麦片等食品巨头. 百事可乐在营销上以流行文化明星 and 大规模尝试验活动著称. 全球年营收超过860亿美元. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "雀巢",
+      "en": "Nestlé",
+      "slug": "nestle",
+      "premium": false
+    },
+    {
+      "zh": "星巴克",
+      "en": "Starbucks",
+      "slug": "starbucks",
+      "premium": false
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds",
+      "premium": false
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
