@@ -1,0 +1,102 @@
+{
+  "slug": "coca-cola",
+  "names": {
+    "zh-CN": "可口可乐",
+    "en": "Coca-Cola"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1886,
+  "founding_location": "美国亚特兰大",
+  "founder": "约翰·彭伯顿",
+  "official_website": "https://www.coca-cola.com",
+  "main_business": [
+    "碳酸饮料",
+    "果汁",
+    "茶",
+    "水"
+  ],
+  "current_slogan": "Open Happiness",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Coca-Cola经典"
+    },
+    {
+      "name": "Sprite雪碧"
+    },
+    {
+      "name": "Fanta芬达"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1886,
+      "event": "创立"
+    },
+    {
+      "year": 1915,
+      "event": "标志性弧形瓶"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "可口可乐是全球最具价值饮料品牌，1886年配制。弧形瓶和圣诞老人形象已成为全球文化符号。",
+  "languages": {
+    "en": "Coca-Cola is the world's most valuable beverage brand."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    }
+  ]
+}

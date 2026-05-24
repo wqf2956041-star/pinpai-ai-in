@@ -214,5 +214,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "宝马是德国豪华汽车制造商，以纯粹驾驶乐趣闻名。3系是全球最成功豪华运动轿车。"
+  },
+  {
+    "slug": "coca-cola",
+    "zh": "可口可乐",
+    "en": "Coca-Cola",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "可口可乐是全球最具价值饮料品牌，1886年配制。弧形瓶和圣诞老人形象已成为全球文化符号。"
   }
 ]
