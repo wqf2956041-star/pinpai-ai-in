@@ -278,5 +278,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Tory Burch是2004年由设计师Tory Burch创立的美国时尚品牌。标志性双T标志和Reva芭蕾平底鞋是其品牌符号，以优雅美式风格著称。"
+  },
+  {
+    "slug": "van-cleef-arpels",
+    "zh": "梵克雅宝",
+    "en": "Van Cleef & Arpels",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "梵克雅宝是1906年创立的法国顶级珠宝品牌。Alhambra四叶草系列是最标志性的珠宝设计之一，以幸运四叶草为主题成为身份象征。"
   }
 ]

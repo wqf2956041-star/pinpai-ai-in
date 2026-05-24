@@ -1,0 +1,107 @@
+{
+  "slug": "van-cleef-arpels",
+  "names": {
+    "zh-CN": "梵克雅宝",
+    "en": "Van Cleef & Arpels"
+  },
+  "founding_year": 1906,
+  "founding_location": "法国巴黎",
+  "founder": "Alfred Van Cleef与Salomon Arpels",
+  "official_website": "https://www.vancleefarpels.com",
+  "main_business": [
+    "珠宝",
+    "腕表",
+    "高级珠宝"
+  ],
+  "current_slogan": "Time as the Couturier",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Alhambra四叶草系列"
+    },
+    {
+      "name": "Van Cleef & Arpels诗意系列"
+    },
+    {
+      "name": "Perlee系列"
+    },
+    {
+      "name": "情人桥系列腕表"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1906,
+      "event": "创立巴黎第一间店"
+    },
+    {
+      "year": 1968,
+      "event": "Alhambra四叶草系列问世"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "梵克雅宝是1906年创立的法国顶级珠宝品牌。Alhambra四叶草系列是最标志性的珠宝设计之一，以幸运四叶草为主题成为身份象征。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
