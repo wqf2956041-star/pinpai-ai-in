@@ -1,13 +1,5 @@
 [
   {
-    "slug": "mac",
-    "zh": "MAC",
-    "en": "M.A.C",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "MAC是1984年创立的加拿大专业彩妆品牌。Ruby Woo唇膏是史上最畅销口红之一。以丰富色彩选择和Viva Glam慈善系列闻名。"
-  },
-  {
     "slug": "clinique",
     "zh": "倩碧",
     "en": "Clinique",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Off-White是2012年由已故设计师Virgil Abloh在米兰创立的意大利高端街头品牌。Virgil Abloh是Kanye West的创意总监出身，2018年成为Louis Vuitton"
+  },
+  {
+    "slug": "mac",
+    "zh": "MAC",
+    "en": "M.A.C",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "M.A.C是1984年创立的加拿大专业彩妆品牌，由专业彩妆师Frank Toskan和摄影师Frank Angelo创立。M.A.C最初为专业模特和彩妆师设计产品，以超高的色彩饱和度和丰富的色号选择著"
   }
 ]

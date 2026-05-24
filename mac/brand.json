@@ -48,8 +48,10 @@
   ],
   "philanthropy": [],
   "exhibitions": [],
-  "description_zh": "MAC是1984年创立的加拿大专业彩妆品牌。Ruby Woo唇膏是史上最畅销口红之一。以丰富色彩选择和Viva Glam慈善系列闻名。",
-  "languages": {},
+  "description_zh": "M.A.C是1984年创立的加拿大专业彩妆品牌，由专业彩妆师Frank Toskan和摄影师Frank Angelo创立。M.A.C最初为专业模特和彩妆师设计产品，以超高的色彩饱和度和丰富的色号选择著称。\n\nRuby Woo唇膏是MAC有史以来最畅销的口红，也是全球彩妆史上最著名的正红色之一。品牌每年推出大量限量系列和联名合作，包括与迪士尼、古驰、Puma等品牌的跨界创作。\n\n1994年推出的Viva Glam唇膏慈善系列全部收益捐赠给HIV/AIDS慈善机构，是化妆品行业最成功的慈善项目之一。品牌的口号是All Ages, All Races, All Genders。\n\n1998年MAC被雅诗兰黛集团收购。品牌在全球设有超过500家独立门店和数千个专柜。MAC的刷具系列和粉底产品也是行业标杆。品牌代表专业彩妆师文化和对创意个性的极致尊重。",
+  "languages": {
+    "en": "M.A.C是1984年创立 加拿大专业彩妆品牌，由专业彩妆师Frank Toskan and 摄影师Frank Angelo创立。M.A.C最初为专业模特 and 彩妆师设计产品，以超高 色彩饱 and 度 and 丰富 色号选择著称。 Ruby Woo唇膏是MAC有史以来最畅销 口红，也是全球彩妆史上最著名 正红色之一。品牌每年推出大量限量系列 and 联名合作，包括 and 迪士尼, 古驰, Puma等品牌 跨界创作。"
+  },
   "is_premium": false,
   "image_url": "",
   "similar_brands": [
