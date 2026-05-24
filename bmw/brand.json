@@ -1,0 +1,103 @@
+{
+  "slug": "bmw",
+  "names": {
+    "zh-CN": "宝马",
+    "en": "BMW"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1916,
+  "founding_location": "德国慕尼黑",
+  "founder": "古斯塔夫·奥托等",
+  "official_website": "https://www.bmw.com",
+  "main_business": [
+    "豪华汽车",
+    "摩托车",
+    "电动车"
+  ],
+  "current_slogan": "Sheer Driving Pleasure",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "BMW 3系"
+    },
+    {
+      "name": "BMW 5系"
+    },
+    {
+      "name": "BMW 7系"
+    },
+    {
+      "name": "BMW X5"
+    },
+    {
+      "name": "BMW M3"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1916,
+      "event": "创立"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "宝马是德国豪华汽车制造商，以纯粹驾驶乐趣闻名。3系是全球最成功豪华运动轿车。",
+  "languages": {
+    "en": "BMW is a German luxury automaker known for driving pleasure."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    }
+  ]
+}
