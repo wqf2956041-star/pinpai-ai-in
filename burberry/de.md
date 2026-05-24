@@ -1,4 +1,4 @@
-# 古驰 (Gucci) — general
+# 巴宝莉 (Burberry) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Burberry Group plc ist ein britisches Luxusmodehaus, das 1856 von Thomas Burberr
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [香奈儿 Chanel](../chanel/)
 - [愛馬仕 Hermès](../hermès/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [范思哲 Versace](../versace/)
 - [亞曼尼 Armani](../armani/)
-- [普拉達 Prada](../prada/)
+- [范思哲 Versace](../versace/)
 - [巴宝莉 Burberry](../burberry/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [古驰 Gucci](../gucci/)
 
 ---
 

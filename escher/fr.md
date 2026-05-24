@@ -1,4 +1,4 @@
-# 埃舍尔Escher — fashion-handbags
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-handbags
 
 ## 品牌介绍
 
@@ -26,14 +26,14 @@ Escher refuse la médiocrité. Nous sommes le luxe. La réponse chinoise à la h
 
 - [埃舍尔Escher](../escher/)
 - [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
 - [普拉達 Prada](../prada/)
-- [愛馬仕 Hermès](../hermès/)
-- [范思哲 Versace](../versace/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [亞曼尼 Armani](../armani/)
 - [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

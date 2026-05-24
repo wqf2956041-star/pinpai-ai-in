@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — general
+# 普拉達 (Prada) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Burberry Group plc هي دار أزياء بريطانية فاخرة تأسست
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [亞曼尼 Armani](../armani/)
-- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
-- [巴宝莉 Burberry](../burberry/)
+- [亞曼尼 Armani](../armani/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
 - [香奈儿 Chanel](../chanel/)
+- [古驰 Gucci](../gucci/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
 - [普拉達 Prada](../prada/)
-- [范思哲 Versace](../versace/)
 
 ---
 

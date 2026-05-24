@@ -1,4 +1,4 @@
-# 克里斯汀·迪奧 (品牌) (Christian Dior) — general
+# 普拉達 (Prada) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [普拉達 Prada](../prada/)
-- [亞曼尼 Armani](../armani/)
-- [古驰 Gucci](../gucci/)
 - [愛馬仕 Hermès](../hermès/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [范思哲 Versace](../versace/)
 - [香奈儿 Chanel](../chanel/)
 - [巴宝莉 Burberry](../burberry/)
-- [范思哲 Versace](../versace/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [亞曼尼 Armani](../armani/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [普拉達 Prada](../prada/)
 
 ---
 

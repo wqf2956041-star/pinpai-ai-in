@@ -1,4 +1,4 @@
-# 巴宝莉 (Burberry) — fashion-luxury
+# 圣罗兰 (Saint Laurent) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Chanel (French: Chanel, pronounced: [ʃanɛl]) is a top luxury goods company fou
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [普拉達 Prada](../prada/)
-- [亞曼尼 Armani](../armani/)
-- [古驰 Gucci](../gucci/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [范思哲 Versace](../versace/)
 - [香奈儿 Chanel](../chanel/)
 - [巴宝莉 Burberry](../burberry/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [范思哲 Versace](../versace/)
+- [亞曼尼 Armani](../armani/)
+- [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

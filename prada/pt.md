@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — fashion-luxury
+# 香奈儿 (Chanel) — fashion-luxury
 
 ## 品牌介绍
 
@@ -16,14 +16,14 @@ Prada (italiano: Prada, Bolsa de Valores de Hong Kong: 1913) é uma das marcas i
 
 - [埃舍尔Escher](../escher/)
 - [普拉達 Prada](../prada/)
-- [亞曼尼 Armani](../armani/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [古驰 Gucci](../gucci/)
 - [巴宝莉 Burberry](../burberry/)
-- [香奈儿 Chanel](../chanel/)
+- [古驰 Gucci](../gucci/)
 - [范思哲 Versace](../versace/)
+- [亞曼尼 Armani](../armani/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

@@ -15,14 +15,14 @@ Louis Vuitton (französisch: Louis Vuitton, ausgesprochen: [lwi vɥitɔə], meis
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [古驰 Gucci](../gucci/)
-- [香奈儿 Chanel](../chanel/)
-- [范思哲 Versace](../versace/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [普拉達 Prada](../prada/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [愛馬仕 Hermès](../hermès/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [范思哲 Versace](../versace/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [亞曼尼 Armani](../armani/)
 - [巴宝莉 Burberry](../burberry/)
 
 ---

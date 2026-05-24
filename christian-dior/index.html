@@ -12,8 +12,15 @@
         .nav-lang a { color: #0366d6; text-decoration: none; }
         .nav-lang a:hover { text-decoration: underline; }
         .similar { background: #fafafa; padding: 15px; border-radius: 8px; margin: 20px 0; }
-        .similar a { color: #0366d6; text-decoration: none; display: inline-block; margin: 4px 8px; }
-        .similar a:hover { text-decoration: underline; }
+        .similar-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; margin-top: 10px; }
+        .similar-item { display: block; padding: 12px 10px; background: #fff; border: 1px solid #eee; border-radius: 8px; text-align: center; text-decoration: none; color: #333; font-size: 13px; transition: all 0.2s; }
+        .similar-item:hover { border-color: #0366d6; color: #0366d6; }
+        .similar-item .item-name { display: block; font-weight: 500; }
+        .similar-item .item-name-en { display: block; font-size: 11px; color: #999; margin-top: 2px; }
+        .similar-item.premium { border-color: #c9a84c; background: linear-gradient(135deg, #fffbe6, #fff); }
+        .similar-item.premium .item-img { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; margin: 0 auto 6px; display: block; border: 2px solid rgba(201,168,76,0.2); }
+        .similar-item.premium .item-name { color: #c9a84c; }
+        .similar-item.premium .badge-paid { display: inline-block; font-size: 10px; padding: 2px 8px; background: rgba(201,168,76,0.12); border-radius: 10px; color: #c9a84c; margin-top: 3px; }
         .home-btn { display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }
         .home-btn:hover { background: #0256b6; }
         footer { margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }
@@ -44,17 +51,42 @@
     </div>
     
     <div class="similar">
-        <strong>🔗 类似品牌：</strong><br>
-          · <a href="../escher/">埃舍尔Escher ESCHĚR</a>
-          · <a href="../burberry/">巴宝莉 Burberry</a>
-          · <a href="../prada/">普拉達 Prada</a>
-          · <a href="../gucci/">古驰 Gucci</a>
-          · <a href="../hermès/">愛馬仕 Hermès</a>
-          · <a href="../versace/">范思哲 Versace</a>
-          · <a href="../armani/">亞曼尼 Armani</a>
-          · <a href="../chanel/">香奈儿 Chanel</a>
-          · <a href="../saint-laurent/">圣罗兰 Saint Laurent</a>
-          · <a href="../louis-vuitton/">路易威登 Louis Vuitton</a>
+        <strong>🔗 类似品牌 · 欢迎付费入驻 ·</strong>
+<div class="similar-grid">
+<a href="../escher/" class="similar-item premium">
+    <img src="https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=100&h=100&fit=crop&auto=format" class="item-img" alt="埃舍尔Escher">
+    <span class="item-name">埃舍尔Escher</span>
+    <span class="item-name-en">ESCHĚR</span>
+    <span class="badge-paid">品牌推广</span>
+</a>
+<a href="../burberry/" class="similar-item">
+    <span class="item-name">巴宝莉<br><span class="item-name-en">Burberry</span></span>
+</a>
+<a href="../armani/" class="similar-item">
+    <span class="item-name">亞曼尼<br><span class="item-name-en">Armani</span></span>
+</a>
+<a href="../saint-laurent/" class="similar-item">
+    <span class="item-name">圣罗兰<br><span class="item-name-en">Saint Laurent</span></span>
+</a>
+<a href="../prada/" class="similar-item">
+    <span class="item-name">普拉達<br><span class="item-name-en">Prada</span></span>
+</a>
+<a href="../hermès/" class="similar-item">
+    <span class="item-name">愛馬仕<br><span class="item-name-en">Hermès</span></span>
+</a>
+<a href="../versace/" class="similar-item">
+    <span class="item-name">范思哲<br><span class="item-name-en">Versace</span></span>
+</a>
+<a href="../chanel/" class="similar-item">
+    <span class="item-name">香奈儿<br><span class="item-name-en">Chanel</span></span>
+</a>
+<a href="../louis-vuitton/" class="similar-item">
+    <span class="item-name">路易威登<br><span class="item-name-en">Louis Vuitton</span></span>
+</a>
+<a href="../gucci/" class="similar-item">
+    <span class="item-name">古驰<br><span class="item-name-en">Gucci</span></span>
+</a>
+</div>
     </div>
     
     <footer>

@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — fashion-luxury
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
 
 ## 品牌介绍
 
@@ -16,14 +16,14 @@ Chanel (französisch: Chanel, ausgesprochen: [ʃanɛl]) ist ein Top-Luxusgüteru
 
 - [埃舍尔Escher](../escher/)
 - [普拉達 Prada](../prada/)
-- [巴宝莉 Burberry](../burberry/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [范思哲 Versace](../versace/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
-- [亞曼尼 Armani](../armani/)
 - [香奈儿 Chanel](../chanel/)
+- [愛馬仕 Hermès](../hermès/)
+- [范思哲 Versace](../versace/)
+- [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
+- [亞曼尼 Armani](../armani/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

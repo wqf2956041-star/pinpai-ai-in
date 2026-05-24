@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — fashion-luxury
+# 古驰 (Gucci) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [巴宝莉 Burberry](../burberry/)
-- [亞曼尼 Armani](../armani/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [香奈儿 Chanel](../chanel/)
-- [普拉達 Prada](../prada/)
 - [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
 - [范思哲 Versace](../versace/)
+- [普拉達 Prada](../prada/)
+- [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
 
 ---
 

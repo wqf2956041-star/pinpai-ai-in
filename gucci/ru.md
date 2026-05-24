@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — general
+# 古驰 (Gucci) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gucci — бренд группы Kering. Она была основана в 19
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [香奈儿 Chanel](../chanel/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
 - [巴宝莉 Burberry](../burberry/)
+- [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
+- [香奈儿 Chanel](../chanel/)
 - [范思哲 Versace](../versace/)
+- [古驰 Gucci](../gucci/)
 
 ---
 

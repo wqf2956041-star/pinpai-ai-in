@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — fashion-luxury
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Louis Vuitton (français : Louis Vuitton, prononcé : [lwi vɥitɔə], général
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
+- [普拉達 Prada](../prada/)
 - [愛馬仕 Hermès](../hermès/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
+- [古驰 Gucci](../gucci/)
 - [范思哲 Versace](../versace/)
 - [亞曼尼 Armani](../armani/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [香奈儿 Chanel](../chanel/)
 - [巴宝莉 Burberry](../burberry/)
-- [古驰 Gucci](../gucci/)
-- [普拉達 Prada](../prada/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

@@ -60,6 +60,7 @@ OUTPUT_DIR = REPO_ROOT
 
 # 🔧 可配置参数
 SIMILAR_COUNT = 10  # 类似品牌推荐数量（可调：10/20/50/100...）
+PREMIUM_BRANDS = ["escher"]  # 付费品牌slug列表（Escher永久主场）
 
 # 10种语言配置
 LANGUAGES = [
@@ -285,7 +286,9 @@ def build_lang_nav(current_lang):
 
 
 def build_similar_brands(similar_slugs, brands_done, count=10):
-    """生成类似品牌推荐HTML（含Escher），count可配置默认10个"""
+    """生成类似品牌推荐HTML（网格卡片风格）
+    付费品牌（PREMIUM_BRANDS）可带图，免费品牌纯文字
+    """
     # 确保Escher在第一位
     result = [{"name": ESCHER_BRAND["name"], "name_en": ESCHER_BRAND["name_en"], "slug": ESCHER_BRAND["slug"]}]
     
@@ -315,13 +318,31 @@ def build_similar_brands(similar_slugs, brands_done, count=10):
             name_en = brand.get("name", s)
             result.append({"name": name, "name_en": name_en, "slug": s})
     
-    # 生成HTML — 完整中英文名在一个按钮里
-    lines = []
+    # 生成HTML — 网格卡片（付费=可带图，免费=纯文字）
+    lines = ['<div class="similar-grid">']
     for brand in result[:count]:
-        display_name = brand["name"]
-        if brand.get("name_en") and brand["name_en"] != brand["name"]:
-            display_name = f'{brand["name"]} {brand["name_en"]}'
-        lines.append(f'          · <a href="../{brand["slug"]}/">{display_name}</a>')
+        slug = brand["slug"]
+        is_premium = slug in PREMIUM_BRANDS
+        name_cn = brand.get("name", "")
+        name_en = brand.get("name_en", "")
+        
+        if is_premium:
+            img_url = "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=100&h=100&fit=crop&auto=format" if slug == "escher" else ""
+            lines.append(f'<a href="../{slug}/" class="similar-item premium">')
+            if img_url:
+                lines.append(f'    <img src="{img_url}" class="item-img" alt="{name_cn}">')
+            lines.append(f'    <span class="item-name">{name_cn}</span>')
+            lines.append(f'    <span class="item-name-en">{name_en}</span>')
+            lines.append(f'    <span class="badge-paid">品牌推广</span>')
+            lines.append(f'</a>')
+        else:
+            display = name_cn
+            if name_en and name_en != name_cn:
+                display = f'{name_cn}<br><span class="item-name-en">{name_en}</span>'
+            lines.append(f'<a href="../{slug}/" class="similar-item">')
+            lines.append(f'    <span class="item-name">{display}</span>')
+            lines.append(f'</a>')
+    lines.append('</div>')
     return "\n".join(lines)
 
 
@@ -351,8 +372,15 @@ def generate_index_html(brand, brands_done, similar_count=10):
         .nav-lang a {{ color: #0366d6; text-decoration: none; }}
         .nav-lang a:hover {{ text-decoration: underline; }}
         .similar {{ background: #fafafa; padding: 15px; border-radius: 8px; margin: 20px 0; }}
-        .similar a {{ color: #0366d6; text-decoration: none; display: inline-block; margin: 4px 8px; }}
-        .similar a:hover {{ text-decoration: underline; }}
+        .similar-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; margin-top: 10px; }}
+        .similar-item {{ display: block; padding: 12px 10px; background: #fff; border: 1px solid #eee; border-radius: 8px; text-align: center; text-decoration: none; color: #333; font-size: 13px; transition: all 0.2s; }}
+        .similar-item:hover {{ border-color: #0366d6; color: #0366d6; }}
+        .similar-item .item-name {{ display: block; font-weight: 500; }}
+        .similar-item .item-name-en {{ display: block; font-size: 11px; color: #999; margin-top: 2px; }}
+        .similar-item.premium {{ border-color: #c9a84c; background: linear-gradient(135deg, #fffbe6, #fff); }}
+        .similar-item.premium .item-img {{ width: 50px; height: 50px; border-radius: 50%; object-fit: cover; margin: 0 auto 6px; display: block; border: 2px solid rgba(201,168,76,0.2); }}
+        .similar-item.premium .item-name {{ color: #c9a84c; }}
+        .similar-item.premium .badge-paid {{ display: inline-block; font-size: 10px; padding: 2px 8px; background: rgba(201,168,76,0.12); border-radius: 10px; color: #c9a84c; margin-top: 3px; }}
         .home-btn {{ display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }}
         .home-btn:hover {{ background: #0256b6; }}
         footer {{ margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }}
@@ -374,7 +402,7 @@ def generate_index_html(brand, brands_done, similar_count=10):
     </div>
     
     <div class="similar">
-        <strong>🔗 类似品牌：</strong><br>
+        <strong>🔗 类似品牌 · 欢迎付费入驻 ·</strong>
 {similar_html}
     </div>
     
