@@ -41,11 +41,46 @@
       "category": "fashion-luxury",
       "done_at": "2026-05-24T05:46:00.807678+00:00",
       "similar": []
+    },
+    "christian-dior": {
+      "name": "Christian Dior",
+      "name_cn": "克里斯汀·迪奧 (品牌)",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T05:59:35.569126+00:00",
+      "similar": []
+    },
+    "saint-laurent": {
+      "name": "Saint Laurent",
+      "name_cn": "圣罗兰",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T05:59:35.571532+00:00",
+      "similar": []
+    },
+    "burberry": {
+      "name": "Burberry",
+      "name_cn": "巴宝莉",
+      "category": "general",
+      "done_at": "2026-05-24T05:59:35.573728+00:00",
+      "similar": []
+    },
+    "versace": {
+      "name": "Versace",
+      "name_cn": "范思哲",
+      "category": "general",
+      "done_at": "2026-05-24T05:59:35.575993+00:00",
+      "similar": []
+    },
+    "armani": {
+      "name": "Armani",
+      "name_cn": "亞曼尼",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T05:59:35.578212+00:00",
+      "similar": []
     }
   },
   "stats": {
-    "total_brands": 6,
-    "last_update": "2026-05-24T05:55:00.000000+00:00",
-    "total_pages": 60
+    "total_brands": 11,
+    "last_update": "2026-05-24T05:59:35.578229+00:00",
+    "total_pages": 110
   }
 }
