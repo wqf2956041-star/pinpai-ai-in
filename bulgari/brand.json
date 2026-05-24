@@ -1,0 +1,138 @@
+{
+  "slug": "bulgari",
+  "names": {
+    "zh-CN": "宝格丽",
+    "en": "Bulgari",
+    "fr": "Bulgari",
+    "es": "Bulgari",
+    "de": "Bulgari",
+    "ja": "Bulgari",
+    "ko": "Bulgari",
+    "pt": "Bulgari",
+    "ru": "Bulgari",
+    "ar": "Bulgari"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1884,
+  "founding_location": "意大利罗马",
+  "founder": "索帝里欧·宝格丽（Sotirios Voulgaris）",
+  "official_website": "https://www.bulgari.com",
+  "main_business": [
+    "珠宝",
+    "腕表",
+    "皮具",
+    "香水",
+    "酒店"
+  ],
+  "current_slogan": "永恒的罗马之美",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Serpenti灵蛇系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "B.zero1系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Parentesi系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Bulgari BVLGARI系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Divas Dream系列",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1884,
+      "event": "创立"
+    },
+    {
+      "year": 1940,
+      "event": "Serpenti灵蛇设计"
+    },
+    {
+      "year": 1999,
+      "event": "推出B.zero1系列"
+    },
+    {
+      "year": 2011,
+      "event": "与Marriott合作推出宝格丽酒店"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "宝格丽是意大利顶级珠宝品牌，由希腊银匠索帝里欧宝格丽于1884年在罗马创立。标志性的Serpenti灵蛇设计自1940年代起成为品牌的灵魂象征。宝格丽以大胆的色彩搭配和建筑灵感的设计区别于传统珠宝商。",
+  "languages": {
+    "en": "Bulgari is an Italian luxury jeweler founded in Rome in 1884 by Sotirios Voulgaris.",
+    "fr": "Bulgari est un joailler italien fonde a Rome en 1884.",
+    "ja": "ブルガリは1884年にローマで創業されたイタリアの高級ジュエリーブランドです。",
+    "ko": "불가리는 1884년 로마에서 설립된 이탈리아 명품 주얼리 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "蒂芙尼",
+      "en": "Tiffany & Co.",
+      "slug": "tiffany-co"
+    },
+    {
+      "zh": "梵克雅宝",
+      "en": "Van Cleef & Arpels",
+      "slug": "van-cleef-arpels"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    }
+  ]
+}
