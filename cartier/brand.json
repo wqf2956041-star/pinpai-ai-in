@@ -1,0 +1,138 @@
+{
+  "slug": "cartier",
+  "names": {
+    "zh-CN": "卡地亚",
+    "en": "Cartier",
+    "fr": "Cartier",
+    "es": "Cartier",
+    "de": "Cartier",
+    "ja": "Cartier",
+    "ko": "Cartier",
+    "pt": "Cartier",
+    "ru": "Cartier",
+    "ar": "Cartier"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1847,
+  "founding_location": "法国巴黎",
+  "founder": "路易·弗朗索瓦·卡地亚（Louis-Francois Cartier）",
+  "official_website": "https://www.cartier.com",
+  "main_business": [
+    "珠宝",
+    "腕表",
+    "配饰",
+    "皮具",
+    "眼镜"
+  ],
+  "current_slogan": "皇帝的珠宝商，珠宝商的皇帝",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Love手镯",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Cartier Tank腕表",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Juste un Clou系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Trinity三环戒指",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Panthère猎豹系列",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1847,
+      "event": "创立"
+    },
+    {
+      "year": 1904,
+      "event": "推出Santos腕表"
+    },
+    {
+      "year": 1969,
+      "event": "Love手镯风靡全球"
+    },
+    {
+      "year": 1983,
+      "event": "成立卡地亚当代艺术基金会"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "卡地亚是法国珠宝界的永恒之王，由路易弗朗索瓦卡地亚于1847年在巴黎创立。被爱德华七世誉为皇帝的珠宝商，珠宝商的皇帝。标志性的Love手镯自1969年推出以来成为爱情的终极符号。",
+  "languages": {
+    "en": "Cartier is a French luxury jeweler founded in 1847 in Paris.",
+    "fr": "Cartier est un joaillier francais fonde en 1847 a Paris.",
+    "ja": "カルティエは1847年にパリで創業されたフランスの高級ジュエリーブランドです。",
+    "ko": "카르티에는 1847년 파리에서 설립된 프랑스 명품 주얼리 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "宝格丽",
+      "en": "Bulgari",
+      "slug": "bulgari"
+    },
+    {
+      "zh": "蒂芙尼",
+      "en": "Tiffany & Co.",
+      "slug": "tiffany-co"
+    },
+    {
+      "zh": "梵克雅宝",
+      "en": "Van Cleef & Arpels",
+      "slug": "van-cleef-arpels"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "百达翡丽",
+      "en": "Patek Philippe",
+      "slug": "patek-philippe"
+    }
+  ]
+}
