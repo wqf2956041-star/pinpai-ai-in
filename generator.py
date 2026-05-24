@@ -561,8 +561,27 @@ def process_batch(batch_file, dry_run=False):
     if not dry_run and success_count > 0:
         save_brands_done(brands_done)
         
-        # Git推送
-        git_push()
+    # Git推送
+    git_push()
+
+    # 生成品牌索引文件
+    brand_index = []
+    brands_done_data = load_brands_done()
+    for slug, info in brands_done_data.get("brands", {}).items():
+        if slug != "escher":
+            brand_index.append({
+                "name": info.get("name_cn", info.get("name", slug)),
+                "name_en": info.get("name", ""),
+                "slug": slug,
+                "category": info.get("category", "")
+            })
+    # 排序：按 name 排序
+    brand_index.sort(key=lambda x: x["name"])
+    index_file = REPO_ROOT / "brands_index.json"
+    with open(index_file, "w", encoding="utf-8") as f:
+        json.dump(brand_index, f, ensure_ascii=False, indent=2)
+    print(f"✅ brands_index.json 已更新: {len(brand_index)} 个品牌")
+    git_push()
     
     print(f"\n{'='*50}")
     print(f"📊 统计: 成功 {success_count} | 跳过 {skip_count} | 总计 {len(brands)}")
