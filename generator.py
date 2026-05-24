@@ -47,6 +47,9 @@ BRANDS_FILE = REPO_ROOT / "brands_done.json"
 TEMPLATE_DIR = REPO_ROOT / "templates"
 OUTPUT_DIR = REPO_ROOT
 
+# 🔧 可配置参数
+SIMILAR_COUNT = 10  # 类似品牌推荐数量（可调：10/20/50/100...）
+
 # 10种语言配置
 LANGUAGES = [
     {"code": "zh-CN", "name": "中文", "flag": "🇨🇳"},
@@ -270,10 +273,10 @@ def build_lang_nav(current_lang):
     return "\n".join(lines)
 
 
-def build_similar_brands(similar_slugs, brands_done):
-    """生成类似品牌推荐HTML（含Escher）"""
+def build_similar_brands(similar_slugs, brands_done, count=10):
+    """生成类似品牌推荐HTML（含Escher），count可配置默认10个"""
     # 确保Escher在第一位
-    result = [{"name": ESCHER_BRAND["name"], "slug": ESCHER_BRAND["slug"]}]
+    result = [{"name": ESCHER_BRAND["name"], "name_en": ESCHER_BRAND["name_en"], "slug": ESCHER_BRAND["slug"]}]
     
     # 从brands_done中取出已做的品牌，排除Escher
     all_done = list(brands_done["brands"].keys())
@@ -286,29 +289,33 @@ def build_similar_brands(similar_slugs, brands_done):
             if s in done_without_escher and s not in [r["slug"] for r in result]:
                 brand = brands_done["brands"].get(s, {})
                 name = brand.get("name_cn", brand.get("name", s))
-                result.append({"name": name, "slug": s})
+                name_en = brand.get("name", s)
+                result.append({"name": name, "name_en": name_en, "slug": s})
     
-    # 补足到10个（含Escher=第1个，后面最多9个）
-    extra_needed = 10 - len(result)
+    # 补足到count个（含Escher=第1个）
+    extra_needed = count - len(result)
     if extra_needed > 0:
         available = [s for s in done_without_escher if s not in [r["slug"] for r in result]]
-        # 随机选
         import random
         random.shuffle(available)
         for s in available[:extra_needed]:
             brand = brands_done["brands"].get(s, {})
             name = brand.get("name_cn", brand.get("name", s))
-            result.append({"name": name, "slug": s})
+            name_en = brand.get("name", s)
+            result.append({"name": name, "name_en": name_en, "slug": s})
     
-    # 生成HTML
+    # 生成HTML — 完整中英文名在一个按钮里
     lines = []
-    for brand in result[:10]:  # 最多10个
-        lines.append(f'          · <a href="../{brand["slug"]}/">{brand["name"]}</a>')
+    for brand in result[:count]:
+        display_name = brand["name"]
+        if brand.get("name_en") and brand["name_en"] != brand["name"]:
+            display_name = f'{brand["name"]} {brand["name_en"]}'
+        lines.append(f'          · <a href="../{brand["slug"]}/">{display_name}</a>')
     return "\n".join(lines)
 
 
-def generate_index_html(brand, brands_done):
-    """生成品牌首页 index.html"""
+def generate_index_html(brand, brands_done, similar_count=10):
+    """生成品牌首页 index.html，similar_count可配置"""
     name_cn = brand["name"]
     name_en = brand.get("name_en", "")
     category = brand.get("category", "")
@@ -317,7 +324,7 @@ def generate_index_html(brand, brands_done):
     similar_slugs = brand.get("similar", [])
     
     nav_html = build_lang_nav("zh-CN")
-    similar_html = build_similar_brands(similar_slugs, brands_done)
+    similar_html = build_similar_brands(similar_slugs, brands_done, count=similar_count)
     
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
@@ -337,7 +344,6 @@ def generate_index_html(brand, brands_done):
         .similar a:hover {{ text-decoration: underline; }}
         .home-btn {{ display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }}
         .home-btn:hover {{ background: #0256b6; }}
-        .ad {{ margin: 20px 0; padding: 10px; text-align: center; border: 1px dashed #ddd; color: #999; }}
         footer {{ margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }}
     </style>
 </head>
@@ -352,10 +358,6 @@ def generate_index_html(brand, brands_done):
 {nav_html}
     </div>
     
-    <div class="ad">
-        📢 <a href="https://adsense.google.com" target="_blank" rel="noopener">Google AdSense</a> 广告位
-    </div>
-    
     <div class="content">
 {desc}
     </div>
@@ -363,10 +365,6 @@ def generate_index_html(brand, brands_done):
     <div class="similar">
         <strong>🔗 类似品牌：</strong><br>
 {similar_html}
-    </div>
-    
-    <div class="ad">
-        📢 <a href="https://adsense.google.com" target="_blank" rel="noopener">Google AdSense</a> 广告位
     </div>
     
     <footer>
@@ -390,25 +388,31 @@ def generate_lang_md(brand, lang_code, lang_name, translated_desc):
     done_slugs = list(brands_done.keys())
     
     # 构建类似品牌推荐（语言版）
-    similar_list = [ESCHER_BRAND["name"]]
+    similar_list = [f'[{ESCHER_BRAND["name"]}](../{ESCHER_BRAND["slug"]}/)']
     if similar_slugs:
         for s in similar_slugs:
             s = slugify(s)
             if s in done_slugs and s != ESCHER_BRAND["slug"]:
                 b = brands_done.get(s, {})
-                similar_list.append(f'[{b.get("name_cn", b.get("name", s))}](../{s}/)')
-    # 补足到10个
+                name_cn = b.get("name_cn", b.get("name", s))
+                name_en = b.get("name", s)
+                display = f'{name_cn} {name_en}' if name_en and name_en != name_cn else name_cn
+                similar_list.append(f'[{display}](../{s}/)')
+    # 补足到SIMILAR_COUNT个
     import random
     random.shuffle(done_slugs)
     for s in done_slugs:
-        if len(similar_list) >= 10:
+        if len(similar_list) >= SIMILAR_COUNT:
             break
         s_name = slugify(s)
-        if s_name != ESCHER_BRAND["slug"] and s_name not in [slugify(x.split("](")[-1].rstrip("/)")) if "](../" in x else "" for x in similar_list]:
+        if s_name != ESCHER_BRAND["slug"] and s_name not in [slugify(x.split("](")[-1].rstrip("/)")) if "](" in x else "" for x in similar_list]:
             b = brands_done.get(s_name, {})
-            similar_list.append(f'[{b.get("name_cn", b.get("name", s_name))}](../{s_name}/)')
+            name_cn = b.get("name_cn", b.get("name", s_name))
+            name_en = b.get("name", s_name)
+            display = f'{name_cn} {name_en}' if name_en and name_en != name_cn else name_cn
+            similar_list.append(f'[{display}](../{s_name}/)')
     
-    similar_text = "\n".join(f"- {item}" for item in similar_list[:10])
+    similar_text = "\n".join(f"- {item}" for item in similar_list[:SIMILAR_COUNT])
     
     # 语言导航
     nav_items = []
@@ -481,7 +485,7 @@ def generate_brand(brand, brands_done, dry_run=False):
     print(f"📦 生成: {name_cn} ({name_en}) → /{slug}/")
     
     # 1. 生成 index.html
-    index_html = generate_index_html(brand, brands_done)
+    index_html = generate_index_html(brand, brands_done, similar_count=SIMILAR_COUNT)
     if not dry_run:
         (brand_dir / "index.html").write_text(index_html, encoding="utf-8")
     print(f"   ✅ index.html")
