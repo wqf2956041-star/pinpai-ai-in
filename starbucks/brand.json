@@ -1,0 +1,106 @@
+{
+  "slug": "starbucks",
+  "names": {
+    "zh-CN": "星巴克",
+    "en": "Starbucks"
+  },
+  "founding_year": 1971,
+  "founding_location": "美国西雅图",
+  "founder": "Jerry Baldwin等三人",
+  "official_website": "https://www.starbucks.com",
+  "main_business": [
+    "咖啡",
+    "茶",
+    "烘焙食品",
+    "饮品"
+  ],
+  "current_slogan": "To inspire and nurture the human spirit",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "星巴克拿铁"
+    },
+    {
+      "name": "星冰乐"
+    },
+    {
+      "name": "馥芮白"
+    },
+    {
+      "name": "美式咖啡"
+    },
+    {
+      "name": "南瓜拿铁"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1971,
+      "event": "西雅图第一家店"
+    },
+    {
+      "year": 1987,
+      "event": "Howard Schultz收购并开启全球扩张"
+    },
+    {
+      "year": 1992,
+      "event": "上市"
+    },
+    {
+      "year": 2018,
+      "event": "与阿里合作上线外卖"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "星巴克是全球最大的咖啡连锁品牌，1971年创立于西雅图派克市场。最初只卖咖啡豆，Howard Schultz将意式咖啡馆文化引入美国后开启了全球扩张。星巴克把喝咖啡从日常消费升级为生活方式——比咖啡馆多一个舒适沙发就是所谓的第三空间概念。全球超过35000家门店，星冰乐和南瓜拿铁是季节爆款。品牌口号是激发和滋养人文精神。",
+  "languages": {
+    "en": "星巴克是全球最大 咖啡连锁品牌, 1971年创立于西雅图派克市场. 最初只卖咖啡豆, Howard Schultz将意式咖啡馆文化引入美国后开启了全球扩张. 星巴克把喝咖啡从日常消费升级为生活方式——比咖啡馆多一个舒适沙发就是所谓 第三空间概念. 全球超过35000家门店, 星冰乐 and 南瓜拿铁是季节爆款. 品牌口号是激发 and 滋养人文精神. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds",
+      "premium": false
+    },
+    {
+      "zh": "宜家",
+      "en": "IKEA",
+      "slug": "ikea",
+      "premium": false
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
