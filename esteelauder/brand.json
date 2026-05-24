@@ -1,0 +1,94 @@
+{
+  "slug": "esteelauder",
+  "names": {
+    "zh-CN": "雅诗兰黛",
+    "en": "Estee Lauder"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1946,
+  "founding_location": "美国纽约",
+  "founder": "雅诗·兰黛",
+  "official_website": "https://www.esteelauder.com",
+  "main_business": [
+    "护肤品",
+    "化妆品",
+    "香水"
+  ],
+  "current_slogan": "让每个女人都能美丽",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Advanced Night Repair精华"
+    },
+    {
+      "name": "Double Wear粉底"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1946,
+      "event": "创立"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "雅诗兰黛是美国高端化妆品巨头，1946年创立。Advanced Night Repair精华是全球最畅销精华之一。",
+  "languages": {
+    "en": "Estee Lauder is an American cosmetics giant."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "欧莱雅",
+      "en": "L'Oreal",
+      "slug": "loreal"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "H&M",
+      "en": "H&M",
+      "slug": "hm"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    }
+  ]
+}

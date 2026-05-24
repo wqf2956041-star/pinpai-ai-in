@@ -190,5 +190,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "欧莱雅是全球最大化妆品集团，1909年创立。旗下36个国际品牌。"
+  },
+  {
+    "slug": "esteelauder",
+    "zh": "雅诗兰黛",
+    "en": "Estee Lauder",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "雅诗兰黛是美国高端化妆品巨头，1946年创立。Advanced Night Repair精华是全球最畅销精华之一。"
   }
 ]
