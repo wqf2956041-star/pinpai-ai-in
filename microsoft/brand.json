@@ -1,0 +1,124 @@
+{
+  "slug": "microsoft",
+  "names": {
+    "zh-CN": "微软",
+    "en": "Microsoft"
+  },
+  "founding_year": 1975,
+  "founding_location": "美国新墨西哥州阿尔伯克基",
+  "founder": "比尔·盖茨与保罗·艾伦",
+  "official_website": "https://www.microsoft.com",
+  "main_business": [
+    "操作系统",
+    "办公软件",
+    "云计算",
+    "硬件"
+  ],
+  "current_slogan": "Empower every person and every organization",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Windows"
+    },
+    {
+      "name": "Office"
+    },
+    {
+      "name": "Azure"
+    },
+    {
+      "name": "Xbox"
+    },
+    {
+      "name": "Surface"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1975,
+      "event": "创立"
+    },
+    {
+      "year": 1985,
+      "event": "Windows 1.0"
+    },
+    {
+      "year": 1995,
+      "event": "Windows 95"
+    },
+    {
+      "year": 2014,
+      "event": "Satya Nadella任CEO转型云计算"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "微软是全球最大的软件公司，1975年由比尔盖茨和保罗艾伦创立。Windows操作系统统治了PC时代超过40年，Office办公套件是职场必备工具。2014年Satya Nadella接任CEO后微软从传统软件公司转型为云计算巨头，Azure云服务成为亚马逊AWS最强的竞争对手。微软还拥有Xbox游戏主机、LinkedIn职业社交平台和GitHub开源代码平台。年营收超过2100亿美元。",
+  "languages": {
+    "en": "微软是全球最大 软件公司, 1975年由比尔盖茨 and 保罗艾伦创立. Windows操作系统统治了PC时代超过40年, Office办公套件是职场必备工具. 2014年Satya Nadella接任CEO后微软从传统软件公司转型为云计算巨头, Azure云服务成为亚马逊AWS最强 竞争对手. 微软还拥有Xbox游戏主机, LinkedIn职业社交平台 and GitHub开源代码平台. 年营收超过2100亿美元. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "谷歌",
+      "en": "Google",
+      "slug": "google",
+      "premium": false
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung",
+      "premium": false
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds",
+      "premium": false
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

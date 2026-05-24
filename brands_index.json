@@ -438,5 +438,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "谷歌是全球最大的搜索引擎和数字广告公司，1998年由Larry Page和Sergey Brin在斯坦福大学宿舍创立。谷歌这个名字源自googol（10的100次方），象征海量信息搜索。每天处理超过3"
+  },
+  {
+    "slug": "microsoft",
+    "zh": "微软",
+    "en": "Microsoft",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "微软是全球最大的软件公司，1975年由比尔盖茨和保罗艾伦创立。Windows操作系统统治了PC时代超过40年，Office办公套件是职场必备工具。2014年Satya Nadella接任CEO后微软从"
   }
 ]
