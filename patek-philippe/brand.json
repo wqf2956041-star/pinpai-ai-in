@@ -1,0 +1,135 @@
+{
+  "slug": "patek-philippe",
+  "names": {
+    "zh-CN": "百达翡丽",
+    "en": "Patek Philippe",
+    "fr": "Patek Philippe",
+    "es": "Patek Philippe",
+    "de": "Patek Philippe",
+    "ja": "Patek Philippe",
+    "ko": "Patek Philippe",
+    "pt": "Patek Philippe",
+    "ru": "Patek Philippe",
+    "ar": "Patek Philippe"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1839,
+  "founding_location": "瑞士日内瓦",
+  "founder": "安东尼·百达（Antoni Patek）与让·翡丽（Jean-Adrien Philippe）",
+  "official_website": "https://www.patek.com",
+  "main_business": [
+    "腕表",
+    "珠宝"
+  ],
+  "current_slogan": "没有人能拥有百达翡丽，你只是为下一代保管",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Patek Philippe Calatrava",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Nautilus系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Aquanaut系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Grand Complications系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Twenty 4系列",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1839,
+      "event": "创立"
+    },
+    {
+      "year": 1845,
+      "event": "发明无匙上弦系统"
+    },
+    {
+      "year": 1925,
+      "event": "推出首款万年历腕表"
+    },
+    {
+      "year": 1976,
+      "event": "Nautilus系列发布"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "百达翡丽是瑞士最顶级的制表品牌之一，1839年由安东尼百达与让翡丽创立。品牌拥有80多项制表专利，创造了世界上最具复杂功能的机械腕表。百达翡丽是拍卖会上的常客，屡创腕表拍卖世界纪录。",
+  "languages": {
+    "en": "Patek Philippe is a Swiss luxury watchmaker founded in 1839 in Geneva.",
+    "fr": "Patek Philippe est un horloger suisse de luxe fonde en 1839 a Geneve.",
+    "ja": "パテックフィリップは1839年にジュネーブで創業されたスイスの高級時計ブランドです。",
+    "ko": "파텍필립은 1839년 제네바에서 설립된 스위스 명품 시계 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "欧米茄",
+      "en": "Omega",
+      "slug": "omega"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "宝格丽",
+      "en": "Bulgari",
+      "slug": "bulgari"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    }
+  ]
+}
