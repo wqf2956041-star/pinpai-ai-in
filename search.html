@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>搜索品牌 — 品牌百科 · pinpai.ai.in</title>
+<meta name="description" content="搜索全球品牌百科 — 爱马仕、香奈儿、路易威登、古驰等，10种语言呈现">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
+.container{max-width:800px;margin:0 auto;padding:20px}
+
+.top-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:30px;flex-wrap:wrap}
+.search-box{flex:1;min-width:200px;display:flex;gap:6px}
+.search-box input{flex:1;padding:10px 16px;border:2px solid #222;border-radius:6px;font-size:16px;outline:none}
+.search-box button{padding:10px 20px;background:#222;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:16px}
+.search-box button:hover{background:#444}
+.home-link{font-size:14px;color:#555;text-decoration:none}
+.home-link:hover{text-decoration:underline}
+
+.results{list-style:none}
+.result-item{background:#fff;border:1px solid #eee;border-radius:8px;padding:16px 20px;margin-bottom:10px;transition:border-color 0.2s}
+.result-item:hover{border-color:#222}
+.result-item a{text-decoration:none;color:#222;display:block}
+.result-item .name-zh{font-size:20px;font-weight:600}
+.result-item .name-en{font-size:14px;color:#777}
+.result-item .meta{font-size:13px;color:#999;margin-top:4px}
+.result-item .desc{font-size:14px;color:#555;margin-top:6px}
+
+.no-result{text-align:center;padding:60px 20px;color:#999}
+.no-result h2{font-size:24px;margin-bottom:10px;color:#555}
+.footer{text-align:center;padding:30px 0;font-size:13px;color:#999;border-top:1px solid #eee;margin-top:40px}
+.footer a{color:#555;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="top-bar">
+  <a href="/" class="home-link">← 品牌百科首页</a>
+  <div class="search-box">
+    <input type="text" id="search-input" placeholder="搜索品牌..." onkeydown="if(event.key==='Enter')doSearch()" autofocus>
+    <button onclick="doSearch()">🔍</button>
+  </div>
+</div>
+
+<h1 style="font-size:22px;margin-bottom:20px;color:#555" id="result-title">搜索品牌</h1>
+<ul class="results" id="results"></ul>
+
+<script>
+// Inline brand index (lightweight — slug + names only)
+const BRAND_INDEX = $BRAND_INDEX$;
+
+function getQueryParam(name) {
+  var url = new URL(window.location.href);
+  return url.searchParams.get(name) || '';
+}
+
+function doSearch() {
+  var q = document.getElementById('search-input').value.trim().toLowerCase();
+  if (!q) return;
+  window.location.href = '?q=' + encodeURIComponent(q);
+}
+
+function renderSearch() {
+  var q = getQueryParam('q').trim();
+  if (!q) {
+    document.getElementById('result-title').textContent = '输入关键词搜索品牌';
+    return;
+  }
+  document.getElementById('search-input').value = q;
+
+  var ql = q.toLowerCase();
+  var matches = BRAND_INDEX.filter(function(b) {
+    return (b.zh && b.zh.indexOf(ql) !== -1) ||
+           (b.en && b.en.toLowerCase().indexOf(ql) !== -1) ||
+           (b.slug && b.slug.indexOf(ql) !== -1);
+  });
+
+  var title = document.getElementById('result-title');
+  var list = document.getElementById('results');
+  list.innerHTML = '';
+
+  if (matches.length === 0) {
+    title.textContent = '搜索结果: "' + q + '" — 未找到匹配品牌';
+    list.innerHTML = '<div class="no-result"><h2>暂无此品牌</h2><p>该品牌百科尚未收录，请联系我们添加</p></div>';
+    return;
+  }
+
+  title.textContent = '搜索结果: "' + q + '" — 找到 ' + matches.length + ' 个品牌';
+  matches.forEach(function(b) {
+    var li = document.createElement('li');
+    li.className = 'result-item';
+    li.innerHTML = '<a href="/' + b.slug + '/">' +
+      '<div class="name-zh">' + b.zh + '</div>' +
+      '<div class="name-en">' + (b.en || '') + '</div>' +
+      '<div class="meta">' + (b.category || '') + (b.premium ? ' · 品牌推广' : '') + '</div>' +
+      '<div class="desc">' + (b.desc_short || '') + '</div>' +
+      '</a>';
+    list.appendChild(li);
+  });
+}
+
+renderSearch();
+</script>
+
+<div class="footer">
+  <p><a href="https://pinpai.ai.in">品牌百科 · pinpai.ai.in</a> — 全球品牌大全</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+{
+  "description": "品牌结构化数据模板 — 供AI程序读写使用",
+  "version": "1.0",
+  "fields": {
+    "slug": "品牌的URL标识，英文小写连字符（如：chanel）",
+    "names": {
+      "zh-CN": "香奈儿",
+      "en": "Chanel",
+      "fr": "Chanel",
+      "es": "Chanel",
+      "de": "Chanel",
+      "ja": "シャネル",
+      "ko": "샤넬",
+      "pt": "Chanel",
+      "ru": "Шанель",
+      "ar": "شانيل"
+    },
+    "category": "分类（fashion-luxury, tech, beauty, auto, food, sport, toy 等）",
+    "founding_year": 1910,
+    "founding_location": "创立地点",
+    "founder": "创始人姓名",
+    "official_website": "https://www.example.com",
+    "main_business": ["主营业务1", "主营业务2"],
+    "current_slogan": "现任品牌标语",
+    "past_slogans": ["历史标语1", "历史标语2"],
+    "representative_products": [
+      {"name": "代表产品名", "year": 1921, "description": "简介"}
+    ],
+    "key_events": [
+      {"year": 1910, "event": "在巴黎开设第一家店"},
+      {"year": 1921, "event": "推出经典产品"}
+    ],
+    "philanthropy": ["公益活动1", "公益活动2"],
+    "exhibitions": ["品牌展览/发布会1"],
+    "description_zh": "500-800字中文品牌介绍（包含创立故事、发展历程、行业地位）",
+    "languages": {
+      "en": "English version (independently rewritten, not translation)",
+      "fr": "Version française (réécrite indépendamment)",
+      "es": "Versión en español (reescrita de forma independiente)",
+      "de": "Deutsche Version (unabhängig umgeschrieben)",
+      "ja": "日本語版（独立した書き直し）",
+      "ko": "한국어 버전 (독립적으로 다시 작성)",
+      "pt": "Versão em português (reescrita independentemente)",
+      "ru": "Русская версия (независимо переписана)",
+      "ar": "النسخة العربية (أعيدت كتابتها بشكل مستقل)"
+    },
+    "is_premium": false,
+    "image_url": ""
+  }
+}
