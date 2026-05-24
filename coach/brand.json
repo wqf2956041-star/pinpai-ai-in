@@ -1,0 +1,119 @@
+{
+  "slug": "coach",
+  "names": {
+    "zh-CN": "蔻驰",
+    "en": "Coach"
+  },
+  "founding_year": 1941,
+  "founding_location": "美国纽约",
+  "founder": "Lillian与Miles Cahn",
+  "official_website": "https://www.coach.com",
+  "main_business": [
+    "皮具",
+    "配饰",
+    "时装",
+    "腕表"
+  ],
+  "current_slogan": "Live Beautifully",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Coach Tabby手袋"
+    },
+    {
+      "name": "Coach Rogue手袋"
+    },
+    {
+      "name": "Coach Willis手袋"
+    },
+    {
+      "name": "Coach钱包"
+    },
+    {
+      "name": "Coach皮带"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1941,
+      "event": "创立"
+    },
+    {
+      "year": 1962,
+      "event": "推出经典Glove-tanned皮手套"
+    },
+    {
+      "year": 2000,
+      "event": "成全球最大皮具品牌之一"
+    },
+    {
+      "year": 2013,
+      "event": "Stuart Vevers任创意总监转型时尚"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Coach是美国标志性皮具品牌，1941年成立于纽约。以优质皮革和实用设计闻名，从经典手袋到当代时尚，是轻奢皮具市场领导者。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

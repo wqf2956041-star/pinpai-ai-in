@@ -254,5 +254,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Timberland是1952年创立的美国户外鞋履品牌，标志性大黄靴是经典工装靴代表，从登山装备变为嘻哈时尚标志。"
+  },
+  {
+    "slug": "coach",
+    "zh": "蔻驰",
+    "en": "Coach",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Coach是美国标志性皮具品牌，1941年成立于纽约。以优质皮革和实用设计闻名，从经典手袋到当代时尚，是轻奢皮具市场领导者。"
   }
 ]
