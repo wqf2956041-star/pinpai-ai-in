@@ -1,0 +1,122 @@
+{
+  "slug": "netflix",
+  "names": {
+    "zh-CN": "奈飞",
+    "en": "Netflix"
+  },
+  "founding_year": 1997,
+  "founding_location": "美国加州斯科茨谷",
+  "founder": "Reed Hastings与Marc Randolph",
+  "official_website": "https://www.netflix.com",
+  "main_business": [
+    "流媒体视频",
+    "影视制作"
+  ],
+  "current_slogan": "See What's Next",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "《鱿鱼游戏》"
+    },
+    {
+      "name": "《怪奇物语》"
+    },
+    {
+      "name": "《王冠》"
+    },
+    {
+      "name": "《纸钞屋》"
+    },
+    {
+      "name": "《黑暗荣耀》"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1997,
+      "event": "创立DVD邮寄租赁"
+    },
+    {
+      "year": 2007,
+      "event": "推出流媒体服务"
+    },
+    {
+      "year": 2013,
+      "event": "自制剧《纸牌屋》"
+    },
+    {
+      "year": 2023,
+      "event": "全球会员2.6亿"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "奈飞是全球最大的流媒体娱乐平台，1997年由Reed Hastings创立。最初以DVD邮寄租赁服务起家——Blockbuster曾有机会收购Netflix但拒绝了，这个决定后来成为商业史上最著名的错误之一。2007年转型流媒体服务彻底改变了影视行业的格局。2013年推出的《纸牌屋》让Netflix从内容分发商转变为全球最大内容制作商之一。品牌创作了《鱿鱼游戏》《怪奇物语》《王冠》等现象级作品。全球付费会员超过2.6亿。",
+  "languages": {
+    "en": "奈飞是全球最大 流媒体娱乐平台, 1997年由Reed Hastings创立. 最初以DVD邮寄租赁服务起家——Blockbuster曾有机会收购Netflix但拒绝了, 这个决定后来成为商业史上最著名 错误之一. 2007年转型流媒体服务彻底改变了影视行业 格局. 2013年推出 《纸牌屋》让Netflix从内容分发商转变为全球最大内容制作商之一. 品牌创作了《鱿鱼游戏》《怪奇物语》《王冠》等现象级作品. 全球付费会员超过2.6亿. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "谷歌",
+      "en": "Google",
+      "slug": "google",
+      "premium": false
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony",
+      "premium": false
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung",
+      "premium": false
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "宜家",
+      "en": "IKEA",
+      "slug": "ikea",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
