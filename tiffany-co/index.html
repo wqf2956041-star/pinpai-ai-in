@@ -1,128 +1,204 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>蒂芙尼 (Tiffany &amp; Co.) — 品牌百科</title>
-    <meta name="description" content="蒂芙尼品牌百科">
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.8; color: #333; }
-        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
-        .nav-lang { background: #f5f5f5; padding: 12px; border-radius: 8px; margin: 20px 0; word-spacing: 8px; }
-        .nav-lang a { color: #0366d6; text-decoration: none; }
-        .nav-lang a:hover { text-decoration: underline; }
-        .similar { background: #fafafa; padding: 15px; border-radius: 8px; margin: 20px 0; }
-        .similar-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; margin-top: 10px; }
-        .similar-item { display: block; padding: 12px 10px; background: #fff; border: 1px solid #eee; border-radius: 8px; text-align: center; text-decoration: none; color: #333; font-size: 13px; transition: all 0.2s; }
-        .similar-item:hover { border-color: #0366d6; color: #0366d6; }
-        .similar-item .item-name { display: block; font-weight: 500; }
-        .similar-item .item-name-en { display: block; font-size: 11px; color: #999; margin-top: 2px; }
-        .similar-item.premium { border-color: #c9a84c; background: linear-gradient(135deg, #fffbe6, #fff); }
-        .similar-item.premium .item-img { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; margin: 0 auto 6px; display: block; border: 2px solid rgba(201,168,76,0.2); }
-        .similar-item.premium .item-name { color: #c9a84c; }
-        .similar-item.premium .badge-paid { display: inline-block; font-size: 10px; padding: 2px 8px; background: rgba(201,168,76,0.12); border-radius: 10px; color: #c9a84c; margin-top: 3px; }
-        .home-btn { display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }
-        .home-btn:hover { background: #0256b6; }
-        .search-box { display: flex; gap: 6px; margin: 15px 0; max-width: 400px; }
-        .search-box input { flex: 1; padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; outline: none; }
-        .search-box input:focus { border-color: #0366d6; box-shadow: 0 0 0 2px rgba(3,102,214,0.1); }
-        .search-box button { padding: 8px 14px; background: #0366d6; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; }
-        .search-box button:hover { background: #0256b6; }
-        .search-results { position: absolute; background: white; border: 1px solid #ddd; border-radius: 6px; max-height: 300px; overflow-y: auto; display: none; width: 380px; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .search-results a { display: block; padding: 8px 12px; text-decoration: none; color: #333; border-bottom: 1px solid #f0f0f0; }
-        .search-results a:hover { background: #f5f5f5; color: #0366d6; }
-        footer { margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>蒂芙尼 — Tiffany & Co. | 品牌百科 · pinpai.ai.in</title>
+<meta name="description" content="蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。">
+<meta property="og:title" content="蒂芙尼 — Tiffany & Co.">
+<meta property="og:description" content="蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
+.container{max-width:960px;margin:0 auto;padding:20px}
+
+/* --- Top Bar: Search + Language --- */
+.top-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:30px;flex-wrap:wrap}
+.search-box{flex:1;min-width:200px;display:flex;gap:6px}
+.search-box input{flex:1;padding:8px 14px;border:2px solid #ddd;border-radius:6px;font-size:14px;outline:none}
+.search-box input:focus{border-color:#222}
+.search-box button{padding:8px 16px;background:#222;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px}
+.search-box button:hover{background:#444}
+
+.lang-nav{display:flex;flex-wrap:wrap;gap:4px}
+.lang-nav a{display:inline-block;padding:4px 10px;border-radius:4px;font-size:13px;text-decoration:none;color:#555;border:1px solid #ddd;transition:all 0.2s}
+.lang-nav a:hover{background:#eee}
+.lang-nav a.active{background:#222;color:#fff;border-color:#222;font-weight:600}
+
+/* --- Brand Header --- */
+.brand-header{margin-bottom:30px;padding-bottom:20px;border-bottom:2px solid #222}
+.brand-header h1{font-size:32px;margin-bottom:4px;letter-spacing:-0.5px}
+.brand-header .brand-sub{font-size:16px;color:#777}
+
+
+/* --- Brand Info Cards --- */
+.info-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:30px}
+.info-card{background:#fff;border:1px solid #eee;border-radius:8px;padding:14px 18px}
+.info-card .label{font-size:12px;color:#999;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px}
+.info-card .value{font-size:15px;color:#222;font-weight:500}
+
+/* --- Content Body --- */
+.brand-content{background:#fff;border:1px solid #eee;border-radius:8px;padding:24px;margin-bottom:30px;font-size:15px;line-height:1.8}
+.brand-content h2{font-size:20px;margin:20px 0 10px;padding-bottom:6px;border-bottom:1px solid #eee}
+.brand-content h2:first-child{margin-top:0}
+.brand-content p{margin-bottom:12px}
+
+/* --- Product / Event lists --- */
+.item-list{list-style:none;margin:8px 0 16px}
+.item-list li{padding:6px 0;border-bottom:1px solid #f5f5f5}
+.item-list li:last-child{border:none}
+.item-list .item-year{display:inline-block;background:#222;color:#fff;padding:1px 8px;border-radius:3px;font-size:12px;margin-right:8px;font-weight:600}
+
+/* --- Similar Brands --- */
+.similar-section{margin-bottom:30px}
+.similar-section h3{font-size:16px;margin-bottom:12px;color:#555}
+.similar-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.similar-card{display:block;padding:10px 14px;background:#fff;border:1px solid #eee;border-radius:6px;text-decoration:none;color:#222;font-size:13px;transition:all 0.2s}
+.similar-card:hover{border-color:#222;box-shadow:0 2px 8px rgba(0,0,0,0.06)}
+.similar-card.premium{border:2px solid #d4a844}
+.similar-card.premium .badge-premium{display:inline-block;background:#d4a844;color:#fff;font-size:10px;padding:1px 6px;border-radius:3px;margin-left:4px}
+.similar-card .zh{display:block;font-weight:500}
+.similar-card .en{display:block;font-size:11px;color:#999}
+
+/* --- Footer --- */
+.footer{text-align:center;padding:20px 0;font-size:13px;color:#999;border-top:1px solid #eee;margin-top:10px}
+.footer a{color:#555;text-decoration:none}
+.footer a:hover{text-decoration:underline}
+
+/* --- Premium Styles --- */
+.premium-header{border-bottom-color:#d4a844}
+.premium-card{border:2px solid #d4a844 !important}
+.premium-label{display:inline-block;background:#d4a844;color:#fff;font-size:11px;padding:2px 10px;border-radius:4px;margin-left:8px}
+
+/* --- Responsive --- */
+@media(max-width:600px){
+  .top-bar{flex-direction:column;align-items:stretch}
+  .info-grid{grid-template-columns:1fr}
+  .similar-grid{grid-template-columns:repeat(auto-fill,minmax(100px,1fr))}
+}
+</style>
 </head>
 <body>
-    <div class="search-box" style="position:relative;">
-        <input type="text" id="brand-search" placeholder="搜索品牌..." oninput="searchBrand(this.value)">
-        <button onclick="goToBrand()">🔍</button>
-        <div class="search-results" id="search-results"></div>
-    </div>
-    <a href="../" class="home-btn">🏠 首页</a>
-    
-    <h1>蒂芙尼 <span style="font-weight:normal;font-size:0.7em;color:#666;">(Tiffany &amp; Co.)</span></h1>
-    <p style="color:#888;font-size:14px;">品类：fashion-luxury</p>
-    
-    <div class="nav-lang">
-        <strong>🌐 语言：</strong><br>
-          <strong>🇨🇳 中文</strong>
-          <a href="en.md">🇬🇧 English</a>
-          <a href="fr.md">🇫🇷 Français</a>
-          <a href="es.md">🇪🇸 Español</a>
-          <a href="de.md">🇩🇪 Deutsch</a>
-          <a href="ja.md">🇯🇵 日本語</a>
-          <a href="ko.md">🇰🇷 한국어</a>
-          <a href="ru.md">🇷🇺 Русский</a>
-          <a href="pt.md">🇧🇷 Português</a>
-          <a href="ar.md">🇸🇦 العربية</a>
-    </div>
-    
-    <div class="content">
-蒂芙尼（Tiffany &amp; Co.）创立于1837年，由查尔斯·路易斯·蒂芙尼在纽约创办，是美国最具标志性的顶级珠宝与奢侈品牌之一。品牌以其精湛的钻石切割工艺、浪漫的设计语言和标志性的蒂芙尼蓝（Tiffany Blue）而享誉全球。作为美国奢侈品行业的奠基者，蒂芙尼不仅定义了现代钻戒的传统范式，更成为爱情与承诺的象征符号。品牌最负盛名的经典之作当属1886年推出的Tiffany Setting六爪镶嵌钻戒，这一革命性的设计将钻石高高托起，最大限度地释放了宝石的光彩，成为全世界求婚钻戒的标杆之作，至今仍是品牌最畅销的核心产品。1961年，由奥黛丽·赫本主演的电影《蒂凡尼的早餐》让品牌从珠宝界走向大众文化的神坛，赫本在片中身着黑色礼服、驻足蒂芙尼橱窗前的画面成为影史经典，也使蒂芙尼蓝盒和品牌形象深深烙印在全球消费者的心中。那一抹独特的知更鸟蛋蓝色——蒂芙尼蓝（Pantone 1837），连同标志性的白色缎带小蓝盒，成为无与伦比的品牌资产，拆开蓝色小盒的瞬间本身已成为一种仪式感和情感体验。在设计领域，蒂芙尼与多位顶尖艺术家合作，推出了多个不朽的珠宝系列：Elsa Peretti系列以流畅的有机线条和人性化设计著称，Bonbon碗和Bean系列成为现代设计博物馆的收藏之作；Paloma Picasso系列则以其大胆的用色和雕塑感造型独树一帜，为珠宝注入艺术活力。2021年，全球最大奢侈品集团LVMH以158亿美元正式收购蒂芙尼，开启了品牌在新奢侈品时代的重要篇章。近两个世纪以来，蒂芙尼始终坚守匠心与创新，将纽约的摩登气质与欧洲的珠宝传统完美融合，成为跨越国界与世代的情感共鸣符号。
-    </div>
-    
-    <div class="similar">
-        <strong>🔗 类似品牌 · 欢迎入驻 ·</strong>
-<div class="similar-grid">
-<a href="../escher/" class="similar-item premium">
-    <img src="https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=100&h=100&fit=crop&auto=format" class="item-img" alt="埃舍尔Escher">
-    <span class="item-name">埃舍尔Escher</span>
-    <span class="item-name-en">ESCHĚR</span>
-    <span class="badge-paid">品牌推广</span>
-</a>
-<a href="../cartier/" class="similar-item">
-    <span class="item-name">卡地亚<br><span class="item-name-en">Cartier</span></span>
-</a>
-<a href="../bulgari/" class="similar-item">
-    <span class="item-name">宝格丽<br><span class="item-name-en">Bulgari</span></span>
-</a>
-<a href="../rolex/" class="similar-item">
-    <span class="item-name">劳力士<br><span class="item-name-en">Rolex</span></span>
-</a>
-<a href="../patek-philippe/" class="similar-item">
-    <span class="item-name">百达翡丽<br><span class="item-name-en">Patek Philippe</span></span>
-</a>
-<a href="../hermes/" class="similar-item">
-    <span class="item-name">愛馬仕<br><span class="item-name-en">Hermès</span></span>
-</a>
-<a href="../chanel/" class="similar-item">
-    <span class="item-name">香奈儿<br><span class="item-name-en">Chanel</span></span>
-</a>
-<a href="../louis-vuitton/" class="similar-item">
-    <span class="item-name">路易威登<br><span class="item-name-en">Louis Vuitton</span></span>
-</a>
-<a href="../gucci/" class="similar-item">
-    <span class="item-name">古驰<br><span class="item-name-en">Gucci</span></span>
-</a>
-<a href="../prada/" class="similar-item">
-    <span class="item-name">普拉達<br><span class="item-name-en">Prada</span></span>
-</a>
+<div class="container">
+
+<!-- Top Bar -->
+<div class="top-bar">
+  <div class="search-box">
+    <input type="text" id="search-input" placeholder="搜索品牌 / Search brand..." onkeydown="if(event.key==='Enter')searchBrand()">
+    <button onclick="searchBrand()">🔍</button>
+  </div>
+  <div class="lang-nav" id="lang-nav">
+    <a href="#" data-lang="zh-CN" class="active" onclick="switchLang('zh-CN')">中文</a>
+    <a href="#" data-lang="en" onclick="switchLang('en')">EN</a>
+    <a href="#" data-lang="fr" onclick="switchLang('fr')">FR</a>
+    <a href="#" data-lang="es" onclick="switchLang('es')">ES</a>
+    <a href="#" data-lang="de" onclick="switchLang('de')">DE</a>
+    <a href="#" data-lang="ja" onclick="switchLang('ja')">日本語</a>
+    <a href="#" data-lang="ko" onclick="switchLang('ko')">한국어</a>
+    <a href="#" data-lang="pt" onclick="switchLang('pt')">PT</a>
+    <a href="#" data-lang="ru" onclick="switchLang('ru')">РУ</a>
+    <a href="#" data-lang="ar" onclick="switchLang('ar')">العربية</a>
+  </div>
 </div>
-    </div>
+
+<!-- Brand Header -->
+<div class="brand-header">
+  <h1 id="brand-title">蒂芙尼 <span style="font-weight:400;font-size:24px;color:#777">— Tiffany & Co.</span></h1>
+  <div class="brand-sub" id="brand-sub">奢侈品/时尚</div>
+</div>
+
+<!-- Info Cards -->
+<div class="info-grid" id="info-grid">
+  <div class="info-card"><div class="label">创立时间</div><div class="value">1837</div></div>
+  <div class="info-card"><div class="label">创立地点</div><div class="value">美国纽约</div></div>
+  <div class="info-card"><div class="label">创始人</div><div class="value">查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）</div></div>
+  <div class="info-card"><div class="label">官网</div><div class="value"><a href="https://www.tiffany.com" target="_blank" rel="noopener">www.tiffany.com</a></div></div>
+  <div class="info-card"><div class="label">主营业务</div><div class="value">珠宝、银器、腕表、香水、配饰</div></div>
+  <div class="info-card"><div class="label">品牌标语</div><div class="value">唯有钻石恒久远</div></div>
+</div>
+
+<!-- Content -->
+<div class="brand-content" id="brand-content">
+  蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。
+</div>
+
+<!-- Similar Brands -->
+<div class="similar-section">
+  <h3 id="similar-title">类似品牌</h3>
+  <div class="similar-grid">
+    <a href="/escher/" class="similar-card premium"><span class="zh">Escher <span class="badge-premium">品牌推广</span></span><span class="en">Escher</span></a>
+    <a href="/cartier/" class="similar-card"><span class="zh">卡地亚 </span><span class="en">Cartier</span></a>
+    <a href="/bulgari/" class="similar-card"><span class="zh">宝格丽 </span><span class="en">Bulgari</span></a>
+    <a href="/van-cleef-arpels/" class="similar-card"><span class="zh">梵克雅宝 </span><span class="en">Van Cleef & Arpels</span></a>
+    <a href="/chanel/" class="similar-card"><span class="zh">香奈儿 </span><span class="en">Chanel</span></a>
+    <a href="/hermes/" class="similar-card"><span class="zh">爱马仕 </span><span class="en">Hermes</span></a>
+    <a href="/louis-vuitton/" class="similar-card"><span class="zh">路易威登 </span><span class="en">Louis Vuitton</span></a>
+    <a href="/rolex/" class="similar-card"><span class="zh">劳力士 </span><span class="en">Rolex</span></a>
+    <a href="/christian-dior/" class="similar-card"><span class="zh">迪奥 </span><span class="en">Christian Dior</span></a>
+    <a href="/gucci/" class="similar-card"><span class="zh">古驰 </span><span class="en">Gucci</span></a>
     
-    <footer>
-        <p>© <a href="https://pinpai.ai.in">pinpai.ai.in</a> — 全球品牌百科</p>
-    </footer>
-    <script>
-const brands = [{"name":"埃舍尔Escher","en":"ESCHER","slug":"escher"},{"name":"愛馬仕","en":"Hermes","slug":"hermes"},{"name":"香奈儿","en":"Chanel","slug":"chanel"},{"name":"路易威登","en":"Louis Vuitton","slug":"louis-vuitton"},{"name":"古驰","en":"Gucci","slug":"gucci"},{"name":"普拉達","en":"Prada","slug":"prada"},{"name":"克里斯汀·迪奧 (品牌)","en":"Christian Dior","slug":"christian-dior"},{"name":"圣罗兰","en":"Saint Laurent","slug":"saint-laurent"},{"name":"巴宝莉","en":"Burberry","slug":"burberry"},{"name":"范思哲","en":"Versace","slug":"versace"},{"name":"亞曼尼","en":"Armani","slug":"armani"},{"name":"卡地亚","en":"Cartier","slug":"cartier"},{"name":"蒂芙尼","en":"Tiffany & Co.","slug":"tiffany-co"}];
-function searchBrand(q) {
-    const div = document.getElementById('search-results');
-    q = q.trim().toLowerCase();
-    if (!q) { div.style.display = 'none'; return; }
-    const matches = brands.filter(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
-    if (matches.length === 0) { div.style.display = 'none'; return; }
-    div.innerHTML = matches.slice(0, 10).map(b => '<a href="../' + b.slug + '/">🔹 ' + b.name + (b.en ? ' (' + b.en + ')' : '') + '</a>').join('');
-    div.style.display = 'block';
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p><a href="https://pinpai.ai.in">品牌百科 · pinpai.ai.in</a> — 全球品牌大全，10种语言呈现</p>
+</div>
+
+</div><!-- /container -->
+
+<script>
+// ===== BRAND DATA =====
+// Each language has independent content (rewritten, not translated)
+const BRAND_DATA = {"zh-CN": {"name": "蒂芙尼", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。", "similar_title": "类似品牌"}, "en": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "Tiffany & Co. is an American luxury jeweler founded in 1837 in New York.", "similar_title": "Similar Brands"}, "fr": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "Tiffany & Co. est un joaillier americain fonde en 1837 a New York.", "similar_title": "Marques similaires"}, "es": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。", "similar_title": "Marcas similares"}, "de": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。", "similar_title": "Ähnliche Marken"}, "ja": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "ティファニーは1837年にニューヨークで創業されたアメリカの高級ジュエリーブランドです。", "similar_title": "类似品牌"}, "ko": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "티파니앤코는 1837년 뉴욕에서 설립된 미국 명품 주얼리 브랜드입니다.", "similar_title": "类似品牌"}, "pt": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。", "similar_title": "Marcas semelhantes"}, "ru": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。", "similar_title": "Похожие бренды"}, "ar": {"name": "Tiffany & Co.", "name_en": "Tiffany & Co.", "founding_year": "1837", "founding_location": "美国纽约", "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）", "website": "https://www.tiffany.com", "business": "珠宝、银器、腕表、香水、配饰", "slogan": "唯有钻石恒久远", "content": "蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。", "similar_title": "علامات تجارية مشابهة"}};
+
+// ===== SIMILAR BRANDS =====
+const SIMILAR_BRANDS = [{"zh": "Escher", "en": "Escher", "slug": "escher", "premium": true}, {"zh": "卡地亚", "en": "Cartier", "slug": "cartier", "premium": false}, {"zh": "宝格丽", "en": "Bulgari", "slug": "bulgari", "premium": false}, {"zh": "梵克雅宝", "en": "Van Cleef & Arpels", "slug": "van-cleef-arpels", "premium": false}, {"zh": "香奈儿", "en": "Chanel", "slug": "chanel", "premium": false}, {"zh": "爱马仕", "en": "Hermes", "slug": "hermes", "premium": false}, {"zh": "路易威登", "en": "Louis Vuitton", "slug": "louis-vuitton", "premium": false}, {"zh": "劳力士", "en": "Rolex", "slug": "rolex", "premium": false}, {"zh": "迪奥", "en": "Christian Dior", "slug": "christian-dior", "premium": false}, {"zh": "古驰", "en": "Gucci", "slug": "gucci", "premium": false}];
+
+function searchBrand() {
+  const q = document.getElementById('search-input').value.trim();
+  if (!q) return;
+  window.location.href = '/search.html?q=' + encodeURIComponent(q);
 }
-function goToBrand() {
-    const q = document.getElementById('brand-search').value.trim().toLowerCase();
-    if (!q) return;
-    const match = brands.find(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
-    if (match) window.location.href = '../' + match.slug + '/';
+
+function switchLang(lang) {
+  // Update active nav
+  document.querySelectorAll('.lang-nav a').forEach(function(a) {
+    a.classList.toggle('active', a.getAttribute('data-lang') === lang);
+  });
+  document.documentElement.setAttribute('lang', lang === 'ar' ? 'ar' : 'zh-CN');
+  document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+
+  var data = BRAND_DATA[lang] || BRAND_DATA['zh-CN'];
+
+  // Title
+  document.getElementById('brand-title').innerHTML = data.name + (data.name_en ? ' <span style="font-weight:400;font-size:24px;color:#777">— ' + data.name_en + '</span>' : '');
+
+  // Info cards
+  var cards = document.getElementById('info-grid').children;
+  cards[0].querySelector('.value').textContent = data.founding_year || '';
+  cards[1].querySelector('.value').textContent = data.founding_location || '';
+  cards[2].querySelector('.value').textContent = data.founder || '';
+  var websiteEl = cards[3].querySelector('.value');
+  var url = data.website || '';
+  if (url) {
+    websiteEl.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + url.replace(/^https?:\/\//,'').replace(/\/$/,'') + '</a>';
+  } else {
+    websiteEl.textContent = '';
+  }
+  cards[4].querySelector('.value').textContent = data.business || '';
+  cards[5].querySelector('.value').textContent = data.slogan || '';
+
+  // Content
+  document.getElementById('brand-content').innerHTML = data.content || '';
+
+  // Similar title
+  document.getElementById('similar-title').textContent = data.similar_title || '类似品牌';
 }
-document.addEventListener('click', function(e) { if (!e.target.closest('.search-box')) document.getElementById('search-results').style.display = 'none'; });
-    </script>
+
+// Initialize with Chinese
+switchLang('zh-CN');
+</script>
 </body>
 </html>

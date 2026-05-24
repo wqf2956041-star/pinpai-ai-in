@@ -1,0 +1,138 @@
+{
+  "slug": "tiffany-co",
+  "names": {
+    "zh-CN": "蒂芙尼",
+    "en": "Tiffany & Co.",
+    "fr": "Tiffany & Co.",
+    "es": "Tiffany & Co.",
+    "de": "Tiffany & Co.",
+    "ja": "Tiffany & Co.",
+    "ko": "Tiffany & Co.",
+    "pt": "Tiffany & Co.",
+    "ru": "Tiffany & Co.",
+    "ar": "Tiffany & Co."
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1837,
+  "founding_location": "美国纽约",
+  "founder": "查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）",
+  "official_website": "https://www.tiffany.com",
+  "main_business": [
+    "珠宝",
+    "银器",
+    "腕表",
+    "香水",
+    "配饰"
+  ],
+  "current_slogan": "唯有钻石恒久远",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Tiffany 六爪镶钻戒",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Tiffany T系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Return to Tiffany系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Tiffany HardWear系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Tiffany Blue Book系列",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1837,
+      "event": "创立"
+    },
+    {
+      "year": 1886,
+      "event": "推出六爪钻戒镶嵌"
+    },
+    {
+      "year": 1961,
+      "event": "蒂凡尼的早餐电影"
+    },
+    {
+      "year": 2020,
+      "event": "LVMH集团收购蒂芙尼"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "蒂芙尼是美国最负盛名的珠宝品牌，由查尔斯蒂芙尼于1837年在纽约创立。1886年推出的六爪镶嵌钻戒成为全球订婚钻戒的标准。蒂芙尼蓝和奥黛丽赫本的蒂凡尼的早餐使品牌成为美式优雅的象征。",
+  "languages": {
+    "en": "Tiffany & Co. is an American luxury jeweler founded in 1837 in New York.",
+    "fr": "Tiffany & Co. est un joaillier americain fonde en 1837 a New York.",
+    "ja": "ティファニーは1837年にニューヨークで創業されたアメリカの高級ジュエリーブランドです。",
+    "ko": "티파니앤코는 1837년 뉴욕에서 설립된 미국 명품 주얼리 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "宝格丽",
+      "en": "Bulgari",
+      "slug": "bulgari"
+    },
+    {
+      "zh": "梵克雅宝",
+      "en": "Van Cleef & Arpels",
+      "slug": "van-cleef-arpels"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    }
+  ]
+}
