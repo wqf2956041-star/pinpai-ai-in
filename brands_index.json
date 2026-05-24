@@ -1,13 +1,5 @@
 [
   {
-    "slug": "shiseido",
-    "zh": "资生堂",
-    "en": "Shiseido",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "资生堂是1872年创立于日本东京银座的全球知名化妆品品牌。亚洲最古老的化妆品公司之一，以红妍肌活精华和百优面霜闻名。融合东方的优雅与西方的科技。"
-  },
-  {
     "slug": "chanel",
     "zh": "香奈儿",
     "en": "Chanel",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "宜家是1943年由Ingvar Kamprad在瑞典艾尔姆胡特创立的全球最大家具零售商。品牌名称IKEA是其创始人姓名（Ingvar Kamprad）、家族农场（Elmtaryd）和村庄（Agunna"
+  },
+  {
+    "slug": "shiseido",
+    "zh": "资生堂",
+    "en": "Shiseido",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "资生堂是1872年由福原有信在日本东京银座创立的全球知名化妆品品牌。亚洲最古老的化妆品公司。资生堂的名字源自中国古籍《易经》中的至哉坤元，万物资生，意为赞美大地孕育万物的美德。\n\n1897年推出的Eu"
   }
 ]
