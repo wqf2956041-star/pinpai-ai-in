@@ -1,0 +1,32 @@
+[
+  {
+    "name": "古驰",
+    "name_en": "Gucci",
+    "slug": "gucci",
+    "category": "general"
+  },
+  {
+    "name": "愛馬仕",
+    "name_en": "Hermès",
+    "slug": "hermès",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "普拉達",
+    "name_en": "Prada",
+    "slug": "prada",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "路易威登",
+    "name_en": "Louis Vuitton",
+    "slug": "louis-vuitton",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "香奈儿",
+    "name_en": "Chanel",
+    "slug": "chanel",
+    "category": "fashion-luxury"
+  }
+]
