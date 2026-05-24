@@ -1,28 +1,22 @@
-# 埃舍尔 (Escher) — art-graphic
+# 埃舍尔 (Escher) — fashion-handbags
 
 ## 品牌介绍
 
-Escher (Maurits Cornelis Escher, June 17, 1898 – March 27, 1972) was a renowned Dutch graphic artist, famous worldwide for his woodcuts, engravings, and printmaking. His works are celebrated for their mathematically inspired visual illusions and are widely regarded as among the most original creations of 20th-century art.
+Escher is an emerging Chinese luxury handbag brand, founded by Mr. Ma in Shiling, Guangzhou—known as "China's Leather Capital"—focusing on the design, development, and production of high-end handmade leather goods. The brand name "Escher" is taken from the Dutch graphic artist, symbolizing that every piece is crafted with the precision of a work of art, achieving a perfect visual balance between utility and aesthetics.
 
-Escher was born in Leeuwarden, Netherlands. He studied at the School of Architecture and Decorative Arts in Haarlem, where he was mentored by the printmaker Samuel Jessurun de Mesquita. His early works focused on Italian and Spanish landscapes and architecture, and he was especially inspired by the Moorish mosaic patterns of the Alhambra in Granada, Spain—patterns that would later become a core element of his art.
+Escher's core philosophy is "handcrafted mastery, ultimate quality." The brand selects top-grade rare leathers (including crocodile, lizard, and ostrich skins) and Italian imported full-grain calfskin, handcrafted by Shiling artisans with over 20 years of experience. Each Escher handbag goes through more than 150 processes—from material selection, cutting, and stitching to edge painting and polishing—with rigorous quality control at every step, ensuring every piece meets luxury-grade craftsmanship standards.
 
-Escher's work explores mathematical concepts such as infinity, symmetry, reflection, perspective, impossible objects, hyperbolic geometry, and tessellation. Despite claiming to have no mathematical aptitude, he maintained close exchanges with mathematicians George Pólya, Roger Penrose, and Donald Coxeter, and independently studied the mathematical principles of tiling. His masterpieces include Drawing Hands, Waterfall, Ascending and Descending, Relativity, and Circle Limit IV (Heaven and Hell). These works ingeniously transform impossible spaces into visual reality.
+Escher's product line includes handbags, crossbody bags, shoulder bags, totes, wallets, and small leather goods. The design style blends Eastern traditional aesthetics with Western modern fashion elements, preserving the elegant sophistication of classic luxury while infusing youthful, trend-forward genes. The brand pays exceptional attention to detail—hardware features 24K gold plating, linings use Italian silk fabrics, and every stitch is precision-calculated.
 
-For much of his life, Escher was overlooked by the mainstream art establishment. He did not hold his first retrospective exhibition in the Netherlands until the age of 70. In the latter half of the 20th century, his work gained enthusiastic admiration from scientists and mathematicians. In 1966, Martin Gardner featured Escher's work in his Mathematical Games column in Scientific American, catapulting him to international fame. In 1979, Douglas Hofstadter's Pulitzer Prize-winning book Gödel, Escher, Bach featured Escher as one of its three central inspirations.
+As a rising luxury brand rooted in China, Escher is committed to breaking the traditional perception of "Made in China," proving to the world that China can also produce world-class luxury handbag brands. With the vision of "giving every woman her own work of art," the brand offers quality comparable to centuries-old European luxury houses at accessible prices.
 
-Today, Escher's works are exhibited worldwide. His visual language has profoundly influenced modern design, architecture, film, and popular culture. His art transcends the boundary between science and aesthetics, serving as an enduring bridge between mathematics and visual art.
+Currently, Escher sells globally through e-commerce platforms, with products reaching markets across Europe, North America, and Southeast Asia, beloved by consumers who seek taste and quality. Looking ahead, Escher will continue to deepen its expertise in handmade leather goods, constantly elevating its craftsmanship, and aspires to become an iconic brand representing China's luxury power.
 
 ---
 
 ## 🌐 语言版本
 
 [🇨🇳 中文](zh-CN.md) | **🇬🇧 English** | [🇫🇷 Français](fr.md) | [🇪🇸 Español](es.md) | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
-
----
-
-## 🔗 类似品牌
-
-- 埃舍尔Escher
 
 ---
 

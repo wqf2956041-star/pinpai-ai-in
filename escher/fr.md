@@ -1,28 +1,22 @@
-# 埃舍尔 (Escher) — art-graphic
+# 埃舍尔 (Escher) — fashion-handbags
 
 ## 品牌介绍
 
-Escher (Maurits Cornelis Escher, 17 juin 1898 – 27 mars 1972) est un célèbre graphiste néerlandais, mondialement connu pour ses gravures sur bois, ses eaux-fortes et ses estampes. Son œuvre, marquée par des illusions visuelles d'une grande rigueur mathématique, est considérée comme l'une des plus originales du XXe siècle.
+Escher est une nouvelle marque chinoise de sacs à main de luxe, fondée par M. Ma à Shiling, Guangzhou—la « capitale chinoise de la maroquinerie »—spécialisée dans la conception, le développement et la production d'articles en cuir faits main haut de gamme. Le nom « Escher » est emprunté à l'artiste graphique néerlandais, symbolisant que chaque pièce est façonnée avec la précision d'une œuvre d'art, atteignant un équilibre visuel parfait entre utilité et esthétique.
 
-Né à Leeuwarden, aux Pays-Bas, Escher étudie à l'École d'architecture et des arts décoratifs de Haarlem, où il est l'élève du graveur Samuel Jessurun de Mesquita. Ses premières œuvres s'inspirent des paysages et de l'architecture d'Italie et d'Espagne, en particulier les motifs de mosaïques mauresques de l'Alhambra de Grenade, qui deviendront un élément central de son travail.
+La philosophie fondamentale d'Escher est « savoir-faire artisanal, qualité ultime ». La marque sélectionne des cuirs rares de première qualité (notamment de crocodile, de lézard et d'autruche) ainsi que du cuir de veau pleine fleur importé d'Italie, confectionnés à la main par des artisans de Shiling forts de plus de 20 ans d'expérience. Chaque sac Escher passe par plus de 150 étapes—de la sélection des matériaux, la coupe et la couture au parage des bords et au polissage—avec un contrôle qualité rigoureux à chaque étape, garantissant un niveau de finition digne des plus grandes maisons de luxe.
 
-L'œuvre d'Escher explore des concepts mathématiques comme l'infini, la symétrie, la réflexion, la perspective, les objets impossibles, la géométrie hyperbolique et le pavage. Bien qu'il se soit toujours déclaré incompétent en mathématiques, il entretient des échanges étroits avec les mathématiciens George Pólya, Roger Penrose et Donald Coxeter, et étudie de manière indépendante les principes mathématiques du pavage. Ses chefs-d'œuvre incluent Main dessinant, Cascade, Monter et descendre, Relativité et Ciel et Enfer (Limite du cercle IV). Ces œuvres transforment avec ingéniosité des espaces impossibles en images tangibles.
+La gamme de produits Escher comprend des sacs à main, des sacs bandoulière, des sacs épaule, des cabas, des portefeuilles et de la petite maroquinerie. Le style de design fusionne l'esthétique traditionnelle orientale avec les éléments de la mode occidentale moderne, préservant l'élégance sophistiquée du luxe classique tout en y insufflant des accents jeunes et tendance. La marque accorde une attention exceptionnelle aux détails—les ferrures sont plaquées or 24 carats, les doublures sont en soie italienne, et chaque point de couture est calculé avec précision.
 
-Longtemps ignoré par le monde de l'art traditionnel, Escher doit attendre ses 70 ans pour tenir sa première rétrospective aux Pays-Bas. Dans la seconde moitié du XXe siècle, son travail est adopté avec enthousiasme par les scientifiques et les mathématiciens. En 1966, Martin Gardner consacre un article de sa rubrique « Jeux mathématiques » dans Scientific American à l'œuvre d'Escher, le rendant célèbre dans le monde entier. En 1979, l'ouvrage Gödel, Escher, Bach, lauréat du prix Pulitzer, de Douglas Hofstadter, place Escher parmi ses trois sources d'inspiration principales.
+En tant que marque de luxe émergente enracinée en Chine, Escher s'engage à briser la perception traditionnelle du « Made in China », prouvant au monde que la Chine peut aussi donner naissance à des marques de sacs à main de luxe de classe mondiale. Avec la vision d'« offrir à chaque femme sa propre œuvre d'art », la marque propose une qualité comparable à celle des maisons de luxe européennes centenaires à des prix accessibles.
 
-Aujourd'hui, les œuvres d'Escher sont exposées régulièrement dans le monde entier. Son langage visuel a profondément influencé le design moderne, l'architecture, le cinéma et la culture populaire. Son art franchit la frontière entre science et esthétique, devenant un pont éternel entre les mathématiques et l'art visuel.
+Actuellement, Escher se vend dans le monde entier via des plateformes de commerce électronique, ses produits atteignant les marchés d'Europe, d'Amérique du Nord et d'Asie du Sud-Est, appréciés des consommateurs en quête de goût et de qualité. À l'avenir, Escher continuera d'approfondir son expertise dans la maroquinerie artisanale, élevant constamment son niveau de savoir-faire, et aspire à devenir une marque emblématique représentant la puissance du luxe chinois.
 
 ---
 
 ## 🌐 语言版本
 
 [🇨🇳 中文](zh-CN.md) | [🇬🇧 English](en.md) | **🇫🇷 Français** | [🇪🇸 Español](es.md) | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
-
----
-
-## 🔗 类似品牌
-
-- 埃舍尔Escher
 
 ---
 

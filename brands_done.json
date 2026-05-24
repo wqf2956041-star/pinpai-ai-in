@@ -3,7 +3,7 @@
     "escher": {
       "name": "Escher",
       "name_cn": "埃舍尔",
-      "category": "art-graphic",
+      "category": "fashion-handbags",
       "done_at": "2026-05-24T05:29:57.057472+00:00",
       "similar": []
     },
@@ -45,7 +45,7 @@
   },
   "stats": {
     "total_brands": 6,
-    "last_update": "2026-05-24T05:46:00.807693+00:00",
+    "last_update": "2026-05-24T05:55:00.000000+00:00",
     "total_pages": 60
   }
 }
