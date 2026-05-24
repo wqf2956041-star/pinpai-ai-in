@@ -1,13 +1,5 @@
 [
   {
-    "slug": "esteelauder",
-    "zh": "雅诗兰黛",
-    "en": "Estee Lauder",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "雅诗兰黛是美国高端化妆品巨头，1946年创立。Advanced Night Repair精华是全球最畅销精华之一。"
-  },
-  {
     "slug": "mercedes-benz",
     "zh": "梅赛德斯-奔驰",
     "en": "Mercedes-Benz",
@@ -390,5 +382,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "欧莱雅是全球最大的化妆品集团，由法国化学家欧仁舒莱尔于1909年创立。最初专注于染发剂研发，舒莱尔发明的合成染发剂Dop奠定了欧莱雅的技术根基。舒莱尔也是现代广告的开创者之一。\n\n欧莱雅集团旗下拥有3"
+  },
+  {
+    "slug": "esteelauder",
+    "zh": "雅诗兰黛",
+    "en": "Estee Lauder",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "雅诗兰黛是美国高端化妆品巨头，由雅诗兰黛夫妇于1946年在纽约创立。雅诗兰黛最初只有四种产品：面霜、清洁油、润肤露和All-Purpose Cream。品牌以无与伦比的客户服务和Gift-With-P"
   }
 ]
