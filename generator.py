@@ -22,10 +22,21 @@
       "name_en": "Chanel",
       "category": "fashion-luxury",
       "desc": "500字中文介绍...",
-      "similar": ["hermes", "louis-vuitton", "gucci"]
+      "similar": ["hermes", "louis-vuitton", "gucci"],
+      "translations": {
+        "en": "英文洗稿版（独立文章，非直译）",
+        "fr": "法文洗稿版"
+      }
     }
   ]
 }
+
+翻译规则（重要）：
+- 中文原文（desc）是唯一源语言
+- 翻译到其他9种语言时，必须"洗稿改写"——每篇都是独立文章，
+  不是直译。保留品牌核心信息，但改变开头、段落结构、表达方式。
+  让10篇文章看起来像10个不同作者写的，SEO最大化。
+- 每篇都必须包含品牌的三条slogan（如果有的话）
 """
 
 import os
