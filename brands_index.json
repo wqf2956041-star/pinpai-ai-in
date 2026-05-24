@@ -326,5 +326,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Vans是1966年创立的美国极限运动鞋品牌。Off The Wall标语源于滑板文化。Old Skool和Slip-On是滑板手和街头文化爱好者必备鞋款。"
+  },
+  {
+    "slug": "ray-ban",
+    "zh": "雷朋",
+    "en": "Ray-Ban",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "雷朋是1937年创立的美国墨镜品牌。Aviator和Wayfarer是全球最经典的墨镜款式。好莱坞电影的出镜率之高使其成为流行文化符号。"
   }
 ]

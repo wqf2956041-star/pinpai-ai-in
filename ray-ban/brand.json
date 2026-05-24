@@ -1,0 +1,121 @@
+{
+  "slug": "ray-ban",
+  "names": {
+    "zh-CN": "雷朋",
+    "en": "Ray-Ban"
+  },
+  "founding_year": 1937,
+  "founding_location": "美国纽约",
+  "founder": "Bausch & Lomb",
+  "official_website": "https://www.ray-ban.com",
+  "main_business": [
+    "墨镜",
+    "光学眼镜"
+  ],
+  "current_slogan": "Never Hide",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Ray-Ban Aviator飞行员"
+    },
+    {
+      "name": "Ray-Ban Wayfarer徒步旅行者"
+    },
+    {
+      "name": "Ray-Ban Clubmaster"
+    },
+    {
+      "name": "Ray-Ban Round圆形"
+    },
+    {
+      "name": "Ray-Ban Justin"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1937,
+      "event": "创立"
+    },
+    {
+      "year": 1938,
+      "event": "Aviator为美军飞行员设计"
+    },
+    {
+      "year": 1952,
+      "event": "Wayfarer推出"
+    },
+    {
+      "year": 1980,
+      "event": "Tom Cruise在《Risky Business》戴Wayfarer引发热潮"
+    },
+    {
+      "year": 1999,
+      "event": "被意大利Luxottica收购"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "雷朋是1937年创立的美国墨镜品牌。Aviator和Wayfarer是全球最经典的墨镜款式。好莱坞电影的出镜率之高使其成为流行文化符号。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
