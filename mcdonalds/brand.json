@@ -1,0 +1,108 @@
+{
+  "slug": "mcdonalds",
+  "names": {
+    "zh-CN": "麦当劳",
+    "en": "McDonald's"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1940,
+  "founding_location": "美国圣贝纳迪诺",
+  "founder": "麦当劳兄弟",
+  "official_website": "https://www.mcdonalds.com",
+  "main_business": [
+    "快餐",
+    "汉堡",
+    "咖啡"
+  ],
+  "current_slogan": "I'm Lovin' It",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Big Mac巨无霸"
+    },
+    {
+      "name": "McFlurry"
+    },
+    {
+      "name": "McNuggets"
+    },
+    {
+      "name": "薯条"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1940,
+      "event": "创立"
+    },
+    {
+      "year": 1954,
+      "event": "雷克洛克加入"
+    },
+    {
+      "year": 1968,
+      "event": "巨无霸诞生"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "麦当劳全球最大快餐连锁品牌，1940年创立。巨无霸是最知名汉堡之一。",
+  "languages": {
+    "en": "McDonald's is the world's largest fast-food chain."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    }
+  ]
+}

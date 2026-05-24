@@ -222,5 +222,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "可口可乐是全球最具价值饮料品牌，1886年配制。弧形瓶和圣诞老人形象已成为全球文化符号。"
+  },
+  {
+    "slug": "mcdonalds",
+    "zh": "麦当劳",
+    "en": "McDonald's",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "麦当劳全球最大快餐连锁品牌，1940年创立。巨无霸是最知名汉堡之一。"
   }
 ]
