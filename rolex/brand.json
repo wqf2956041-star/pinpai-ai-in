@@ -1,0 +1,135 @@
+{
+  "slug": "rolex",
+  "names": {
+    "zh-CN": "劳力士",
+    "en": "Rolex",
+    "fr": "Rolex",
+    "es": "Rolex",
+    "de": "Rolex",
+    "ja": "Rolex",
+    "ko": "Rolex",
+    "pt": "Rolex",
+    "ru": "Rolex",
+    "ar": "Rolex"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1905,
+  "founding_location": "瑞士日内瓦",
+  "founder": "汉斯·威斯多夫（Hans Wilsdorf）",
+  "official_website": "https://www.rolex.com",
+  "main_business": [
+    "腕表",
+    "珠宝"
+  ],
+  "current_slogan": "为成功加冕",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Rolex Submariner潜航者",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Rolex Daytona迪通拿",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Rolex Datejust日志型",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Rolex GMT-Master格林尼治",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Rolex Day-Date元首型",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1905,
+      "event": "创立"
+    },
+    {
+      "year": 1926,
+      "event": "推出蚝式防水腕表"
+    },
+    {
+      "year": 1931,
+      "event": "自动上链机制"
+    },
+    {
+      "year": 1953,
+      "event": "Submariner潜航者系列"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "劳力士是瑞士最知名的腕表品牌，由汉斯威斯多夫于1905年在伦敦创立。1926年发明蚝式防水表壳彻底改变了制表业。劳力士不仅是精密时计，更是成功与地位的象征。每一枚劳力士腕表都是一项精密工程。",
+  "languages": {
+    "en": "Rolex is a Swiss luxury watchmaker founded in 1905 by Hans Wilsdorf.",
+    "fr": "Rolex est un horloger suisse fonde en 1905 par Hans Wilsdorf.",
+    "ja": "ロレックスは1905年にハンスウィルスドルフが創業したスイスの高級時計ブランドです。",
+    "ko": "롤렉스는 1905년 한스 빌스도르프가 설립한 스위스 명품 시계 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "百达翡丽",
+      "en": "Patek Philippe",
+      "slug": "patek-philippe"
+    },
+    {
+      "zh": "欧米茄",
+      "en": "Omega",
+      "slug": "omega"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    }
+  ]
+}
