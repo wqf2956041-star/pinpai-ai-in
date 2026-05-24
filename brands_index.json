@@ -1,13 +1,5 @@
 [
   {
-    "slug": "tory-burch",
-    "zh": "Tory Burch",
-    "en": "Tory Burch",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "Tory Burch是2004年由设计师Tory Burch创立的美国时尚品牌。品牌以美式优雅融合运动休闲风格著称。Tory Burch的双T标志是她自己设计的几何图案，灵感来自摩洛哥瓷砖的对称美学。"
-  },
-  {
     "slug": "van-cleef-arpels",
     "zh": "梵克雅宝",
     "en": "Van Cleef & Arpels",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "迈可寇斯是1981年创立的美国轻奢时尚品牌，由设计师Michael Kors创立。Michael Kors本人是Project Runway评委和第一位为Celine设计成衣的美国设计师。\n\n品牌以J"
+  },
+  {
+    "slug": "tory-burch",
+    "zh": "Tory Burch",
+    "en": "Tory Burch",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Tory Burch是2004年由设计师Tory Burch创立的美国时尚品牌。品牌以美式优雅融合运动休闲风格著称。Tory Burch的双T标志是她自己设计的几何图案，灵感来自摩洛哥瓷砖的对称美学。"
   }
 ]
