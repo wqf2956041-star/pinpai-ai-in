@@ -1,0 +1,135 @@
+{
+  "slug": "louis-vuitton",
+  "names": {
+    "zh-CN": "路易威登",
+    "en": "Louis Vuitton",
+    "fr": "Louis Vuitton",
+    "es": "Louis Vuitton",
+    "de": "Louis Vuitton",
+    "ja": "Louis Vuitton",
+    "ko": "Louis Vuitton",
+    "pt": "Louis Vuitton",
+    "ru": "Louis Vuitton",
+    "ar": "Louis Vuitton"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1854,
+  "founding_location": "法国巴黎",
+  "founder": "路易威登",
+  "official_website": "https://www.louisvuitton.com",
+  "main_business": [
+    "旅行箱",
+    "皮具",
+    "时装",
+    "香水",
+    "腕表",
+    "珠宝"
+  ],
+  "current_slogan": "旅行本身就是一趟旅程",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Monogram帆布行李箱",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Speedy手袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Neverfull手袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Keepall旅行袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Twist手袋",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1854,
+      "event": "创立"
+    },
+    {
+      "year": 1896,
+      "event": "Monogram帆布图案"
+    },
+    {
+      "year": 1997,
+      "event": "马克雅各布出任创意总监"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "路易威登是全球最大奢侈品牌之一，由路易威登于1854年在巴黎创立。以革命性的平顶防水帆布旅行箱闻名，彻底改变了19世纪的旅行方式。标志性的Monogram帆布由乔治威登于1896年创作。1997年进军成衣领域。",
+  "languages": {
+    "en": "Louis Vuitton is the world's most valuable luxury brand, founded in Paris in 1854.",
+    "fr": "Le leader mondial du luxe, fonde en 1854.",
+    "ja": "世界で最も価値のある高級ブランドです。",
+    "ko": "세계에서 가장 가치 있는 명품 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "博柏利",
+      "en": "Burberry",
+      "slug": "burberry"
+    },
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    },
+    {
+      "zh": "阿玛尼",
+      "en": "Armani",
+      "slug": "armani"
+    }
+  ]
+}
