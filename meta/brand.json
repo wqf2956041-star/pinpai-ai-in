@@ -1,0 +1,123 @@
+{
+  "slug": "meta",
+  "names": {
+    "zh-CN": "Meta（Facebook）",
+    "en": "Meta"
+  },
+  "founding_year": 2004,
+  "founding_location": "美国加州门洛帕克",
+  "founder": "马克·扎克伯格",
+  "official_website": "https://about.meta.com",
+  "main_business": [
+    "社交网络",
+    "虚拟现实",
+    "即时通讯"
+  ],
+  "current_slogan": "Bringing the world closer together",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Facebook"
+    },
+    {
+      "name": "Instagram"
+    },
+    {
+      "name": "WhatsApp"
+    },
+    {
+      "name": "Oculus VR"
+    },
+    {
+      "name": "Threads"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 2004,
+      "event": "创立于哈佛宿舍"
+    },
+    {
+      "year": 2012,
+      "event": "上市并收购Instagram"
+    },
+    {
+      "year": 2014,
+      "event": "收购WhatsApp"
+    },
+    {
+      "year": 2021,
+      "event": "更名为Meta押注元宇宙"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Meta是全球最大的社交网络公司，2004年由马克扎克伯格在哈佛大学宿舍创立。最初名为Facebook，从校园社交网站发展为连接全球超过30亿用户的社交帝国。旗下拥有Facebook主站、Instagram（全球最大图片社交平台）、WhatsApp（全球最大即时通讯工具）和Threads（X/Twitter竞争对手）。2021年更名为Meta专注于元宇宙愿景。Meta年营收超过1300亿美元，主要通过数字广告变现。",
+  "languages": {
+    "en": "Meta是全球最大 社交网络公司, 2004年由马克扎克伯格在哈佛大学宿舍创立. 最初名为Facebook, 从校园社交网站发展为连接全球超过30亿用户 社交帝国. 旗下拥有Facebook主站, Instagram（全球最大图片社交平台）, WhatsApp（全球最大即时通讯工具） and Threads（X/Twitter竞争对手）. 2021年更名为Meta专注于元宇宙愿景. Meta年营收超过1300亿美元, 主要通过数字广告变现. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "谷歌",
+      "en": "Google",
+      "slug": "google",
+      "premium": false
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "微软",
+      "en": "Microsoft",
+      "slug": "microsoft",
+      "premium": false
+    },
+    {
+      "zh": "奈飞",
+      "en": "Netflix",
+      "slug": "netflix",
+      "premium": false
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung",
+      "premium": false
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
