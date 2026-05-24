@@ -1,0 +1,107 @@
+{
+  "slug": "mercedes-benz",
+  "names": {
+    "zh-CN": "梅赛德斯-奔驰",
+    "en": "Mercedes-Benz"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1926,
+  "founding_location": "德国斯图加特",
+  "founder": "卡尔·本茨",
+  "official_website": "https://www.mercedes-benz.com",
+  "main_business": [
+    "豪华汽车",
+    "商用车",
+    "电动车"
+  ],
+  "current_slogan": "The Best or Nothing",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "S-Class"
+    },
+    {
+      "name": "C-Class"
+    },
+    {
+      "name": "G-Class"
+    },
+    {
+      "name": "AMG GT"
+    },
+    {
+      "name": "EQS"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1886,
+      "event": "发明汽车"
+    },
+    {
+      "year": 1926,
+      "event": "奔驰戴姆勒合并"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "梅赛德斯奔驰世界最古老汽车品牌之一，汽车之父卡尔本茨创立。S-Class定义全球高端汽车标准。",
+  "languages": {
+    "en": "Mercedes-Benz is the world's oldest automotive brand."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    }
+  ]
+}

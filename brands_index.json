@@ -198,5 +198,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "雅诗兰黛是美国高端化妆品巨头，1946年创立。Advanced Night Repair精华是全球最畅销精华之一。"
+  },
+  {
+    "slug": "mercedes-benz",
+    "zh": "梅赛德斯-奔驰",
+    "en": "Mercedes-Benz",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "梅赛德斯奔驰世界最古老汽车品牌之一，汽车之父卡尔本茨创立。S-Class定义全球高端汽车标准。"
   }
 ]
