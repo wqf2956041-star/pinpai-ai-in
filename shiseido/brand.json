@@ -1,0 +1,108 @@
+{
+  "slug": "shiseido",
+  "names": {
+    "zh-CN": "资生堂",
+    "en": "Shiseido"
+  },
+  "founding_year": 1872,
+  "founding_location": "日本东京银座",
+  "founder": "福原有信",
+  "official_website": "https://www.shiseido.com",
+  "main_business": [
+    "化妆品",
+    "护肤品",
+    "香水",
+    "男士护理"
+  ],
+  "current_slogan": "美力创新让世界更好",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "资生堂红妍肌活精华"
+    },
+    {
+      "name": "资生堂百优面霜"
+    },
+    {
+      "name": "资生堂蓝胖子防晒"
+    },
+    {
+      "name": "资生堂盼丽风姿系列"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1872,
+      "event": "创立日本首家西式药房"
+    },
+    {
+      "year": 1897,
+      "event": "推出Eudermine红色蜜露"
+    },
+    {
+      "year": 1980,
+      "event": "国际化扩张"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "资生堂是1872年创立于日本东京银座的全球知名化妆品品牌。亚洲最古老的化妆品公司之一，以红妍肌活精华和百优面霜闻名。融合东方的优雅与西方的科技。",
+  "languages": {
+    "en": "Shiseido is a Japanese cosmetics brand founded in 1872 in Ginza, Tokyo. Japan's oldest cosmetics company, known for Ultimune Power Infusing Concentrate."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "欧莱雅",
+      "en": "L'Oreal",
+      "slug": "loreal"
+    },
+    {
+      "zh": "雅诗兰黛",
+      "en": "Estee Lauder",
+      "slug": "esteelauder"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    }
+  ]
+}
