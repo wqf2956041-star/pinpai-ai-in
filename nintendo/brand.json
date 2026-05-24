@@ -1,0 +1,123 @@
+{
+  "slug": "nintendo",
+  "names": {
+    "zh-CN": "任天堂",
+    "en": "Nintendo"
+  },
+  "founding_year": 1889,
+  "founding_location": "日本京都",
+  "founder": "山内房治郎",
+  "official_website": "https://www.nintendo.com",
+  "main_business": [
+    "游戏主机",
+    "游戏软件",
+    "手游"
+  ],
+  "current_slogan": "从1889年开始传递笑容",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Nintendo Switch"
+    },
+    {
+      "name": "超级马里奥"
+    },
+    {
+      "name": "塞尔达传说"
+    },
+    {
+      "name": "宝可梦"
+    },
+    {
+      "name": "动物森友会"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1889,
+      "event": "创立花札纸牌公司"
+    },
+    {
+      "year": 1977,
+      "event": "进军电子游戏"
+    },
+    {
+      "year": 1985,
+      "event": "超级马里奥兄弟"
+    },
+    {
+      "year": 2017,
+      "event": "Switch推出"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "任天堂是1889年创立的日本游戏公司，最初生产花札纸牌。在百年历史中多次转型——从纸牌到玩具，再到电子游戏。超级马里奥是游戏史上最著名的角色，马里奥大叔的形象被列为流行文化符号。任天堂永远把好玩的游戏放在第一位而不是画面效果——这种任天堂哲学让Switch成为史上最成功的游戏主机之一，销量超过1.3亿台。动物森友会在疫情期间成为全球文化现象。任天堂也坚持对用户的保护和对品牌形象的控制，不滥用自己的IP。",
+  "languages": {
+    "en": "任天堂是1889年创立 日本游戏公司, 最初生产花札纸牌. 在百年历史中多次转型——从纸牌到玩具, 再到电子游戏. 超级马里奥是游戏史上最著名 角色, 马里奥大叔 形象被列为流行文化符号. 任天堂永远把好玩 游戏放在第一位而不是画面效果——这种任天堂哲学让Switch成为史上最成功 游戏主机之一, 销量超过1.3亿台. 动物森友会在疫情期间成为全球文化现象. 任天堂也坚持对用户 保护 and 对品牌形象 控制, 不滥用自己 IP. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony",
+      "premium": false
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "谷歌",
+      "en": "Google",
+      "slug": "google",
+      "premium": false
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung",
+      "premium": false
+    },
+    {
+      "zh": "乐高",
+      "en": "LEGO",
+      "slug": "lego",
+      "premium": false
+    },
+    {
+      "zh": "宜家",
+      "en": "IKEA",
+      "slug": "ikea",
+      "premium": false
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
