@@ -302,5 +302,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "泰格豪雅是1860年创立的瑞士腕表品牌，以运动计时和赛车主宰著称。Monaco和Carrera系列是赛车腕表的经典代表。"
+  },
+  {
+    "slug": "puma",
+    "zh": "彪马",
+    "en": "Puma",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "彪马是1948年创立的德国运动品牌。Puma Suede经典鞋曾是篮球鞋，后成为嘻哈文化的标志性单品。与Rihanna合作进一步巩固时尚地位。"
   }
 ]
