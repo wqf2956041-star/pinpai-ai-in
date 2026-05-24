@@ -1,0 +1,116 @@
+{
+  "slug": "ferrari",
+  "names": {
+    "zh-CN": "法拉利",
+    "en": "Ferrari"
+  },
+  "founding_year": 1947,
+  "founding_location": "意大利马拉内罗",
+  "founder": "恩佐·法拉利",
+  "official_website": "https://www.ferrari.com",
+  "main_business": [
+    "超级跑车",
+    "赛车",
+    "高端服饰",
+    "主题公园"
+  ],
+  "current_slogan": "We are the competition",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Ferrari LaFerrari"
+    },
+    {
+      "name": "Ferrari F40"
+    },
+    {
+      "name": "Ferrari 488 GTB"
+    },
+    {
+      "name": "Ferrari SF90 Stradale"
+    },
+    {
+      "name": "Ferrari 296 GTB"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1947,
+      "event": "第一辆法拉利125 S下线"
+    },
+    {
+      "year": 1969,
+      "event": "被菲亚特收购50%股权"
+    },
+    {
+      "year": 2014,
+      "event": "LaFerrari混动超跑"
+    },
+    {
+      "year": 2023,
+      "event": "法拉利在纽交所独立上市"
+    }
+  ],
+  "description_zh": "法拉利是1947年由恩佐法拉利在意大利马拉内罗创立的全球最著名的超级跑车品牌。一匹跃起的黑色骏马是品牌最经典的符号——源自一战王牌飞行员Francesco Baracca座机上的幸运标志。法拉利以红色赛车传统闻名于世，赛车是品牌的灵魂——法拉利是F1历史上最成功的车队，获得过15次车手世界冠军和16次车队世界冠军。每一辆法拉利都是性能与艺术的完美结合，引擎的声浪被称为马拉内罗的交响乐。F40是创始人去世前最后一款亲自参与的法拉利，也是最具收藏价值的法拉利之一。品牌在2023年成功独立上市，年营收约60亿欧元，延续了奢侈品级限量发售的策略以维持稀缺性。",
+  "languages": {
+    "en": "Ferrari is the world's most famous supercar brand, founded in 1947 by Enzo Ferrari in Maranello, Italy. The prancing horse logo originated from Italian WWI ace pilot Francesco Baracca."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "兰博基尼",
+      "en": "Lamborghini",
+      "slug": "lamborghini",
+      "premium": false
+    },
+    {
+      "zh": "保时捷",
+      "en": "Porsche",
+      "slug": "porsche",
+      "premium": false
+    },
+    {
+      "zh": "梅赛德斯-奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz",
+      "premium": false
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw",
+      "premium": false
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex",
+      "premium": false
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
