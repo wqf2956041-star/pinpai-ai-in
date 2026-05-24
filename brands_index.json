@@ -310,5 +310,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "彪马是1948年创立的德国运动品牌。Puma Suede经典鞋曾是篮球鞋，后成为嘻哈文化的标志性单品。与Rihanna合作进一步巩固时尚地位。"
+  },
+  {
+    "slug": "converse",
+    "zh": "匡威",
+    "en": "Converse",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "匡威是1908年创立的美国鞋履品牌。Chuck Taylor All Star是有史以来最畅销的篮球鞋和休闲鞋，滑板手和摇滚乐队钟爱的经典鞋款。"
   }
 ]
