@@ -184,21 +184,16 @@ def write_brand(brand_data):
     run_git(["commit", "-m", f"品牌百科: {index[-1]['zh']} {index[-1]['en']} - {datetime.now().strftime('%Y-%m-%d %H:%M')}"])
     run_git(["push", "origin", "main"])
 
+    name_zh = brand_data.get("names", {}).get("zh-CN", slug)
+    name_en = brand_data.get("names", {}).get("en", slug)
     print(f"✅ {name_zh} ({name_en}) — 已生成并推送")
     return slug
 
 def update_search_index(index):
-    """更新search.html中的BRAND_INDEX内联数据"""
+    """更新search.html中的BRAND_INDEX内联数据（模板变量替换）"""
     html = SEARCH_HTML.read_text(encoding='utf-8')
-    # 替换BRAND_INDEX
     new_index = json.dumps(index, ensure_ascii=False)
-    # 正则替换 const BRAND_INDEX = [...];
-    html = re.sub(
-        r'const BRAND_INDEX\s*=\s*\[.*?\];',
-        f'const BRAND_INDEX = {new_index};',
-        html,
-        flags=re.DOTALL
-    )
+    html = html.replace("$BRAND_INDEX$", new_index)
     SEARCH_HTML.write_text(html, encoding='utf-8')
 
 def cmd_list():
