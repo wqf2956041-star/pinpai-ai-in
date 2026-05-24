@@ -1,0 +1,113 @@
+{
+  "slug": "omega",
+  "names": {
+    "zh-CN": "欧米茄",
+    "en": "Omega"
+  },
+  "founding_year": 1848,
+  "founding_location": "瑞士比尔",
+  "founder": "Louis Brandt",
+  "official_website": "https://www.omegawatches.com",
+  "main_business": [
+    "腕表"
+  ],
+  "current_slogan": "Omega — 精准于心",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Omega Speedmaster超霸"
+    },
+    {
+      "name": "Omega Seamaster海马"
+    },
+    {
+      "name": "Omega Constellation星座"
+    },
+    {
+      "name": "Omega De Ville碟飞"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1848,
+      "event": "创立"
+    },
+    {
+      "year": 1932,
+      "event": "推出潜水腕表"
+    },
+    {
+      "year": 1969,
+      "event": "Speedmaster成为登月腕表"
+    },
+    {
+      "year": 1995,
+      "event": "成为James Bond官方腕表"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "欧米茄是1848年创立的瑞士腕表品牌。Speedmaster超霸是唯一经NASA认证的登月腕表，Seamaster海马是007詹姆斯邦德的指定腕表之一。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

@@ -286,5 +286,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "梵克雅宝是1906年创立的法国顶级珠宝品牌。Alhambra四叶草系列是最标志性的珠宝设计之一，以幸运四叶草为主题成为身份象征。"
+  },
+  {
+    "slug": "omega",
+    "zh": "欧米茄",
+    "en": "Omega",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "欧米茄是1848年创立的瑞士腕表品牌。Speedmaster超霸是唯一经NASA认证的登月腕表，Seamaster海马是007詹姆斯邦德的指定腕表之一。"
   }
 ]
