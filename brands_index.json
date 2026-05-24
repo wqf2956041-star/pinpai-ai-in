@@ -158,5 +158,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "阿迪达斯是德国全球运动品牌巨头，1949年创立。Stan Smith和Superstar是最畅销运动鞋之一。"
+  },
+  {
+    "slug": "apple",
+    "zh": "苹果",
+    "en": "Apple",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "苹果是全球最具价值的科技公司，1976年创立。iPhone重新定义了智能手机。历史上第一家市值突破3万亿美元的公司。"
   }
 ]

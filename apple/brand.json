@@ -1,0 +1,112 @@
+{
+  "slug": "apple",
+  "names": {
+    "zh-CN": "苹果",
+    "en": "Apple"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1976,
+  "founding_location": "美国加利福尼亚",
+  "founder": "史蒂夫·乔布斯等三人",
+  "official_website": "https://www.apple.com",
+  "main_business": [
+    "智能手机",
+    "电脑",
+    "软件",
+    "可穿戴设备"
+  ],
+  "current_slogan": "Think Different",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "iPhone"
+    },
+    {
+      "name": "MacBook"
+    },
+    {
+      "name": "iPad"
+    },
+    {
+      "name": "Apple Watch"
+    },
+    {
+      "name": "AirPods"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1976,
+      "event": "创立"
+    },
+    {
+      "year": 1984,
+      "event": "Macintosh"
+    },
+    {
+      "year": 2007,
+      "event": "iPhone发布"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "苹果是全球最具价值的科技公司，1976年创立。iPhone重新定义了智能手机。历史上第一家市值突破3万亿美元的公司。",
+  "languages": {
+    "en": "Apple is the world's most valuable technology company."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    }
+  ]
+}
