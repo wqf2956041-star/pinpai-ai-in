@@ -1,0 +1,107 @@
+{
+  "slug": "clinique",
+  "names": {
+    "zh-CN": "倩碧",
+    "en": "Clinique"
+  },
+  "founding_year": 1968,
+  "founding_location": "美国纽约",
+  "founder": "Dr. Norman Orentreich等",
+  "official_website": "https://www.clinique.com",
+  "main_business": [
+    "护肤品",
+    "化妆品",
+    "男士护肤"
+  ],
+  "current_slogan": "Dermatologist Developed. Allergy Tested.",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Clinique护肤三部曲"
+    },
+    {
+      "name": "Clinique黄油面霜"
+    },
+    {
+      "name": "Clinique面部防晒"
+    },
+    {
+      "name": "Clinique even better粉底"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1968,
+      "event": "创立于雅诗兰黛旗下"
+    },
+    {
+      "year": 1968,
+      "event": "推出三步曲护肤系统"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "倩碧是1968年创立的美国护肤品牌，世界上第一个由皮肤科医生开发的化妆品品牌。护肤三部曲是品牌黄金标准，黄油面霜畅销不衰。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
