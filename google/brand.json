@@ -1,0 +1,124 @@
+{
+  "slug": "google",
+  "names": {
+    "zh-CN": "谷歌",
+    "en": "Google"
+  },
+  "founding_year": 1998,
+  "founding_location": "美国加州门洛帕克",
+  "founder": "Larry Page与Sergey Brin",
+  "official_website": "https://www.google.com",
+  "main_business": [
+    "搜索引擎",
+    "广告",
+    "云计算",
+    "软件"
+  ],
+  "current_slogan": "Do the right thing",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Google搜索"
+    },
+    {
+      "name": "Android系统"
+    },
+    {
+      "name": "YouTube"
+    },
+    {
+      "name": "Google Maps"
+    },
+    {
+      "name": "Chrome浏览器"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1998,
+      "event": "创立"
+    },
+    {
+      "year": 2004,
+      "event": "Gmail"
+    },
+    {
+      "year": 2005,
+      "event": "收购Android"
+    },
+    {
+      "year": 2006,
+      "event": "收购YouTube"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "谷歌是全球最大的搜索引擎和数字广告公司，1998年由Larry Page和Sergey Brin在斯坦福大学宿舍创立。谷歌这个名字源自googol（10的100次方），象征海量信息搜索。每天处理超过35亿次搜索请求，占有全球搜索引擎市场90%以上的份额。Android是世界上最流行的移动操作系统，YouTube是最大视频平台。谷歌旗下还有Gmail、Google Maps、Chrome浏览器和Google Cloud。母公司Alphabet年营收超过3000亿美元。",
+  "languages": {
+    "en": "谷歌是全球最大 搜索引擎 and 数字广告公司, 1998年由Larry Page and Sergey Brin在斯坦福大学宿舍创立. 谷歌这个名字源自googol（10 100次方）, 象征海量信息搜索. 每天处理超过35亿次搜索请求, 占有全球搜索引擎市场90%以上 份额. Android是世界上最流行 移动操作系统, YouTube是最大视频平台. 谷歌旗下还有Gmail, Google Maps, Chrome浏览器 and Google Cloud. 母公司Alphabet年营收超过3000亿美元. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung",
+      "premium": false
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw",
+      "premium": false
+    },
+    {
+      "zh": "梅赛德斯-奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz",
+      "premium": false
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
