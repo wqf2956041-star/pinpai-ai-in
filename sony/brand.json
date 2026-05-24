@@ -1,0 +1,112 @@
+{
+  "slug": "sony",
+  "names": {
+    "zh-CN": "索尼",
+    "en": "Sony"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1946,
+  "founding_location": "日本东京",
+  "founder": "井深大、盛田昭夫",
+  "official_website": "https://www.sony.com",
+  "main_business": [
+    "消费电子",
+    "游戏",
+    "娱乐",
+    "影像"
+  ],
+  "current_slogan": "Believe in Your Senses",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "PlayStation"
+    },
+    {
+      "name": "Walkman"
+    },
+    {
+      "name": "BRAVIA电视"
+    },
+    {
+      "name": "Alpha相机"
+    },
+    {
+      "name": "WH-1000X耳机"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1946,
+      "event": "创立"
+    },
+    {
+      "year": 1979,
+      "event": "Walkman"
+    },
+    {
+      "year": 1994,
+      "event": "PlayStation发布"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "索尼是日本最具全球影响力的电子娱乐公司，1946年创立。PlayStation是全球最成功游戏平台之一。",
+  "languages": {
+    "en": "Sony is a Japanese electronics and entertainment giant."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    }
+  ]
+}

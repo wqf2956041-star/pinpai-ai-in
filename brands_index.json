@@ -174,5 +174,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "三星是韩国最大跨国企业，1938年创立。全球最大的智能手机和半导体制造商。"
+  },
+  {
+    "slug": "sony",
+    "zh": "索尼",
+    "en": "Sony",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "索尼是日本最具全球影响力的电子娱乐公司，1946年创立。PlayStation是全球最成功游戏平台之一。"
   }
 ]
