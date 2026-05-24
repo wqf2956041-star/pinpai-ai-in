@@ -1,0 +1,123 @@
+{
+  "slug": "tesla",
+  "names": {
+    "zh-CN": "特斯拉",
+    "en": "Tesla"
+  },
+  "founding_year": 2003,
+  "founding_location": "美国加州圣卡洛斯",
+  "founder": "Elon Musk等五人",
+  "official_website": "https://www.tesla.com",
+  "main_business": [
+    "电动汽车",
+    "能源存储",
+    "太阳能"
+  ],
+  "current_slogan": "Accelerate the world's transition to sustainable energy",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Model 3"
+    },
+    {
+      "name": "Model Y"
+    },
+    {
+      "name": "Model S"
+    },
+    {
+      "name": "Model X"
+    },
+    {
+      "name": "Cybertruck"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 2003,
+      "event": "创立"
+    },
+    {
+      "year": 2008,
+      "event": "Roadster跑车"
+    },
+    {
+      "year": 2012,
+      "event": "Model S发布"
+    },
+    {
+      "year": 2020,
+      "event": "成为全球市值最高汽车公司"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "特斯拉是全球最具创新力的电动汽车公司，2003年由Martin Eberhard和Marc Tarpenning创立，2004年Elon Musk加入并主导了公司的发展方向。Model S在2012年推出的17英寸中控屏革命性改变了汽车内饰设计。特斯拉不仅是汽车制造商，更是能源公司和自动驾驶技术领导者。FSD全自动驾驶系统通过持续的OTA空中更新不断升级。2020年特斯拉成为全球市值最高的汽车公司，市值一度超过1万亿美元。",
+  "languages": {
+    "en": "特斯拉是全球最具创新力 电动汽车公司, 2003年由Martin Eberhard and Marc Tarpenning创立, 2004年Elon Musk加入并主导了公司 发展方向. Model S在2012年推出 17英寸中控屏革命性改变了汽车内饰设计. 特斯拉不仅是汽车制造商, 更是能源公司 and 自动驾驶技术领导者. FSD全自动驾驶系统通过持续 OTA空中更新不断升级. 2020年特斯拉成为全球市值最高 汽车公司, 市值一度超过1万亿美元. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple",
+      "premium": false
+    },
+    {
+      "zh": "谷歌",
+      "en": "Google",
+      "slug": "google",
+      "premium": false
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw",
+      "premium": false
+    },
+    {
+      "zh": "梅赛德斯-奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz",
+      "premium": false
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung",
+      "premium": false
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

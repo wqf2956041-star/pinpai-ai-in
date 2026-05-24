@@ -446,5 +446,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "微软是全球最大的软件公司，1975年由比尔盖茨和保罗艾伦创立。Windows操作系统统治了PC时代超过40年，Office办公套件是职场必备工具。2014年Satya Nadella接任CEO后微软从"
+  },
+  {
+    "slug": "tesla",
+    "zh": "特斯拉",
+    "en": "Tesla",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "特斯拉是全球最具创新力的电动汽车公司，2003年由Martin Eberhard和Marc Tarpenning创立，2004年Elon Musk加入并主导了公司的发展方向。Model S在2012年"
   }
 ]
