@@ -1,13 +1,5 @@
 [
   {
-    "slug": "michael-kors",
-    "zh": "迈可·寇斯",
-    "en": "Michael Kors",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "迈可寇斯是1981年创立的美国轻奢时尚品牌，由设计师Michael Kors创立。Michael Kors本人是Project Runway评委和第一位为Celine设计成衣的美国设计师。\n\n品牌以J"
-  },
-  {
     "slug": "tory-burch",
     "zh": "Tory Burch",
     "en": "Tory Burch",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "蔻驰是美国标志性轻奢皮具品牌，1941年在纽约曼哈顿的皮具工坊中创立。最初是一家小型皮具工坊，以制作高质量棒球手套皮具起家。1962年推出的Glove-tanned皮革工艺将手套的柔软质感引入手袋设计"
+  },
+  {
+    "slug": "michael-kors",
+    "zh": "迈可·寇斯",
+    "en": "Michael Kors",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "迈可寇斯是1981年创立的美国轻奢时尚品牌，由设计师Michael Kors创立。Michael Kors本人是Project Runway评委和第一位为Celine设计成衣的美国设计师。\n\n品牌以J"
   }
 ]
