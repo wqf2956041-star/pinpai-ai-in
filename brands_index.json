@@ -1,13 +1,5 @@
 [
   {
-    "slug": "converse",
-    "zh": "匡威",
-    "en": "Converse",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "匡威是1908年创立的美国鞋履品牌。Chuck Taylor All Star是有史以来最畅销的篮球鞋和休闲鞋，滑板手和摇滚乐队钟爱的经典鞋款。"
-  },
-  {
     "slug": "vans",
     "zh": "Vans",
     "en": "Vans",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "彪马是1948年创立的德国运动品牌，由阿道夫达斯勒的弟弟鲁道夫达斯勒创立。达斯勒兄弟的家族分裂导致阿道夫创立Adidas（来自他的名字Adi Dassler）、鲁道夫创立Puma。这是运动品牌史上最著"
+  },
+  {
+    "slug": "converse",
+    "zh": "匡威",
+    "en": "Converse",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "匡威是1908年创立的美国鞋履品牌，由Marquis Mills Converse在马萨诸塞州创立。最初生产橡胶鞋底产品。1921年篮球运动员Chuck Taylor加入了品牌，为All Star篮球"
   }
 ]
