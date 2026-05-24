@@ -6,11 +6,46 @@
       "category": "art-graphic",
       "done_at": "2026-05-24T05:29:57.057472+00:00",
       "similar": []
+    },
+    "hermès": {
+      "name": "Hermès",
+      "name_cn": "愛馬仕",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T05:46:00.800463+00:00",
+      "similar": []
+    },
+    "chanel": {
+      "name": "Chanel",
+      "name_cn": "香奈儿",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T05:46:00.802329+00:00",
+      "similar": []
+    },
+    "louis-vuitton": {
+      "name": "Louis Vuitton",
+      "name_cn": "路易威登",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T05:46:00.804139+00:00",
+      "similar": []
+    },
+    "gucci": {
+      "name": "Gucci",
+      "name_cn": "古驰",
+      "category": "general",
+      "done_at": "2026-05-24T05:46:00.805943+00:00",
+      "similar": []
+    },
+    "prada": {
+      "name": "Prada",
+      "name_cn": "普拉達",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T05:46:00.807678+00:00",
+      "similar": []
     }
   },
   "stats": {
-    "total_brands": 1,
-    "last_update": "2026-05-24T05:29:57.057493+00:00",
-    "total_pages": 10
+    "total_brands": 6,
+    "last_update": "2026-05-24T05:46:00.807693+00:00",
+    "total_pages": 60
   }
 }

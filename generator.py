@@ -33,6 +33,9 @@ import sys
 import json
 import hashlib
 import subprocess
+import urllib.request
+import urllib.error
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -64,6 +67,169 @@ ESCHER_BRAND = {
     "slug": "escher",
     "name_en": "ESCHĚR"
 }
+
+def fetch_wikipedia_zh(name):
+    """从中文维基百科抓取品牌介绍，返回约500字摘要"""
+    encoded = urllib.parse.quote(name)
+    url = f"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&exlimit=1&exchars=800&titles={encoded}&format=json&redirects=1"
+    
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "pinpai-ai-in/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read())
+        
+        pages = data.get("query", {}).get("pages", {})
+        for page_id, page in pages.items():
+            if page_id == "-1":
+                return None, None
+            extract = page.get("extract", "")
+            title = page.get("title", name)
+            # 清理空格，截取约500字
+            extract = re.sub(r'\s+', ' ', extract).strip()
+            if len(extract) > 550:
+                extract = extract[:550] + "。"
+            return extract, title
+    except Exception:
+        pass
+    return None, None
+
+
+def fetch_wikipedia_en(name):
+    """从英文维基百科抓取品牌介绍（中文找不到时备用）"""
+    encoded = urllib.parse.quote(name)
+    url = f"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&exlimit=1&exchars=800&titles={encoded}&format=json&redirects=1"
+    
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "pinpai-ai-in/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read())
+        
+        pages = data.get("query", {}).get("pages", {})
+        for page_id, page in pages.items():
+            if page_id == "-1":
+                return None, None
+            extract = page.get("extract", "")
+            title = page.get("title", name)
+            extract = re.sub(r'\s+', ' ', extract).strip()
+            if len(extract) > 550:
+                extract = extract[:550] + "."
+            return extract, title
+    except Exception:
+        pass
+    return None, None
+
+
+def auto_scrape_brand(name, name_en=None):
+    """自动从维基百科抓取品牌信息
+    
+    返回: (name_cn, name_en, category, desc) 或 None
+    """
+    # 先试中文
+    zh_text, zh_title = fetch_wikipedia_zh(name)
+    
+    if zh_text:
+        name_cn = zh_title or name
+        # 尝试从英文维基找英文名
+        en_text = None
+        if name_en:
+            en_text, _ = fetch_wikipedia_en(name_en)
+        if not en_text and name_en:
+            en_text, _ = fetch_wikipedia_en(name_en)
+        
+        # 简单分类推断
+        categories_map = {
+            "奢侈": "fashion-luxury", "时装": "fashion-luxury", "珠宝": "fashion-luxury",
+            "手表": "fashion-luxury", "包": "fashion-luxury", "鞋": "fashion-luxury",
+            "汽车": "automotive", "车": "automotive", "跑车": "automotive",
+            "科技": "technology", "手机": "technology", "电脑": "technology",
+            "软件": "technology", "互联网": "technology",
+            "运动": "sport", "体育": "sport", "球鞋": "sport",
+            "美妆": "beauty", "护肤": "beauty", "彩妆": "beauty", "香水": "beauty",
+            "食品": "food-beverage", "饮料": "food-beverage", "酒": "food-beverage",
+            "潮玩": "toy-collectible", "玩具": "toy-collectible",
+            "家居": "home-living", "家具": "home-living",
+        }
+        category = "general"
+        for kw, cat in categories_map.items():
+            if kw in zh_text[:300]:
+                category = cat
+                break
+        
+        return name_cn, name_en or name, category, zh_text
+    
+    # 中文找不到，试英文
+    en_name = name_en or name
+    en_text, en_title = fetch_wikipedia_en(en_name)
+    if en_text:
+        return name, en_title or en_name, "general", en_text
+    
+    return None
+
+
+def add_seed_brands():
+    """添加一批种子品牌到种子列表"""
+    seeds_file = REPO_ROOT / "brand_seeds.json"
+    seeds = {"categories": [], "brands": []}
+    if seeds_file.exists():
+        with open(seeds_file, "r", encoding="utf-8") as f:
+            seeds = json.load(f)
+    return seeds
+
+
+def get_next_seed_brands(count=50):
+    """从种子列表取下一个批次的品牌名"""
+    seeds_file = REPO_ROOT / "brand_seeds.json"
+    if not seeds_file.exists():
+        print("⚠️  brand_seeds.json 不存在，请先运行 --seed-brands")
+        return []
+    
+    with open(seeds_file, "r", encoding="utf-8") as f:
+        seeds = json.load(f)
+    
+    brands_done = load_brands_done()
+    done_slugs = set(brands_done["brands"].keys())
+    
+    # 过滤已完成的
+    pending = [b for b in seeds.get("brands", []) if slugify(b.get("name_en", b.get("name", ""))) not in done_slugs]
+    
+    return pending[:count]
+
+
+def scrape_and_prepare_brands(names):
+    """批量抓取品牌信息，准备brands_today.json"""
+    results = []
+    brands_done = load_brands_done()
+    done_slugs = set(brands_done["brands"].keys())
+    
+    for item in names:
+        if isinstance(item, str):
+            name = item
+            name_en = None
+        else:
+            name = item.get("name", "")
+            name_en = item.get("name_en", "")
+        
+        slug = slugify(name_en or name)
+        if slug in done_slugs:
+            print(f"⏭️  跳过 {name} — 已在 brands_done.json")
+            continue
+        
+        print(f"🔍 抓取: {name}...", end=" ")
+        result = auto_scrape_brand(name, name_en)
+        if result:
+            name_cn, brand_en, category, desc = result
+            results.append({
+                "name": name_cn,
+                "name_en": brand_en,
+                "category": category,
+                "desc": desc,
+                "similar": []
+            })
+            print(f"✅ ({category})")
+        else:
+            print(f"❌ 维基百科未找到")
+    
+    return results
 
 
 def load_brands_done():
@@ -404,6 +570,182 @@ def process_batch(batch_file, dry_run=False):
     return success_count
 
 
+def scan_wikipedia_top_brands():
+    """扫描维基百科分类，发现全球知名品牌，生成brand_seeds.json"""
+    # 主要品牌分类页面（中文维基百科）
+    categories = {
+        "fashion-luxury": "Category:奢侈品牌",
+        "fashion-luxury-2": "Category:时装品牌",
+        "technology": "Category:科技品牌",
+        "automotive": "Category:汽车品牌",
+        "food-beverage": "Category:食品品牌",
+        "sport": "Category:运动品牌",
+        "beauty": "Category:化妆品品牌",
+        "toy-collectible": "Category:玩具品牌",
+    }
+    
+    # 以及手动整理的全球知名品牌初始清单
+    global_brands = [
+        # === 奢侈品 × 时装 ===
+        {"name": "爱马仕", "name_en": "Hermès"},
+        {"name": "香奈儿", "name_en": "Chanel"},
+        {"name": "路易威登", "name_en": "Louis Vuitton"},
+        {"name": "古驰", "name_en": "Gucci"},
+        {"name": "普拉达", "name_en": "Prada"},
+        {"name": "迪奥", "name_en": "Christian Dior"},
+        {"name": "圣罗兰", "name_en": "Saint Laurent"},
+        {"name": "巴宝莉", "name_en": "Burberry"},
+        {"name": "范思哲", "name_en": "Versace"},
+        {"name": "阿玛尼", "name_en": "Armani"},
+        {"name": "卡地亚", "name_en": "Cartier"},
+        {"name": "蒂芙尼", "name_en": "Tiffany & Co."},
+        {"name": "宝格丽", "name_en": "Bulgari"},
+        {"name": "劳力士", "name_en": "Rolex"},
+        {"name": "百达翡丽", "name_en": "Patek Philippe"},
+        {"name": "欧米茄", "name_en": "Omega"},
+        {"name": "芬迪", "name_en": "Fendi"},
+        {"name": "赛琳", "name_en": "Celine"},
+        {"name": "罗意威", "name_en": "Loewe"},
+        {"name": "葆蝶家", "name_en": "Bottega Veneta"},
+        {"name": "巴黎世家", "name_en": "Balenciaga"},
+        {"name": "华伦天奴", "name_en": "Valentino"},
+        {"name": "亚历山大·麦昆", "name_en": "Alexander McQueen"},
+        {"name": "纪梵希", "name_en": "Givenchy"},
+        {"name": "盟可睐", "name_en": "Moncler"},
+        # === 快时尚 ===
+        {"name": "Zara", "name_en": "Zara"},
+        {"name": "H&M", "name_en": "H&M"},
+        {"name": "优衣库", "name_en": "Uniqlo"},
+        {"name": "飒拉", "name_en": "Zara"},
+        # === 科技 ===
+        {"name": "苹果", "name_en": "Apple"},
+        {"name": "谷歌", "name_en": "Google"},
+        {"name": "微软", "name_en": "Microsoft"},
+        {"name": "三星", "name_en": "Samsung"},
+        {"name": "华为", "name_en": "Huawei"},
+        {"name": "小米", "name_en": "Xiaomi"},
+        {"name": "索尼", "name_en": "Sony"},
+        {"name": "腾讯", "name_en": "Tencent"},
+        {"name": "阿里巴巴", "name_en": "Alibaba"},
+        {"name": "亚马逊", "name_en": "Amazon"},
+        {"name": "Meta", "name_en": "Meta"},
+        {"name": "特斯拉", "name_en": "Tesla"},
+        {"name": "英伟达", "name_en": "NVIDIA"},
+        {"name": "英特尔", "name_en": "Intel"},
+        {"name": "AMD", "name_en": "AMD"},
+        {"name": "台积电", "name_en": "TSMC"},
+        {"name": "字节跳动", "name_en": "ByteDance"},
+        {"name": "美团", "name_en": "Meituan"},
+        {"name": "比亚迪", "name_en": "BYD"},
+        {"name": "大疆", "name_en": "DJI"},
+        {"name": "联想", "name_en": "Lenovo"},
+        {"name": "戴尔", "name_en": "Dell"},
+        {"name": "惠普", "name_en": "HP"},
+        {"name": "IBM", "name_en": "IBM"},
+        {"name": "甲骨文", "name_en": "Oracle"},
+        {"name": "思科", "name_en": "Cisco"},
+        {"name": "Adobe", "name_en": "Adobe"},
+        {"name": "Netflix", "name_en": "Netflix"},
+        {"name": "Spotify", "name_en": "Spotify"},
+        {"name": "优步", "name_en": "Uber"},
+        {"name": "Airbnb", "name_en": "Airbnb"},
+        # === 汽车 ===
+        {"name": "奔驰", "name_en": "Mercedes-Benz"},
+        {"name": "宝马", "name_en": "BMW"},
+        {"name": "奥迪", "name_en": "Audi"},
+        {"name": "保时捷", "name_en": "Porsche"},
+        {"name": "法拉利", "name_en": "Ferrari"},
+        {"name": "兰博基尼", "name_en": "Lamborghini"},
+        {"name": "劳斯莱斯", "name_en": "Rolls-Royce"},
+        {"name": "宾利", "name_en": "Bentley"},
+        {"name": "丰田", "name_en": "Toyota"},
+        {"name": "本田", "name_en": "Honda"},
+        {"name": "大众", "name_en": "Volkswagen"},
+        {"name": "福特", "name_en": "Ford"},
+        {"name": "通用汽车", "name_en": "General Motors"},
+        # === 运动 ===
+        {"name": "耐克", "name_en": "Nike"},
+        {"name": "阿迪达斯", "name_en": "Adidas"},
+        {"name": "彪马", "name_en": "Puma"},
+        {"name": "安踏", "name_en": "Anta"},
+        {"name": "李宁", "name_en": "Li-Ning"},
+        {"name": "新百伦", "name_en": "New Balance"},
+        {"name": "亚瑟士", "name_en": "Asics"},
+        {"name": "安德玛", "name_en": "Under Armour"},
+        # === 美妆 ===
+        {"name": "欧莱雅", "name_en": "L'Oréal"},
+        {"name": "雅诗兰黛", "name_en": "Estée Lauder"},
+        {"name": "兰蔻", "name_en": "Lancôme"},
+        {"name": "资生堂", "name_en": "Shiseido"},
+        {"name": "SK-II", "name_en": "SK-II"},
+        {"name": "娇兰", "name_en": "Guerlain"},
+        {"name": "迪奥美妆", "name_en": "Dior Beauty"},
+        {"name": "香奈儿美妆", "name_en": "Chanel Beauty"},
+        {"name": "圣罗兰美妆", "name_en": "YSL Beauty"},
+        {"name": "MAC", "name_en": "MAC Cosmetics"},
+        # === 食品饮料 ===
+        {"name": "可口可乐", "name_en": "Coca-Cola"},
+        {"name": "百事可乐", "name_en": "Pepsi"},
+        {"name": "雀巢", "name_en": "Nestlé"},
+        {"name": "星巴克", "name_en": "Starbucks"},
+        {"name": "麦当劳", "name_en": "McDonald's"},
+        {"name": "肯德基", "name_en": "KFC"},
+        {"name": "茅台", "name_en": "Moutai"},
+        {"name": "五粮液", "name_en": "Wuliangye"},
+        # === 潮玩 × 文化 ===
+        {"name": "乐高", "name_en": "LEGO"},
+        {"name": "万代南梦宫", "name_en": "Bandai Namco"},
+        {"name": "迪士尼", "name_en": "Disney"},
+        {"name": "漫威", "name_en": "Marvel"},
+        {"name": "哈利波特", "name_en": "Harry Potter"},
+        {"name": "泡泡玛特", "name_en": "Pop Mart"},
+        # === 包包 ===
+        {"name": "爱马仕", "name_en": "Hermès"},
+        {"name": "香奈儿", "name_en": "Chanel"},
+        {"name": "路易威登", "name_en": "Louis Vuitton"},
+        {"name": "古驰", "name_en": "Gucci"},
+        {"name": "普拉达", "name_en": "Prada"},
+        {"name": "迪奥", "name_en": "Dior"},
+        {"name": "芬迪", "name_en": "Fendi"},
+        {"name": "赛琳", "name_en": "Celine"},
+        {"name": "罗意威", "name_en": "Loewe"},
+        {"name": "葆蝶家", "name_en": "Bottega Veneta"},
+        {"name": "巴黎世家", "name_en": "Balenciaga"},
+        {"name": "圣罗兰", "name_en": "Saint Laurent"},
+        {"name": "托德斯", "name_en": "Tod's"},
+        {"name": "玛百莉", "name_en": "Mulberry"},
+        {"name": "珑骧", "name_en": "Longchamp"},
+        {"name": "迈克·科尔斯", "name_en": "Michael Kors"},
+        {"name": "凯特·丝蓓", "name_en": "Kate Spade"},
+        {"name": "蔻驰", "name_en": "Coach"},
+    ]
+    
+    # 去重
+    seen = set()
+    unique_brands = []
+    for b in global_brands:
+        key = slugify(b["name_en"] or b["name"])
+        if key not in seen and key != slugify("escher"):  # Escher已在
+            seen.add(key)
+            unique_brands.append(b)
+    
+    # 保存到 brand_seeds.json
+    seeds = {"categories": list(categories.keys()), "brands": unique_brands, "total": len(unique_brands)}
+    seeds_file = REPO_ROOT / "brand_seeds.json"
+    with open(seeds_file, "w", encoding="utf-8") as f:
+        json.dump(seeds, f, ensure_ascii=False, indent=2)
+    
+    # 先查已完成的，统计待处理数量
+    brands_done = load_brands_done()
+    done_slugs = set(brands_done["brands"].keys())
+    pending = sum(1 for b in unique_brands if slugify(b.get("name_en", b.get("name", ""))) not in done_slugs)
+    
+    print(f"✅ 品牌种子库已生成: {len(unique_brands)} 个品牌")
+    print(f"   已完成: {len(unique_brands) - pending}")
+    print(f"   待处理: {pending}")
+    print(f"\n💡 现在运行: python3 generator.py --scrape 50   # 自动抓取前50个")
+
+
 def main():
     import argparse
     
@@ -414,8 +756,41 @@ def main():
     parser.add_argument("--category", help="品类")
     parser.add_argument("--desc", help="中文介绍（500字）")
     parser.add_argument("--dry-run", action="store_true", help="测试模式，不写入文件")
+    parser.add_argument("--scrape", type=int, nargs="?", const=50, metavar="N",
+                        help="自动从brand_seeds.json抓取N个品牌的维基百科信息，准备brands_today.json")
+    parser.add_argument("--scan-wikipedia", action="store_true",
+                        help="扫描维基百科分类，自动发现品牌并生成brand_seeds.json")
     
     args = parser.parse_args()
+
+    if args.scan_wikipedia:
+        # 从维基百科发现顶部品牌
+        print("🔍 正在扫描维基百科品牌分类...")
+        scan_wikipedia_top_brands()
+        return
+    
+    if args.scrape:
+        names = get_next_seed_brands(args.scrape)
+        if not names:
+            print(f"❌ brand_seeds.json 中无待处理品牌")
+            print("💡 请先运行: python3 generator.py --scan-wikipedia")
+            return
+        
+        print(f"📋 将从种子列表抓取 {len(names)} 个品牌...")
+        results = scrape_and_prepare_brands(names)
+        
+        if not results:
+            print("❌ 所有品牌都已处理过或维基百科未找到")
+            return
+        
+        # 写入 brands_today.json
+        batch_data = {"brands": results}
+        batch_file = REPO_ROOT / "brands_today.json"
+        with open(batch_file, "w", encoding="utf-8") as f:
+            json.dump(batch_data, f, ensure_ascii=False, indent=2)
+        print(f"\n✅ 已准备 {len(results)} 个品牌 → brands_today.json")
+        print(f"💡 现在运行: python3 generator.py --batch brands_today.json")
+        return
     
     if args.batch:
         process_batch(args.batch, args.dry_run)
@@ -433,9 +808,11 @@ def main():
             save_brands_done(brands_done)
             git_push()
     else:
-        print("❌ 请指定 --batch 或 --brand + --desc")
-        print("用法: python3 generator.py --batch brands_today.json")
-        print("  或: python3 generator.py --brand '香奈儿' --brand_en 'Chanel' --desc '...'")
+        print("❌ 请指定一个操作:")
+        print("   python3 generator.py --scan-wikipedia          # 扫描维基发现品牌")
+        print("   python3 generator.py --scrape 50                # 从种子列表取50个品牌自动抓取")
+        print("   python3 generator.py --batch brands_today.json  # 批量生成已准备好的品牌")
+        print("   python3 generator.py --brand '香奈儿' --desc '...'  # 手动单个")
         sys.exit(1)
 
 

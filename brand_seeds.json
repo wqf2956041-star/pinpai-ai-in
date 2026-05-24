@@ -1,0 +1,459 @@
+{
+  "categories": [
+    "fashion-luxury",
+    "fashion-luxury-2",
+    "technology",
+    "automotive",
+    "food-beverage",
+    "sport",
+    "beauty",
+    "toy-collectible"
+  ],
+  "brands": [
+    {
+      "name": "爱马仕",
+      "name_en": "Hermès"
+    },
+    {
+      "name": "香奈儿",
+      "name_en": "Chanel"
+    },
+    {
+      "name": "路易威登",
+      "name_en": "Louis Vuitton"
+    },
+    {
+      "name": "古驰",
+      "name_en": "Gucci"
+    },
+    {
+      "name": "普拉达",
+      "name_en": "Prada"
+    },
+    {
+      "name": "迪奥",
+      "name_en": "Christian Dior"
+    },
+    {
+      "name": "圣罗兰",
+      "name_en": "Saint Laurent"
+    },
+    {
+      "name": "巴宝莉",
+      "name_en": "Burberry"
+    },
+    {
+      "name": "范思哲",
+      "name_en": "Versace"
+    },
+    {
+      "name": "阿玛尼",
+      "name_en": "Armani"
+    },
+    {
+      "name": "卡地亚",
+      "name_en": "Cartier"
+    },
+    {
+      "name": "蒂芙尼",
+      "name_en": "Tiffany & Co."
+    },
+    {
+      "name": "宝格丽",
+      "name_en": "Bulgari"
+    },
+    {
+      "name": "劳力士",
+      "name_en": "Rolex"
+    },
+    {
+      "name": "百达翡丽",
+      "name_en": "Patek Philippe"
+    },
+    {
+      "name": "欧米茄",
+      "name_en": "Omega"
+    },
+    {
+      "name": "芬迪",
+      "name_en": "Fendi"
+    },
+    {
+      "name": "赛琳",
+      "name_en": "Celine"
+    },
+    {
+      "name": "罗意威",
+      "name_en": "Loewe"
+    },
+    {
+      "name": "葆蝶家",
+      "name_en": "Bottega Veneta"
+    },
+    {
+      "name": "巴黎世家",
+      "name_en": "Balenciaga"
+    },
+    {
+      "name": "华伦天奴",
+      "name_en": "Valentino"
+    },
+    {
+      "name": "亚历山大·麦昆",
+      "name_en": "Alexander McQueen"
+    },
+    {
+      "name": "纪梵希",
+      "name_en": "Givenchy"
+    },
+    {
+      "name": "盟可睐",
+      "name_en": "Moncler"
+    },
+    {
+      "name": "Zara",
+      "name_en": "Zara"
+    },
+    {
+      "name": "H&M",
+      "name_en": "H&M"
+    },
+    {
+      "name": "优衣库",
+      "name_en": "Uniqlo"
+    },
+    {
+      "name": "苹果",
+      "name_en": "Apple"
+    },
+    {
+      "name": "谷歌",
+      "name_en": "Google"
+    },
+    {
+      "name": "微软",
+      "name_en": "Microsoft"
+    },
+    {
+      "name": "三星",
+      "name_en": "Samsung"
+    },
+    {
+      "name": "华为",
+      "name_en": "Huawei"
+    },
+    {
+      "name": "小米",
+      "name_en": "Xiaomi"
+    },
+    {
+      "name": "索尼",
+      "name_en": "Sony"
+    },
+    {
+      "name": "腾讯",
+      "name_en": "Tencent"
+    },
+    {
+      "name": "阿里巴巴",
+      "name_en": "Alibaba"
+    },
+    {
+      "name": "亚马逊",
+      "name_en": "Amazon"
+    },
+    {
+      "name": "Meta",
+      "name_en": "Meta"
+    },
+    {
+      "name": "特斯拉",
+      "name_en": "Tesla"
+    },
+    {
+      "name": "英伟达",
+      "name_en": "NVIDIA"
+    },
+    {
+      "name": "英特尔",
+      "name_en": "Intel"
+    },
+    {
+      "name": "AMD",
+      "name_en": "AMD"
+    },
+    {
+      "name": "台积电",
+      "name_en": "TSMC"
+    },
+    {
+      "name": "字节跳动",
+      "name_en": "ByteDance"
+    },
+    {
+      "name": "美团",
+      "name_en": "Meituan"
+    },
+    {
+      "name": "比亚迪",
+      "name_en": "BYD"
+    },
+    {
+      "name": "大疆",
+      "name_en": "DJI"
+    },
+    {
+      "name": "联想",
+      "name_en": "Lenovo"
+    },
+    {
+      "name": "戴尔",
+      "name_en": "Dell"
+    },
+    {
+      "name": "惠普",
+      "name_en": "HP"
+    },
+    {
+      "name": "IBM",
+      "name_en": "IBM"
+    },
+    {
+      "name": "甲骨文",
+      "name_en": "Oracle"
+    },
+    {
+      "name": "思科",
+      "name_en": "Cisco"
+    },
+    {
+      "name": "Adobe",
+      "name_en": "Adobe"
+    },
+    {
+      "name": "Netflix",
+      "name_en": "Netflix"
+    },
+    {
+      "name": "Spotify",
+      "name_en": "Spotify"
+    },
+    {
+      "name": "优步",
+      "name_en": "Uber"
+    },
+    {
+      "name": "Airbnb",
+      "name_en": "Airbnb"
+    },
+    {
+      "name": "奔驰",
+      "name_en": "Mercedes-Benz"
+    },
+    {
+      "name": "宝马",
+      "name_en": "BMW"
+    },
+    {
+      "name": "奥迪",
+      "name_en": "Audi"
+    },
+    {
+      "name": "保时捷",
+      "name_en": "Porsche"
+    },
+    {
+      "name": "法拉利",
+      "name_en": "Ferrari"
+    },
+    {
+      "name": "兰博基尼",
+      "name_en": "Lamborghini"
+    },
+    {
+      "name": "劳斯莱斯",
+      "name_en": "Rolls-Royce"
+    },
+    {
+      "name": "宾利",
+      "name_en": "Bentley"
+    },
+    {
+      "name": "丰田",
+      "name_en": "Toyota"
+    },
+    {
+      "name": "本田",
+      "name_en": "Honda"
+    },
+    {
+      "name": "大众",
+      "name_en": "Volkswagen"
+    },
+    {
+      "name": "福特",
+      "name_en": "Ford"
+    },
+    {
+      "name": "通用汽车",
+      "name_en": "General Motors"
+    },
+    {
+      "name": "耐克",
+      "name_en": "Nike"
+    },
+    {
+      "name": "阿迪达斯",
+      "name_en": "Adidas"
+    },
+    {
+      "name": "彪马",
+      "name_en": "Puma"
+    },
+    {
+      "name": "安踏",
+      "name_en": "Anta"
+    },
+    {
+      "name": "李宁",
+      "name_en": "Li-Ning"
+    },
+    {
+      "name": "新百伦",
+      "name_en": "New Balance"
+    },
+    {
+      "name": "亚瑟士",
+      "name_en": "Asics"
+    },
+    {
+      "name": "安德玛",
+      "name_en": "Under Armour"
+    },
+    {
+      "name": "欧莱雅",
+      "name_en": "L'Oréal"
+    },
+    {
+      "name": "雅诗兰黛",
+      "name_en": "Estée Lauder"
+    },
+    {
+      "name": "兰蔻",
+      "name_en": "Lancôme"
+    },
+    {
+      "name": "资生堂",
+      "name_en": "Shiseido"
+    },
+    {
+      "name": "SK-II",
+      "name_en": "SK-II"
+    },
+    {
+      "name": "娇兰",
+      "name_en": "Guerlain"
+    },
+    {
+      "name": "迪奥美妆",
+      "name_en": "Dior Beauty"
+    },
+    {
+      "name": "香奈儿美妆",
+      "name_en": "Chanel Beauty"
+    },
+    {
+      "name": "圣罗兰美妆",
+      "name_en": "YSL Beauty"
+    },
+    {
+      "name": "MAC",
+      "name_en": "MAC Cosmetics"
+    },
+    {
+      "name": "可口可乐",
+      "name_en": "Coca-Cola"
+    },
+    {
+      "name": "百事可乐",
+      "name_en": "Pepsi"
+    },
+    {
+      "name": "雀巢",
+      "name_en": "Nestlé"
+    },
+    {
+      "name": "星巴克",
+      "name_en": "Starbucks"
+    },
+    {
+      "name": "麦当劳",
+      "name_en": "McDonald's"
+    },
+    {
+      "name": "肯德基",
+      "name_en": "KFC"
+    },
+    {
+      "name": "茅台",
+      "name_en": "Moutai"
+    },
+    {
+      "name": "五粮液",
+      "name_en": "Wuliangye"
+    },
+    {
+      "name": "乐高",
+      "name_en": "LEGO"
+    },
+    {
+      "name": "万代南梦宫",
+      "name_en": "Bandai Namco"
+    },
+    {
+      "name": "迪士尼",
+      "name_en": "Disney"
+    },
+    {
+      "name": "漫威",
+      "name_en": "Marvel"
+    },
+    {
+      "name": "哈利波特",
+      "name_en": "Harry Potter"
+    },
+    {
+      "name": "泡泡玛特",
+      "name_en": "Pop Mart"
+    },
+    {
+      "name": "迪奥",
+      "name_en": "Dior"
+    },
+    {
+      "name": "托德斯",
+      "name_en": "Tod's"
+    },
+    {
+      "name": "玛百莉",
+      "name_en": "Mulberry"
+    },
+    {
+      "name": "珑骧",
+      "name_en": "Longchamp"
+    },
+    {
+      "name": "迈克·科尔斯",
+      "name_en": "Michael Kors"
+    },
+    {
+      "name": "凯特·丝蓓",
+      "name_en": "Kate Spade"
+    },
+    {
+      "name": "蔻驰",
+      "name_en": "Coach"
+    }
+  ],
+  "total": 111
+}
