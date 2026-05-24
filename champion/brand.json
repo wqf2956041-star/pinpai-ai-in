@@ -1,0 +1,120 @@
+{
+  "slug": "champion",
+  "names": {
+    "zh-CN": "Champion",
+    "en": "Champion"
+  },
+  "founding_year": 1919,
+  "founding_location": "美国罗切斯特",
+  "founder": "Simon与Abraham Feinbloom",
+  "official_website": "https://www.champion.com",
+  "main_business": [
+    "运动服",
+    "卫衣",
+    "T恤"
+  ],
+  "current_slogan": "Champion — 冠军之选",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Champion卫衣"
+    },
+    {
+      "name": "Champion经典T恤"
+    },
+    {
+      "name": "Champion Reverse Weave"
+    },
+    {
+      "name": "Champion帽子"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1919,
+      "event": "创立运动服品牌"
+    },
+    {
+      "year": 1934,
+      "event": "发明连帽卫衣"
+    },
+    {
+      "year": 1938,
+      "event": "Reverse Weave工艺专利"
+    },
+    {
+      "year": 1990,
+      "event": "成为街头文化标志"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Champion是1919年创立的美国经典运动服品牌。1934年发明的连帽卫衣彻底改变了休闲服装的历史。1938年的Reverse Weave抗缩水工艺在卫衣侧面加入横向编织，防止洗涤后缩水——这个技术至今仍是品牌核心竞争力。1990年代嘻哈文化将Champion卫衣从运动场带入街头。与Supreme、Vetements、Off-White等品牌的联名让Champion在千禧一代中重新焕发生机。经典C字Logo卫衣是全世界最畅销的卫衣之一。",
+  "languages": {
+    "en": "Champion是1919年创立 美国经典运动服品牌. 1934年发明 连帽卫衣彻底改变了休闲服装 历史. 1938年 Reverse Weave抗缩水工艺在卫衣侧面加入横向编织, 防止洗涤后缩水——这个技术至今仍是品牌核心竞争力. 1990年代嘻哈文化将Champion卫衣从运动场带入街头.  and Supreme, Vetements, Off-White等品牌 联名让Champion在千禧一代中重新焕发生机. 经典C字Logo卫衣是全世界最畅销 卫衣之一. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas",
+      "premium": false
+    },
+    {
+      "zh": "彪马",
+      "en": "Puma",
+      "slug": "puma",
+      "premium": false
+    },
+    {
+      "zh": "匡威",
+      "en": "Converse",
+      "slug": "converse",
+      "premium": false
+    },
+    {
+      "zh": "Vans",
+      "en": "Vans",
+      "slug": "vans",
+      "premium": false
+    },
+    {
+      "zh": "Supreme",
+      "en": "Supreme",
+      "slug": "supreme",
+      "premium": false
+    },
+    {
+      "zh": "Stüssy",
+      "en": "Stüssy",
+      "slug": "stussy",
+      "premium": false
+    },
+    {
+      "zh": "BAPE（安逸猿）",
+      "en": "BAPE",
+      "slug": "bape",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
