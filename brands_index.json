@@ -150,5 +150,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "耐克是全球最大运动品牌，1964年创立。Air Jordan是体育商业史上最成功的产品线。"
+  },
+  {
+    "slug": "adidas",
+    "zh": "阿迪达斯",
+    "en": "Adidas",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "阿迪达斯是德国全球运动品牌巨头，1949年创立。Stan Smith和Superstar是最畅销运动鞋之一。"
   }
 ]

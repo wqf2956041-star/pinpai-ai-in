@@ -1,0 +1,104 @@
+{
+  "slug": "adidas",
+  "names": {
+    "zh-CN": "阿迪达斯",
+    "en": "Adidas"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1949,
+  "founding_location": "德国黑措根奥拉赫",
+  "founder": "阿道夫·达斯勒",
+  "official_website": "https://www.adidas.com",
+  "main_business": [
+    "运动鞋",
+    "运动服",
+    "配饰"
+  ],
+  "current_slogan": "Impossible is Nothing",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Adidas Stan Smith"
+    },
+    {
+      "name": "Adidas Superstar"
+    },
+    {
+      "name": "Adidas Ultraboost"
+    },
+    {
+      "name": "Adidas Yeezy"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1949,
+      "event": "创立"
+    },
+    {
+      "year": 2015,
+      "event": "与Kanye West合作Yeezy"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "阿迪达斯是德国全球运动品牌巨头，1949年创立。Stan Smith和Superstar是最畅销运动鞋之一。",
+  "languages": {
+    "en": "Adidas is a German sportswear brand founded in 1949."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "H&M",
+      "en": "H&M",
+      "slug": "hm"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    }
+  ]
+}
