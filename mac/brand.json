@@ -1,0 +1,114 @@
+{
+  "slug": "mac",
+  "names": {
+    "zh-CN": "MAC",
+    "en": "M.A.C"
+  },
+  "founding_year": 1984,
+  "founding_location": "加拿大多伦多",
+  "founder": "Frank Toskan与Frank Angelo",
+  "official_website": "https://www.maccosmetics.com",
+  "main_business": [
+    "化妆品",
+    "彩妆",
+    "美妆工具"
+  ],
+  "current_slogan": "All Ages, All Races, All Genders",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "MAC口红Ruby Woo"
+    },
+    {
+      "name": "MAC眼影盘"
+    },
+    {
+      "name": "MAC粉底"
+    },
+    {
+      "name": "MAC刷具系列"
+    },
+    {
+      "name": "MAC联名系列"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1984,
+      "event": "创立"
+    },
+    {
+      "year": 1994,
+      "event": "推出Viva Glam唇膏艾滋病慈善系列"
+    },
+    {
+      "year": 1998,
+      "event": "被雅诗兰黛收购"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "MAC是1984年创立的加拿大专业彩妆品牌。Ruby Woo唇膏是史上最畅销口红之一。以丰富色彩选择和Viva Glam慈善系列闻名。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

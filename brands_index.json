@@ -358,5 +358,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Off-White是2012年由Virgil Abloh创立的意大利街头时尚品牌。标志性斜杠、箭头和工业腰带是千禧一代最热门的时尚元素。"
+  },
+  {
+    "slug": "mac",
+    "zh": "MAC",
+    "en": "M.A.C",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "MAC是1984年创立的加拿大专业彩妆品牌。Ruby Woo唇膏是史上最畅销口红之一。以丰富色彩选择和Viva Glam慈善系列闻名。"
   }
 ]
