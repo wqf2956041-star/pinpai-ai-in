@@ -1,0 +1,116 @@
+{
+  "slug": "bape",
+  "names": {
+    "zh-CN": "BAPE（安逸猿）",
+    "en": "BAPE"
+  },
+  "founding_year": 1993,
+  "founding_location": "日本东京",
+  "founder": "长尾智明(NIGO)",
+  "official_website": "https://www.bape.com",
+  "main_business": [
+    "服装",
+    "配饰",
+    "鞋履"
+  ],
+  "current_slogan": "A Bathing Ape",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "BAPE鲨鱼帽衫"
+    },
+    {
+      "name": "BAPE迷彩"
+    },
+    {
+      "name": "BAPE STA"
+    },
+    {
+      "name": "BAPE猿人头T恤"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1993,
+      "event": "创立"
+    },
+    {
+      "year": 2001,
+      "event": "推出BAPE迷彩图案"
+    },
+    {
+      "year": 2011,
+      "event": "被IT集团收购"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "BAPE（安逸猿）是1993年由日本设计师NIGO创立的传奇街头品牌。全称A Bathing Ape in Lukewarm Water，源日本俗语比喻沉溺享乐的年轻人。猿人头标志和迷彩图案是最具辨识度的街头符号之一。BAPE鲨鱼帽衫是标志性单品——带拉链的鲨鱼牙齿设计让穿着者拉上帽子就变成鲨鱼脸。BAPE STA运动鞋灵感来自Nike Air Force 1但做了自己的设计处理。2011年被香港IT集团收购后继续在全球以限量发售模式运营。",
+  "languages": {
+    "en": "BAPE（安逸猿）是1993年由日本设计师NIGO创立 传奇街头品牌. 全称A Bathing Ape in Lukewarm Water, 源日本俗语比喻沉溺享乐 年轻人. 猿人头标志 and 迷彩图案是最具辨识度 街头符号之一. BAPE鲨鱼帽衫是标志性单品——带拉链 鲨鱼牙齿设计让穿着者拉上帽子就变成鲨鱼脸. BAPE STA运动鞋灵感来自Nike Air Force 1但做了自己 设计处理. 2011年被香港IT集团收购后继续在全球以限量发售模式运营. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Supreme",
+      "en": "Supreme",
+      "slug": "supreme",
+      "premium": false
+    },
+    {
+      "zh": "Off-White",
+      "en": "Off-White",
+      "slug": "off-white",
+      "premium": false
+    },
+    {
+      "zh": "匡威",
+      "en": "Converse",
+      "slug": "converse",
+      "premium": false
+    },
+    {
+      "zh": "Vans",
+      "en": "Vans",
+      "slug": "vans",
+      "premium": false
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike",
+      "premium": false
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas",
+      "premium": false
+    },
+    {
+      "zh": "彪马",
+      "en": "Puma",
+      "slug": "puma",
+      "premium": false
+    },
+    {
+      "zh": "雷朋",
+      "en": "Ray-Ban",
+      "slug": "ray-ban",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
