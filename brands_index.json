@@ -1,13 +1,5 @@
 [
   {
-    "slug": "tag-heuer",
-    "zh": "泰格豪雅",
-    "en": "TAG Heuer",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "泰格豪雅是1860年创立的瑞士腕表品牌，以运动计时和赛车主宰著称。Monaco和Carrera系列是赛车腕表的经典代表。"
-  },
-  {
     "slug": "puma",
     "zh": "彪马",
     "en": "Puma",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "欧米茄是1848年由Louis Brandt在瑞士比尔创立的瑞士腕表品牌。Omega的希腊字母Ω象征完美和成就。品牌以卓越的制表工艺和与多个标志性文化事件的关联著称。\n\nSpeedmaster超霸系列"
+  },
+  {
+    "slug": "tag-heuer",
+    "zh": "泰格豪雅",
+    "en": "TAG Heuer",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "泰格豪雅是1860年创立的瑞士腕表品牌，以运动计时和赛车主宰著称。创始人Edouard Heuer在22岁就发明了第一个计时器。品牌始终与赛车运动保持最紧密的联系。\n\nHeuer Monaco在196"
   }
 ]
