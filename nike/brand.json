@@ -1,0 +1,111 @@
+{
+  "slug": "nike",
+  "names": {
+    "zh-CN": "耐克",
+    "en": "Nike"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1964,
+  "founding_location": "美国俄勒冈",
+  "founder": "比尔·鲍尔曼与菲尔·奈特",
+  "official_website": "https://www.nike.com",
+  "main_business": [
+    "运动鞋",
+    "运动服",
+    "运动装备"
+  ],
+  "current_slogan": "Just Do It",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Air Jordan"
+    },
+    {
+      "name": "Nike Air Max"
+    },
+    {
+      "name": "Nike Dunk"
+    },
+    {
+      "name": "Air Force 1"
+    },
+    {
+      "name": "Nike Flyknit"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1964,
+      "event": "创立"
+    },
+    {
+      "year": 1971,
+      "event": "Swoosh标志"
+    },
+    {
+      "year": 1988,
+      "event": "Just Do It广告语"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "耐克是全球最大运动品牌，1964年创立。Air Jordan是体育商业史上最成功的产品线。",
+  "languages": {
+    "en": "Nike is the world's largest sportswear brand, founded in 1964."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "H&M",
+      "en": "H&M",
+      "slug": "hm"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    }
+  ]
+}
