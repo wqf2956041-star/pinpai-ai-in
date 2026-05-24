@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>雀巢 — Nestlé | 品牌百科 · pinpai.ai.in</title>
+<meta name="description" content="雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿">
+<meta property="og:title" content="雀巢 — Nestlé">
+<meta property="og:description" content="雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
+.container{max-width:960px;margin:0 auto;padding:20px}
+
+/* --- Top Bar: Search + Language --- */
+.top-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:30px;flex-wrap:wrap}
+.search-box{flex:1;min-width:200px;display:flex;gap:6px}
+.search-box input{flex:1;padding:8px 14px;border:2px solid #ddd;border-radius:6px;font-size:14px;outline:none}
+.search-box input:focus{border-color:#222}
+.search-box button{padding:8px 16px;background:#222;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px}
+.search-box button:hover{background:#444}
+
+.lang-nav{display:flex;flex-wrap:wrap;gap:4px}
+.lang-nav a{display:inline-block;padding:4px 10px;border-radius:4px;font-size:13px;text-decoration:none;color:#555;border:1px solid #ddd;transition:all 0.2s}
+.lang-nav a:hover{background:#eee}
+.lang-nav a.active{background:#222;color:#fff;border-color:#222;font-weight:600}
+
+/* --- Brand Header --- */
+.brand-header{margin-bottom:30px;padding-bottom:20px;border-bottom:2px solid #222}
+.brand-header h1{font-size:32px;margin-bottom:4px;letter-spacing:-0.5px}
+.brand-header .brand-sub{font-size:16px;color:#777}
+
+
+/* --- Brand Info Cards --- */
+.info-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:30px}
+.info-card{background:#fff;border:1px solid #eee;border-radius:8px;padding:14px 18px}
+.info-card .label{font-size:12px;color:#999;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px}
+.info-card .value{font-size:15px;color:#222;font-weight:500}
+
+/* --- Content Body --- */
+.brand-content{background:#fff;border:1px solid #eee;border-radius:8px;padding:24px;margin-bottom:30px;font-size:15px;line-height:1.8}
+.brand-content h2{font-size:20px;margin:20px 0 10px;padding-bottom:6px;border-bottom:1px solid #eee}
+.brand-content h2:first-child{margin-top:0}
+.brand-content p{margin-bottom:12px}
+
+/* --- Product / Event lists --- */
+.item-list{list-style:none;margin:8px 0 16px}
+.item-list li{padding:6px 0;border-bottom:1px solid #f5f5f5}
+.item-list li:last-child{border:none}
+.item-list .item-year{display:inline-block;background:#222;color:#fff;padding:1px 8px;border-radius:3px;font-size:12px;margin-right:8px;font-weight:600}
+
+/* --- Similar Brands --- */
+.similar-section{margin-bottom:30px}
+.similar-section h3{font-size:16px;margin-bottom:12px;color:#555}
+.similar-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.similar-card{display:block;padding:10px 14px;background:#fff;border:1px solid #eee;border-radius:6px;text-decoration:none;color:#222;font-size:13px;transition:all 0.2s}
+.similar-card:hover{border-color:#222;box-shadow:0 2px 8px rgba(0,0,0,0.06)}
+.similar-card.premium{border:2px solid #d4a844}
+.similar-card.premium .badge-premium{display:inline-block;background:#d4a844;color:#fff;font-size:10px;padding:1px 6px;border-radius:3px;margin-left:4px}
+.similar-card .zh{display:block;font-weight:500}
+.similar-card .en{display:block;font-size:11px;color:#999}
+
+/* --- Footer --- */
+.footer{text-align:center;padding:20px 0;font-size:13px;color:#999;border-top:1px solid #eee;margin-top:10px}
+.footer a{color:#555;text-decoration:none}
+.footer a:hover{text-decoration:underline}
+
+/* --- Premium Styles --- */
+.premium-header{border-bottom-color:#d4a844}
+.premium-card{border:2px solid #d4a844 !important}
+.premium-label{display:inline-block;background:#d4a844;color:#fff;font-size:11px;padding:2px 10px;border-radius:4px;margin-left:8px}
+
+/* --- Responsive --- */
+@media(max-width:600px){
+  .top-bar{flex-direction:column;align-items:stretch}
+  .info-grid{grid-template-columns:1fr}
+  .similar-grid{grid-template-columns:repeat(auto-fill,minmax(100px,1fr))}
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<!-- Top Bar -->
+<div class="top-bar">
+  <div class="search-box">
+    <input type="text" id="search-input" placeholder="搜索品牌 / Search brand..." onkeydown="if(event.key==='Enter')searchBrand()">
+    <button onclick="searchBrand()">🔍</button>
+  </div>
+  <div class="lang-nav" id="lang-nav">
+    <a href="#" data-lang="zh-CN" class="active" onclick="switchLang('zh-CN')">中文</a>
+    <a href="#" data-lang="en" onclick="switchLang('en')">EN</a>
+    <a href="#" data-lang="fr" onclick="switchLang('fr')">FR</a>
+    <a href="#" data-lang="es" onclick="switchLang('es')">ES</a>
+    <a href="#" data-lang="de" onclick="switchLang('de')">DE</a>
+    <a href="#" data-lang="ja" onclick="switchLang('ja')">日本語</a>
+    <a href="#" data-lang="ko" onclick="switchLang('ko')">한국어</a>
+    <a href="#" data-lang="pt" onclick="switchLang('pt')">PT</a>
+    <a href="#" data-lang="ru" onclick="switchLang('ru')">РУ</a>
+    <a href="#" data-lang="ar" onclick="switchLang('ar')">العربية</a>
+  </div>
+</div>
+
+<!-- Brand Header -->
+<div class="brand-header">
+  <h1 id="brand-title">雀巢 <span style="font-weight:400;font-size:24px;color:#777">— Nestlé</span></h1>
+  <div class="brand-sub" id="brand-sub">其他</div>
+</div>
+
+<!-- Info Cards -->
+<div class="info-grid" id="info-grid">
+  <div class="info-card"><div class="label">创立时间</div><div class="value">1866</div></div>
+  <div class="info-card"><div class="label">创立地点</div><div class="value">瑞士沃韦</div></div>
+  <div class="info-card"><div class="label">创始人</div><div class="value">亨利·内斯特莱</div></div>
+  <div class="info-card"><div class="label">官网</div><div class="value"><a href="https://www.nestle.com" target="_blank" rel="noopener">www.nestle.com</a></div></div>
+  <div class="info-card"><div class="label">主营业务</div><div class="value">食品、饮料、营养品、宠物食品</div></div>
+  <div class="info-card"><div class="label">品牌标语</div><div class="value">Good Food, Good Life</div></div>
+</div>
+
+<!-- Content -->
+<div class="brand-content" id="brand-content">
+  雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。
+</div>
+
+<!-- Similar Brands -->
+<div class="similar-section">
+  <h3 id="similar-title">类似品牌</h3>
+  <div class="similar-grid">
+    <a href="/coca-cola/" class="similar-card"><span class="zh">可口可乐 </span><span class="en">Coca-Cola</span></a>
+    <a href="/mcdonalds/" class="similar-card"><span class="zh">麦当劳 </span><span class="en">McDonald's</span></a>
+    <a href="/loreal/" class="similar-card"><span class="zh">欧莱雅 </span><span class="en">L'Oreal</span></a>
+    <a href="/apple/" class="similar-card"><span class="zh">苹果 </span><span class="en">Apple</span></a>
+    <a href="/samsung/" class="similar-card"><span class="zh">三星 </span><span class="en">Samsung</span></a>
+    <a href="/escher/" class="similar-card premium"><span class="zh">Escher <span class="badge-premium">品牌推广</span></span><span class="en">Escher</span></a>
+    <a href="/escher/" class="similar-card premium"><span class="zh">Escher <span class="badge-premium">品牌推广</span></span><span class="en">Escher</span></a>
+    
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p><a href="https://pinpai.ai.in">品牌百科 · pinpai.ai.in</a> — 全球品牌大全，10种语言呈现</p>
+</div>
+
+</div><!-- /container -->
+
+<script>
+// ===== BRAND DATA =====
+// Each language has independent content (rewritten, not translated)
+const BRAND_DATA = {"zh-CN": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "类似品牌"}, "en": {"name": "Nestlé", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大 食品饮料公司, 1866年由德国药剂师内斯特莱在瑞士创立. 最初生产婴儿奶粉, 1938年发明 雀巢速溶咖啡彻底改变了世界 喝咖啡方式. 品牌旗下拥有2000多个品牌, 包括雀巢咖啡, 奇巧, 雀巢水, 普瑞纳宠物食品等. 年营收超过940亿瑞士法郎, 业务遍及全球189个国家. 雀巢也是全球最大 瓶装水公司 and 宠物食品公司. ", "similar_title": "Similar Brands"}, "fr": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "Marques similaires"}, "es": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "Marcas similares"}, "de": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "Ähnliche Marken"}, "ja": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "类似品牌"}, "ko": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "类似品牌"}, "pt": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "Marcas semelhantes"}, "ru": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "Похожие бренды"}, "ar": {"name": "雀巢", "name_en": "Nestlé", "founding_year": "1866", "founding_location": "瑞士沃韦", "founder": "亨利·内斯特莱", "website": "https://www.nestle.com", "business": "食品、饮料、营养品、宠物食品", "slogan": "Good Food, Good Life", "content": "雀巢是全球最大的食品饮料公司，1866年由德国药剂师内斯特莱在瑞士创立。最初生产婴儿奶粉，1938年发明的雀巢速溶咖啡彻底改变了世界的喝咖啡方式。品牌旗下拥有2000多个品牌，包括雀巢咖啡、奇巧、雀巢水、普瑞纳宠物食品等。年营收超过940亿瑞士法郎，业务遍及全球189个国家。雀巢也是全球最大的瓶装水公司和宠物食品公司。", "similar_title": "علامات تجارية مشابهة"}};
+
+// ===== SIMILAR BRANDS =====
+const SIMILAR_BRANDS = [{"zh": "可口可乐", "en": "Coca-Cola", "slug": "coca-cola", "premium": false}, {"zh": "麦当劳", "en": "McDonald's", "slug": "mcdonalds", "premium": false}, {"zh": "欧莱雅", "en": "L'Oreal", "slug": "loreal", "premium": false}, {"zh": "苹果", "en": "Apple", "slug": "apple", "premium": false}, {"zh": "三星", "en": "Samsung", "slug": "samsung", "premium": false}, {"zh": "Escher", "en": "Escher", "slug": "escher", "premium": true}, {"zh": "Escher", "en": "Escher", "slug": "escher", "premium": true}];
+
+function searchBrand() {
+  const q = document.getElementById('search-input').value.trim();
+  if (!q) return;
+  window.location.href = '/search.html?q=' + encodeURIComponent(q);
+}
+
+function switchLang(lang) {
+  // Update active nav
+  document.querySelectorAll('.lang-nav a').forEach(function(a) {
+    a.classList.toggle('active', a.getAttribute('data-lang') === lang);
+  });
+  document.documentElement.setAttribute('lang', lang === 'ar' ? 'ar' : 'zh-CN');
+  document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+
+  var data = BRAND_DATA[lang] || BRAND_DATA['zh-CN'];
+
+  // Title
+  document.getElementById('brand-title').innerHTML = data.name + (data.name_en ? ' <span style="font-weight:400;font-size:24px;color:#777">— ' + data.name_en + '</span>' : '');
+
+  // Info cards
+  var cards = document.getElementById('info-grid').children;
+  cards[0].querySelector('.value').textContent = data.founding_year || '';
+  cards[1].querySelector('.value').textContent = data.founding_location || '';
+  cards[2].querySelector('.value').textContent = data.founder || '';
+  var websiteEl = cards[3].querySelector('.value');
+  var url = data.website || '';
+  if (url) {
+    websiteEl.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + url.replace(/^https?:\/\//,'').replace(/\/$/,'') + '</a>';
+  } else {
+    websiteEl.textContent = '';
+  }
+  cards[4].querySelector('.value').textContent = data.business || '';
+  cards[5].querySelector('.value').textContent = data.slogan || '';
+
+  // Content
+  document.getElementById('brand-content').innerHTML = data.content || '';
+
+  // Similar title
+  document.getElementById('similar-title').textContent = data.similar_title || '类似品牌';
+}
+
+// Initialize with Chinese
+switchLang('zh-CN');
+</script>
+</body>
+</html>
