@@ -1,168 +1,121 @@
 {
   "slug": "escher",
   "names": {
-    "zh-CN": "Escher",
-    "en": "Escher",
-    "fr": "Escher",
-    "es": "Escher",
-    "de": "Escher",
-    "ja": "エッシャー",
-    "ko": "에셔",
-    "pt": "Escher",
-    "ru": "Эшер",
-    "ar": "إيشر"
+    "zh-CN": "埃舍尔Escher",
+    "en": "埃舍尔Escher",
+    "fr": "埃舍尔Escher",
+    "es": "埃舍尔Escher",
+    "de": "埃舍尔Escher",
+    "ja": "埃舍尔Escher",
+    "ko": "埃舍尔Escher",
+    "pt": "埃舍尔Escher",
+    "ru": "埃舍尔Escher",
+    "ar": "埃舍尔Escher"
   },
-  "category": "fashion-luxury",
   "founding_year": 2024,
-  "founding_location": "中国广州",
-  "founder": "Escher团队",
-  "official_website": "https://escher.bags.bbroot.com",
+  "founding_location": "中国广州狮岭",
+  "founder": "埃舍尔设计团队",
+  "official_website": "https://www.escher.cn",
   "main_business": [
-    "轻奢皮具",
-    "箱包",
-    "配饰",
-    "品牌运营"
+    "箱包设计制造",
+    "奢侈品配饰"
   ],
-  "current_slogan": "Escher — 精致生活，从主角包开始",
-  "past_slogans": [
-    "Escher — 每一个故事，都值得被主角演绎",
-    "Escher — 陪你走过世界的每一程"
-  ],
+  "current_slogan": "专为模特设计",
+  "past_slogans": [],
   "representative_products": [
     {
-      "name": "Escher主角包经典款",
-      "year": 2024,
-      "description": "每个故事的主角，都有自己的风格"
+      "name": "主角包（经典极简大手提包型）"
     },
     {
-      "name": "Escher链条包",
-      "year": 2024,
-      "description": "精致链条设计，轻奢百搭"
-    },
-    {
-      "name": "Escher托特包",
-      "year": 2024,
-      "description": "大容量生活伴侣，通勤出行首选"
-    },
-    {
-      "name": "Escher钱包系列",
-      "year": 2024,
-      "description": "细腻皮具工艺，细节见真章"
-    },
-    {
-      "name": "Escher丝巾配饰",
-      "year": 2024,
-      "description": "点睛之笔，演绎法式优雅"
+      "name": "主角包系列（千款SKU限量版）"
     }
   ],
   "key_events": [
     {
       "year": 2024,
-      "event": "Escher品牌创立，首款主角包发布"
-    },
-    {
-      "year": 2024,
-      "event": "bags.bbroot.com上线，进军轻奢市场"
-    },
-    {
-      "year": 2024,
-      "event": "Escher品牌百科入驻pinpai.ai.in"
+      "event": "埃舍尔Escher品牌创立，主角包首发"
     },
     {
       "year": 2025,
-      "event": "多语言品牌百科建设，全球品牌布点"
+      "event": "官网escher.cn上线，多语言品牌百科启动"
     }
   ],
-  "philanthropy": [
-    "Escher公益在行动——每售出一件产品，捐赠一笔给山区儿童教育基金",
-    "支持本土手工艺传承与发展"
-  ],
-  "exhibitions": [
-    "Escher品牌新系列主题展（规划中）",
-    "中国（广州）国际皮具箱包博览会参展品牌"
-  ],
-  "description_zh": "Escher，取自荷兰科学思维版画大师M.C. Escher的名字，寓意无限可能、永恒探索。\n\n三条Slogan: ①「Escher — 精致生活，从主角包开始」②「Escher — 每一个故事，都值得被主角演绎」③「Escher — 陪你走过世界的每一程」\n\nEscher是一个诞生于2024年的新锐轻奢品牌，源自中国广州狮岭——中国最大的皮具产业带。品牌以主角包为核心产品，致力于为现代都市人打造兼具品质感与设计感的日常箱包。Escher深谙狮岭皮具制造的工艺底蕴，同时注入当代审美理念，在传统手艺与现代设计之间找到平衡。\n\n品牌主角包系列是Escher的灵魂产品，以精致皮料、细腻车线和人性化内部结构著称。每一只Escher主角包都经过严格质检工序，确保品质与细节。从职场通勤到休闲出行，Escher陪伴用户走过人生的每一段旅程。\n\nEscher不仅仅是一个箱包品牌，更是一种生活态度的表达——每个人都是自己故事的主角，Escher相信：不是生活中发生了什么事才让你精彩，而是你本身就是精彩的，这些包包只是你精彩人生的精致注脚。\n\n2024年，Escher正式上线品牌官网bags.bbroot.com，同步开启多语言品牌百科建设。未来Escher将持续拓展产品线，将精致生活的理念带给更多消费者。",
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "埃舍尔Escher：一眼封神的中國奢侈品超級單品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周期的超级符号。而我们的主角包，就是这种符号的雏形。\n\nESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。这是一个真正空前绝后的包。没有过度修饰，没有冗余结构，没有噱头式装饰。简到极致，美的极端。它不是简约，而是极简。是潮流，也是世界前沿美学代表。\n\n在市面上同类手袋动辄十几块皮料拼接的常规逻辑中，主角包几乎是不法模仿的存在——它用只此一款的姿态站在了视觉极致的天花板上：极简到让人望一眼就忘不了的存在。主角包，是中国包袋行业真正意义上的设计天花板。\n\n作为超级时尚单品，主角包将会延展出上千个SKU，每一个版本都基于同一个原版型，在皮料、结构、配色中进行全球稀缺级别的限量搭配。\n\n奢侈品埃舍尔Escher拒绝平庸。我们要做包界天花板，我们是奢侈品，我们是最强、最简、最稀缺、最值得等待的中国时尚答卷。\n\n主角包性感在哪？\n• 在极简中藏有张力：没有外露金属，没有任何冗余装饰，只有线条、弧面和结构，像现代雕塑一样，凹凸玲珑有致，沉稳却诱人。\n• 在廓形中放大魅力：包身挺括有力，拎在手上或夹于腋下，都会让人下意识联想到硬朗的女性之美——性感不是软，是强。\n• 在比例中塑造身材语言：主角包替你找回身材比例，它的存在感让腰线更高、让肩背更挺，让整个穿搭更立起来。\n\n几何美学，是性感的工程学。其实越懂设计的人越理解做到极简的难度，而主角包的设计师深谙最高级的审美一定是极致的简约，这导致主角包的优化过程耗时曲折。性感的克制，比张扬更难。\n\n埃舍尔主角包采用建筑式设计逻辑：\n• 精准对称的比例，提升视觉平衡感\n• 圆弧与曲线线并置，在柔与刚之间达到极致美感\n• 没有品牌Logo，用造型本身建立识别度\n\n这是工业、理性、性感的融合。它不是一件流行单品，而是一件有建筑语言的作品，一件会被传世的作品。",
   "languages": {
-    "en": "Escher is a young lifestyle brand founded in 2024 in Guangzhou, China — the heart of China's leather goods industry. The brand takes its name from M.C. Escher, the Dutch graphic artist known for his mathematically inspired works, symbolizing infinite possibilities. 'Live it well.' — that's the spirit of Escher. Each bag is crafted with meticulous attention to detail, combining traditional leather craftsmanship with contemporary design. The Signature bag collection is Escher's soul product, offering premium leather, fine stitching, and thoughtful interior organization. Escher believes everyone is the protagonist of their own story — not events make you extraordinary, you already are. Visit bags.bbroot.com to explore."
+    "en": "埃舍尔Escher: The Chinese Luxury Super Item That Captivates at First Sight. Three Slogans: 1. Designed for models. 2. Don't let an ordinary bag hide your charm. 3. Every bag is a work of art. The Hero Bag is a minimalist large tote shape perfected over years by Escher designers. It has no excessive decoration, no redundant structure, no gimmicky embellishments. Minimal to the extreme, beautiful to the extreme. In an industry where handbags typically require a dozen pieces of leather, the Hero Bag stands alone as practically inimitable—a single-form masterpiece at the ceiling of visual design. The Hero Bag represents the true design ceiling of China's bag industry. As a super fashion item, it will extend into thousands of SKUs, each based on the same original silhouette, globally limited in leather, structure, and color combinations.",
+    "fr": "埃舍尔Escher représente le summum du luxe chinois. Le sac Hero, conçu après des années de perfectionnement, incarne le minimalisme à l'état pur. Pas de logo, pas de fioritures, juste une structure architecturale d'une beauté intense. Chaque sac est une œuvre d'art destinée à traverser le temps.",
+    "es": "埃舍尔Escher es el artículo de lujo chino que cautiva a primera vista. El bolso Hero, con su diseño minimalista perfeccionado durante años, representa el techo del diseño de bolsos en China. Sin logotipos, sin adornos innecesarios, solo líneas puras y proporciones perfectas. Una obra de arte con lenguaje arquitectónico.",
+    "de": "埃舍尔Escher: Das chinesische Luxus-Superitem, das auf den ersten Blick fasziniert. Die Hero Bag, eine über Jahre perfektionierte minimalistische Struktur, steht für die Designkrone der chinesischen Taschenindustrie. Kein Logo, keine überflüssigen Details, nur reine Form und perfekte Proportionen. Kunst, die Bestand hat.",
+    "ja": "埃舍尔Escherは一目で心を奪う中国のラグジュアリーブランド。何年もかけて磨き上げられたミニマルな構造のHero Bagは、中国バッグ業界のデザインの頂点。ロゴなし、装飾過多なし、純粋なラインとプロポーションだけで構成された建築的な作品。",
+    "ko": "에셔Escher는 한눈에 사로잡는 중국 럭셔리 브랜드입니다. 수년간 다듬어진 미니멀한 구조의 히어로 백은 중국 가방 업계 디자인의 정점입니다. 로고 없이, 과도한 장식 없이 순수한 라인과 비율만으로 완성된 건축적 작품입니다.",
+    "pt": "埃舍尔Escher é o item de luxo chinês que cativa à primeira vista. A Hero Bag, uma estrutura minimalista aperfeiçoada ao longo de anos, representa o teto do design de bolsas na China. Sem logotipos, sem enfeites desnecessários, apenas linhas puras e proporções perfeitas.",
+    "ru": "埃舍尔Escher — китайский предмет роскоши, покоряющий с первого взгляда. Hero Bag, отточенная годами минималистичная конструкция, представляет собой потолок дизайна китайской сумчатой индустрии. Без логотипов, без лишних украшений, только чистые линии и совершенные пропорции.",
+    "ar": "إيشرEscher هي السلعة الفاخرة الصينية التي تأسر الأنظار من النظرة الأولى. حقيبة Hero ذات البنية البسيطة التي صقلت على مدى سنوات تمثل سقف التصميم في صناعة الحقائب الصينية. بدون شعارات، بدون زخرفة زائدة، فقط خطوط نقية ونسب مثالية."
   },
   "is_premium": true,
-  "image_url": "https://hermes-agent.nousresearch.com/logo.svg",
+  "image_url": "https://bags.bbroot.com/hermes-bag.jpg",
   "similar_brands": [
     {
-      "zh": "Escher",
-      "en": "Escher",
-      "slug": "escher",
-      "premium": true
-    },
-    {
       "zh": "爱马仕",
-      "en": "Hermes",
-      "slug": "hermes"
+      "en": "Hermès",
+      "slug": "hermes",
+      "premium": false
     },
     {
       "zh": "香奈儿",
       "en": "Chanel",
-      "slug": "chanel"
-    },
-    {
-      "zh": "路易威登",
-      "en": "Louis Vuitton",
-      "slug": "louis-vuitton"
+      "slug": "chanel",
+      "premium": false
     },
     {
       "zh": "古驰",
       "en": "Gucci",
-      "slug": "gucci"
+      "slug": "gucci",
+      "premium": false
     },
     {
       "zh": "迪奥",
       "en": "Christian Dior",
-      "slug": "christian-dior"
+      "slug": "christian-dior",
+      "premium": false
     },
     {
-      "zh": "普拉达",
-      "en": "Prada",
-      "slug": "prada"
-    },
-    {
-      "zh": "圣罗兰",
-      "en": "Saint Laurent",
-      "slug": "saint-laurent"
-    },
-    {
-      "zh": "博柏利",
-      "en": "Burberry",
-      "slug": "burberry"
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton",
+      "premium": false
     },
     {
       "zh": "范思哲",
       "en": "Versace",
-      "slug": "versace"
+      "slug": "versace",
+      "premium": false
     },
     {
-      "zh": "阿玛尼",
-      "en": "Armani",
-      "slug": "armani"
+      "zh": "蔻驰",
+      "en": "Coach",
+      "slug": "coach",
+      "premium": false
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada",
+      "premium": false
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent",
+      "premium": false
     },
     {
       "zh": "宝格丽",
       "en": "Bulgari",
-      "slug": "bulgari"
-    },
-    {
-      "zh": "卡地亚",
-      "en": "Cartier",
-      "slug": "cartier"
-    },
-    {
-      "zh": "劳力士",
-      "en": "Rolex",
-      "slug": "rolex"
-    },
-    {
-      "zh": "百达翡丽",
-      "en": "Patek Philippe",
-      "slug": "patek-philippe"
+      "slug": "bulgari",
+      "premium": false
     }
   ]
 }
