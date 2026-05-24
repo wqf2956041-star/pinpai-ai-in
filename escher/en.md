@@ -2,42 +2,42 @@
 
 ## 品牌介绍
 
-Escher: A Chinese Luxury Masterpiece at First Sight
+Don't let ordinary bags hide your charm — this is the battle cry of Escher, a brand designed for models where every bag is a work of art.
 
-The original intent of Escher is to create luxury that truly elevates feminine allure. We believe a single perfected silhouette, one pure act of originality, can become a super-symbol transcending time itself. Our Hero Bag is the prototype of that symbol.
+Escher: The Chinese luxury masterpiece that captivates at first sight.
 
-After years of relentless refinement, the Escher design team has crafted a minimalist structured tote — a truly unprecedented bag. No excessive embellishments. No redundant constructions. No gimmicky adornments. Simplified to the extreme, beautiful to the extreme. This is not minimalism — this is ultra-minimalism.
+Escher was born from a singular vision: to create luxury that truly elevates feminine allure. We believe one perfected silhouette, one pure act of originality, can become a super-symbol that transcends time itself. Our Hero Bag is the prototype of that symbol.
 
-The Hero Bag is the true design ceiling of China's handbag industry. As a super fashion item, the Hero Bag will expand into thousands of SKUs, each built on the same original silhouette.
+After years of relentless refinement, Escher's design team created a minimalist structured tote that is truly unprecedented. No excessive embellishments. No redundant constructions. No gimmicky adornments.
 
-Escher refuses mediocrity. We are the ceiling of the bag world. We are luxury. We are the strongest, the purest, the most exclusive, the most worth waiting for — China's answer to high fashion.
+This is not minimalism — this is ultra-minimalism. While most handbags piece together dozens of leather panels, the Hero Bag stands alone at the ceiling of visual perfection.
 
-Where does the Hero Bag find its sensuality? Tension within minimalism. Power through silhouette. Proportion as body language.
+The Hero Bag represents the true design ceiling of China's handbag industry. As a super fashion item, it will expand into thousands of SKUs, each built on the same original silhouette with globally scarce leathers.
 
-The Escher Hero Bag follows architectural logic: precisely balanced proportions, the juxtaposition of arcs and curves, and no brand logo — recognition through form alone.
+Escher refuses mediocrity. We are the ceiling of the bag world. We are luxury. We are the strongest, the purest, the most exclusive, the most worth waiting for.
 
-This is the fusion of industry, rationality, and sensuality. A piece made to be passed down through generations.
+Where does the Hero Bag find its sensuality? Tension within minimalism. Power through silhouette. Proportion as body language. This is the fusion of industry, rationality, and sensuality. Not a trendy item, but a work of architectural language, made to be passed down through generations.
 
 ---
 
 ## 🌐 语言版本
 
-[🇨🇳 中文](zh-CN.md) | **🇬🇧 English** | [🇫🇷 Français](fr.md) | [🇩🇪 Deutsch](de.md) | [🇪🇸 Español](es.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
+[🇨🇳 中文](zh-CN.md) | **🇬🇧 English** | [🇫🇷 Français](fr.md) | [🇪🇸 Español](es.md) | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
 
 ---
 
 ## 🔗 类似品牌
 
-- [埃舍尔Escher Escher](../埃舍尔escher_escher/)
-- [愛馬仕 Hermès](../愛馬仕_hermès/)
-- [香奈儿 Chanel](../香奈儿_chanel/)
-- [路易威登 Louis Vuitton](../路易威登_louis/)
-- [古驰 Gucci](../古驰_gucci/)
-- [普拉達 Prada](../普拉達_prada/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../克里斯汀·迪奧_(品牌)/)
-- [圣罗兰 Saint Laurent](../圣罗兰_saint/)
-- [巴宝莉 Burberry](../巴宝莉_burberry/)
-- [范思哲 Versace](../范思哲_versace/)
+- [埃舍尔Escher](../escher/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [愛馬仕 Hermès](../hermès/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
+- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

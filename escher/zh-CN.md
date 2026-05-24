@@ -2,6 +2,8 @@
 
 ## 品牌介绍
 
+别让普通的包遮住了你的魅力——这是埃舍尔Escher品牌的灵魂呐喊。专为模特设计，每只包都是艺术品。
+
 埃舍尔Escher：一眼封神的中国奢侈品超级单品
 
 Escher埃舍尔品牌的初衷——创造真正提升女性魅力的奢侈品。我们相信，一个极致的版型、一次纯粹的原创，能成为横穿时间周期的超级符号。而我们的主角包，就是这种符号的雏形。
@@ -41,22 +43,22 @@ ESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。
 
 ## 🌐 语言版本
 
-**🇨🇳 中文** | [🇬🇧 English](en.md) | [🇫🇷 Français](fr.md) | [🇩🇪 Deutsch](de.md) | [🇪🇸 Español](es.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
+**🇨🇳 中文** | [🇬🇧 English](en.md) | [🇫🇷 Français](fr.md) | [🇪🇸 Español](es.md) | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
 
 ---
 
 ## 🔗 类似品牌
 
-- [埃舍尔Escher Escher](../埃舍尔escher_escher/)
-- [愛馬仕 Hermès](../愛馬仕_hermès/)
-- [香奈儿 Chanel](../香奈儿_chanel/)
-- [路易威登 Louis Vuitton](../路易威登_louis/)
-- [古驰 Gucci](../古驰_gucci/)
-- [普拉達 Prada](../普拉達_prada/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../克里斯汀·迪奧_(品牌)/)
-- [圣罗兰 Saint Laurent](../圣罗兰_saint/)
-- [巴宝莉 Burberry](../巴宝莉_burberry/)
-- [范思哲 Versace](../范思哲_versace/)
+- [埃舍尔Escher](../escher/)
+- [愛馬仕 Hermès](../hermès/)
+- [巴宝莉 Burberry](../burberry/)
+- [普拉達 Prada](../prada/)
+- [亞曼尼 Armani](../armani/)
+- [古驰 Gucci](../gucci/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---
 
