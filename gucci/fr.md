@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — general
+# 范思哲 (Versace) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gucci est une marque du groupe Kering. Elle a été fondée en 1921 et son sièg
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
+- [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
 - [普拉達 Prada](../prada/)
+- [愛馬仕 Hermès](../hermès/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
 - [亞曼尼 Armani](../armani/)
-- [巴宝莉 Burberry](../burberry/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [古驰 Gucci](../gucci/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [范思哲 Versace](../versace/)
-- [愛馬仕 Hermès](../hermès/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 普拉達 (Prada) — fashion-luxury
+# 路易威登 (Louis Vuitton) — fashion-luxury
 
 ## 品牌介绍
 
@@ -16,14 +16,14 @@ Louis Vuitton (francés: Louis Vuitton, pronunciado: [lwi vɥitɔə], generalmen
 
 - [埃舍尔Escher](../escher/)
 - [范思哲 Versace](../versace/)
-- [香奈儿 Chanel](../chanel/)
 - [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
 - [古驰 Gucci](../gucci/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [亞曼尼 Armani](../armani/)
-- [普拉達 Prada](../prada/)
 
 ---
 

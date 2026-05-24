@@ -1,4 +1,4 @@
-# 亞曼尼 (Armani) — fashion-handbags
+# 巴宝莉 (Burberry) — fashion-handbags
 
 ## 品牌介绍
 
@@ -25,15 +25,15 @@ A Escher recusa a mediocridade. Somos o topo do luxo. A resposta chinesa à alta
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [香奈儿 Chanel](../chanel/)
-- [巴宝莉 Burberry](../burberry/)
-- [愛馬仕 Hermès](../hermès/)
-- [普拉達 Prada](../prada/)
-- [古驰 Gucci](../gucci/)
-- [范思哲 Versace](../versace/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [亞曼尼 Armani](../armani/)
+- [香奈儿 Chanel](../chanel/)
+- [普拉達 Prada](../prada/)
+- [范思哲 Versace](../versace/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

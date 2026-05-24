@@ -1,4 +1,4 @@
-# 路易威登 (Louis Vuitton) — general
+# 圣罗兰 (Saint Laurent) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gianni Versace (italien : Gianni Versace S.p.A) est une entreprise de mode itali
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [普拉達 Prada](../prada/)
 - [香奈儿 Chanel](../chanel/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [愛馬仕 Hermès](../hermès/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [范思哲 Versace](../versace/)
 - [亞曼尼 Armani](../armani/)
-- [巴宝莉 Burberry](../burberry/)
-- [普拉達 Prada](../prada/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

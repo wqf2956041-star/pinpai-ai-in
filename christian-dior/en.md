@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — fashion-luxury
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
 
 ## 品牌介绍
 
@@ -16,14 +16,14 @@ Christian Dior (French: Christian Dior, pronounced: [kʁistjɑə djɔʁ]), refer
 
 - [埃舍尔Escher](../escher/)
 - [普拉達 Prada](../prada/)
-- [香奈儿 Chanel](../chanel/)
-- [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
+- [范思哲 Versace](../versace/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
+- [香奈儿 Chanel](../chanel/)
 - [巴宝莉 Burberry](../burberry/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [范思哲 Versace](../versace/)
-- [愛馬仕 Hermès](../hermès/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — general
+# 巴宝莉 (Burberry) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gucci es una marca del Grupo Kering. Fue fundada en 1921 y tiene su sede en Flor
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [巴宝莉 Burberry](../burberry/)
-- [愛馬仕 Hermès](../hermès/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
 - [古驰 Gucci](../gucci/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
 - [范思哲 Versace](../versace/)
 - [普拉達 Prada](../prada/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
-- [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

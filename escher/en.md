@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — fashion-handbags
+# 香奈儿 (Chanel) — fashion-handbags
 
 ## 品牌介绍
 
@@ -29,15 +29,15 @@ Where does the Hero Bag find its sensuality? Tension within minimalism. Power th
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [巴宝莉 Burberry](../burberry/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
+- [范思哲 Versace](../versace/)
 - [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [普拉達 Prada](../prada/)
 - [香奈儿 Chanel](../chanel/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

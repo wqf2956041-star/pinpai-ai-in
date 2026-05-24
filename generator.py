@@ -285,6 +285,19 @@ def build_lang_nav(current_lang):
     return "\n".join(lines)
 
 
+def build_search_js(brands_done):
+    """构建搜索用品牌列表JSON（内联到页面JS）"""
+    slugs = list(brands_done.keys())
+    entries = []
+    for s in slugs:
+        b = brands_done.get(s, {})
+        name = b.get("name", s)
+        name_cn = b.get("name_cn", name)
+        en = b.get("name_en", b.get("name_en", ""))
+        entries.append(f'{{"name":"{name_cn}","en":"{en}","slug":"{s}"}}')
+    return "[" + ",".join(entries) + "]"
+
+
 def build_similar_brands(similar_slugs, brands_done, count=10):
     """生成类似品牌推荐HTML（网格卡片风格）
     付费品牌（PREMIUM_BRANDS）可带图，免费品牌纯文字
@@ -358,6 +371,9 @@ def generate_index_html(brand, brands_done, similar_count=10):
     nav_html = build_lang_nav("zh-CN")
     similar_html = build_similar_brands(similar_slugs, brands_done, count=similar_count)
     
+    # 构建搜索用品牌列表JS
+    search_brands_js = build_search_js(brands_done)
+    
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -383,10 +399,23 @@ def generate_index_html(brand, brands_done, similar_count=10):
         .similar-item.premium .badge-paid {{ display: inline-block; font-size: 10px; padding: 2px 8px; background: rgba(201,168,76,0.12); border-radius: 10px; color: #c9a84c; margin-top: 3px; }}
         .home-btn {{ display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }}
         .home-btn:hover {{ background: #0256b6; }}
+        .search-box {{ display: flex; gap: 6px; margin: 15px 0; max-width: 400px; }}
+        .search-box input {{ flex: 1; padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; outline: none; }}
+        .search-box input:focus {{ border-color: #0366d6; box-shadow: 0 0 0 2px rgba(3,102,214,0.1); }}
+        .search-box button {{ padding: 8px 14px; background: #0366d6; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; }}
+        .search-box button:hover {{ background: #0256b6; }}
+        .search-results {{ position: absolute; background: white; border: 1px solid #ddd; border-radius: 6px; max-height: 300px; overflow-y: auto; display: none; width: 380px; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }}
+        .search-results a {{ display: block; padding: 8px 12px; text-decoration: none; color: #333; border-bottom: 1px solid #f0f0f0; }}
+        .search-results a:hover {{ background: #f5f5f5; color: #0366d6; }}
         footer {{ margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }}
     </style>
 </head>
 <body>
+    <div class="search-box" style="position:relative;">
+        <input type="text" id="brand-search" placeholder="搜索品牌..." oninput="searchBrand(this.value)">
+        <button onclick="goToBrand()">🔍</button>
+        <div class="search-results" id="search-results"></div>
+    </div>
     <a href="../" class="home-btn">🏠 首页</a>
     
     <h1>{name_cn}{f' <span style="font-weight:normal;font-size:0.7em;color:#666;">({name_en})</span>' if name_en else ''}</h1>
@@ -402,13 +431,32 @@ def generate_index_html(brand, brands_done, similar_count=10):
     </div>
     
     <div class="similar">
-        <strong>🔗 类似品牌 · 欢迎付费入驻 ·</strong>
+        <strong>🔗 类似品牌 · 欢迎入驻 ·</strong>
 {similar_html}
     </div>
     
     <footer>
         <p>© <a href="https://pinpai.ai.in">pinpai.ai.in</a> — 全球品牌百科</p>
     </footer>
+    <script>
+const brands = {search_brands_js};
+function searchBrand(q) {{
+    const div = document.getElementById('search-results');
+    q = q.trim().toLowerCase();
+    if (!q) {{ div.style.display = 'none'; return; }}
+    const matches = brands.filter(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
+    if (matches.length === 0) {{ div.style.display = 'none'; return; }}
+    div.innerHTML = matches.slice(0, 10).map(b => '<a href=\\\'../' + b.slug + '/\\\'>	🔹 ' + b.name + (b.en ? ' (' + b.en + ')' : '') + '</a>').join('');
+    div.style.display = 'block';
+}}
+function goToBrand() {{
+    const q = document.getElementById('brand-search').value.trim().toLowerCase();
+    if (!q) return;
+    const match = brands.find(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
+    if (match) window.location.href = '../' + match.slug + '/';
+}}
+document.addEventListener('click', function(e) {{ if (!e.target.closest('.search-box')) document.getElementById('search-results').style.display = 'none'; }});
+    </script>
 </body>
 </html>"""
     return html

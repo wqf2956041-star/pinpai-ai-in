@@ -1,4 +1,4 @@
-# 普拉達 (Prada) — fashion-luxury
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Prada (italien : Prada, Bourse de Hong Kong : 1913) est l'une des marques italie
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [巴宝莉 Burberry](../burberry/)
 - [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
 - [香奈儿 Chanel](../chanel/)
 - [古驰 Gucci](../gucci/)
-- [亞曼尼 Armani](../armani/)
 - [愛馬仕 Hermès](../hermès/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [巴宝莉 Burberry](../burberry/)
-- [普拉達 Prada](../prada/)
 
 ---
 

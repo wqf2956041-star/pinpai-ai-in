@@ -1,4 +1,4 @@
-# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
+# 巴宝莉 (Burberry) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 - [香奈儿 Chanel](../chanel/)
 - [亞曼尼 Armani](../armani/)
-- [普拉達 Prada](../prada/)
-- [古驰 Gucci](../gucci/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [愛馬仕 Hermès](../hermès/)
 - [范思哲 Versace](../versace/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [普拉達 Prada](../prada/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

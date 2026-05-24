@@ -1,4 +1,4 @@
-# 普拉達 (Prada) — fashion-luxury
+# 香奈儿 (Chanel) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [巴宝莉 Burberry](../burberry/)
-- [亞曼尼 Armani](../armani/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [范思哲 Versace](../versace/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
-- [香奈儿 Chanel](../chanel/)
+- [巴宝莉 Burberry](../burberry/)
+- [范思哲 Versace](../versace/)
 - [愛馬仕 Hermès](../hermès/)
-- [古驰 Gucci](../gucci/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [亞曼尼 Armani](../armani/)
 - [普拉達 Prada](../prada/)
+- [古驰 Gucci](../gucci/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

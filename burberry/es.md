@@ -1,4 +1,4 @@
-# 克里斯汀·迪奧 (品牌) (Christian Dior) — general
+# 愛馬仕 (Hermès) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Burberry Group plc es una casa de moda de lujo británica fundada en 1856 por Th
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [愛馬仕 Hermès](../hermès/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [古驰 Gucci](../gucci/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [亞曼尼 Armani](../armani/)
 - [普拉達 Prada](../prada/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
 - [香奈儿 Chanel](../chanel/)
-- [亞曼尼 Armani](../armani/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [范思哲 Versace](../versace/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [愛馬仕 Hermès](../hermès/)
 
 ---
 

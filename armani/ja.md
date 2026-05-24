@@ -1,4 +1,4 @@
-# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
+# 古驰 (Gucci) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [巴宝莉 Burberry](../burberry/)
-- [范思哲 Versace](../versace/)
 - [香奈儿 Chanel](../chanel/)
 - [普拉達 Prada](../prada/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
 - [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — general
+# 亞曼尼 (Armani) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [范思哲 Versace](../versace/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [香奈儿 Chanel](../chanel/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [古驰 Gucci](../gucci/)
-- [巴宝莉 Burberry](../burberry/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
-- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
+- [古驰 Gucci](../gucci/)
 - [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
+- [巴宝莉 Burberry](../burberry/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [亞曼尼 Armani](../armani/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — fashion-luxury
+# 古驰 (Gucci) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [巴宝莉 Burberry](../burberry/)
+- [普拉達 Prada](../prada/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [亞曼尼 Armani](../armani/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [范思哲 Versace](../versace/)
 - [香奈儿 Chanel](../chanel/)
-- [古驰 Gucci](../gucci/)
+- [巴宝莉 Burberry](../burberry/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [愛馬仕 Hermès](../hermès/)
+- [亞曼尼 Armani](../armani/)
+- [古驰 Gucci](../gucci/)
 
 ---
 

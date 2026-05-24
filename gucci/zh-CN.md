@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — general
+# 普拉達 (Prada) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [普拉達 Prada](../prada/)
+- [香奈儿 Chanel](../chanel/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [范思哲 Versace](../versace/)
+- [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
+- [巴宝莉 Burberry](../burberry/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
 - [古驰 Gucci](../gucci/)
-- [亞曼尼 Armani](../armani/)
-- [范思哲 Versace](../versace/)
-- [巴宝莉 Burberry](../burberry/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [愛馬仕 Hermès](../hermès/)
-- [香奈儿 Chanel](../chanel/)
+- [普拉達 Prada](../prada/)
 
 ---
 

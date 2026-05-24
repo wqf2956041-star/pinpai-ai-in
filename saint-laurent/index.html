@@ -23,10 +23,23 @@
         .similar-item.premium .badge-paid { display: inline-block; font-size: 10px; padding: 2px 8px; background: rgba(201,168,76,0.12); border-radius: 10px; color: #c9a84c; margin-top: 3px; }
         .home-btn { display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }
         .home-btn:hover { background: #0256b6; }
+        .search-box { display: flex; gap: 6px; margin: 15px 0; max-width: 400px; }
+        .search-box input { flex: 1; padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; outline: none; }
+        .search-box input:focus { border-color: #0366d6; box-shadow: 0 0 0 2px rgba(3,102,214,0.1); }
+        .search-box button { padding: 8px 14px; background: #0366d6; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; }
+        .search-box button:hover { background: #0256b6; }
+        .search-results { position: absolute; background: white; border: 1px solid #ddd; border-radius: 6px; max-height: 300px; overflow-y: auto; display: none; width: 380px; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .search-results a { display: block; padding: 8px 12px; text-decoration: none; color: #333; border-bottom: 1px solid #f0f0f0; }
+        .search-results a:hover { background: #f5f5f5; color: #0366d6; }
         footer { margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }
     </style>
 </head>
 <body>
+    <div class="search-box" style="position:relative;">
+        <input type="text" id="brand-search" placeholder="搜索品牌..." oninput="searchBrand(this.value)">
+        <button onclick="goToBrand()">🔍</button>
+        <div class="search-results" id="search-results"></div>
+    </div>
     <a href="../" class="home-btn">🏠 首页</a>
     
     <h1>圣罗兰 <span style="font-weight:normal;font-size:0.7em;color:#666;">(Saint Laurent)</span></h1>
@@ -51,7 +64,7 @@
     </div>
     
     <div class="similar">
-        <strong>🔗 类似品牌 · 欢迎付费入驻 ·</strong>
+        <strong>🔗 类似品牌 · 欢迎入驻 ·</strong>
 <div class="similar-grid">
 <a href="../escher/" class="similar-item premium">
     <img src="https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=100&h=100&fit=crop&auto=format" class="item-img" alt="埃舍尔Escher">
@@ -62,20 +75,14 @@
 <a href="../gucci/" class="similar-item">
     <span class="item-name">古驰<br><span class="item-name-en">Gucci</span></span>
 </a>
-<a href="../hermès/" class="similar-item">
-    <span class="item-name">愛馬仕<br><span class="item-name-en">Hermès</span></span>
-</a>
-<a href="../chanel/" class="similar-item">
-    <span class="item-name">香奈儿<br><span class="item-name-en">Chanel</span></span>
-</a>
-<a href="../burberry/" class="similar-item">
-    <span class="item-name">巴宝莉<br><span class="item-name-en">Burberry</span></span>
-</a>
 <a href="../christian-dior/" class="similar-item">
     <span class="item-name">克里斯汀·迪奧 (品牌)<br><span class="item-name-en">Christian Dior</span></span>
 </a>
-<a href="../prada/" class="similar-item">
-    <span class="item-name">普拉達<br><span class="item-name-en">Prada</span></span>
+<a href="../saint-laurent/" class="similar-item">
+    <span class="item-name">圣罗兰<br><span class="item-name-en">Saint Laurent</span></span>
+</a>
+<a href="../hermès/" class="similar-item">
+    <span class="item-name">愛馬仕<br><span class="item-name-en">Hermès</span></span>
 </a>
 <a href="../louis-vuitton/" class="similar-item">
     <span class="item-name">路易威登<br><span class="item-name-en">Louis Vuitton</span></span>
@@ -83,8 +90,14 @@
 <a href="../versace/" class="similar-item">
     <span class="item-name">范思哲<br><span class="item-name-en">Versace</span></span>
 </a>
-<a href="../saint-laurent/" class="similar-item">
-    <span class="item-name">圣罗兰<br><span class="item-name-en">Saint Laurent</span></span>
+<a href="../burberry/" class="similar-item">
+    <span class="item-name">巴宝莉<br><span class="item-name-en">Burberry</span></span>
+</a>
+<a href="../armani/" class="similar-item">
+    <span class="item-name">亞曼尼<br><span class="item-name-en">Armani</span></span>
+</a>
+<a href="../prada/" class="similar-item">
+    <span class="item-name">普拉達<br><span class="item-name-en">Prada</span></span>
 </a>
 </div>
     </div>
@@ -92,5 +105,24 @@
     <footer>
         <p>© <a href="https://pinpai.ai.in">pinpai.ai.in</a> — 全球品牌百科</p>
     </footer>
+    <script>
+const brands = [{"name":"brands","en":"","slug":"brands"},{"name":"stats","en":"","slug":"stats"}];
+function searchBrand(q) {
+    const div = document.getElementById('search-results');
+    q = q.trim().toLowerCase();
+    if (!q) { div.style.display = 'none'; return; }
+    const matches = brands.filter(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
+    if (matches.length === 0) { div.style.display = 'none'; return; }
+    div.innerHTML = matches.slice(0, 10).map(b => '<a href=\'../' + b.slug + '/\'>	🔹 ' + b.name + (b.en ? ' (' + b.en + ')' : '') + '</a>').join('');
+    div.style.display = 'block';
+}
+function goToBrand() {
+    const q = document.getElementById('brand-search').value.trim().toLowerCase();
+    if (!q) return;
+    const match = brands.find(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
+    if (match) window.location.href = '../' + match.slug + '/';
+}
+document.addEventListener('click', function(e) { if (!e.target.closest('.search-box')) document.getElementById('search-results').style.display = 'none'; });
+    </script>
 </body>
 </html>

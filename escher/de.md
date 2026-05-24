@@ -1,4 +1,4 @@
-# 路易威登 (Louis Vuitton) — fashion-handbags
+# 范思哲 (Versace) — fashion-handbags
 
 ## 品牌介绍
 
@@ -25,15 +25,15 @@ Escher lehnt Mittelmäßigkeit ab. Wir sind die Spitze des Luxus. Die chinesisch
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [香奈儿 Chanel](../chanel/)
-- [亞曼尼 Armani](../armani/)
-- [愛馬仕 Hermès](../hermès/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [普拉達 Prada](../prada/)
-- [巴宝莉 Burberry](../burberry/)
-- [范思哲 Versace](../versace/)
+- [亞曼尼 Armani](../armani/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [香奈儿 Chanel](../chanel/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
+- [范思哲 Versace](../versace/)
 
 ---
 
