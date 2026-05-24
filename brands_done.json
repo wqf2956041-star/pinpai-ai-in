@@ -110,11 +110,18 @@
       "category": "fashion-luxury",
       "done_at": "2026-05-24T09:51:00.000000+00:00",
       "similar": ["escher", "cartier", "tiffany-co", "bulgari", "patek-philippe", "hermes", "chanel", "louis-vuitton", "gucci", "prada"]
+    },
+    "patek-philippe": {
+      "name": "Patek Philippe",
+      "name_cn": "百达翡丽",
+      "category": "fashion-luxury",
+      "done_at": "2026-05-24T09:55:00.000000+00:00",
+      "similar": ["escher", "cartier", "tiffany-co", "bulgari", "rolex", "hermes", "chanel", "louis-vuitton", "gucci", "prada"]
     }
   },
   "stats": {
-    "total_brands": 15,
-    "last_update": "2026-05-24T09:51:00.000000+00:00",
-    "total_pages": 150
+    "total_brands": 16,
+    "last_update": "2026-05-24T09:55:00.000000+00:00",
+    "total_pages": 160
   }
 }
