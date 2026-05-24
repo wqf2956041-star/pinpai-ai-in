@@ -1,13 +1,5 @@
 [
   {
-    "slug": "van-cleef-arpels",
-    "zh": "梵克雅宝",
-    "en": "Van Cleef & Arpels",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "梵克雅宝是1906年创立的法国顶级珠宝品牌。Alhambra四叶草系列是最标志性的珠宝设计之一，以幸运四叶草为主题成为身份象征。"
-  },
-  {
     "slug": "omega",
     "zh": "欧米茄",
     "en": "Omega",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Tory Burch是2004年由设计师Tory Burch创立的美国时尚品牌。品牌以美式优雅融合运动休闲风格著称。Tory Burch的双T标志是她自己设计的几何图案，灵感来自摩洛哥瓷砖的对称美学。"
+  },
+  {
+    "slug": "van-cleef-arpels",
+    "zh": "梵克雅宝",
+    "en": "Van Cleef & Arpels",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "梵克雅宝是1906年创立的法国顶级珠宝品牌，由宝石商的子女Alfred Van Cleef和Salomon Arpels在巴黎创立。品牌与法国王室和全球贵族有着深厚渊源。\n\nAlhambra四叶草系列"
   }
 ]
