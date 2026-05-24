@@ -1,0 +1,115 @@
+{
+  "slug": "tag-heuer",
+  "names": {
+    "zh-CN": "泰格豪雅",
+    "en": "TAG Heuer"
+  },
+  "founding_year": 1860,
+  "founding_location": "瑞士拉绍德封",
+  "founder": "Edouard Heuer",
+  "official_website": "https://www.tagheuer.com",
+  "main_business": [
+    "腕表",
+    "眼镜",
+    "配饰"
+  ],
+  "current_slogan": "Don't Crack Under Pressure",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "TAG Heuer Carrera"
+    },
+    {
+      "name": "TAG Heuer Monaco"
+    },
+    {
+      "name": "TAG Heuer Aquaracer"
+    },
+    {
+      "name": "TAG Heuer Connected智能腕表"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1860,
+      "event": "创立"
+    },
+    {
+      "year": 1911,
+      "event": "发明仪表板计时器"
+    },
+    {
+      "year": 1969,
+      "event": "Monaco方形自动计时码表"
+    },
+    {
+      "year": 2015,
+      "event": "推出Connected智能腕表"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "泰格豪雅是1860年创立的瑞士腕表品牌，以运动计时和赛车主宰著称。Monaco和Carrera系列是赛车腕表的经典代表。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
