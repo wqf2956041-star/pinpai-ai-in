@@ -1,0 +1,142 @@
+{
+  "slug": "christian-dior",
+  "names": {
+    "zh-CN": "迪奥",
+    "en": "Christian Dior",
+    "fr": "Christian Dior",
+    "es": "Christian Dior",
+    "de": "Christian Dior",
+    "ja": "Christian Dior",
+    "ko": "Christian Dior",
+    "pt": "Christian Dior",
+    "ru": "Christian Dior",
+    "ar": "Christian Dior"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1946,
+  "founding_location": "法国巴黎",
+  "founder": "克里斯汀·迪奥（Christian Dior）",
+  "official_website": "https://www.dior.com",
+  "main_business": [
+    "高级时装",
+    "香水",
+    "化妆品",
+    "珠宝",
+    "皮具"
+  ],
+  "current_slogan": "Dior, 你和我",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Lady Dior手袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "J'adore真我香水",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Dior Saddle马鞍包",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "New Look套装",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Dior Book Tote",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1946,
+      "event": "创立"
+    },
+    {
+      "year": 1947,
+      "event": "New Look系列震惊时尚界"
+    },
+    {
+      "year": 1955,
+      "event": "推出Lady Dior手袋"
+    },
+    {
+      "year": 1999,
+      "event": "John Galliano出任创意总监"
+    },
+    {
+      "year": 2012,
+      "event": "Raf Simons接任"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。",
+  "languages": {
+    "en": "Christian Dior is a French luxury house founded in 1946 by Christian Dior.",
+    "fr": "Christian Dior est une maison de couture francaise fondee en 1946 par Christian Dior.",
+    "ja": "クリスチャンディオールは1946年に創業されたフランスの高級ブランドです。",
+    "ko": "크리스찬 디올은 1946년 설립된 프랑스 명품 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    },
+    {
+      "zh": "阿玛尼",
+      "en": "Armani",
+      "slug": "armani"
+    },
+    {
+      "zh": "博柏利",
+      "en": "Burberry",
+      "slug": "burberry"
+    }
+  ]
+}

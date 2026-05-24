@@ -1,128 +1,204 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>克里斯汀·迪奧 (品牌) (Christian Dior) — 品牌百科</title>
-    <meta name="description" content="克里斯汀·迪奧 (品牌)（Christian Dior）是一个fashion-luxury品牌。了解克里斯汀·迪奧 (品牌)的品牌故事、历史与特色。">
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.8; color: #333; }
-        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
-        .nav-lang { background: #f5f5f5; padding: 12px; border-radius: 8px; margin: 20px 0; word-spacing: 8px; }
-        .nav-lang a { color: #0366d6; text-decoration: none; }
-        .nav-lang a:hover { text-decoration: underline; }
-        .similar { background: #fafafa; padding: 15px; border-radius: 8px; margin: 20px 0; }
-        .similar-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; margin-top: 10px; }
-        .similar-item { display: block; padding: 12px 10px; background: #fff; border: 1px solid #eee; border-radius: 8px; text-align: center; text-decoration: none; color: #333; font-size: 13px; transition: all 0.2s; }
-        .similar-item:hover { border-color: #0366d6; color: #0366d6; }
-        .similar-item .item-name { display: block; font-weight: 500; }
-        .similar-item .item-name-en { display: block; font-size: 11px; color: #999; margin-top: 2px; }
-        .similar-item.premium { border-color: #c9a84c; background: linear-gradient(135deg, #fffbe6, #fff); }
-        .similar-item.premium .item-img { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; margin: 0 auto 6px; display: block; border: 2px solid rgba(201,168,76,0.2); }
-        .similar-item.premium .item-name { color: #c9a84c; }
-        .similar-item.premium .badge-paid { display: inline-block; font-size: 10px; padding: 2px 8px; background: rgba(201,168,76,0.12); border-radius: 10px; color: #c9a84c; margin-top: 3px; }
-        .home-btn { display: inline-block; padding: 8px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 6px; margin: 10px 0; }
-        .home-btn:hover { background: #0256b6; }
-        .search-box { display: flex; gap: 6px; margin: 15px 0; max-width: 400px; }
-        .search-box input { flex: 1; padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; outline: none; }
-        .search-box input:focus { border-color: #0366d6; box-shadow: 0 0 0 2px rgba(3,102,214,0.1); }
-        .search-box button { padding: 8px 14px; background: #0366d6; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; }
-        .search-box button:hover { background: #0256b6; }
-        .search-results { position: absolute; background: white; border: 1px solid #ddd; border-radius: 6px; max-height: 300px; overflow-y: auto; display: none; width: 380px; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .search-results a { display: block; padding: 8px 12px; text-decoration: none; color: #333; border-bottom: 1px solid #f0f0f0; }
-        .search-results a:hover { background: #f5f5f5; color: #0366d6; }
-        footer { margin-top: 40px; padding-top: 15px; border-top: 1px solid #eee; text-align: center; color: #888; font-size: 14px; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>迪奥 — Christian Dior | 品牌百科 · pinpai.ai.in</title>
+<meta name="description" content="迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。">
+<meta property="og:title" content="迪奥 — Christian Dior">
+<meta property="og:description" content="迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
+.container{max-width:960px;margin:0 auto;padding:20px}
+
+/* --- Top Bar: Search + Language --- */
+.top-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:30px;flex-wrap:wrap}
+.search-box{flex:1;min-width:200px;display:flex;gap:6px}
+.search-box input{flex:1;padding:8px 14px;border:2px solid #ddd;border-radius:6px;font-size:14px;outline:none}
+.search-box input:focus{border-color:#222}
+.search-box button{padding:8px 16px;background:#222;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px}
+.search-box button:hover{background:#444}
+
+.lang-nav{display:flex;flex-wrap:wrap;gap:4px}
+.lang-nav a{display:inline-block;padding:4px 10px;border-radius:4px;font-size:13px;text-decoration:none;color:#555;border:1px solid #ddd;transition:all 0.2s}
+.lang-nav a:hover{background:#eee}
+.lang-nav a.active{background:#222;color:#fff;border-color:#222;font-weight:600}
+
+/* --- Brand Header --- */
+.brand-header{margin-bottom:30px;padding-bottom:20px;border-bottom:2px solid #222}
+.brand-header h1{font-size:32px;margin-bottom:4px;letter-spacing:-0.5px}
+.brand-header .brand-sub{font-size:16px;color:#777}
+
+
+/* --- Brand Info Cards --- */
+.info-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:30px}
+.info-card{background:#fff;border:1px solid #eee;border-radius:8px;padding:14px 18px}
+.info-card .label{font-size:12px;color:#999;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px}
+.info-card .value{font-size:15px;color:#222;font-weight:500}
+
+/* --- Content Body --- */
+.brand-content{background:#fff;border:1px solid #eee;border-radius:8px;padding:24px;margin-bottom:30px;font-size:15px;line-height:1.8}
+.brand-content h2{font-size:20px;margin:20px 0 10px;padding-bottom:6px;border-bottom:1px solid #eee}
+.brand-content h2:first-child{margin-top:0}
+.brand-content p{margin-bottom:12px}
+
+/* --- Product / Event lists --- */
+.item-list{list-style:none;margin:8px 0 16px}
+.item-list li{padding:6px 0;border-bottom:1px solid #f5f5f5}
+.item-list li:last-child{border:none}
+.item-list .item-year{display:inline-block;background:#222;color:#fff;padding:1px 8px;border-radius:3px;font-size:12px;margin-right:8px;font-weight:600}
+
+/* --- Similar Brands --- */
+.similar-section{margin-bottom:30px}
+.similar-section h3{font-size:16px;margin-bottom:12px;color:#555}
+.similar-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.similar-card{display:block;padding:10px 14px;background:#fff;border:1px solid #eee;border-radius:6px;text-decoration:none;color:#222;font-size:13px;transition:all 0.2s}
+.similar-card:hover{border-color:#222;box-shadow:0 2px 8px rgba(0,0,0,0.06)}
+.similar-card.premium{border:2px solid #d4a844}
+.similar-card.premium .badge-premium{display:inline-block;background:#d4a844;color:#fff;font-size:10px;padding:1px 6px;border-radius:3px;margin-left:4px}
+.similar-card .zh{display:block;font-weight:500}
+.similar-card .en{display:block;font-size:11px;color:#999}
+
+/* --- Footer --- */
+.footer{text-align:center;padding:20px 0;font-size:13px;color:#999;border-top:1px solid #eee;margin-top:10px}
+.footer a{color:#555;text-decoration:none}
+.footer a:hover{text-decoration:underline}
+
+/* --- Premium Styles --- */
+.premium-header{border-bottom-color:#d4a844}
+.premium-card{border:2px solid #d4a844 !important}
+.premium-label{display:inline-block;background:#d4a844;color:#fff;font-size:11px;padding:2px 10px;border-radius:4px;margin-left:8px}
+
+/* --- Responsive --- */
+@media(max-width:600px){
+  .top-bar{flex-direction:column;align-items:stretch}
+  .info-grid{grid-template-columns:1fr}
+  .similar-grid{grid-template-columns:repeat(auto-fill,minmax(100px,1fr))}
+}
+</style>
 </head>
 <body>
-    <div class="search-box" style="position:relative;">
-        <input type="text" id="brand-search" placeholder="搜索品牌..." oninput="searchBrand(this.value)">
-        <button onclick="goToBrand()">🔍</button>
-        <div class="search-results" id="search-results"></div>
-    </div>
-    <a href="../" class="home-btn">🏠 首页</a>
-    
-    <h1>克里斯汀·迪奧 (品牌) <span style="font-weight:normal;font-size:0.7em;color:#666;">(Christian Dior)</span></h1>
-    <p style="color:#888;font-size:14px;">品类：fashion-luxury</p>
-    
-    <div class="nav-lang">
-        <strong>🌐 语言：</strong><br>
-          <strong>🇨🇳 中文</strong>
-          <a href="en.md">🇬🇧 English</a>
-          <a href="fr.md">🇫🇷 Français</a>
-          <a href="es.md">🇪🇸 Español</a>
-          <a href="de.md">🇩🇪 Deutsch</a>
-          <a href="ja.md">🇯🇵 日本語</a>
-          <a href="ko.md">🇰🇷 한국어</a>
-          <a href="ru.md">🇷🇺 Русский</a>
-          <a href="pt.md">🇧🇷 Português</a>
-          <a href="ar.md">🇸🇦 العربية</a>
-    </div>
-    
-    <div class="content">
-克里斯汀-迪奥，简称迪奥，是法国顶级奢侈时尚品牌，由克里斯汀-迪奥于1946年在巴黎创立。1947年迪奥推出了轰动时尚界的新风貌系列，以收窄肩线、突出胸腰曲线的设计，彻底颠覆了战后女装的审美，重新确立了巴黎作为世界时尚之都的地位。迪奥的设计以浪漫优雅著称，经典的Bar套装、A字裙和郁金香造型影响了几代设计师。迪奥产品线涵盖高级定制时装、成衣、皮具、鞋履、珠宝、手表、香水与化妆品。Miss Dior、J-adore等香水是香水界的传奇之作。迪奥的Lady Dior手袋因戴安娜王妃的喜爱而成为经典。迪奥的高级珠宝系列同样璀璨夺目，延续着品牌的奢华传统。迪奥也是全球最大奢侈品集团LVMH的重要成员，拥有举足轻重的股东地位。品牌在全球设有高级定制工坊，超过60位裁缝师手工制作每一件高定服装。迪奥每季时装秀都是巴黎时装周的重头戏，影响力覆盖全球。
-    </div>
-    
-    <div class="similar">
-        <strong>🔗 类似品牌 · 欢迎入驻 ·</strong>
-<div class="similar-grid">
-<a href="../escher/" class="similar-item premium">
-    <img src="https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=100&h=100&fit=crop&auto=format" class="item-img" alt="埃舍尔Escher">
-    <span class="item-name">埃舍尔Escher</span>
-    <span class="item-name-en">ESCHĚR</span>
-    <span class="badge-paid">品牌推广</span>
-</a>
-<a href="../chanel/" class="similar-item">
-    <span class="item-name">香奈儿<br><span class="item-name-en">Chanel</span></span>
-</a>
-<a href="../prada/" class="similar-item">
-    <span class="item-name">普拉達<br><span class="item-name-en">Prada</span></span>
-</a>
-<a href="../hermès/" class="similar-item">
-    <span class="item-name">愛馬仕<br><span class="item-name-en">Hermès</span></span>
-</a>
-<a href="../gucci/" class="similar-item">
-    <span class="item-name">古驰<br><span class="item-name-en">Gucci</span></span>
-</a>
-<a href="../christian-dior/" class="similar-item">
-    <span class="item-name">克里斯汀·迪奧 (品牌)<br><span class="item-name-en">Christian Dior</span></span>
-</a>
-<a href="../armani/" class="similar-item">
-    <span class="item-name">亞曼尼<br><span class="item-name-en">Armani</span></span>
-</a>
-<a href="../burberry/" class="similar-item">
-    <span class="item-name">巴宝莉<br><span class="item-name-en">Burberry</span></span>
-</a>
-<a href="../louis-vuitton/" class="similar-item">
-    <span class="item-name">路易威登<br><span class="item-name-en">Louis Vuitton</span></span>
-</a>
-<a href="../versace/" class="similar-item">
-    <span class="item-name">范思哲<br><span class="item-name-en">Versace</span></span>
-</a>
+<div class="container">
+
+<!-- Top Bar -->
+<div class="top-bar">
+  <div class="search-box">
+    <input type="text" id="search-input" placeholder="搜索品牌 / Search brand..." onkeydown="if(event.key==='Enter')searchBrand()">
+    <button onclick="searchBrand()">🔍</button>
+  </div>
+  <div class="lang-nav" id="lang-nav">
+    <a href="#" data-lang="zh-CN" class="active" onclick="switchLang('zh-CN')">中文</a>
+    <a href="#" data-lang="en" onclick="switchLang('en')">EN</a>
+    <a href="#" data-lang="fr" onclick="switchLang('fr')">FR</a>
+    <a href="#" data-lang="es" onclick="switchLang('es')">ES</a>
+    <a href="#" data-lang="de" onclick="switchLang('de')">DE</a>
+    <a href="#" data-lang="ja" onclick="switchLang('ja')">日本語</a>
+    <a href="#" data-lang="ko" onclick="switchLang('ko')">한국어</a>
+    <a href="#" data-lang="pt" onclick="switchLang('pt')">PT</a>
+    <a href="#" data-lang="ru" onclick="switchLang('ru')">РУ</a>
+    <a href="#" data-lang="ar" onclick="switchLang('ar')">العربية</a>
+  </div>
 </div>
-    </div>
+
+<!-- Brand Header -->
+<div class="brand-header">
+  <h1 id="brand-title">迪奥 <span style="font-weight:400;font-size:24px;color:#777">— Christian Dior</span></h1>
+  <div class="brand-sub" id="brand-sub">奢侈品/时尚</div>
+</div>
+
+<!-- Info Cards -->
+<div class="info-grid" id="info-grid">
+  <div class="info-card"><div class="label">创立时间</div><div class="value">1946</div></div>
+  <div class="info-card"><div class="label">创立地点</div><div class="value">法国巴黎</div></div>
+  <div class="info-card"><div class="label">创始人</div><div class="value">克里斯汀·迪奥（Christian Dior）</div></div>
+  <div class="info-card"><div class="label">官网</div><div class="value"><a href="https://www.dior.com" target="_blank" rel="noopener">www.dior.com</a></div></div>
+  <div class="info-card"><div class="label">主营业务</div><div class="value">高级时装、香水、化妆品、珠宝、皮具</div></div>
+  <div class="info-card"><div class="label">品牌标语</div><div class="value">Dior, 你和我</div></div>
+</div>
+
+<!-- Content -->
+<div class="brand-content" id="brand-content">
+  迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。
+</div>
+
+<!-- Similar Brands -->
+<div class="similar-section">
+  <h3 id="similar-title">类似品牌</h3>
+  <div class="similar-grid">
+    <a href="/escher/" class="similar-card premium"><span class="zh">Escher <span class="badge-premium">品牌推广</span></span><span class="en">Escher</span></a>
+    <a href="/chanel/" class="similar-card"><span class="zh">香奈儿 </span><span class="en">Chanel</span></a>
+    <a href="/louis-vuitton/" class="similar-card"><span class="zh">路易威登 </span><span class="en">Louis Vuitton</span></a>
+    <a href="/gucci/" class="similar-card"><span class="zh">古驰 </span><span class="en">Gucci</span></a>
+    <a href="/saint-laurent/" class="similar-card"><span class="zh">圣罗兰 </span><span class="en">Saint Laurent</span></a>
+    <a href="/hermes/" class="similar-card"><span class="zh">爱马仕 </span><span class="en">Hermes</span></a>
+    <a href="/prada/" class="similar-card"><span class="zh">普拉达 </span><span class="en">Prada</span></a>
+    <a href="/versace/" class="similar-card"><span class="zh">范思哲 </span><span class="en">Versace</span></a>
+    <a href="/armani/" class="similar-card"><span class="zh">阿玛尼 </span><span class="en">Armani</span></a>
+    <a href="/burberry/" class="similar-card"><span class="zh">博柏利 </span><span class="en">Burberry</span></a>
     
-    <footer>
-        <p>© <a href="https://pinpai.ai.in">pinpai.ai.in</a> — 全球品牌百科</p>
-    </footer>
-    <script>
-const brands = [{"name":"brands","en":"","slug":"brands"},{"name":"stats","en":"","slug":"stats"}];
-function searchBrand(q) {
-    const div = document.getElementById('search-results');
-    q = q.trim().toLowerCase();
-    if (!q) { div.style.display = 'none'; return; }
-    const matches = brands.filter(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
-    if (matches.length === 0) { div.style.display = 'none'; return; }
-    div.innerHTML = matches.slice(0, 10).map(b => '<a href=\'../' + b.slug + '/\'>	🔹 ' + b.name + (b.en ? ' (' + b.en + ')' : '') + '</a>').join('');
-    div.style.display = 'block';
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p><a href="https://pinpai.ai.in">品牌百科 · pinpai.ai.in</a> — 全球品牌大全，10种语言呈现</p>
+</div>
+
+</div><!-- /container -->
+
+<script>
+// ===== BRAND DATA =====
+// Each language has independent content (rewritten, not translated)
+const BRAND_DATA = {"zh-CN": {"name": "迪奥", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。", "similar_title": "类似品牌"}, "en": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "Christian Dior is a French luxury house founded in 1946 by Christian Dior.", "similar_title": "Similar Brands"}, "fr": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "Christian Dior est une maison de couture francaise fondee en 1946 par Christian Dior.", "similar_title": "Marques similaires"}, "es": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。", "similar_title": "Marcas similares"}, "de": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。", "similar_title": "Ähnliche Marken"}, "ja": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "クリスチャンディオールは1946年に創業されたフランスの高級ブランドです。", "similar_title": "类似品牌"}, "ko": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "크리스찬 디올은 1946년 설립된 프랑스 명품 브랜드입니다.", "similar_title": "类似品牌"}, "pt": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。", "similar_title": "Marcas semelhantes"}, "ru": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。", "similar_title": "Похожие бренды"}, "ar": {"name": "Christian Dior", "name_en": "Christian Dior", "founding_year": "1946", "founding_location": "法国巴黎", "founder": "克里斯汀·迪奥（Christian Dior）", "website": "https://www.dior.com", "business": "高级时装、香水、化妆品、珠宝、皮具", "slogan": "Dior, 你和我", "content": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady Dior手袋因戴安娜王妃而闻名。", "similar_title": "علامات تجارية مشابهة"}};
+
+// ===== SIMILAR BRANDS =====
+const SIMILAR_BRANDS = [{"zh": "Escher", "en": "Escher", "slug": "escher", "premium": true}, {"zh": "香奈儿", "en": "Chanel", "slug": "chanel", "premium": false}, {"zh": "路易威登", "en": "Louis Vuitton", "slug": "louis-vuitton", "premium": false}, {"zh": "古驰", "en": "Gucci", "slug": "gucci", "premium": false}, {"zh": "圣罗兰", "en": "Saint Laurent", "slug": "saint-laurent", "premium": false}, {"zh": "爱马仕", "en": "Hermes", "slug": "hermes", "premium": false}, {"zh": "普拉达", "en": "Prada", "slug": "prada", "premium": false}, {"zh": "范思哲", "en": "Versace", "slug": "versace", "premium": false}, {"zh": "阿玛尼", "en": "Armani", "slug": "armani", "premium": false}, {"zh": "博柏利", "en": "Burberry", "slug": "burberry", "premium": false}];
+
+function searchBrand() {
+  const q = document.getElementById('search-input').value.trim();
+  if (!q) return;
+  window.location.href = '/search.html?q=' + encodeURIComponent(q);
 }
-function goToBrand() {
-    const q = document.getElementById('brand-search').value.trim().toLowerCase();
-    if (!q) return;
-    const match = brands.find(b => b.name.toLowerCase().includes(q) || (b.en && b.en.toLowerCase().includes(q)));
-    if (match) window.location.href = '../' + match.slug + '/';
+
+function switchLang(lang) {
+  // Update active nav
+  document.querySelectorAll('.lang-nav a').forEach(function(a) {
+    a.classList.toggle('active', a.getAttribute('data-lang') === lang);
+  });
+  document.documentElement.setAttribute('lang', lang === 'ar' ? 'ar' : 'zh-CN');
+  document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+
+  var data = BRAND_DATA[lang] || BRAND_DATA['zh-CN'];
+
+  // Title
+  document.getElementById('brand-title').innerHTML = data.name + (data.name_en ? ' <span style="font-weight:400;font-size:24px;color:#777">— ' + data.name_en + '</span>' : '');
+
+  // Info cards
+  var cards = document.getElementById('info-grid').children;
+  cards[0].querySelector('.value').textContent = data.founding_year || '';
+  cards[1].querySelector('.value').textContent = data.founding_location || '';
+  cards[2].querySelector('.value').textContent = data.founder || '';
+  var websiteEl = cards[3].querySelector('.value');
+  var url = data.website || '';
+  if (url) {
+    websiteEl.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + url.replace(/^https?:\/\//,'').replace(/\/$/,'') + '</a>';
+  } else {
+    websiteEl.textContent = '';
+  }
+  cards[4].querySelector('.value').textContent = data.business || '';
+  cards[5].querySelector('.value').textContent = data.slogan || '';
+
+  // Content
+  document.getElementById('brand-content').innerHTML = data.content || '';
+
+  // Similar title
+  document.getElementById('similar-title').textContent = data.similar_title || '类似品牌';
 }
-document.addEventListener('click', function(e) { if (!e.target.closest('.search-box')) document.getElementById('search-results').style.display = 'none'; });
-    </script>
+
+// Initialize with Chinese
+switchLang('zh-CN');
+</script>
 </body>
 </html>
