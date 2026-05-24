@@ -1,0 +1,120 @@
+{
+  "slug": "ikea",
+  "names": {
+    "zh-CN": "宜家",
+    "en": "IKEA"
+  },
+  "founding_year": 1943,
+  "founding_location": "瑞典艾尔姆胡特",
+  "founder": "Ingvar Kamprad",
+  "official_website": "https://www.ikea.com",
+  "main_business": [
+    "家具",
+    "家居",
+    "厨房",
+    "照明",
+    "装饰"
+  ],
+  "current_slogan": "创造更美好的日常生活",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "IKEA KALLAX搁架单元"
+    },
+    {
+      "name": "IKEA MALM床架"
+    },
+    {
+      "name": "IKEA BILLY书架"
+    },
+    {
+      "name": "IKEA PAX衣柜"
+    },
+    {
+      "name": "IKEA LACK边桌"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1943,
+      "event": "创立"
+    },
+    {
+      "year": 1956,
+      "event": "推出平板包装"
+    },
+    {
+      "year": 1976,
+      "event": "进入美国市场"
+    },
+    {
+      "year": 1998,
+      "event": "进入中国"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "宜家是1943年创立的瑞典家居品牌，全球最大的家具零售商。平板包装革命降低了运输成本，让好设计走入千家万户。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
