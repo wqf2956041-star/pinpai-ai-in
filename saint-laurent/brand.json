@@ -1,0 +1,142 @@
+{
+  "slug": "saint-laurent",
+  "names": {
+    "zh-CN": "圣罗兰",
+    "en": "Saint Laurent",
+    "fr": "Saint Laurent",
+    "es": "Saint Laurent",
+    "de": "Saint Laurent",
+    "ja": "Saint Laurent",
+    "ko": "Saint Laurent",
+    "pt": "Saint Laurent",
+    "ru": "Saint Laurent",
+    "ar": "Saint Laurent"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1961,
+  "founding_location": "法国巴黎",
+  "founder": "伊夫·圣罗兰（Yves Saint Laurent）",
+  "official_website": "https://www.ysl.com",
+  "main_business": [
+    "高级时装",
+    "皮具",
+    "香水",
+    "化妆品",
+    "鞋履"
+  ],
+  "current_slogan": "时尚易逝，风格永存",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Le Smoking吸烟装",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Sac de Jour手袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "YSL Kate链条包",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Opium鸦片香水",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "蒙德里安裙",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1961,
+      "event": "创立"
+    },
+    {
+      "year": 1966,
+      "event": "推出Le Smoking吸烟装"
+    },
+    {
+      "year": 1977,
+      "event": "Opium鸦片香水"
+    },
+    {
+      "year": 2000,
+      "event": "Tom Ford出任创意总监"
+    },
+    {
+      "year": 2012,
+      "event": "Hedi Slimane重塑品牌"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "圣罗兰是法国最具革命性的奢侈品牌之一，由伊夫圣罗兰于1961年创立。1966年推出的Le Smoking吸烟装是历史上首套女性燕尾服，打破了女性不能穿裤装的禁忌。品牌以叛逆摇滚精神和法式优雅著称。",
+  "languages": {
+    "en": "Saint Laurent is a French luxury house founded in 1961 by Yves Saint Laurent, famous for Le Smoking tuxedo.",
+    "fr": "Saint Laurent est une maison francaise fondee en 1961 par Yves Saint Laurent.",
+    "ja": "サンローランは1961年にイヴサンローランによって創業されたフランスの高級ブランドです。",
+    "ko": "생로랑은 1961년 이브생로랑이 설립한 프랑스 명품 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "阿玛尼",
+      "en": "Armani",
+      "slug": "armani"
+    },
+    {
+      "zh": "博柏利",
+      "en": "Burberry",
+      "slug": "burberry"
+    }
+  ]
+}

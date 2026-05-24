@@ -46,5 +46,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady D"
+  },
+  {
+    "slug": "saint-laurent",
+    "zh": "圣罗兰",
+    "en": "Saint Laurent",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "圣罗兰是法国最具革命性的奢侈品牌之一，由伊夫圣罗兰于1961年创立。1966年推出的Le Smoking吸烟装是历史上首套女性燕尾服，打破了女性不能穿裤装的禁忌。品牌以叛逆摇滚精神和法式优雅著称。"
   }
 ]
