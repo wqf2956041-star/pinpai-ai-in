@@ -502,5 +502,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Champion是1919年创立的美国经典运动服品牌。1934年发明的连帽卫衣彻底改变了休闲服装的历史。1938年的Reverse Weave抗缩水工艺在卫衣侧面加入横向编织，防止洗涤后缩水——这个技"
+  },
+  {
+    "slug": "lancome",
+    "zh": "兰蔻",
+    "en": "Lancôme",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "兰蔻是1935年由Armand Petitjean创立的法国顶级化妆品品牌，属于欧莱雅集团旗下高端美妆线。小黑瓶（Advanced Genifique Youth Activating Concent"
   }
 ]

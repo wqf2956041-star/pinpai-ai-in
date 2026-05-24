@@ -1,0 +1,110 @@
+{
+  "slug": "lancome",
+  "names": {
+    "zh-CN": "兰蔻",
+    "en": "Lancôme"
+  },
+  "founding_year": 1935,
+  "founding_location": "法国巴黎",
+  "founder": "Armand Petitjean",
+  "official_website": "https://www.lancome.com",
+  "main_business": [
+    "化妆品",
+    "护肤品",
+    "香水"
+  ],
+  "current_slogan": "La vie est belle",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "小黑瓶精华"
+    },
+    {
+      "name": "兰蔻粉水"
+    },
+    {
+      "name": "兰蔻持妆粉底"
+    },
+    {
+      "name": "La vie est belle香水"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1935,
+      "event": "创立"
+    },
+    {
+      "year": 2009,
+      "event": "Advanced Genifique小黑瓶推出"
+    },
+    {
+      "year": 2012,
+      "event": "La vie est belle香水"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "兰蔻是1935年由Armand Petitjean创立的法国顶级化妆品品牌，属于欧莱雅集团旗下高端美妆线。小黑瓶（Advanced Genifique Youth Activating Concentrate）自2009年推出以来是全球最畅销的肌底精华之一。兰蔻粉水（Tonique Confort）以玫瑰精华闻名。品牌经典玫瑰标志源自法国Château de Chambord的玫瑰园。兰蔻也是全球顶级香水品牌，La vie est belle是近年最畅销的法国香水之一。",
+  "languages": {
+    "en": "兰蔻是1935年由Armand Petitjean创立 法国顶级化妆品品牌, 属于欧莱雅集团旗下高端美妆线. 小黑瓶（Advanced Genifique Youth Activating Concentrate）自2009年推出以来是全球最畅销 肌底精华之一. 兰蔻粉水（Tonique Confort）以玫瑰精华闻名. 品牌经典玫瑰标志源自法国Château de Chambord 玫瑰园. 兰蔻也是全球顶级香水品牌, La vie est belle是近年最畅销 法国香水之一. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "欧莱雅",
+      "en": "L'Oreal",
+      "slug": "loreal",
+      "premium": false
+    },
+    {
+      "zh": "雅诗兰黛",
+      "en": "Estee Lauder",
+      "slug": "esteelauder",
+      "premium": false
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel",
+      "premium": false
+    },
+    {
+      "zh": "资生堂",
+      "en": "Shiseido",
+      "slug": "shiseido",
+      "premium": false
+    },
+    {
+      "zh": "倩碧",
+      "en": "Clinique",
+      "slug": "clinique",
+      "premium": false
+    },
+    {
+      "zh": "MAC",
+      "en": "M.A.C",
+      "slug": "mac",
+      "premium": false
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermès",
+      "slug": "hermes",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
