@@ -1,0 +1,109 @@
+{
+  "slug": "samsung",
+  "names": {
+    "zh-CN": "三星",
+    "en": "Samsung"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1938,
+  "founding_location": "韩国首尔",
+  "founder": "李秉喆",
+  "official_website": "https://www.samsung.com",
+  "main_business": [
+    "智能手机",
+    "家电",
+    "半导体",
+    "显示器"
+  ],
+  "current_slogan": "Do What You Can't",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Galaxy S"
+    },
+    {
+      "name": "Galaxy Z Fold"
+    },
+    {
+      "name": "QLED电视"
+    },
+    {
+      "name": "三星半导体"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1938,
+      "event": "创立"
+    },
+    {
+      "year": 1969,
+      "event": "进军电子业"
+    },
+    {
+      "year": 2010,
+      "event": "Galaxy S发布"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "三星是韩国最大跨国企业，1938年创立。全球最大的智能手机和半导体制造商。",
+  "languages": {
+    "en": "Samsung is South Korea's largest conglomerate."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "宝马",
+      "en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "zh": "梅赛德斯奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "zh": "ZARA",
+      "en": "ZARA",
+      "slug": "zara"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    }
+  ]
+}
