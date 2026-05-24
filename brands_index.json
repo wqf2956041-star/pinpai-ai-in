@@ -462,5 +462,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "奈飞是全球最大的流媒体娱乐平台，1997年由Reed Hastings创立。最初以DVD邮寄租赁服务起家——Blockbuster曾有机会收购Netflix但拒绝了，这个决定后来成为商业史上最著名的错"
+  },
+  {
+    "slug": "amazon",
+    "zh": "亚马逊",
+    "en": "Amazon",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "亚马逊是全球最大的电子商务和云计算公司，1994年由杰夫贝佐斯在车库创立。最初仅售图书，后来扩展为万物商店——世界上最大最全的网上商城。Amazon Prime会员服务是商业史上最成功的订阅模式，全球"
   }
 ]
