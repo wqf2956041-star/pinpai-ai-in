@@ -1,13 +1,5 @@
 [
   {
-    "slug": "christian-dior",
-    "zh": "迪奥",
-    "en": "Christian Dior",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "迪奥是法国高级时装最负盛名的品牌之一，由克里斯汀迪奥于1946年创立。1947年推出的Corolle系列被称为New Look，以极致女性化的收腰宽裙设计震惊战后世界，重新定义了女性优雅。Lady D"
-  },
-  {
     "slug": "saint-laurent",
     "zh": "圣罗兰",
     "en": "Saint Laurent",
@@ -390,5 +382,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "普拉达是意大利顶级奢侈时尚品牌，由马里奥普拉达于1913年在米兰创立。最初以生产高质量皮箱和旅行配件起家，凭借精湛的皮革工艺迅速赢得了贵族阶层的青睐。\n\n1978年，马里奥的孙女缪西娅普拉达接管品牌，"
+  },
+  {
+    "slug": "christian-dior",
+    "zh": "迪奥",
+    "en": "Christian Dior",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "克里斯汀迪奥是法国最具传奇色彩的高级时装品牌，由克里斯汀迪奥先生于1946年在巴黎创立。1947年，迪奥推出New Look系列，以极致收腰和宽大裙摆重新定义了战后女性之美，震惊了整个时尚界。\n\nNe"
   }
 ]
