@@ -44,8 +44,10 @@
   ],
   "philanthropy": [],
   "exhibitions": [],
-  "description_zh": "Crocs是2002年创立的美国鞋履品牌，以标志性洞洞鞋闻名。凭借舒适与独特设计从实用凉鞋演变为潮流文化符号。",
-  "languages": {},
+  "description_zh": "卡骆驰是2002年创立的美国鞋履品牌，以其标志性的洞洞鞋闻名于世。最初为划船和水上运动设计的轻便树脂鞋，意外地凭借超舒适脚感和鲜艳色彩成为全球现象级产品。\n\nCrocs的Croslite封闭式泡沫树脂材料是其核心专利技术，提供超轻、防臭、防滑和抗菌功能。每双Crocs仅重约200克，比普通运动鞋轻60%以上。品牌的口号是Come As You Are——做你自己。\n\n品牌起初被时尚界嘲为丑鞋，却在2010年代随着丑时尚趋势的兴起而逆袭成为潮流宠儿。Crocs与Balenciaga、Christopher Kane、Justin Bieber等大牌和明星的联名合作让品牌完成了从实用凉鞋到时尚符号的蜕变。\n\nCrocs在美国科罗拉多州的博尔德设有全球总部，产品在全球90多个国家销售，年收入超过30亿美元。Jibbitz鞋扣配件的DIY文化让每双Crocs都成为个人风格的表达。",
+  "languages": {
+    "en": "卡骆驰是2002年创立 美国鞋履品牌，以其标志性 洞洞鞋闻名于世。最初为划船 and 水上运动设计 轻便树脂鞋，意外地凭借超舒适脚感 and 鲜艳色彩成为全球现象级产品。 Crocs Croslite封闭式泡沫树脂材料是其核心专利技术，提供超轻, 防臭, 防滑 and 抗菌功能。每双Crocs仅重约200克，比普通运动鞋轻60%以上。品牌 口号是Come As You Are——做你自己。"
+  },
   "is_premium": false,
   "image_url": "",
   "similar_brands": [
