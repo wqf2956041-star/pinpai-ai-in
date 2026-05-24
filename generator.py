@@ -268,9 +268,11 @@ def save_brands_done(data):
 def slugify(name):
     """生成文件夹名（英文小写+连字符）"""
     s = name.lower().strip()
-    s = s.replace(" ", "-").replace("_", "-")
+    s = s.replace(" ", "-").replace("_", "-").replace("&", "")
+    while "--" in s:
+        s = s.replace("--", "-")
     s = "".join(c for c in s if c.isalnum() or c == "-")
-    return s
+    return s.strip("-")
 
 
 def build_lang_nav(current_lang):
