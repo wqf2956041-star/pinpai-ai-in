@@ -1,0 +1,143 @@
+{
+  "slug": "gucci",
+  "names": {
+    "zh-CN": "古驰",
+    "en": "Gucci",
+    "fr": "Gucci",
+    "es": "Gucci",
+    "de": "Gucci",
+    "ja": "Gucci",
+    "ko": "Gucci",
+    "pt": "Gucci",
+    "ru": "Gucci",
+    "ar": "Gucci"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1921,
+  "founding_location": "意大利佛罗伦萨",
+  "founder": "古驰奥·古驰（Guccio Gucci）",
+  "official_website": "https://www.gucci.com",
+  "main_business": [
+    "时装",
+    "皮具",
+    "香水",
+    "鞋履",
+    "珠宝",
+    "眼镜"
+  ],
+  "current_slogan": "身份与创意之象征",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "竹节手袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "GG Marmont系列",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Gucci Dionysus酒神包",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "马衔扣乐福鞋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Gucci Flora丝巾",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1921,
+      "event": "创立"
+    },
+    {
+      "year": 1947,
+      "event": "竹节手袋"
+    },
+    {
+      "year": 1953,
+      "event": "海外扩张"
+    },
+    {
+      "year": 1994,
+      "event": "Tom Ford出任创意总监"
+    },
+    {
+      "year": 2015,
+      "event": "Alessandro Michele复兴Gucci"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "古驰是意大利最知名的奢侈品牌之一，由古驰奥古驰于1921年在佛罗伦萨创立。最初为马术用品和皮具商，1947年推出标志性竹节手袋。90年代Tom Ford时期品牌成为性感代名词。2015年Alessandro Michele带来的极繁主义美学使品牌再度登顶。",
+  "languages": {
+    "en": "Gucci is an Italian luxury brand founded in Florence in 1921.",
+    "fr": "Gucci est une marque de luxe italienne fondee a Florence en 1921.",
+    "ja": "グッチは1921年にフィレンツェで創業されたイタリアの高級ブランドです。",
+    "ko": "구찌는 1921년 피렌체에서 설립된 이탈리아 명품 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "阿玛尼",
+      "en": "Armani",
+      "slug": "armani"
+    },
+    {
+      "zh": "博柏利",
+      "en": "Burberry",
+      "slug": "burberry"
+    }
+  ]
+}
