@@ -1,4 +1,4 @@
-# 普拉達 (Prada) — fashion-luxury
+# 路易威登 (Louis Vuitton) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,7 +14,16 @@ Prada (italienisch: Prada, Hong Kong Stock Exchange: 1913) ist eine der italieni
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
+- [埃舍尔Escher](../escher/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [亞曼尼 Armani](../armani/)
+- [普拉達 Prada](../prada/)
+- [巴宝莉 Burberry](../burberry/)
+- [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---
 

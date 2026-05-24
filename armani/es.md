@@ -1,4 +1,4 @@
-# 亞曼尼 (Armani) — fashion-luxury
+# 香奈儿 (Chanel) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Giorgio Armani S.P.A. es una empresa italiana de moda y bienes de consumo de alt
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [香奈儿](../chanel/)
-- [愛馬仕](../hermès/)
-- [路易威登](../louis-vuitton/)
-- [古驰](../gucci/)
-- [普拉達](../prada/)
+- [埃舍尔Escher](../escher/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 巴宝莉 (Burberry) — general
+# 普拉達 (Prada) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Burberry Group plc ist ein britisches Luxusmodehaus, das 1856 von Thomas Burberr
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [古驰](../gucci/)
-- [普拉達](../prada/)
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
-- [香奈儿](../chanel/)
+- [埃舍尔Escher](../escher/)
+- [亞曼尼 Armani](../armani/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [巴宝莉 Burberry](../burberry/)
+- [范思哲 Versace](../versace/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [普拉達 Prada](../prada/)
 
 ---
 

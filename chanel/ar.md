@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — fashion-luxury
+# 范思哲 (Versace) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,7 +14,16 @@
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
+- [埃舍尔Escher](../escher/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [古驰 Gucci](../gucci/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [亞曼尼 Armani](../armani/)
+- [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [香奈儿 Chanel](../chanel/)
+- [范思哲 Versace](../versace/)
 
 ---
 

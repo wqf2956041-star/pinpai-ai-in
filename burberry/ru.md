@@ -1,4 +1,4 @@
-# 巴宝莉 (Burberry) — general
+# 香奈儿 (Chanel) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Burberry Group plc — британский дом роскошной моды, 
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
-- [古驰](../gucci/)
-- [香奈儿](../chanel/)
-- [普拉達](../prada/)
+- [埃舍尔Escher](../escher/)
+- [普拉達 Prada](../prada/)
+- [古驰 Gucci](../gucci/)
+- [亞曼尼 Armani](../armani/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

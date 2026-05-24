@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — general
+# 愛馬仕 (Hermès) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Gianni Versace (italienisch: Gianni Versace S.p.A) ist ein italienisches Modeunt
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [普拉達](../prada/)
-- [古驰](../gucci/)
-- [香奈儿](../chanel/)
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
+- [埃舍尔Escher](../escher/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [香奈儿 Chanel](../chanel/)
+- [巴宝莉 Burberry](../burberry/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
 
 ---
 

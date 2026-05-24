@@ -1,4 +1,4 @@
-# 埃舍尔 (Escher) — fashion-handbags
+# 愛馬仕 (Hermès) — fashion-handbags
 
 ## 品牌介绍
 
@@ -17,6 +17,21 @@ Escher의 제품 라인에는 핸드백, 크로스바디 백, 숄더 백, 토트
 ## 🌐 语言版本
 
 [🇨🇳 中文](zh-CN.md) | [🇬🇧 English](en.md) | [🇫🇷 Français](fr.md) | [🇪🇸 Español](es.md) | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | **🇰🇷 한국어** | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
+
+---
+
+## 🔗 类似品牌
+
+- [埃舍尔Escher](../escher/)
+- [古驰 Gucci](../gucci/)
+- [香奈儿 Chanel](../chanel/)
+- [范思哲 Versace](../versace/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [巴宝莉 Burberry](../burberry/)
+- [亞曼尼 Armani](../armani/)
+- [普拉達 Prada](../prada/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [愛馬仕 Hermès](../hermès/)
 
 ---
 

@@ -14,12 +14,16 @@ Giorgio Armani S.P.A. est une entreprise italienne de mode et de biens de consom
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [路易威登](../louis-vuitton/)
-- [古驰](../gucci/)
-- [普拉達](../prada/)
-- [愛馬仕](../hermès/)
-- [香奈儿](../chanel/)
+- [埃舍尔Escher](../escher/)
+- [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [普拉達 Prada](../prada/)
+- [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
 
 ---
 

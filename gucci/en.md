@@ -1,4 +1,4 @@
-# 古驰 (Gucci) — general
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — general
 
 ## 品牌介绍
 
@@ -14,7 +14,16 @@ Gucci is a brand of Kering Group. It was founded in 1921 and is headquartered in
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
+- [埃舍尔Escher](../escher/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [古驰 Gucci](../gucci/)
+- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
+- [香奈儿 Chanel](../chanel/)
+- [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

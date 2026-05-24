@@ -1,4 +1,4 @@
-# 埃舍尔 (Escher) — fashion-handbags
+# 路易威登 (Louis Vuitton) — fashion-handbags
 
 ## 品牌介绍
 
@@ -17,6 +17,21 @@ Actualmente, Escher vende globalmente a través de plataformas de comercio elect
 ## 🌐 语言版本
 
 [🇨🇳 中文](zh-CN.md) | [🇬🇧 English](en.md) | [🇫🇷 Français](fr.md) | **🇪🇸 Español** | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
+
+---
+
+## 🔗 类似品牌
+
+- [埃舍尔Escher](../escher/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [巴宝莉 Burberry](../burberry/)
+- [范思哲 Versace](../versace/)
+- [愛馬仕 Hermès](../hermès/)
+- [亞曼尼 Armani](../armani/)
+- [普拉達 Prada](../prada/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [香奈儿 Chanel](../chanel/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---
 

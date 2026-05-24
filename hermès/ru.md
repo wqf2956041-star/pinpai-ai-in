@@ -1,4 +1,4 @@
-# 愛馬仕 (Hermès) — fashion-luxury
+# 圣罗兰 (Saint Laurent) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,7 +14,16 @@ Hermès (по-французски: Hermès, произносится: [ɛʁmɛs
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
+- [埃舍尔Escher](../escher/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
+- [愛馬仕 Hermès](../hermès/)
+- [巴宝莉 Burberry](../burberry/)
+- [普拉達 Prada](../prada/)
+- [香奈儿 Chanel](../chanel/)
+- [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

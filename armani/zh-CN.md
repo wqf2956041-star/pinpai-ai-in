@@ -1,4 +1,4 @@
-# 亞曼尼 (Armani) — fashion-luxury
+# 圣罗兰 (Saint Laurent) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [香奈儿](../chanel/)
-- [古驰](../gucci/)
-- [普拉達](../prada/)
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
+- [埃舍尔Escher](../escher/)
+- [亞曼尼 Armani](../armani/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [巴宝莉 Burberry](../burberry/)
+- [香奈儿 Chanel](../chanel/)
+- [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

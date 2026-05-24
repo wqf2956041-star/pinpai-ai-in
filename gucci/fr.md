@@ -1,4 +1,4 @@
-# 古驰 (Gucci) — general
+# 巴宝莉 (Burberry) — general
 
 ## 品牌介绍
 
@@ -14,7 +14,16 @@ Gucci est une marque du groupe Kering. Elle a été fondée en 1921 et son sièg
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
+- [埃舍尔Escher](../escher/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [古驰 Gucci](../gucci/)
+- [亞曼尼 Armani](../armani/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
+- [普拉達 Prada](../prada/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

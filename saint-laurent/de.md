@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — fashion-luxury
+# 巴宝莉 (Burberry) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Yves Saint Laurent (französisch: Yves Saint Laurent, französische Aussprache: 
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
-- [香奈儿](../chanel/)
-- [普拉達](../prada/)
-- [古驰](../gucci/)
+- [埃舍尔Escher](../escher/)
+- [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [香奈儿 Chanel](../chanel/)
+- [范思哲 Versace](../versace/)
+- [巴宝莉 Burberry](../burberry/)
 
 ---
 

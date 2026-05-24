@@ -1,4 +1,4 @@
-# 巴宝莉 (Burberry) — general
+# 普拉達 (Prada) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Burberry Group plc هي دار أزياء بريطانية فاخرة تأسست
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
-- [香奈儿](../chanel/)
-- [普拉達](../prada/)
-- [古驰](../gucci/)
+- [埃舍尔Escher](../escher/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [愛馬仕 Hermès](../hermès/)
+- [巴宝莉 Burberry](../burberry/)
+- [亞曼尼 Armani](../armani/)
+- [香奈儿 Chanel](../chanel/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [普拉達 Prada](../prada/)
 
 ---
 

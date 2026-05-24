@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — general
+# 香奈儿 (Chanel) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Gianni Versace (Italian: Gianni Versace S.p.A) is an Italian fashion company fou
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [普拉達](../prada/)
-- [愛馬仕](../hermès/)
-- [路易威登](../louis-vuitton/)
-- [古驰](../gucci/)
-- [香奈儿](../chanel/)
+- [埃舍尔Escher](../escher/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [普拉達 Prada](../prada/)
+- [古驰 Gucci](../gucci/)
+- [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [亞曼尼 Armani](../armani/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

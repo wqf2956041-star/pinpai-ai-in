@@ -1,4 +1,4 @@
-# 路易威登 (Louis Vuitton) — fashion-luxury
+# 愛馬仕 (Hermès) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,7 +14,16 @@ Louis Vuitton (français : Louis Vuitton, prononcé : [lwi vɥitɔə], général
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
+- [埃舍尔Escher](../escher/)
+- [香奈儿 Chanel](../chanel/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [范思哲 Versace](../versace/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [亞曼尼 Armani](../armani/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [愛馬仕 Hermès](../hermès/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — general
+# 路易威登 (Louis Vuitton) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Gianni Versace (italiano: Gianni Versace SpA) é uma empresa de moda italiana fu
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [普拉達](../prada/)
-- [香奈儿](../chanel/)
-- [路易威登](../louis-vuitton/)
-- [古驰](../gucci/)
-- [愛馬仕](../hermès/)
+- [埃舍尔Escher](../escher/)
+- [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
+- [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [范思哲 Versace](../versace/)
+- [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---
 

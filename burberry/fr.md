@@ -1,4 +1,4 @@
-# 巴宝莉 (Burberry) — general
+# 圣罗兰 (Saint Laurent) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Burberry Group plc est une maison de couture de luxe britannique créée en 1856
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [普拉達](../prada/)
-- [愛馬仕](../hermès/)
-- [路易威登](../louis-vuitton/)
-- [香奈儿](../chanel/)
-- [古驰](../gucci/)
+- [埃舍尔Escher](../escher/)
+- [香奈儿 Chanel](../chanel/)
+- [普拉達 Prada](../prada/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [巴宝莉 Burberry](../burberry/)
+- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

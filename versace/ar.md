@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — general
+# 路易威登 (Louis Vuitton) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [香奈儿](../chanel/)
-- [路易威登](../louis-vuitton/)
-- [普拉達](../prada/)
-- [古驰](../gucci/)
-- [愛馬仕](../hermès/)
+- [埃舍尔Escher](../escher/)
+- [范思哲 Versace](../versace/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [亞曼尼 Armani](../armani/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
+- [香奈儿 Chanel](../chanel/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---
 

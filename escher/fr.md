@@ -1,4 +1,4 @@
-# 埃舍尔 (Escher) — fashion-handbags
+# 香奈儿 (Chanel) — fashion-handbags
 
 ## 品牌介绍
 
@@ -17,6 +17,21 @@ Actuellement, Escher se vend dans le monde entier via des plateformes de commerc
 ## 🌐 语言版本
 
 [🇨🇳 中文](zh-CN.md) | [🇬🇧 English](en.md) | **🇫🇷 Français** | [🇪🇸 Español](es.md) | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
+
+---
+
+## 🔗 类似品牌
+
+- [埃舍尔Escher](../escher/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
+- [香奈儿 Chanel](../chanel/)
 
 ---
 

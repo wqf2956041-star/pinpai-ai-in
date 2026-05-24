@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — fashion-luxury
+# 亞曼尼 (Armani) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,7 +14,16 @@ Chanel (français : Chanel, prononcé : [ʃanɛl]) est une grande entreprise de 
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
+- [埃舍尔Escher](../escher/)
+- [古驰 Gucci](../gucci/)
+- [范思哲 Versace](../versace/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [普拉達 Prada](../prada/)
+- [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
 
 ---
 

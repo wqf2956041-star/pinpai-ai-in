@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — fashion-luxury
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Yves Saint Laurent (francés: Yves Saint Laurent, pronunciación francesa: [iv s
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [古驰](../gucci/)
-- [普拉達](../prada/)
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
-- [香奈儿](../chanel/)
+- [埃舍尔Escher](../escher/)
+- [普拉達 Prada](../prada/)
+- [香奈儿 Chanel](../chanel/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [范思哲 Versace](../versace/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [巴宝莉 Burberry](../burberry/)
+- [愛馬仕 Hermès](../hermès/)
+- [亞曼尼 Armani](../armani/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

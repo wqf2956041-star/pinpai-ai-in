@@ -1,4 +1,4 @@
-# 范思哲 (Versace) — general
+# 圣罗兰 (Saint Laurent) — general
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [古驰](../gucci/)
-- [愛馬仕](../hermès/)
-- [路易威登](../louis-vuitton/)
-- [香奈儿](../chanel/)
-- [普拉達](../prada/)
+- [埃舍尔Escher](../escher/)
+- [亞曼尼 Armani](../armani/)
+- [普拉達 Prada](../prada/)
+- [愛馬仕 Hermès](../hermès/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [古驰 Gucci](../gucci/)
+- [香奈儿 Chanel](../chanel/)
+- [范思哲 Versace](../versace/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

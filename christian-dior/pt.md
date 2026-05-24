@@ -1,4 +1,4 @@
-# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
+# 亞曼尼 (Armani) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Christian Dior (francês: Christian Dior, pronunciado: [kʁistjɑə djɔʁ]), co
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [香奈儿](../chanel/)
-- [路易威登](../louis-vuitton/)
-- [愛馬仕](../hermès/)
-- [普拉達](../prada/)
-- [古驰](../gucci/)
+- [埃舍尔Escher](../escher/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [范思哲 Versace](../versace/)
+- [香奈儿 Chanel](../chanel/)
+- [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [古驰 Gucci](../gucci/)
+- [巴宝莉 Burberry](../burberry/)
+- [亞曼尼 Armani](../armani/)
 
 ---
 

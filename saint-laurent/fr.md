@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — fashion-luxury
+# 亞曼尼 (Armani) — fashion-luxury
 
 ## 品牌介绍
 
@@ -14,12 +14,16 @@ Yves Saint Laurent (français : Yves Saint Laurent, prononciation française : [
 
 ## 🔗 类似品牌
 
-- 埃舍尔Escher
-- [普拉達](../prada/)
-- [愛馬仕](../hermès/)
-- [路易威登](../louis-vuitton/)
-- [香奈儿](../chanel/)
-- [古驰](../gucci/)
+- [埃舍尔Escher](../escher/)
+- [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
+- [香奈儿 Chanel](../chanel/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [愛馬仕 Hermès](../hermès/)
+- [普拉達 Prada](../prada/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [亞曼尼 Armani](../armani/)
 
 ---
 
