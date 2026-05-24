@@ -49,8 +49,10 @@
   ],
   "philanthropy": [],
   "exhibitions": [],
-  "description_zh": "奥克利是1975年创立的美国运动眼镜品牌。以高科技材料和创新设计著称，专业运动员和户外运动爱好者首选。",
-  "languages": {},
+  "description_zh": "奥克利是1975年创立的美国运动眼镜品牌，由James Jannard在车库中创立。最初生产摩托车握把的Jannard将创新精神带入眼镜设计，不断推出颠覆性的产品。\n\nOakley以高科技材料和创新设计著称。Frogskins系列是品牌最具时尚影响力的墨镜，Holbrook系列将经典飞行员风格与O Matter轻质框架结合。Radar EV是专业运动员的首选。\n\n品牌发明了多项专利技术：Prizm镜片技术能增强特定颜色的对比度，让运动员更清晰地看到赛道细节；Unobtainium耳塞在出汗时防滑性能增强。Oakley还是美国奥运会代表团的官方眼镜供应商。\n\n2007年Oakley被意大利Luxottica集团收购。品牌产品线扩展至运动服装、鞋类和配饰。Oakley的专业护目镜和骑行眼镜是铁人三项和极限运动领域的首选装备。",
+  "languages": {
+    "en": "奥克利是1975年创立 美国运动眼镜品牌，由James Jannard在车库中创立。最初生产摩托车握把 Jannard将创新精神带入眼镜设计，不断推出颠覆性 产品。 Oakley以高科技材料 and 创新设计著称。Frogskins系列是品牌最具时尚影响力 墨镜，Holbrook系列将经典飞行员风格 and O Matter轻质框架结合。Radar EV是专业运动员 首选。"
+  },
   "is_premium": false,
   "image_url": "",
   "similar_brands": [

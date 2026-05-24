@@ -1,13 +1,5 @@
 [
   {
-    "slug": "oakley",
-    "zh": "奥克利",
-    "en": "Oakley",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "奥克利是1975年创立的美国运动眼镜品牌。以高科技材料和创新设计著称，专业运动员和户外运动爱好者首选。"
-  },
-  {
     "slug": "supreme",
     "zh": "Supreme",
     "en": "Supreme",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "雷朋是1937年创立的美国墨镜品牌。为美国陆军航空队飞行员设计的Aviator飞行员墨镜是其首款产品，以绿色偏光镜片和金属框架降低高空眩光，保护飞行员视力。\n\nWayfarer徒步旅行者墨镜于1952"
+  },
+  {
+    "slug": "oakley",
+    "zh": "奥克利",
+    "en": "Oakley",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "奥克利是1975年创立的美国运动眼镜品牌，由James Jannard在车库中创立。最初生产摩托车握把的Jannard将创新精神带入眼镜设计，不断推出颠覆性的产品。\n\nOakley以高科技材料和创新设"
   }
 ]
