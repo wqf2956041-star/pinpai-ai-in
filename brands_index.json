@@ -318,5 +318,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "匡威是1908年创立的美国鞋履品牌。Chuck Taylor All Star是有史以来最畅销的篮球鞋和休闲鞋，滑板手和摇滚乐队钟爱的经典鞋款。"
+  },
+  {
+    "slug": "vans",
+    "zh": "Vans",
+    "en": "Vans",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Vans是1966年创立的美国极限运动鞋品牌。Off The Wall标语源于滑板文化。Old Skool和Slip-On是滑板手和街头文化爱好者必备鞋款。"
   }
 ]
