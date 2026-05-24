@@ -334,5 +334,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "雷朋是1937年创立的美国墨镜品牌。Aviator和Wayfarer是全球最经典的墨镜款式。好莱坞电影的出镜率之高使其成为流行文化符号。"
+  },
+  {
+    "slug": "oakley",
+    "zh": "奥克利",
+    "en": "Oakley",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "奥克利是1975年创立的美国运动眼镜品牌。以高科技材料和创新设计著称，专业运动员和户外运动爱好者首选。"
   }
 ]
