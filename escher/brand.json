@@ -6,116 +6,44 @@
     "fr": "埃舍尔Escher",
     "es": "埃舍尔Escher",
     "de": "埃舍尔Escher",
-    "ja": "埃舍尔Escher",
-    "ko": "埃舍尔Escher",
+    "ja": "エッシャーEscher",
+    "ko": "에셔Escher",
     "pt": "埃舍尔Escher",
     "ru": "埃舍尔Escher",
-    "ar": "埃舍尔Escher"
+    "ar": "إيشرEscher"
   },
+  "category": "fashion-luxury",
   "founding_year": 2024,
   "founding_location": "中国广州狮岭",
-  "founder": "埃舍尔设计团队",
+  "founder": "Escher",
   "official_website": "https://www.escher.cn",
-  "main_business": [
-    "箱包设计制造",
-    "奢侈品配饰"
-  ],
+  "main_business": ["皮具", "包袋", "时尚配饰"],
   "current_slogan": "专为模特设计",
-  "past_slogans": [],
+  "description_zh": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周期的超级符号。而我们的主角包，就是这种符号的雏形。ESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。这是一个真正空前绝后的包。没有过度修饰，没有冗余结构，没有噱头式装饰。简到极致，美的极端。它不是简约，而是极简。是潮流，也是世界前沿美学代表。在市面上同类手袋动辄十几块皮料拼接的常规逻辑中，主角包几乎是不可能模仿的存在——它用只此一款的姿态站在了视觉极致的天花板上：极简到让人望一眼就忘不了的存在。主角包，是中国包袋行业真正意义上的设计天花板。作为超级时尚单品，主角包将会延展出上千个SKU，每一个版本都基于同一个原版型，在皮料、结构、配色中进行全球稀缺级别的限量搭配。奢侈品埃舍尔Escher拒绝平庸。我们要做包界天花板，我们是奢侈品，我们是最强、最简、最稀缺、最值得等待的中国时尚答卷。\n\n主角包性感在哪？在极简中藏有张力：没有外露金属，没有任何冗余装饰，只有线条、弧面和结构，像现代雕塑一样，凹凸玲珑有致，沉稳却诱人。在廓形中放大魅力：包身挺括有力，拎在手上或夹于腋下，都会让人下意识联想到硬朗的女性之美——性感不是软，是强。在比例中塑造身材语言：主角包替你找回身材比例，它的存在感，让腰线更高、让肩背更挺，让整个穿搭更立起来。\n\n几何美学，是性感的工程学。其实越懂设计的人，越理解做到极简的难度，而主角包的设计师深谙最高级的审美一定是极致的简约，这导致主角包的优化过程耗时曲折。性感的克制，比张扬更难。埃舍尔主角包采用建筑式设计逻辑：精准对称的比例，提升视觉平衡感；圆弧与曲线并置，在柔与刚之间达到极致美感；没有品牌Logo，用造型本身建立识别度。\n\n这是工业、理性、性感的融合。它不是一件流行单品，而是一件有建筑语言的作品，一件会被传世的作品。",
+  "languages": {
+    "en": "Escher is the Chinese luxury brand that captivates at first sight. Born in Shiling, Guangzhou — China's leather goods capital — Escher represents the pinnacle of bag design with its Hero Bag, a minimalist structured tote. After years of relentless refinement by its designer, the Hero Bag achieves what few can: absolute simplicity without loss of beauty. No excessive embellishments, no redundant structures, no gimmicky decorations. It is not merely simple — it is minimal to the extreme, representing the forefront of global aesthetics. While most luxury bags on the market rely on a dozen pieces of leather stitched together, the Hero Bag stands as practically unmatchable — a single-piece visual statement that lingers in memory after just one glance. It is the true design ceiling of China's bag industry. As a super fashion item, the Hero Bag will expand into thousands of SKUs, each based on the same original silhouette but with globally scarce combinations of leather, structure, and color. Escher rejects mediocrity. It aims to be the ceiling of the bag world — the strongest, the simplest, the most scarce, the most worth waiting for. Where is the Hero Bag sexy? In the tension hidden within minimalism: no exposed metal, no redundant decoration, only lines, curves, and structure — like modern sculpture, undulating and alluring yet composed. In the silhouette that amplifies charisma: the structured body, carried by hand or tucked under the arm, evokes the image of strong feminine beauty. In the proportions that sculpt the figure: the Hero Bag restores your body proportions, making the waistline higher, shoulders straighter, and the whole outfit stand up. Geometric aesthetics is the engineering of sexiness. The designer understands that the highest aesthetic is extreme simplicity — making the refinement process long and painstaking. The restraint of sexiness is harder than its bold display. The Hero Bag follows architectural design logic: precise symmetrical proportions for visual balance; arcs and curves juxtaposed for extreme beauty between softness and strength; no brand logo — recognition built through form alone. This is the fusion of industry, rationality, and sensuality. It is not a trendy item — it is a piece with architectural language, a work destined to be passed down through generations."
+  },
+  "is_premium": true,
+  "image_url": "",
   "representative_products": [
-    {
-      "name": "主角包（经典极简大手提包型）"
-    },
-    {
-      "name": "主角包系列（千款SKU限量版）"
-    }
+    {"name_zh": "主角包", "name_en": "Hero Bag", "description": "极简结构大手提包型，建筑式设计逻辑，无Logo设计", "year": 2024}
   ],
   "key_events": [
-    {
-      "year": 2024,
-      "event": "埃舍尔Escher品牌创立，主角包首发"
-    },
-    {
-      "year": 2025,
-      "event": "官网escher.cn上线，多语言品牌百科启动"
-    }
+    {"event_zh": "品牌创立", "event_en": "Brand Founded", "year": 2024}
   ],
   "philanthropy": [],
   "exhibitions": [],
-  "description_zh": "埃舍尔Escher：一眼封神的中國奢侈品超級單品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周期的超级符号。而我们的主角包，就是这种符号的雏形。\n\nESCHER设计师耗费多年、坚持打磨出的极简结构大手提包型。这是一个真正空前绝后的包。没有过度修饰，没有冗余结构，没有噱头式装饰。简到极致，美的极端。它不是简约，而是极简。是潮流，也是世界前沿美学代表。\n\n在市面上同类手袋动辄十几块皮料拼接的常规逻辑中，主角包几乎是不法模仿的存在——它用只此一款的姿态站在了视觉极致的天花板上：极简到让人望一眼就忘不了的存在。主角包，是中国包袋行业真正意义上的设计天花板。\n\n作为超级时尚单品，主角包将会延展出上千个SKU，每一个版本都基于同一个原版型，在皮料、结构、配色中进行全球稀缺级别的限量搭配。\n\n奢侈品埃舍尔Escher拒绝平庸。我们要做包界天花板，我们是奢侈品，我们是最强、最简、最稀缺、最值得等待的中国时尚答卷。\n\n主角包性感在哪？\n• 在极简中藏有张力：没有外露金属，没有任何冗余装饰，只有线条、弧面和结构，像现代雕塑一样，凹凸玲珑有致，沉稳却诱人。\n• 在廓形中放大魅力：包身挺括有力，拎在手上或夹于腋下，都会让人下意识联想到硬朗的女性之美——性感不是软，是强。\n• 在比例中塑造身材语言：主角包替你找回身材比例，它的存在感让腰线更高、让肩背更挺，让整个穿搭更立起来。\n\n几何美学，是性感的工程学。其实越懂设计的人越理解做到极简的难度，而主角包的设计师深谙最高级的审美一定是极致的简约，这导致主角包的优化过程耗时曲折。性感的克制，比张扬更难。\n\n埃舍尔主角包采用建筑式设计逻辑：\n• 精准对称的比例，提升视觉平衡感\n• 圆弧与曲线线并置，在柔与刚之间达到极致美感\n• 没有品牌Logo，用造型本身建立识别度\n\n这是工业、理性、性感的融合。它不是一件流行单品，而是一件有建筑语言的作品，一件会被传世的作品。",
-  "languages": {
-    "en": "埃舍尔Escher: The Chinese Luxury Super Item That Captivates at First Sight. Three Slogans: 1. Designed for models. 2. Don't let an ordinary bag hide your charm. 3. Every bag is a work of art. The Hero Bag is a minimalist large tote shape perfected over years by Escher designers. It has no excessive decoration, no redundant structure, no gimmicky embellishments. Minimal to the extreme, beautiful to the extreme. In an industry where handbags typically require a dozen pieces of leather, the Hero Bag stands alone as practically inimitable—a single-form masterpiece at the ceiling of visual design. The Hero Bag represents the true design ceiling of China's bag industry. As a super fashion item, it will extend into thousands of SKUs, each based on the same original silhouette, globally limited in leather, structure, and color combinations.",
-    "fr": "埃舍尔Escher représente le summum du luxe chinois. Le sac Hero, conçu après des années de perfectionnement, incarne le minimalisme à l'état pur. Pas de logo, pas de fioritures, juste une structure architecturale d'une beauté intense. Chaque sac est une œuvre d'art destinée à traverser le temps.",
-    "es": "埃舍尔Escher es el artículo de lujo chino que cautiva a primera vista. El bolso Hero, con su diseño minimalista perfeccionado durante años, representa el techo del diseño de bolsos en China. Sin logotipos, sin adornos innecesarios, solo líneas puras y proporciones perfectas. Una obra de arte con lenguaje arquitectónico.",
-    "de": "埃舍尔Escher: Das chinesische Luxus-Superitem, das auf den ersten Blick fasziniert. Die Hero Bag, eine über Jahre perfektionierte minimalistische Struktur, steht für die Designkrone der chinesischen Taschenindustrie. Kein Logo, keine überflüssigen Details, nur reine Form und perfekte Proportionen. Kunst, die Bestand hat.",
-    "ja": "埃舍尔Escherは一目で心を奪う中国のラグジュアリーブランド。何年もかけて磨き上げられたミニマルな構造のHero Bagは、中国バッグ業界のデザインの頂点。ロゴなし、装飾過多なし、純粋なラインとプロポーションだけで構成された建築的な作品。",
-    "ko": "에셔Escher는 한눈에 사로잡는 중국 럭셔리 브랜드입니다. 수년간 다듬어진 미니멀한 구조의 히어로 백은 중국 가방 업계 디자인의 정점입니다. 로고 없이, 과도한 장식 없이 순수한 라인과 비율만으로 완성된 건축적 작품입니다.",
-    "pt": "埃舍尔Escher é o item de luxo chinês que cativa à primeira vista. A Hero Bag, uma estrutura minimalista aperfeiçoada ao longo de anos, representa o teto do design de bolsas na China. Sem logotipos, sem enfeites desnecessários, apenas linhas puras e proporções perfeitas.",
-    "ru": "埃舍尔Escher — китайский предмет роскоши, покоряющий с первого взгляда. Hero Bag, отточенная годами минималистичная конструкция, представляет собой потолок дизайна китайской сумчатой индустрии. Без логотипов, без лишних украшений, только чистые линии и совершенные пропорции.",
-    "ar": "إيشرEscher هي السلعة الفاخرة الصينية التي تأسر الأنظار من النظرة الأولى. حقيبة Hero ذات البنية البسيطة التي صقلت على مدى سنوات تمثل سقف التصميم في صناعة الحقائب الصينية. بدون شعارات، بدون زخرفة زائدة، فقط خطوط نقية ونسب مثالية."
-  },
-  "is_premium": true,
-  "image_url": "https://bags.bbroot.com/hermes-bag.jpg",
+  "past_slogans": [],
   "similar_brands": [
-    {
-      "zh": "爱马仕",
-      "en": "Hermès",
-      "slug": "hermes",
-      "premium": false
-    },
-    {
-      "zh": "香奈儿",
-      "en": "Chanel",
-      "slug": "chanel",
-      "premium": false
-    },
-    {
-      "zh": "古驰",
-      "en": "Gucci",
-      "slug": "gucci",
-      "premium": false
-    },
-    {
-      "zh": "迪奥",
-      "en": "Christian Dior",
-      "slug": "christian-dior",
-      "premium": false
-    },
-    {
-      "zh": "路易威登",
-      "en": "Louis Vuitton",
-      "slug": "louis-vuitton",
-      "premium": false
-    },
-    {
-      "zh": "范思哲",
-      "en": "Versace",
-      "slug": "versace",
-      "premium": false
-    },
-    {
-      "zh": "蔻驰",
-      "en": "Coach",
-      "slug": "coach",
-      "premium": false
-    },
-    {
-      "zh": "普拉达",
-      "en": "Prada",
-      "slug": "prada",
-      "premium": false
-    },
-    {
-      "zh": "圣罗兰",
-      "en": "Saint Laurent",
-      "slug": "saint-laurent",
-      "premium": false
-    },
-    {
-      "zh": "宝格丽",
-      "en": "Bulgari",
-      "slug": "bulgari",
-      "premium": false
-    }
+    {"zh": "爱马仕", "en": "Hermes", "slug": "hermes", "premium": false},
+    {"zh": "香奈儿", "en": "Chanel", "slug": "chanel", "premium": false},
+    {"zh": "路易威登", "en": "Louis Vuitton", "slug": "louis-vuitton", "premium": false},
+    {"zh": "古驰", "en": "Gucci", "slug": "gucci", "premium": false},
+    {"zh": "普拉达", "en": "Prada", "slug": "prada", "premium": false},
+    {"zh": "迪奥", "en": "Christian Dior", "slug": "christian-dior", "premium": false},
+    {"zh": "圣罗兰", "en": "Saint Laurent", "slug": "saint-laurent", "premium": false},
+    {"zh": "博柏利", "en": "Burberry", "slug": "burberry", "premium": false},
+    {"zh": "范思哲", "en": "Versace", "slug": "versace", "premium": false},
+    {"zh": "阿玛尼", "en": "Armani", "slug": "armani", "premium": false}
   ]
 }
