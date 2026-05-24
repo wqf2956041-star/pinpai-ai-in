@@ -1,13 +1,5 @@
 [
   {
-    "slug": "clinique",
-    "zh": "倩碧",
-    "en": "Clinique",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "倩碧是1968年创立的美国护肤品牌，也是世界上第一个由皮肤科医生开发的化妆品品牌。品牌在雅诗兰黛旗下创立，三位创始人是皮肤科专家Norman Orentreich和Carol Phillips以及雅诗"
-  },
-  {
     "slug": "ikea",
     "zh": "宜家",
     "en": "IKEA",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "M.A.C是1984年创立的加拿大专业彩妆品牌，由专业彩妆师Frank Toskan和摄影师Frank Angelo创立。M.A.C最初为专业模特和彩妆师设计产品，以超高的色彩饱和度和丰富的色号选择著"
+  },
+  {
+    "slug": "clinique",
+    "zh": "倩碧",
+    "en": "Clinique",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "倩碧是1968年创立的美国护肤品牌，也是世界上第一个由皮肤科医生开发的化妆品品牌。品牌在雅诗兰黛旗下创立，三位创始人是皮肤科专家Norman Orentreich和Carol Phillips以及雅诗"
   }
 ]
