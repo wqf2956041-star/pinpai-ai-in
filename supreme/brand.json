@@ -1,0 +1,111 @@
+{
+  "slug": "supreme",
+  "names": {
+    "zh-CN": "Supreme",
+    "en": "Supreme"
+  },
+  "founding_year": 1994,
+  "founding_location": "美国纽约",
+  "founder": "James Jebbia",
+  "official_website": "https://www.supremenewyork.com",
+  "main_business": [
+    "服装",
+    "配饰",
+    "滑板",
+    "联名"
+  ],
+  "current_slogan": "Supreme 至高无上",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Supreme Box Logo T恤"
+    },
+    {
+      "name": "Supreme联名系列"
+    },
+    {
+      "name": "Supreme帽衫"
+    },
+    {
+      "name": "Supreme滑板"
+    },
+    {
+      "name": "Supreme周边配件"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1994,
+      "event": "创立首家曼哈顿门店"
+    },
+    {
+      "year": 2017,
+      "event": "Louis Vuitton x Supreme联名轰动时尚界"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Supreme是1994年创立的美国街头服装品牌，以红底白字的Box Logo为标志。每周四的Drop发售模式和限量策略使其成为最具价值的街头品牌之一。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
