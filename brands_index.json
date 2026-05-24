@@ -1,13 +1,5 @@
 [
   {
-    "slug": "zara",
-    "zh": "ZARA",
-    "en": "ZARA",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "ZARA是全球最大快时尚品牌，1975年由阿曼西奥奥尔特加创立。以极速供应链闻名，从设计到上架仅需两周。"
-  },
-  {
     "slug": "hm",
     "zh": "H&M",
     "en": "H&M",
@@ -390,5 +382,13 @@
     "category": "奢侈品/时尚",
     "premium": true,
     "desc_short": "Escher，取自荷兰科学思维版画大师M.C. Escher的名字，寓意无限可能、永恒探索。\n\n三条Slogan: ①「Escher — 精致生活，从主角包开始」②「Escher — 每一个故事，都值"
+  },
+  {
+    "slug": "zara",
+    "zh": "ZARA",
+    "en": "ZARA",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "ZARA是全球最大的快时尚品牌，由阿曼西奥奥尔特加于1975年在西班牙拉科鲁尼亚创立。作为Inditex集团的核心品牌，ZARA以极速供应链著称——从设计到上架仅需两周时间，远超行业平均的六到九个月。"
   }
 ]
