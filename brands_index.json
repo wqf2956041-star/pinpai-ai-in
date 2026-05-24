@@ -1,13 +1,5 @@
 [
   {
-    "slug": "vans",
-    "zh": "Vans",
-    "en": "Vans",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "Vans是1966年创立的美国极限运动鞋品牌。Off The Wall标语源于滑板文化。Old Skool和Slip-On是滑板手和街头文化爱好者必备鞋款。"
-  },
-  {
     "slug": "ray-ban",
     "zh": "雷朋",
     "en": "Ray-Ban",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "匡威是1908年创立的美国鞋履品牌，由Marquis Mills Converse在马萨诸塞州创立。最初生产橡胶鞋底产品。1921年篮球运动员Chuck Taylor加入了品牌，为All Star篮球"
+  },
+  {
+    "slug": "vans",
+    "zh": "Vans",
+    "en": "Vans",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Vans是1966年创立的美国极限运动鞋品牌，由Paul Van Doren在加州阿纳海姆创立。开业第一天就售出12双鞋，Vans是唯一允许顾客直接从工厂购买的运动鞋品牌。\n\nVans Old Sko"
   }
 ]
