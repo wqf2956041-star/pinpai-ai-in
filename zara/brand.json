@@ -1,0 +1,100 @@
+{
+  "slug": "zara",
+  "names": {
+    "zh-CN": "ZARA",
+    "en": "ZARA"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1975,
+  "founding_location": "西班牙拉科鲁尼亚",
+  "founder": "阿曼西奥·奥尔特加",
+  "official_website": "https://www.zara.com",
+  "main_business": [
+    "时装",
+    "配饰",
+    "家居"
+  ],
+  "current_slogan": "时尚应民主化",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "ZARA女装"
+    },
+    {
+      "name": "ZARA Man"
+    },
+    {
+      "name": "ZARA TRF"
+    },
+    {
+      "name": "ZARA Home"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1975,
+      "event": "创立第一家门店"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "ZARA是全球最大快时尚品牌，1975年由阿曼西奥奥尔特加创立。以极速供应链闻名，从设计到上架仅需两周。",
+  "languages": {
+    "en": "ZARA is the world's largest fast-fashion brand, founded in 1975."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "H&M",
+      "en": "H&M",
+      "slug": "hm"
+    },
+    {
+      "zh": "优衣库",
+      "en": "Uniqlo",
+      "slug": "uniqlo"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    },
+    {
+      "zh": "欧莱雅",
+      "en": "L'Oreal",
+      "slug": "loreal"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola"
+    }
+  ]
+}
