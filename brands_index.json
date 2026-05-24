@@ -1,13 +1,5 @@
 [
   {
-    "slug": "ugg",
-    "zh": "UGG",
-    "en": "UGG",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "UGG是1978年创立的美国鞋履品牌，以羊皮雪地靴闻名。标志性的Classic Short靴是好莱坞明星和时尚人士的冬季必备。"
-  },
-  {
     "slug": "timberland",
     "zh": "Timberland",
     "en": "Timberland",
@@ -390,5 +382,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "卡骆驰是2002年创立的美国鞋履品牌，以其标志性的洞洞鞋闻名于世。最初为划船和水上运动设计的轻便树脂鞋，意外地凭借超舒适脚感和鲜艳色彩成为全球现象级产品。\n\nCrocs的Croslite封闭式泡沫树脂"
+  },
+  {
+    "slug": "ugg",
+    "zh": "UGG",
+    "en": "UGG",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "UGG是1978年创立的美国鞋履品牌，以羊皮雪地靴闻名全球。创始人Brian Smith将澳大利亚牧羊人穿着的UGG Boots引入美国，最初在加州冲浪圈流行。2003年被Deckers Outdoo"
   }
 ]
