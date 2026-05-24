@@ -1,0 +1,111 @@
+{
+  "slug": "ugg",
+  "names": {
+    "zh-CN": "UGG",
+    "en": "UGG"
+  },
+  "founding_year": 1978,
+  "founding_location": "美国加州",
+  "founder": "Brian Smith",
+  "official_website": "https://www.ugg.com",
+  "main_business": [
+    "鞋履",
+    "配饰",
+    "服装"
+  ],
+  "current_slogan": "Feel Love",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "UGG经典雪地靴"
+    },
+    {
+      "name": "UGG凉拖鞋"
+    },
+    {
+      "name": "UGG Mini靴"
+    },
+    {
+      "name": "UGG羊毛内衬鞋"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1978,
+      "event": "创立"
+    },
+    {
+      "year": 2003,
+      "event": "被Deckers收购"
+    },
+    {
+      "year": 2010,
+      "event": "全球雪地靴热潮"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "UGG是1978年创立的美国鞋履品牌，以羊皮雪地靴闻名。标志性的Classic Short靴是好莱坞明星和时尚人士的冬季必备。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
