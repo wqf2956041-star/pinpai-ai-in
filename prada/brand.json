@@ -1,0 +1,138 @@
+{
+  "slug": "prada",
+  "names": {
+    "zh-CN": "普拉达",
+    "en": "Prada",
+    "fr": "Prada",
+    "es": "Prada",
+    "de": "Prada",
+    "ja": "Prada",
+    "ko": "Prada",
+    "pt": "Prada",
+    "ru": "Prada",
+    "ar": "Prada"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1913,
+  "founding_location": "意大利米兰",
+  "founder": "马里奥·普拉达（Mario Prada）",
+  "official_website": "https://www.prada.com",
+  "main_business": [
+    "时装",
+    "皮具",
+    "鞋履",
+    "眼镜",
+    "香水"
+  ],
+  "current_slogan": "挑战传统，定义未来",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Prada Galleria手袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Prada尼龙背包",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Prada Cahier手袋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Prada乐福鞋",
+      "year": 0,
+      "description": ""
+    },
+    {
+      "name": "Prada三角形Logo系列",
+      "year": 0,
+      "description": ""
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1913,
+      "event": "创立"
+    },
+    {
+      "year": 1978,
+      "event": "缪西娅·普拉达接手"
+    },
+    {
+      "year": 1985,
+      "event": "推出尼龙背包"
+    },
+    {
+      "year": 1993,
+      "event": "推出Prada Sport副线"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "普拉达是意大利顶级奢侈品牌，由马里奥普拉达于1913年在米兰创立。1985年缪西娅普拉达推出的黑色尼龙背包颠覆了奢侈品必须使用昂贵面料的传统，震惊整个时尚界。品牌以建筑感的设计和知识分子气质著称。",
+  "languages": {
+    "en": "Prada is an Italian luxury house founded in Milan in 1913.",
+    "fr": "Prada est une maison de luxe italienne fondee a Milan en 1913.",
+    "ja": "プラダは1913年にミラノで創業されたイタリアの高級ブランドです。",
+    "ko": "프라다는 1913년 밀라노에서 설립된 이탈리아 명품 브랜드입니다."
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "阿玛尼",
+      "en": "Armani",
+      "slug": "armani"
+    },
+    {
+      "zh": "博柏利",
+      "en": "Burberry",
+      "slug": "burberry"
+    }
+  ]
+}
