@@ -47,8 +47,10 @@
   ],
   "philanthropy": [],
   "exhibitions": [],
-  "description_zh": "欧米茄是1848年创立的瑞士腕表品牌。Speedmaster超霸是唯一经NASA认证的登月腕表，Seamaster海马是007詹姆斯邦德的指定腕表之一。",
-  "languages": {},
+  "description_zh": "欧米茄是1848年由Louis Brandt在瑞士比尔创立的瑞士腕表品牌。Omega的希腊字母Ω象征完美和成就。品牌以卓越的制表工艺和与多个标志性文化事件的关联著称。\n\nSpeedmaster超霸系列是唯一通过NASA认证的登月腕表。1969年阿波罗11号登月时Buzz Aldrin佩戴的就是超霸腕表，从此Speedmaster获得了Moonwatch的称号。\n\nSeamaster海马系列自1995年起成为James Bond詹姆斯邦德的指定腕表，出现在每一部007电影中。Quartermaster星座系列是欧米茄最经典的正装表款。\n\n欧米茄在机芯制造上拥有卓越成就，Co-Axial同轴擒纵系统是腕表界半个世纪以来最重大的机芯创新。品牌还是奥运会官方计时伙伴，承担着全球体育赛事计时的责任。",
+  "languages": {
+    "en": "欧米茄是1848年由Louis Brandt在瑞士比尔创立 瑞士腕表品牌。Omega 希腊字母Ω象征完美 and 成就。品牌以卓越 制表工艺 and  and 多个标志性文化事件 关联著称。 Speedmaster超霸系列是唯一通过NASA认证 登月腕表。1969年阿波罗11号登月时Buzz Aldrin佩戴 就是超霸腕表，从此Speedmaster获得了Moonwatch 称号。"
+  },
   "is_premium": false,
   "image_url": "",
   "similar_brands": [
