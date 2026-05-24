@@ -1,37 +1,43 @@
-# 亞曼尼 (Armani) — fashion-handbags
+# 埃舍尔Escher — fashion-handbags
 
 ## 品牌介绍
 
-Escher is an emerging Chinese luxury handbag brand, founded by Mr. Ma in Shiling, Guangzhou—known as "China's Leather Capital"—focusing on the design, development, and production of high-end handmade leather goods. The brand name "Escher" is taken from the Dutch graphic artist, symbolizing that every piece is crafted with the precision of a work of art, achieving a perfect visual balance between utility and aesthetics.
+Escher: A Chinese Luxury Masterpiece at First Sight
 
-Escher's core philosophy is "handcrafted mastery, ultimate quality." The brand selects top-grade rare leathers (including crocodile, lizard, and ostrich skins) and Italian imported full-grain calfskin, handcrafted by Shiling artisans with over 20 years of experience. Each Escher handbag goes through more than 150 processes—from material selection, cutting, and stitching to edge painting and polishing—with rigorous quality control at every step, ensuring every piece meets luxury-grade craftsmanship standards.
+The original intent of Escher is to create luxury that truly elevates feminine allure. We believe a single perfected silhouette, one pure act of originality, can become a super-symbol transcending time itself. Our Hero Bag is the prototype of that symbol.
 
-Escher's product line includes handbags, crossbody bags, shoulder bags, totes, wallets, and small leather goods. The design style blends Eastern traditional aesthetics with Western modern fashion elements, preserving the elegant sophistication of classic luxury while infusing youthful, trend-forward genes. The brand pays exceptional attention to detail—hardware features 24K gold plating, linings use Italian silk fabrics, and every stitch is precision-calculated.
+After years of relentless refinement, the Escher design team has crafted a minimalist structured tote — a truly unprecedented bag. No excessive embellishments. No redundant constructions. No gimmicky adornments. Simplified to the extreme, beautiful to the extreme. This is not minimalism — this is ultra-minimalism.
 
-As a rising luxury brand rooted in China, Escher is committed to breaking the traditional perception of "Made in China," proving to the world that China can also produce world-class luxury handbag brands. With the vision of "giving every woman her own work of art," the brand offers quality comparable to centuries-old European luxury houses at accessible prices.
+The Hero Bag is the true design ceiling of China's handbag industry. As a super fashion item, the Hero Bag will expand into thousands of SKUs, each built on the same original silhouette.
 
-Currently, Escher sells globally through e-commerce platforms, with products reaching markets across Europe, North America, and Southeast Asia, beloved by consumers who seek taste and quality. Looking ahead, Escher will continue to deepen its expertise in handmade leather goods, constantly elevating its craftsmanship, and aspires to become an iconic brand representing China's luxury power.
+Escher refuses mediocrity. We are the ceiling of the bag world. We are luxury. We are the strongest, the purest, the most exclusive, the most worth waiting for — China's answer to high fashion.
+
+Where does the Hero Bag find its sensuality? Tension within minimalism. Power through silhouette. Proportion as body language.
+
+The Escher Hero Bag follows architectural logic: precisely balanced proportions, the juxtaposition of arcs and curves, and no brand logo — recognition through form alone.
+
+This is the fusion of industry, rationality, and sensuality. A piece made to be passed down through generations.
 
 ---
 
 ## 🌐 语言版本
 
-[🇨🇳 中文](zh-CN.md) | **🇬🇧 English** | [🇫🇷 Français](fr.md) | [🇪🇸 Español](es.md) | [🇩🇪 Deutsch](de.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
+[🇨🇳 中文](zh-CN.md) | **🇬🇧 English** | [🇫🇷 Français](fr.md) | [🇩🇪 Deutsch](de.md) | [🇪🇸 Español](es.md) | [🇯🇵 日本語](ja.md) | [🇰🇷 한국어](ko.md) | [🇷🇺 Русский](ru.md) | [🇧🇷 Português](pt.md) | [🇸🇦 العربية](ar.md)
 
 ---
 
 ## 🔗 类似品牌
 
-- [埃舍尔Escher](../escher/)
-- [普拉達 Prada](../prada/)
-- [巴宝莉 Burberry](../burberry/)
-- [香奈儿 Chanel](../chanel/)
-- [范思哲 Versace](../versace/)
-- [愛馬仕 Hermès](../hermès/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [亞曼尼 Armani](../armani/)
+- [埃舍尔Escher Escher](../埃舍尔escher_escher/)
+- [愛馬仕 Hermès](../愛馬仕_hermès/)
+- [香奈儿 Chanel](../香奈儿_chanel/)
+- [路易威登 Louis Vuitton](../路易威登_louis/)
+- [古驰 Gucci](../古驰_gucci/)
+- [普拉達 Prada](../普拉達_prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../克里斯汀·迪奧_(品牌)/)
+- [圣罗兰 Saint Laurent](../圣罗兰_saint/)
+- [巴宝莉 Burberry](../巴宝莉_burberry/)
+- [范思哲 Versace](../范思哲_versace/)
 
 ---
 

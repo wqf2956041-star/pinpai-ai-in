@@ -1,4 +1,4 @@
-# 普拉達 (Prada) — fashion-luxury
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Christian Dior (French: Christian Dior, pronounced: [kʁistjɑə djɔʁ]), refer
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [亞曼尼 Armani](../armani/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [香奈儿 Chanel](../chanel/)
 - [巴宝莉 Burberry](../burberry/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [香奈儿 Chanel](../chanel/)
 - [普拉達 Prada](../prada/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [亞曼尼 Armani](../armani/)
+- [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

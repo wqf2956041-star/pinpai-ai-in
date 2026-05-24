@@ -1,4 +1,4 @@
-# 普拉達 (Prada) — fashion-luxury
+# 愛馬仕 (Hermès) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [亞曼尼 Armani](../armani/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
 - [香奈儿 Chanel](../chanel/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [愛馬仕 Hermès](../hermès/)
-- [巴宝莉 Burberry](../burberry/)
-- [古驰 Gucci](../gucci/)
 - [普拉達 Prada](../prada/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
 
 ---
 

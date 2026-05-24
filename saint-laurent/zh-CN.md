@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — fashion-luxury
+# 圣罗兰 (Saint Laurent) — fashion-luxury
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
+- [巴宝莉 Burberry](../burberry/)
+- [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
 - [古驰 Gucci](../gucci/)
 - [范思哲 Versace](../versace/)
-- [巴宝莉 Burberry](../burberry/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [愛馬仕 Hermès](../hermès/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [普拉達 Prada](../prada/)
-- [亞曼尼 Armani](../armani/)
-- [香奈儿 Chanel](../chanel/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 
 ---
 

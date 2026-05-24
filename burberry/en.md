@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — general
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Burberry Group plc is a British luxury fashion house established in 1856 by Thom
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [范思哲 Versace](../versace/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
-- [愛馬仕 Hermès](../hermès/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [范思哲 Versace](../versace/)
+- [香奈儿 Chanel](../chanel/)
 - [亞曼尼 Armani](../armani/)
 - [古驰 Gucci](../gucci/)
-- [香奈儿 Chanel](../chanel/)
-- [普拉達 Prada](../prada/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [愛馬仕 Hermès](../hermès/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 

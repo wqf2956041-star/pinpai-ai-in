@@ -15,14 +15,14 @@ Yves Saint Laurent (französisch: Yves Saint Laurent, französische Aussprache: 
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [亞曼尼 Armani](../armani/)
 - [愛馬仕 Hermès](../hermès/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [普拉達 Prada](../prada/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [香奈儿 Chanel](../chanel/)
+- [古驰 Gucci](../gucci/)
 - [范思哲 Versace](../versace/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
+- [亞曼尼 Armani](../armani/)
+- [普拉達 Prada](../prada/)
 - [巴宝莉 Burberry](../burberry/)
 
 ---

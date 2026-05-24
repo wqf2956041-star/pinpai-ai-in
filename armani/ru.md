@@ -15,14 +15,14 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
-- [巴宝莉 Burberry](../burberry/)
-- [范思哲 Versace](../versace/)
-- [古驰 Gucci](../gucci/)
-- [亞曼尼 Armani](../armani/)
 - [愛馬仕 Hermès](../hermès/)
+- [古驰 Gucci](../gucci/)
 - [普拉達 Prada](../prada/)
 - [香奈儿 Chanel](../chanel/)
+- [亞曼尼 Armani](../armani/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [巴宝莉 Burberry](../burberry/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---

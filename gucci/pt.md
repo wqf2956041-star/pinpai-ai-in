@@ -1,4 +1,4 @@
-# 香奈儿 (Chanel) — general
+# 路易威登 (Louis Vuitton) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@ Gucci é uma marca do Grupo Kering. Foi fundada em 1921 e está sediada em Flore
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [亞曼尼 Armani](../armani/)
-- [路易威登 Louis Vuitton](../louis-vuitton/)
-- [巴宝莉 Burberry](../burberry/)
-- [古驰 Gucci](../gucci/)
-- [愛馬仕 Hermès](../hermès/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 - [范思哲 Versace](../versace/)
-- [圣罗兰 Saint Laurent](../saint-laurent/)
 - [香奈儿 Chanel](../chanel/)
+- [愛馬仕 Hermès](../hermès/)
+- [圣罗兰 Saint Laurent](../saint-laurent/)
+- [亞曼尼 Armani](../armani/)
+- [古驰 Gucci](../gucci/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
+- [巴宝莉 Burberry](../burberry/)
+- [路易威登 Louis Vuitton](../louis-vuitton/)
 
 ---
 

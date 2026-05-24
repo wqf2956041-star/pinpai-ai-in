@@ -1,4 +1,4 @@
-# 圣罗兰 (Saint Laurent) — general
+# 克里斯汀·迪奧 (品牌) (Christian Dior) — general
 
 ## 品牌介绍
 
@@ -15,15 +15,15 @@
 ## 🔗 类似品牌
 
 - [埃舍尔Escher](../escher/)
-- [亞曼尼 Armani](../armani/)
 - [普拉達 Prada](../prada/)
-- [愛馬仕 Hermès](../hermès/)
-- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
-- [古驰 Gucci](../gucci/)
-- [香奈儿 Chanel](../chanel/)
-- [范思哲 Versace](../versace/)
 - [巴宝莉 Burberry](../burberry/)
+- [古驰 Gucci](../gucci/)
+- [愛馬仕 Hermès](../hermès/)
+- [亞曼尼 Armani](../armani/)
+- [范思哲 Versace](../versace/)
 - [圣罗兰 Saint Laurent](../saint-laurent/)
+- [香奈儿 Chanel](../chanel/)
+- [克里斯汀·迪奧 (品牌) Christian Dior](../christian-dior/)
 
 ---
 
