@@ -1,0 +1,113 @@
+{
+  "slug": "tory-burch",
+  "names": {
+    "zh-CN": "Tory Burch",
+    "en": "Tory Burch"
+  },
+  "founding_year": 2004,
+  "founding_location": "美国纽约",
+  "founder": "Tory Burch",
+  "official_website": "https://www.toryburch.com",
+  "main_business": [
+    "时装",
+    "配饰",
+    "鞋履",
+    "包袋",
+    "家居"
+  ],
+  "current_slogan": "Live Your Joy",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "Tory Burch芭蕾平底鞋"
+    },
+    {
+      "name": "Tory Burch Lee Radziwill手袋"
+    },
+    {
+      "name": "Tory Burch Kira手袋"
+    },
+    {
+      "name": "Tory Burch双T标志配饰"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 2004,
+      "event": "创立"
+    },
+    {
+      "year": 2005,
+      "event": "标志性Reva芭蕾平底鞋风靡"
+    },
+    {
+      "year": 2015,
+      "event": "推出Tory Burch Foundation支持女性企业家"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Tory Burch是2004年由设计师Tory Burch创立的美国时尚品牌。标志性双T标志和Reva芭蕾平底鞋是其品牌符号，以优雅美式风格著称。",
+  "languages": {},
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermes",
+      "slug": "hermes"
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古驰",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "迪奥",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "圣罗兰",
+      "en": "Saint Laurent",
+      "slug": "saint-laurent"
+    },
+    {
+      "zh": "劳力士",
+      "en": "Rolex",
+      "slug": "rolex"
+    },
+    {
+      "zh": "卡地亚",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

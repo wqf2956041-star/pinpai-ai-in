@@ -270,5 +270,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "迈可寇斯是1981年创立的美国轻奢时尚品牌。以Jet Set奢华旅行风格为定位，Mercer和Hamilton手袋是全球最受欢迎的手袋款之一。"
+  },
+  {
+    "slug": "tory-burch",
+    "zh": "Tory Burch",
+    "en": "Tory Burch",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Tory Burch是2004年由设计师Tory Burch创立的美国时尚品牌。标志性双T标志和Reva芭蕾平底鞋是其品牌符号，以优雅美式风格著称。"
   }
 ]
