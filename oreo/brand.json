@@ -1,0 +1,97 @@
+{
+  "slug": "oreo",
+  "names": {
+    "zh-CN": "奥利奥",
+    "en": "Oreo"
+  },
+  "founding_year": 1912,
+  "founding_location": "美国纽约",
+  "founder": "纳贝斯克公司",
+  "official_website": "https://www.oreo.com",
+  "main_business": [
+    "饼干",
+    "零食"
+  ],
+  "current_slogan": "Twist, Lick, Dunk",
+  "past_slogans": [],
+  "representative_products": [
+    {
+      "name": "奥利奥经典"
+    },
+    {
+      "name": "奥利奥双倍夹心"
+    },
+    {
+      "name": "奥利奥金装"
+    },
+    {
+      "name": "奥利奥薄脆"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1912,
+      "event": "推出"
+    },
+    {
+      "year": 1975,
+      "event": "双倍夹心款"
+    },
+    {
+      "year": 1998,
+      "event": "进入中国市场并调整甜度"
+    }
+  ],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "奥利奥是全球最畅销的饼干品牌，1912年由纳贝斯克公司推出。两片黑色巧克力饼干夹白色奶油馅——这种极简设计百年来几乎未变。奥利奥的扭一扭、舔一舔、泡一泡吃法是品牌文化的一部分。在中国市场销量全球第二仅次于美国。年销售额超过30亿美元，产品遍布全球100多个国家。奥利奥还推出了无数联名款和创新口味。",
+  "languages": {
+    "en": "奥利奥是全球最畅销 饼干品牌, 1912年由纳贝斯克公司推出. 两片黑色巧克力饼干夹白色奶油馅——这种极简设计百年来几乎未变. 奥利奥 扭一扭, 舔一舔, 泡一泡吃法是品牌文化 一部分. 在中国市场销量全球第二仅次于美国. 年销售额超过30亿美元, 产品遍布全球100多个国家. 奥利奥还推出了无数联名款 and 创新口味. "
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "可口可乐",
+      "en": "Coca-Cola",
+      "slug": "coca-cola",
+      "premium": false
+    },
+    {
+      "zh": "雀巢",
+      "en": "Nestlé",
+      "slug": "nestle",
+      "premium": false
+    },
+    {
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonalds",
+      "premium": false
+    },
+    {
+      "zh": "M&M's",
+      "en": "M&M's",
+      "slug": "mms",
+      "premium": false
+    },
+    {
+      "zh": "星巴克",
+      "en": "Starbucks",
+      "slug": "starbucks",
+      "premium": false
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
