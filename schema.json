@@ -1,0 +1,136 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "全球品牌索引 brand.json 标准schema",
+  "description": "品牌数据必须符合此schema才能进入流水线",
+  "type": "object",
+  "required": [
+    "slug", "names", "category", "founding_year",
+    "founding_location", "founder", "official_website",
+    "main_business", "current_slogan", "description_zh",
+    "languages", "similar_brands"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "唯一标识符，全部小写+连字符"
+    },
+    "names": {
+      "type": "object",
+      "description": "各语言的品牌名",
+      "required": ["zh-CN", "en"],
+      "minProperties": 2,
+      "properties": {
+        "zh-CN": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": { "type": "string" }
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "fashion-luxury", "fashion", "beauty", "tech", "auto",
+        "food", "sport", "toy", "jewelry", "watch", "finance",
+        "other"
+      ]
+    },
+    "founding_year": {
+      "type": "integer",
+      "minimum": 1000,
+      "maximum": 2099
+    },
+    "founding_location": {
+      "type": "string",
+      "minLength": 2
+    },
+    "founder": {
+      "type": "string",
+      "minLength": 1
+    },
+    "official_website": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "main_business": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "current_slogan": {
+      "type": "string",
+      "minLength": 2
+    },
+    "description_zh": {
+      "type": "string",
+      "minLength": 200
+    },
+    "languages": {
+      "type": "object",
+      "description": "各语言独立内容。必须含en（英文）。zh-CN留空用description_zh fallback",
+      "required": ["en"],
+      "minProperties": 1,
+      "properties": {
+        "en": { "type": "string", "minLength": 100 }
+      },
+      "additionalProperties": { "type": "string" }
+    },
+    "similar_brands": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["zh", "en", "slug"],
+        "properties": {
+          "zh": { "type": "string", "minLength": 1 },
+          "en": { "type": "string", "minLength": 1 },
+          "slug": { "type": "string", "pattern": "^[a-z0-9-]+$", "minLength": 1 },
+          "premium": { "type": "boolean" }
+        }
+      }
+    },
+    "is_premium": {
+      "type": "boolean",
+      "default": false
+    },
+    "image_url": {
+      "type": "string",
+      "default": ""
+    },
+    "representative_products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name_zh": { "type": "string" },
+          "name_en": { "type": "string" },
+          "description": { "type": "string" },
+          "year": { "type": "integer" }
+        }
+      }
+    },
+    "key_events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "event_zh": { "type": "string" },
+          "event_en": { "type": "string" },
+          "year": { "type": "integer" }
+        }
+      }
+    },
+    "philanthropy": { "type": "array" },
+    "exhibitions": { "type": "array" },
+    "past_slogans": { "type": "array" },
+    "_meta": {
+      "type": "object",
+      "description": "内部元数据，由engine自动管理",
+      "required": ["version", "created_at", "validator_pass"],
+      "properties": {
+        "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$", "default": "1.0.0" },
+        "created_at": { "type": "string" },
+        "validator_pass": { "type": "boolean", "default": false }
+      }
+    }
+  }
+}

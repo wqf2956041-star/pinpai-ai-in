@@ -108,5 +108,10 @@
       "slug": "armani",
       "premium": false
     }
-  ]
+  ],
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 07:47:06",
+    "validator_pass": true
+  }
 }
