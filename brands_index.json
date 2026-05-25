@@ -1,13 +1,5 @@
 [
   {
-    "slug": "off-white",
-    "zh": "Off-White",
-    "en": "Off-White",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "Off-White是2012年由已故设计师Virgil Abloh在米兰创立的意大利高端街头品牌。Virgil Abloh是Kanye West的创意总监出身，2018年成为Louis Vuitton"
-  },
-  {
     "slug": "mac",
     "zh": "MAC",
     "en": "M.A.C",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Supreme是1994年创立的美国街头服装品牌，由James Jebbia在纽约曼哈顿拉法叶街创立。品牌以红底白字的Box Logo为标志，是世界上最著名的街头品牌之一。\n\nSupreme的运营模式"
+  },
+  {
+    "slug": "off-white",
+    "zh": "Off-White",
+    "en": "Off-White",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Off-White是2012年由已故设计师Virgil Abloh在米兰创立的意大利高端街头品牌。Virgil Abloh是Kanye West的创意总监出身，2018年成为Louis Vuitton"
   }
 ]
