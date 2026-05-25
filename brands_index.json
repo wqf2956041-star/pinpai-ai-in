@@ -1,13 +1,5 @@
 [
   {
-    "slug": "bape",
-    "zh": "BAPE（安逸猿）",
-    "en": "BAPE",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "BAPE（安逸猿）是1993年由日本设计师NIGO创立的传奇街头品牌。全称A Bathing Ape in Lukewarm Water，源日本俗语比喻沉溺享乐的年轻人。猿人头标志和迷彩图案是最具辨识"
-  },
-  {
     "slug": "stussy",
     "zh": "Stüssy",
     "en": "Stüssy",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Meta是全球最大的社交网络公司，2004年由马克扎克伯格在哈佛大学宿舍创立。最初名为Facebook，从校园社交网站发展为连接全球超过30亿用户的社交帝国。旗下拥有Facebook主站、Instag"
+  },
+  {
+    "slug": "bape",
+    "zh": "BAPE（安逸猿）",
+    "en": "BAPE",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "BAPE（安逸猿）是1993年由日本设计师NIGO创立的传奇街头品牌。全称A Bathing Ape in Lukewarm Water，源日本俗语比喻沉溺享乐的年轻人。猿人头标志和迷彩图案是最具辨识"
   }
 ]
