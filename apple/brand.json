@@ -1,0 +1,62 @@
+{
+  "slug": "apple",
+  "names": {
+    "zh-CN": "苹果",
+    "en": "Apple"
+  },
+  "category": "tech",
+  "founding_year": 1976,
+  "founding_location": "美国",
+  "founder": "史蒂夫·乔布斯",
+  "official_website": "https://www.apple.com/",
+  "main_business": [
+    "智能手机",
+    "电脑",
+    "可穿戴设备"
+  ],
+  "current_slogan": "Think Different",
+  "description_zh": "苹果（Apple Inc.）是全球最具价值的科技公司之一，由史蒂夫·乔布斯、史蒂夫·沃兹尼亚克和罗纳德·韦恩于1976年4月1日在美国加利福尼亚州库比蒂诺创立。苹果以其创新的消费电子产品闻名于世，包括Mac电脑、iPhone智能手机、iPad平板电脑、Apple Watch智能手表和AirPods无线耳机等。苹果的iOS操作系统和macOS系统构建了强大的生态系统，App Store拥有数百万应用。苹果以极简设计、高端定位和卓越用户体验著称，是全球第一家市值突破3万亿美元的公司。",
+  "languages": {
+    "en": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California. Founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976, Apple designs, develops, and sells consumer electronics, computer software, and online services. Known for iconic products like the iPhone, Mac, iPad, and Apple Watch, the company is celebrated for its minimalist design philosophy and seamless ecosystem integration. Apple became the world's first publicly traded company to reach a $3 trillion market capitalization."
+  },
+  "similar_brands": [
+    {
+      "zh": "谷歌",
+      "en": "Google",
+      "slug": "google"
+    },
+    {
+      "zh": "微软",
+      "en": "Microsoft",
+      "slug": "microsoft"
+    },
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "zh": "英伟达",
+      "en": "NVIDIA",
+      "slug": "nvidia"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q312",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 10:01:56",
+    "validator_pass": true
+  }
+}

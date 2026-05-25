@@ -1,0 +1,53 @@
+{
+  "slug": "bulgari",
+  "names": {
+    "zh-CN": "Bulgari",
+    "en": "Bulgari"
+  },
+  "category": "jewelry",
+  "founding_year": 1884,
+  "founding_location": "",
+  "founder": "",
+  "official_website": "",
+  "main_business": [
+    "珠宝",
+    "腕表",
+    "配饰",
+    "香水"
+  ],
+  "current_slogan": "宝格丽，意式色彩",
+  "description_zh": "Bulgari（宝格丽）是源自意大利的全球顶级奢侈珠宝品牌，由希腊裔银匠索蒂里奥斯·布尔加里斯（Sotirios Voulgaris）于1884年在意大利罗马创立。品牌名称源自创始人家族的希腊姓氏，但在拉丁字母拼写时遵循了罗马传统，以\"V\"代替希腊字母，最终形成独特的\"Bulgari\"拼写。宝格丽的设计风格独树一帜，颠覆了法国珠宝以钻石和铂金为主的传统，大胆采用彩色宝石——包括红宝石、祖母绿、蓝宝石以及半宝石——配以黄金材质，创造出色彩丰富、建筑感强烈的地中海风格珠宝。品牌最具辨识度的设计包括Serpenti蛇形系列（以蛇的蜿蜒形态为灵感）、B.zero1系列（参考罗马斗兽场）以及Divas' Dream系列。宝格丽同样在腕表和皮具领域享有盛誉，其Octo Finissimo超薄腕表系列创下多项世界纪录。2011年，宝格丽被LVMH集团收购，成为该集团旗下顶级珠宝品牌矩阵中的重要一员。如今，宝格丽在全球拥有超过300家精品店。",
+  "languages": {
+    "en": "Bulgari is an Italian luxury jewelry brand founded in 1884 in Rome by Greek silversmith Sotirios Voulgaris. Known for its bold, colorful designs, Bulgari revolutionized traditional jewelry aesthetics by using large colored gemstones—rubies, emeralds, sapphires—set in gold, creating a distinctively Mediterranean architectural style. Iconic collections include the Serpenti (snake-inspired), B.zero1 (inspired by the Colosseum), and Divas' Dream. Bulgari also excels in watchmaking with its Octo Finissimo ultra-thin series, and in leather goods. Acquired by LVMH in 2011, Bulgari operates over 300 boutiques globally. The brand's audacious mix of color, volume, and historical references has made it one of the most recognizable and beloved names in high-end jewelry, appealing to connoisseurs who appreciate Italian artistry and daring design."
+  },
+  "similar_brands": [
+    {
+      "zh": "Cartier",
+      "en": "Cartier",
+      "slug": "cartier"
+    },
+    {
+      "zh": "Tiffany & Co.",
+      "en": "Tiffany & Co.",
+      "slug": "tiffany-co"
+    },
+    {
+      "zh": "Rolex",
+      "en": "Rolex",
+      "slug": "rolex"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q752515",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

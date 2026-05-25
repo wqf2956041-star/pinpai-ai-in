@@ -6,5 +6,173 @@
     "category": "fashion-luxury",
     "premium": true,
     "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
+  },
+  {
+    "slug": "christian-dior",
+    "zh": "Christian Dior",
+    "en": "Christian Dior",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "克里斯汀·迪奥（Christian Dior）是法国顶级奢時裝品牌，1946年由克里斯汀·迪奥在巴黎创立。1947年品牌首次发布「新风貌」（New Look）系列——收腰上衣配以宽大及地长裙——彻底颠"
+  },
+  {
+    "slug": "prada",
+    "zh": "普拉達",
+    "en": "Prada",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "普拉达（Prada）是意大利最具知识分子气质的奢侈时装品牌，1913年由马里奥·普拉达在米兰创立。品牌最初是一家专营皮具和旅行箱的精品店，以优质皮革和低调奢华的工艺赢得声誉。1978年，马里奥的孙女缪"
+  },
+  {
+    "slug": "balenciaga",
+    "zh": "巴黎世家",
+    "en": "Balenciaga",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "巴黎世家（Balenciaga）是创立于西班牙后迁至法国的顶级时装品牌，1917年由被誉为「大师中的大师」的克里斯托瓦尔·巴伦西亚加在圣塞巴斯蒂安创立，1937年迁至巴黎。巴伦西亚加先生以其建筑感的结"
+  },
+  {
+    "slug": "zara",
+    "zh": "Zara",
+    "en": "Zara",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "Zara是全球最大的时装零售商之一，1975年由阿曼西奥·奥尔特加在西班牙拉科鲁尼亚创立，是Inditex集团的核心品牌。Zara以其革命性的「快时尚」（Fast Fashion）商业模式闻名——从设"
+  },
+  {
+    "slug": "uniqlo",
+    "zh": "优衣库",
+    "en": "UNIQLO",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "优衣库（UNIQLO）是日本最大的服装零售商，母公司迅销集团（Fast Retailing）由柳井正掌舵。品牌前身是1949年在山口县宇部市创立的一家男士服装店，1984年柳井正接手后将其转型为休闲服"
+  },
+  {
+    "slug": "levi-s",
+    "zh": "李维斯",
+    "en": "Levi's",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "李维斯（Levi's）是全球最知名的牛仔裤品牌，1853年由巴伐利亚移民李维·斯特劳斯在旧金山创立。1873年，李维·斯特劳斯与裁缝雅各布·戴维斯合作获得了铆钉加固工作裤的专利——这被公认为现代牛仔裤"
+  },
+  {
+    "slug": "calvin-klein",
+    "zh": "Calvin Klein",
+    "en": "Calvin Klein",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "卡尔文·克莱因（Calvin Klein）是美国最具标志性的生活方式时尚品牌之一，1968年由卡尔文·克莱因在纽约创立。品牌以极简主义美学、干净的线条和性感广告风格闻名于世。CK在20世纪70年代率先"
+  },
+  {
+    "slug": "mercedes-benz",
+    "zh": "梅赛德斯-奔驰",
+    "en": "Mercedes-Benz",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "梅赛德斯-奔驰（Mercedes-Benz）是全球公认最负盛名的豪华汽车品牌之一，起源于1886年卡尔·本茨发明了世界上第一辆三轮汽车——奔驰专利汽车，这一年被公认为汽车诞生元年。品牌正式成立于192"
+  },
+  {
+    "slug": "bmw",
+    "zh": "BMW",
+    "en": "BMW",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "BMW（宝马，全称Bayerische Motoren Werke，意为巴伐利亚发动机制造厂）是德国最著名的豪华汽车和摩托车制造商之一，成立于1916年，总部位于慕尼黑。宝马最初以生产飞机发动机起家，"
+  },
+  {
+    "slug": "ferrari",
+    "zh": "法拉利汽車",
+    "en": "Ferrari",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "法拉利（Ferrari）是全球最具传奇色彩的超级跑车制造商，由恩佐·法拉利（Enzo Ferrari）于1947年在意大利马拉内罗创立。品牌的跃马标志源自第一次世界大战中意大利王牌飞行员弗朗切斯科·巴"
+  },
+  {
+    "slug": "apple",
+    "zh": "苹果",
+    "en": "Apple",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "苹果（Apple Inc.）是全球最具价值的科技公司之一，由史蒂夫·乔布斯、史蒂夫·沃兹尼亚克和罗纳德·韦恩于1976年4月1日在美国加利福尼亚州库比蒂诺创立。苹果以其创新的消费电子产品闻名于世，包括"
+  },
+  {
+    "slug": "sony",
+    "zh": "索尼",
+    "en": "Sony",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "索尼集团（Sony Group Corporation）是日本最具代表性的跨国综合电子娱乐企业，由井深大和盛田昭夫于1946年5月7日在东京创立，最初名为东京通信工业株式会社。索尼以随身听Walkma"
+  },
+  {
+    "slug": "nvidia",
+    "zh": "英伟达",
+    "en": "NVIDIA",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "NVIDIA（英伟达）是全球领先的图形处理器（GPU）和人工智能计算公司，由黄仁勋、克里斯·马拉科夫斯基和柯蒂斯·普里姆于1993年4月在美国加利福尼亚州圣克拉拉创立。NVIDIA的GeForce系列"
+  },
+  {
+    "slug": "adidas",
+    "zh": "阿迪达斯",
+    "en": "Adidas",
+    "category": "sport",
+    "premium": false,
+    "desc_short": "阿迪达斯（Adidas AG）是德国著名的运动用品制造商，由阿道夫·「阿迪」·达斯勒于1949年在德国黑措根奥拉赫创立。阿迪达斯以其三条纹标志闻名全球，是全球第二大运动品牌。阿迪达斯的产品线覆盖足球、"
+  },
+  {
+    "slug": "burberry",
+    "zh": "Burberry",
+    "en": "Burberry",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "博柏利（Burberry）是英国最具代表性的奢侈时装品牌，1856年由托马斯·巴伯利在伦敦创立。品牌以其标志性的加巴甸（Gabardine）防水面料闻名——这种透气又防水的面料于1879年获得专利，被"
+  },
+  {
+    "slug": "versace",
+    "zh": "范思哲",
+    "en": "Versace",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "范思哲（Versace）是意大利最具张扬魅力的奢侈时装品牌，1978年由詹尼·范思哲在米兰创立。品牌以大胆的性感风格、鲜艳的印花和标志性的美杜莎（Medusa）Logo闻名——传说美杜莎具有令人无法抗"
+  },
+  {
+    "slug": "ralph-lauren",
+    "zh": "拉爾夫·勞倫",
+    "en": "Ralph Lauren",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "拉尔夫·劳伦（Ralph Lauren）是世界上最成功的美国生活方式品牌之一，1967年由拉尔夫·劳伦在纽约创立。品牌以诠释美国梦般的精英生活方式著称——马球（Polo）衬衫上的小马标Logo是其最具"
+  },
+  {
+    "slug": "tommy-hilfiger",
+    "zh": "汤米·席尔菲格",
+    "en": "Tommy Hilfiger",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "汤米·希尔费格（Tommy Hilfiger）是美国最具代表性的休闲时尚品牌之一，1985年由汤米·希尔费格在纽约创立。品牌以经典的美式学院风、红白蓝三色Logo和「美式酷」设计理念著称。汤米·希尔费"
+  },
+  {
+    "slug": "microsoft",
+    "zh": "微软",
+    "en": "Microsoft",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "微软（Microsoft Corporation）是全球最大的软件公司之一，由比尔·盖茨和保罗·艾伦于1975年4月4日在美国新墨西哥州阿尔伯克基创立。微软的Windows操作系统是全球使用最广泛的电"
+  },
+  {
+    "slug": "google",
+    "zh": "谷歌",
+    "en": "Google",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "Google（谷歌）是全球最大的搜索引擎公司，由拉里·佩奇和谢尔盖·布林于1998年9月4日在美国加利福尼亚州创立。Google的核心产品是搜索引擎，占据全球搜索市场90%以上的份额。此外，Googl"
+  },
+  {
+    "slug": "amazon",
+    "zh": "亚马逊",
+    "en": "Amazon",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "Amazon（亚马逊）是全球最大的电子商务和云计算公司，由杰夫·贝佐斯于1994年7月5日在美国华盛顿州西雅图创立。亚马逊最初是一家在线书店，随后迅速扩展成为「万物商店」，涵盖几乎所有品类的商品零售。"
   }
 ]

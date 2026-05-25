@@ -1,0 +1,63 @@
+{
+  "slug": "burberry",
+  "names": {
+    "zh-CN": "Burberry",
+    "en": "Burberry"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1856,
+  "founding_location": "英國倫敦",
+  "founder": "托马斯·巴伯利",
+  "official_website": "https://www.burberry.com/",
+  "main_business": [
+    "时装",
+    "配饰",
+    "香水",
+    "风衣"
+  ],
+  "current_slogan": "经典英伦风衣",
+  "description_zh": "博柏利（Burberry）是英国最具代表性的奢侈时装品牌，1856年由托马斯·巴伯利在伦敦创立。品牌以其标志性的加巴甸（Gabardine）防水面料闻名——这种透气又防水的面料于1879年获得专利，被英国军官和探险家在极端环境中广泛使用。经典的Burberry风衣（Trench Coat）在一战期间被英军指定为军官制服，由此成为永恒的时尚标志。品牌标志性的「骑士」Logo和Nova格纹（红黑驼色格子图案）在全球享有极高辨识度。进入21世纪后，品牌在克里斯托弗·贝利的领导下实现现代化转型，里卡多·提西则带来了更加前卫的视觉风格。Burberry产品涵盖成衣、皮具、配饰、香水和彩妆，年营收约30亿英镑。作为英国王室御用品牌，Burberry代表了英伦风格的优雅、功能性与传统的完美结合。",
+  "languages": {
+    "en": "Burberry is Britain's most iconic luxury fashion house, founded in 1856 by Thomas Burberry in London. Renowned for its patented Gabardine fabric (1879) — a breathable yet waterproof material widely used by British officers and explorers — the classic Burberry trench coat became an eternal fashion icon after being designated as British Army officer uniform during World War I. The brand's 'Equestrian Knight' logo and Nova check pattern (red, black, and camel plaid) enjoy global recognition. Under Christopher Bailey's leadership in the 21st century, Burberry underwent a modern transformation, with Riccardo Tisci later bringing a more avant-garde edge. The brand spans ready-to-wear, leather goods, accessories, fragrances, and cosmetics, with annual revenue of approximately £3 billion. As a Royal Warrant holder, Burberry represents the perfect fusion of British elegance, functionality, and heritage."
+  },
+  "similar_brands": [
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    },
+    {
+      "zh": "普拉達",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "古馳",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "路易·威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "拉爾夫·勞倫",
+      "en": "Ralph Lauren",
+      "slug": "ralph-lauren"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q390107",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 10:01:57",
+    "validator_pass": true
+  }
+}

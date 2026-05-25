@@ -1,0 +1,64 @@
+{
+  "slug": "hermès",
+  "names": {
+    "zh-CN": "愛馬仕",
+    "en": "Hermès"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1837,
+  "founding_location": "法國",
+  "founder": "蒂埃里·爱马仕",
+  "official_website": "https://www.hermes.com/",
+  "main_business": [
+    "皮具",
+    "丝巾",
+    "时装",
+    "香水",
+    "腕表"
+  ],
+  "current_slogan": "轻盈、优雅、品质",
+  "description_zh": "愛馬仕（Hermès）是法国顶级奢侈品牌，1837年由蒂埃里·爱马仕在巴黎创立，最初以马具和马鞍制作起家。凭借对顶级皮革的严苛筛选和精湛的手工缝制技艺，爱马仕迅速赢得欧洲皇室和贵族的青睐。品牌最具代表性的产品——凯莉包（Kelly）和铂金包（Birkin）——自问世以来一直是全球最令人向往的手袋，其定制等待期长达数年。除皮具外，爱马仕还拥有丝巾、成衣、香水、腕表、珠宝及家居等多个产品线，每一件作品都坚持在法国本土手工制作。品牌标志性的橙色礼盒和「马车与仆人」Logo已成为奢侈品世界中尊贵与稀缺的代名词。爱马仕始终贯彻「品质至上」的理念，从不追逐潮流，而是以超越时间的优雅和无可挑剔的工艺定义真正的奢华，在全球奢侈品金字塔中稳居巅峰地位。",
+  "languages": {
+    "en": "Hermès is a French luxury house founded in 1837 by Thierry Hermès in Paris, originally specializing in horse harnesses and saddlery. Renowned for its meticulous leather selection and masterful hand-stitching craftsmanship, Hermès quickly gained favor among European royalty and aristocracy. Its most iconic products — the Kelly and Birkin bags — remain the world's most coveted handbags, with waiting lists spanning years. Beyond leather goods, Hermès produces silk scarves, ready-to-wear, fragrances, watches, jewelry, and home decor, with every item handcrafted in France. The signature orange packaging and the 'carriage and groom' logo have become synonymous with exclusivity and prestige in the luxury world. Hermès adheres to a philosophy of quality over trends, defining true luxury through timeless elegance and impeccable craftsmanship, securing its position at the pinnacle of the global luxury market."
+  },
+  "similar_brands": [
+    {
+      "zh": "路易·威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "古馳",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "Chanel",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "Christian Dior",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "巴黎世家",
+      "en": "Balenciaga",
+      "slug": "balenciaga"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q843887",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

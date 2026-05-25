@@ -1,0 +1,56 @@
+{
+  "slug": "huawei",
+  "names": {
+    "zh-CN": "华为",
+    "en": "Huawei"
+  },
+  "category": "tech",
+  "founding_year": 1987,
+  "founding_location": "中国",
+  "founder": "任正非",
+  "official_website": "https://www.huawei.com/",
+  "main_business": [
+    "通信设备",
+    "智能手机",
+    "云计算"
+  ],
+  "current_slogan": "构建万物互联的智能世界",
+  "description_zh": "华为（Huawei Technologies Co., Ltd.）是全球领先的信息与通信技术（ICT）基础设施和智能终端提供商，由任正非于1987年创立于中国深圳。华为是全球最大的电信设备制造商，在5G技术领域拥有最多的核心专利。华为的消费者业务包括华为手机、平板、PC和可穿戴设备，曾经是全球第二大智能手机制造商。华为还提供云计算、人工智能、智能汽车解决方案等业务，2023年营收超过7000亿元人民币。",
+  "languages": {
+    "en": "Huawei Technologies Co., Ltd. is a Chinese multinational technology corporation headquartered in Shenzhen. Founded by Ren Zhengfei in 1987, Huawei is the world's largest telecommunications equipment manufacturer and a leading provider of ICT infrastructure and smart devices. The company holds the largest number of 5G essential patents globally. Despite facing international trade restrictions, Huawei continues to innovate in smartphones, cloud computing, AI, and automotive solutions."
+  },
+  "similar_brands": [
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "小米",
+      "en": "Xiaomi"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "索尼",
+      "en": "Sony",
+      "slug": "sony"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q160120",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

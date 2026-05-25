@@ -1,0 +1,63 @@
+{
+  "slug": "versace",
+  "names": {
+    "zh-CN": "范思哲",
+    "en": "Versace"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1978,
+  "founding_location": "意大利",
+  "founder": "詹尼·范思哲",
+  "official_website": "https://www.versace.com/",
+  "main_business": [
+    "时装",
+    "配饰",
+    "香水",
+    "家居"
+  ],
+  "current_slogan": "Versace, 意式奢华",
+  "description_zh": "范思哲（Versace）是意大利最具张扬魅力的奢侈时装品牌，1978年由詹尼·范思哲在米兰创立。品牌以大胆的性感风格、鲜艳的印花和标志性的美杜莎（Medusa）Logo闻名——传说美杜莎具有令人无法抗拒的魅力，这正是Versace想要传递的品牌精神。詹尼·范思哲将时尚、艺术与舞台表演融为一体，他的设计以金属网眼裙、大胆的剪裁和巴洛克式华丽装饰著称，迅速成为超级名模和好莱坞巨星的最爱。1997年詹尼遇刺身亡后，其妹妹多纳泰拉·范思哲接任创意总监，成功延续了品牌的奢华DNA。2018年，范思哲被美国Michael Kors集团（现Capri Holdings）以18.3亿欧元收购。品牌产品涵盖高级定制服、成衣、皮具、配饰、珠宝、腕表、香水和家居用品，以毫不遮掩的奢华和性感美学在奢侈品世界中独树一帜。",
+  "languages": {
+    "en": "Versace is Italy's most flamboyant luxury fashion house, founded in 1978 by Gianni Versace in Milan. Known for its bold sexy style, vibrant prints, and the iconic Medusa logo — a symbol of irresistible allure reflecting the brand's spirit. Gianni Versace fused fashion, art, and stage performance, creating designs featuring metal mesh dresses, daring cuts, and Baroque opulence that quickly captivated supermodels and Hollywood stars. Following Gianni's tragic assassination in 1997, his sister Donatella Versace took over as creative director, successfully preserving the brand's luxurious DNA. In 2018, Versace was acquired by Michael Kors (now Capri Holdings) for €1.83 billion. The brand spans haute couture, ready-to-wear, leather goods, accessories, jewelry, watches, fragrances, and home decor. With its unapologetic luxury and sensual aesthetic, Versace stands unique in the world of high fashion."
+  },
+  "similar_brands": [
+    {
+      "zh": "古馳",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "普拉達",
+      "en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "zh": "Christian Dior",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "巴黎世家",
+      "en": "Balenciaga",
+      "slug": "balenciaga"
+    },
+    {
+      "zh": "Burberry",
+      "en": "Burberry",
+      "slug": "burberry"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q696376",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 10:01:57",
+    "validator_pass": true
+  }
+}

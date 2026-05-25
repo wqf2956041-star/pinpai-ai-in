@@ -1,0 +1,50 @@
+{
+  "slug": "puma",
+  "names": {
+    "zh-CN": "彪马",
+    "en": "Puma"
+  },
+  "category": "sport",
+  "founding_year": 1948,
+  "founding_location": "德国",
+  "founder": "鲁道夫·达斯勒",
+  "official_website": "https://www.puma.com/",
+  "main_business": [
+    "运动鞋",
+    "运动服装",
+    "运动装备"
+  ],
+  "current_slogan": "Forever Faster",
+  "description_zh": "彪马（Puma SE）是德国知名的运动用品品牌，由鲁道夫·达斯勒于1948年在德国黑措根奥拉赫创立。彪马与阿迪达斯同源于达斯勒家族，鲁道夫与弟弟阿道夫分家后创立了彪马。彪马以其标志性的美洲狮跳跃标志和Formstrip条纹设计著称。彪马在足球、跑步、赛车运动领域拥有深厚传统，签约了包括内马尔、刘易斯·汉密尔顿、尤塞恩·博尔特在内的众多顶级运动员。彪马近年来通过与Rihanna、Selena Gomez等明星合作，成功提升了时尚影响力。",
+  "languages": {
+    "en": "Puma SE is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel, and accessories. Founded by Rudolf Dassler in 1948, Puma originated from the same family business that also spawned Adidas. Known for its leaping cat logo and Formstrip design, Puma has strong roots in football, running, and motorsports. The brand has signed legendary athletes including Pelé, Usain Bolt, Lewis Hamilton, and Neymar. In recent years, Puma has strengthened its fashion credentials through partnerships with Rihanna and Selena Gomez."
+  },
+  "similar_brands": [
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    },
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "锐步"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q1572564",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

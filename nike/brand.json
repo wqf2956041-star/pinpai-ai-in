@@ -1,0 +1,53 @@
+{
+  "slug": "nike",
+  "names": {
+    "zh-CN": "耐克",
+    "en": "Nike"
+  },
+  "category": "sport",
+  "founding_year": 1964,
+  "founding_location": "美国",
+  "founder": "菲尔·奈特",
+  "official_website": "https://www.nike.com/",
+  "main_business": [
+    "运动鞋",
+    "运动服装",
+    "运动装备"
+  ],
+  "current_slogan": "Just Do It",
+  "description_zh": "耐克（Nike, Inc.）是全球最大的运动服饰和鞋类制造商，由菲尔·奈特和比尔·鲍尔曼于1964年创立，最初名为Blue Ribbon Sports，1971年更名为Nike。耐克以其标志性的Swoosh勾形标志和「Just Do It」口号闻名于世。耐克签约了包括迈克尔·乔丹、勒布朗·詹姆斯、克里斯蒂亚诺·罗纳尔多在内的众多顶级运动员，Air Jordan系列是全球最畅销的运动鞋品牌之一。耐克2023财年营收超过510亿美元，在全球拥有超过7万名员工。",
+  "languages": {
+    "en": "Nike, Inc. is an American multinational corporation that designs, develops, and sells athletic footwear, apparel, equipment, accessories, and services. Founded by Bill Bowerman and Phil Knight in 1964 as Blue Ribbon Sports, the company was renamed Nike in 1971 after the Greek goddess of victory. Famous for its Swoosh logo and 'Just Do It' slogan, Nike is the world's largest supplier of athletic shoes and apparel. The Air Jordan brand, born from Michael Jordan's signature line, remains an iconic cultural phenomenon."
+  },
+  "similar_brands": [
+    {
+      "zh": "阿迪达斯",
+      "en": "Adidas",
+      "slug": "adidas"
+    },
+    {
+      "zh": "彪马",
+      "en": "Puma",
+      "slug": "puma"
+    },
+    {
+      "zh": "安德玛"
+    },
+    {
+      "zh": "新百伦"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q218202",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

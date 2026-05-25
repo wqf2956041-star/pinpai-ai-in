@@ -1,0 +1,46 @@
+{
+  "slug": "lego",
+  "names": {
+    "zh-CN": "乐高",
+    "en": "LEGO"
+  },
+  "category": "toy",
+  "founding_year": 1932,
+  "founding_location": "丹麦",
+  "founder": "奥勒·基尔克·克里斯蒂安森",
+  "official_website": "https://www.lego.com/",
+  "main_business": [
+    "积木玩具"
+  ],
+  "current_slogan": "Only the best is good enough",
+  "description_zh": "乐高（LEGO）是全球最大的玩具制造商之一，由奥勒·基尔克·克里斯蒂安森于1932年在丹麦比隆创立。公司名LEGO源自丹麦语「leg godt」，意为「玩得好」。乐高最著名的产品是带有凸起圆点的塑料积木系统，1949年首次推出，1958年获得专利。乐高积木的独特之处在于任意两块积木都可以完美拼接，创造了无限可能的建筑世界。乐高业务涵盖玩具制造、主题公园（乐高乐园）、电影制作（《乐高大电影》系列）、电子游戏等多个领域。",
+  "languages": {
+    "en": "LEGO Group is a Danish family-owned toy company founded by Ole Kirk Christiansen in 1932 in Billund, Denmark. The name LEGO is a contraction of the Danish phrase 'leg godt' meaning 'play well'. The iconic interlocking plastic brick system was introduced in 1949 and patented in 1958. The unique clutch power system makes each brick compatible with every other brick ever produced. LEGO has expanded into themed sets, video games, movies (The LEGO Movie franchise), and amusement parks (LEGOLAND)."
+  },
+  "similar_brands": [
+    {
+      "zh": "美泰",
+      "en": "Mattel",
+      "slug": "mattel"
+    },
+    {
+      "zh": "万代南梦宫"
+    },
+    {
+      "zh": "孩之宝"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q8957",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

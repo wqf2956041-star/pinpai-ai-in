@@ -1,0 +1,57 @@
+{
+  "slug": "adidas",
+  "names": {
+    "zh-CN": "阿迪达斯",
+    "en": "Adidas"
+  },
+  "category": "sport",
+  "founding_year": 1949,
+  "founding_location": "德国",
+  "founder": "阿道夫·达斯勒",
+  "official_website": "https://www.adidas.com/",
+  "main_business": [
+    "运动鞋",
+    "运动服装",
+    "运动装备"
+  ],
+  "current_slogan": "Impossible Is Nothing",
+  "description_zh": "阿迪达斯（Adidas AG）是德国著名的运动用品制造商，由阿道夫·「阿迪」·达斯勒于1949年在德国黑措根奥拉赫创立。阿迪达斯以其三条纹标志闻名全球，是全球第二大运动品牌。阿迪达斯的产品线覆盖足球、篮球、跑步、训练、时尚生活等多个领域。品牌历史上最著名的产品包括Stan Smith网球鞋、Superstar贝壳头鞋、Ultraboost跑鞋等。阿迪达斯通过与Kanye West合作的Yeezy系列和与众多设计师的联名，成功打入高端时尚市场。",
+  "languages": {
+    "en": "Adidas AG is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel, and accessories. Founded by Adolf 'Adi' Dassler in 1949 in Herzogenaurach, Germany, Adidas is the largest sportswear manufacturer in Europe and the second-largest globally. Known for its three-stripe logo, Adidas produces iconic products like the Stan Smith, Superstar, and Ultraboost. The company has successfully bridged sportswear and high fashion through collaborations with designers like Yohji Yamamoto and Kanye West."
+  },
+  "similar_brands": [
+    {
+      "zh": "耐克",
+      "en": "Nike",
+      "slug": "nike"
+    },
+    {
+      "zh": "彪马",
+      "en": "Puma",
+      "slug": "puma"
+    },
+    {
+      "zh": "汤米·希尔费格",
+      "en": "Tommy Hilfiger",
+      "slug": "tommy-hilfiger"
+    },
+    {
+      "zh": "卡尔文·克莱因",
+      "en": "Calvin Klein",
+      "slug": "calvin-klein"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q3895",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 10:01:57",
+    "validator_pass": true
+  }
+}

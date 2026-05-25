@@ -1,0 +1,56 @@
+{
+  "slug": "byd",
+  "names": {
+    "zh-CN": "BYD",
+    "en": "BYD"
+  },
+  "category": "auto",
+  "founding_year": 1995,
+  "founding_location": "",
+  "founder": "",
+  "official_website": "",
+  "main_business": [
+    "电动汽车",
+    "电池"
+  ],
+  "current_slogan": "Build Your Dreams",
+  "description_zh": "BYD（比亚迪，全称Build Your Dreams）是中国最具创新力的新能源汽车制造商和全球领先的动力电池生产商，由王传福于1995年在深圳创立。公司最初以镍镉电池和锂离子电池研发生产起家，凭借成本优势和技术创新迅速成为全球最大的手机电池供应商之一。2003年，比亚迪收购西安秦川汽车正式进军汽车制造业，并于2008年推出了全球第一款量产插电式混合动力汽车——比亚迪F3 DM。近年来，比亚迪在新能源汽车领域实现了跨越式发展，凭借以刀片电池（Blade Battery）、DM-i超级混动技术以及e平台3.0为核心的三大技术平台，确立了在中国乃至全球新能源车市的领导地位。2022年，比亚迪正式宣布停止燃油汽车的生产，成为全球首家全面转型新能源的传统车企。品牌产品线覆盖王朝系列（汉、唐、宋、秦、元）和海洋系列（海豹、海豚、海鸥），以及高端品牌仰望和腾势。比亚迪的电动大巴和商用车辆也远销全球70多个国家和地区，成为\"中国智造\"走向世界的标志性代表。",
+  "languages": {
+    "en": "BYD (Build Your Dreams) is China's leading new energy vehicle manufacturer and a global powerhouse in battery technology, founded in 1995 by Wang Chuanfu in Shenzhen. Starting as a rechargeable battery supplier, BYD became the world's largest mobile phone battery producer before entering automotive manufacturing in 2003. The company revolutionized the industry with its Blade Battery, DM-i super hybrid technology, and e-Platform 3.0. In 2022, BYD became the world's first automaker to fully phase out internal combustion engine vehicles. Its product lineup includes the Dynasty Series (Han, Tang, Qin, Song, Yuan), Ocean Series (Seal, Dolphin, Seagull), and the ultra-luxury Yangwang and Denza brands. BYD's electric buses and commercial vehicles are exported to over 70 countries, positioning the company as a symbol of China's technological prowess and leadership in global electrification."
+  },
+  "similar_brands": [
+    {
+      "zh": "Toyota",
+      "en": "Toyota",
+      "slug": "toyota"
+    },
+    {
+      "zh": "梅赛德斯-奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "BMW",
+      "en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "zh": "Ferrari",
+      "en": "Ferrari",
+      "slug": "ferrari"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q407394",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

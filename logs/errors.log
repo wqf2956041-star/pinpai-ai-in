@@ -3,3 +3,341 @@
 [2026-05-25 07:46:34] escher: HREFLANG_BAD: 期望的hreflang href未找到: https://pinpai.ai.in/escher/
 [2026-05-25 07:47:06] escher: [WARN] 类似品牌目标不存在: hermes, chanel, louis-vuitton, gucci, prada, christian-dior, saint-laurent, burberry, versace, armani
 [2026-05-25 07:47:57] escher: [WARN] 类似品牌目标不存在: hermes, chanel, louis-vuitton, gucci, prada, christian-dior, saint-laurent, burberry, versace, armani
+[2026-05-25 10:00:30] louis-vuitton: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] louis-vuitton: SCHEMA: founding_year: '1854' is not of type 'integer'
+[2026-05-25 10:00:30] louis-vuitton: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] louis-vuitton: SCHEMA: similar_brands.0.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] hermès: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] hermès: SCHEMA: founding_year: '1837' is not of type 'integer'
+[2026-05-25 10:00:30] hermès: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] hermès: SCHEMA: slug: 'hermès' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:00:30] gucci: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] gucci: SCHEMA: founding_year: '1921' is not of type 'integer'
+[2026-05-25 10:00:30] gucci: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] gucci: SCHEMA: similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] chanel: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] chanel: SCHEMA: founding_year: '1910' is not of type 'integer'
+[2026-05-25 10:00:30] chanel: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] chanel: SCHEMA: similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] christian-dior: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] christian-dior: SCHEMA: founding_year: '1946' is not of type 'integer'
+[2026-05-25 10:00:30] christian-dior: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] prada: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] prada: SCHEMA: founding_year: '1913' is not of type 'integer'
+[2026-05-25 10:00:30] prada: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] balenciaga: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] balenciaga: SCHEMA: founding_year: '1917' is not of type 'integer'
+[2026-05-25 10:00:30] balenciaga: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] zara: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] zara: SCHEMA: founding_year: '1975' is not of type 'integer'
+[2026-05-25 10:00:30] zara: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] uniqlo: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] uniqlo: SCHEMA: founding_year: '1949' is not of type 'integer'
+[2026-05-25 10:00:30] uniqlo: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] h-m: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] h-m: SCHEMA: founding_year: '1947' is not of type 'integer'
+[2026-05-25 10:00:30] h-m: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] levi-s: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] levi-s: SCHEMA: founding_year: '1853' is not of type 'integer'
+[2026-05-25 10:00:30] levi-s: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] calvin-klein: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] calvin-klein: SCHEMA: founding_year: '1968' is not of type 'integer'
+[2026-05-25 10:00:30] calvin-klein: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] l-oréal: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] l-oréal: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] l-oréal: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] l-oréal: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] l-oréal: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] l-oréal: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] l-oréal: SCHEMA: similar_brands.0.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] l-oréal: SCHEMA: similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] l-oréal: SCHEMA: slug: 'l-oréal' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: similar_brands.1.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] estée-lauder: SCHEMA: slug: 'estée-lauder' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:00:30] shiseido: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] shiseido: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] shiseido: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] shiseido: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] shiseido: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] shiseido: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] shiseido: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] shiseido: SCHEMA: similar_brands.1.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] shiseido: SCHEMA: similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] lancôme: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] lancôme: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] lancôme: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] lancôme: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] lancôme: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] lancôme: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] lancôme: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] lancôme: SCHEMA: similar_brands.1.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] lancôme: SCHEMA: slug: 'lancôme' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: similar_brands.1.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] mac-cosmetics: SCHEMA: similar_brands.3.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:00:30] rolex: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] rolex: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] rolex: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] rolex: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] rolex: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] rolex: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] patek-philippe: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] patek-philippe: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] patek-philippe: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] patek-philippe: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] patek-philippe: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] patek-philippe: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] audemars-piguet: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] audemars-piguet: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] audemars-piguet: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] audemars-piguet: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] audemars-piguet: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] audemars-piguet: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] tiffany-co: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] tiffany-co: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] tiffany-co: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] tiffany-co: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] tiffany-co: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] tiffany-co: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] cartier: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] cartier: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] cartier: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] cartier: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] cartier: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] cartier: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] bulgari: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] bulgari: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] bulgari: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] bulgari: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] bulgari: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] bulgari: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] toyota: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] toyota: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] toyota: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] toyota: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] toyota: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] toyota: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] mercedes-benz: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] mercedes-benz: SCHEMA: founding_year: '1926' is not of type 'integer'
+[2026-05-25 10:00:30] mercedes-benz: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] bmw: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] bmw: SCHEMA: founding_year: '1916' is not of type 'integer'
+[2026-05-25 10:00:30] bmw: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] ferrari: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] ferrari: SCHEMA: founding_year: '1947' is not of type 'integer'
+[2026-05-25 10:00:30] ferrari: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] byd: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] byd: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:00:30] byd: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:00:30] byd: SCHEMA: founding_year: '' is not of type 'integer'
+[2026-05-25 10:00:30] byd: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] byd: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:00:30] apple: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] apple: SCHEMA: founding_year: '1976' is not of type 'integer'
+[2026-05-25 10:00:30] apple: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] samsung: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] samsung: SCHEMA: description_zh: '三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重工业、建筑、生物制药等领域的庞大商业帝国。三星电子是其核心子公司，是全球最大的智能手机制造商、半导体制造商和电视机制造商。三星在存储芯片、OLED显示屏等领域占据全球领先地位，2023年集团营收超过2000亿美元。' is too short
+[2026-05-25 10:00:30] samsung: SCHEMA: founding_year: '1938' is not of type 'integer'
+[2026-05-25 10:00:30] samsung: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] huawei: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] huawei: SCHEMA: founding_year: '1987' is not of type 'integer'
+[2026-05-25 10:00:30] huawei: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] huawei: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:00:30] sony: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] sony: SCHEMA: founding_year: '1946' is not of type 'integer'
+[2026-05-25 10:00:30] sony: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] nvidia: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] nvidia: SCHEMA: founding_year: '1993' is not of type 'integer'
+[2026-05-25 10:00:30] nvidia: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] nike: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] nike: SCHEMA: founding_year: '1964' is not of type 'integer'
+[2026-05-25 10:00:30] nike: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] nike: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:00:30] nike: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:00:30] nike: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:00:30] nike: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:00:30] adidas: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] adidas: SCHEMA: founding_year: '1949' is not of type 'integer'
+[2026-05-25 10:00:30] adidas: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] puma: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] puma: SCHEMA: founding_year: '1948' is not of type 'integer'
+[2026-05-25 10:00:30] puma: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] puma: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:00:30] puma: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:00:30] coca-cola: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] coca-cola: SCHEMA: founding_year: '1886' is not of type 'integer'
+[2026-05-25 10:00:30] coca-cola: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] coca-cola: SCHEMA: similar_brands.0: 'en' is a required property
+[2026-05-25 10:00:30] coca-cola: SCHEMA: similar_brands.0: 'slug' is a required property
+[2026-05-25 10:00:30] mcdonald-s: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] mcdonald-s: SCHEMA: founding_year: '1955' is not of type 'integer'
+[2026-05-25 10:00:30] mcdonald-s: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] mcdonald-s: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:00:30] mcdonald-s: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:00:30] mcdonald-s: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:00:30] mcdonald-s: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:00:30] starbucks: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] starbucks: SCHEMA: founding_year: '1971' is not of type 'integer'
+[2026-05-25 10:00:30] starbucks: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] starbucks: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:00:30] starbucks: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:00:30] lego: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] lego: SCHEMA: founding_year: '1932' is not of type 'integer'
+[2026-05-25 10:00:30] lego: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] lego: SCHEMA: similar_brands.1: 'en' is a required property
+[2026-05-25 10:00:30] lego: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:00:30] lego: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:00:30] lego: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:00:30] mattel: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] mattel: SCHEMA: founding_year: '1945' is not of type 'integer'
+[2026-05-25 10:00:30] mattel: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] mattel: SCHEMA: similar_brands.1: 'en' is a required property
+[2026-05-25 10:00:30] mattel: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:00:30] mattel: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:00:30] mattel: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:00:30] burberry: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] burberry: SCHEMA: founding_year: '1856' is not of type 'integer'
+[2026-05-25 10:00:30] burberry: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] versace: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] versace: SCHEMA: founding_year: '1978' is not of type 'integer'
+[2026-05-25 10:00:30] versace: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] ralph-lauren: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] ralph-lauren: SCHEMA: founding_year: '1967' is not of type 'integer'
+[2026-05-25 10:00:30] ralph-lauren: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] tommy-hilfiger: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] tommy-hilfiger: SCHEMA: founding_year: '1985' is not of type 'integer'
+[2026-05-25 10:00:30] tommy-hilfiger: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] coach: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] coach: SCHEMA: founding_year: '1941' is not of type 'integer'
+[2026-05-25 10:00:30] coach: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] coach: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:00:30] coach: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:00:30] microsoft: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] microsoft: SCHEMA: founding_year: '1975' is not of type 'integer'
+[2026-05-25 10:00:30] microsoft: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] google: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] google: SCHEMA: founding_year: '1998' is not of type 'integer'
+[2026-05-25 10:00:30] google: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:00:30] amazon: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:00:30] amazon: SCHEMA: founding_year: '1994' is not of type 'integer'
+[2026-05-25 10:00:30] amazon: SCHEMA: main_business: [] should be non-empty
+[2026-05-25 10:01:56] escher: [WARN] 类似品牌目标不存在: hermes, chanel, louis-vuitton, gucci, prada, christian-dior, saint-laurent, burberry, versace, armani
+[2026-05-25 10:01:56] louis-vuitton: SCHEMA: similar_brands.0.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] hermès: SCHEMA: slug: 'hermès' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:01:56] gucci: SCHEMA: similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] chanel: SCHEMA: similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] christian-dior: [WARN] 类似品牌目标不存在: chanel, louis-vuitton, gucci, versace, balenciaga
+[2026-05-25 10:01:56] prada: [WARN] 类似品牌目标不存在: gucci, balenciaga, versace, burberry, louis-vuitton
+[2026-05-25 10:01:56] balenciaga: [WARN] 类似品牌目标不存在: gucci, versace, louis-vuitton
+[2026-05-25 10:01:56] zara: [WARN] 类似品牌目标不存在: h-m, uniqlo, calvin-klein, tommy-hilfiger, ralph-lauren
+[2026-05-25 10:01:56] uniqlo: [WARN] 类似品牌目标不存在: h-m, calvin-klein, tommy-hilfiger, ralph-lauren
+[2026-05-25 10:01:56] h-m: SCHEMA: current_slogan: '' is too short
+[2026-05-25 10:01:56] levi-s: [WARN] 类似品牌目标不存在: calvin-klein, tommy-hilfiger, ralph-lauren, coach, h-m
+[2026-05-25 10:01:56] calvin-klein: [WARN] 类似品牌目标不存在: tommy-hilfiger, ralph-lauren, h-m
+[2026-05-25 10:01:56] l-oréal: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] l-oréal: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] l-oréal: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] l-oréal: SCHEMA: similar_brands.0.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] l-oréal: SCHEMA: similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] l-oréal: SCHEMA: slug: 'l-oréal' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:01:56] estée-lauder: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] estée-lauder: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] estée-lauder: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] estée-lauder: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] estée-lauder: SCHEMA: similar_brands.1.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] estée-lauder: SCHEMA: slug: 'estée-lauder' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:01:56] shiseido: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] shiseido: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] shiseido: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] shiseido: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] shiseido: SCHEMA: similar_brands.1.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] shiseido: SCHEMA: similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] lancôme: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] lancôme: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] lancôme: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] lancôme: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] lancôme: SCHEMA: similar_brands.1.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] lancôme: SCHEMA: slug: 'lancôme' does not match '^[a-z0-9]+(-[a-z0-9]+)*$'
+[2026-05-25 10:01:56] mac-cosmetics: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] mac-cosmetics: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] mac-cosmetics: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] mac-cosmetics: SCHEMA: similar_brands.0.slug: 'l-oréal' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] mac-cosmetics: SCHEMA: similar_brands.1.slug: 'estée-lauder' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] mac-cosmetics: SCHEMA: similar_brands.3.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:01:56] rolex: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] rolex: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] rolex: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] patek-philippe: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] patek-philippe: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] patek-philippe: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] audemars-piguet: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] audemars-piguet: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] audemars-piguet: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] tiffany-co: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] tiffany-co: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] tiffany-co: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] cartier: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] cartier: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] cartier: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] bulgari: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] bulgari: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] bulgari: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] toyota: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] toyota: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] toyota: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] mercedes-benz: [WARN] 类似品牌目标不存在: bmw, ferrari, toyota, byd
+[2026-05-25 10:01:56] bmw: [WARN] 类似品牌目标不存在: ferrari, toyota, byd
+[2026-05-25 10:01:56] ferrari: [WARN] 类似品牌目标不存在: toyota, byd
+[2026-05-25 10:01:56] byd: SCHEMA: founder: '' should be non-empty
+[2026-05-25 10:01:56] byd: SCHEMA: founding_location: '' is too short
+[2026-05-25 10:01:56] byd: SCHEMA: official_website: '' does not match '^https?://'
+[2026-05-25 10:01:56] apple: [WARN] 类似品牌目标不存在: google, microsoft, samsung, sony, nvidia
+[2026-05-25 10:01:57] samsung: SCHEMA: description_zh: '三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重工业、建筑、生物制药等领域的庞大商业帝国。三星电子是其核心子公司，是全球最大的智能手机制造商、半导体制造商和电视机制造商。三星在存储芯片、OLED显示屏等领域占据全球领先地位，2023年集团营收超过2000亿美元。' is too short
+[2026-05-25 10:01:57] huawei: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:01:57] sony: [WARN] 类似品牌目标不存在: samsung, huawei, nvidia
+[2026-05-25 10:01:57] nvidia: [WARN] 类似品牌目标不存在: microsoft, google, amazon
+[2026-05-25 10:01:57] nike: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:01:57] nike: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:01:57] nike: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:01:57] nike: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:01:57] adidas: [WARN] 类似品牌目标不存在: nike, puma, tommy-hilfiger
+[2026-05-25 10:01:57] puma: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:01:57] puma: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:01:57] coca-cola: SCHEMA: similar_brands.0: 'en' is a required property
+[2026-05-25 10:01:57] coca-cola: SCHEMA: similar_brands.0: 'slug' is a required property
+[2026-05-25 10:01:57] mcdonald-s: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:01:57] mcdonald-s: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:01:57] mcdonald-s: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:01:57] mcdonald-s: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:01:57] starbucks: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:01:57] starbucks: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:01:57] lego: SCHEMA: similar_brands.1: 'en' is a required property
+[2026-05-25 10:01:57] lego: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:01:57] lego: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:01:57] lego: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:01:57] mattel: SCHEMA: similar_brands.1: 'en' is a required property
+[2026-05-25 10:01:57] mattel: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:01:57] mattel: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:01:57] mattel: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:01:57] burberry: [WARN] 类似品牌目标不存在: versace, gucci, louis-vuitton, ralph-lauren
+[2026-05-25 10:01:57] versace: [WARN] 类似品牌目标不存在: gucci
+[2026-05-25 10:01:57] ralph-lauren: [WARN] 类似品牌目标不存在: tommy-hilfiger, coach
+[2026-05-25 10:01:57] tommy-hilfiger: [WARN] 类似品牌目标不存在: coach, h-m
+[2026-05-25 10:01:57] coach: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:01:57] coach: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:01:57] microsoft: [WARN] 类似品牌目标不存在: google, amazon
+[2026-05-25 10:01:57] google: [WARN] 类似品牌目标不存在: amazon, samsung
+[2026-05-25 10:01:57] amazon: [WARN] 类似品牌目标不存在: samsung

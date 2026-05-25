@@ -1,0 +1,63 @@
+{
+  "slug": "chanel",
+  "names": {
+    "zh-CN": "Chanel",
+    "en": "Chanel"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1910,
+  "founding_location": "法國巴黎",
+  "founder": "可可·香奈儿",
+  "official_website": "https://www.chanel.com/",
+  "main_business": [
+    "时装",
+    "香水",
+    "配饰",
+    "高级珠宝"
+  ],
+  "current_slogan": "时尚易逝，风格永存",
+  "description_zh": "香奈儿（Chanel）是法国最具传奇色彩的奢侈品牌，由可可·香奈儿（Gabrielle Bonheur Chanel）于1910年在巴黎创立。品牌从一家女帽店起步，随后以颠覆性的设计理念解放了女性的着装——她引入的针织水手裙、小黑裙、斜纹软呢套装和2.55菱格纹手袋彻底改变了现代女性的时尚风貌。香奈儿5号香水至今仍是世界上最著名的香水之一。品牌标志性的双C标志、山茶花元素和珍珠项链已成为经典风格的永恒象征。香奈儿始终坚持私人控股，不上市、不追逐短期商业利益，保持高度独立的品牌主权。在老佛爷卡尔·拉格斐（1983-2019）的执掌下，品牌焕发全球光彩。如今香奈儿仍是最具号召力和品牌价值的奢侈品牌之一，产品涵盖高级定制服、成衣、皮具、香水、彩妆、珠宝与腕表，年营收超百亿美元。",
+  "languages": {
+    "en": "Chanel is the most legendary French luxury brand, founded in 1910 by Gabrielle Bonheur 'Coco' Chanel in Paris. Starting as a millinery shop, Chanel revolutionized women's fashion with liberating designs such as the jersey sweater dress, the little black dress, tweed suits, and the iconic 2.55 quilted handbag. Chanel No.5 remains one of the world's most famous fragrances. The interlocking double-C logo, camellia flower, and pearl necklaces have become eternal symbols of classic elegance. Chanel remains privately held and fiercely independent, never pursuing short-term commercial interests. Under Karl Lagerfeld's leadership (1983-2019), the brand achieved global radiance. Today Chanel remains one of the most influential and valuable luxury brands, spanning haute couture, ready-to-wear, leather goods, fragrances, cosmetics, jewelry, and watches, with annual revenue exceeding $10 billion."
+  },
+  "similar_brands": [
+    {
+      "zh": "路易·威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "zh": "愛馬仕",
+      "en": "Hermès",
+      "slug": "hermès"
+    },
+    {
+      "zh": "Christian Dior",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "古馳",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "普拉達",
+      "en": "Prada",
+      "slug": "prada"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q218115",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "bmw",
+  "names": {
+    "zh-CN": "BMW",
+    "en": "BMW"
+  },
+  "category": "auto",
+  "founding_year": 1916,
+  "founding_location": "德國",
+  "founder": "Camillo Castiglioni",
+  "official_website": "https://www.bmwgroup.com/",
+  "main_business": [
+    "汽车",
+    "摩托车"
+  ],
+  "current_slogan": "Sheer Driving Pleasure",
+  "description_zh": "BMW（宝马，全称Bayerische Motoren Werke，意为巴伐利亚发动机制造厂）是德国最著名的豪华汽车和摩托车制造商之一，成立于1916年，总部位于慕尼黑。宝马最初以生产飞机发动机起家，其标志性的蓝白相间圆形车标即源自巴伐利亚州旗的颜色，同时象征着旋转的飞机螺旋桨。一战结束后，根据《凡尔赛条约》的限制，宝马被迫转型开始生产摩托车，并于1928年正式进入汽车制造领域。宝马以\"Sheer Driving Pleasure\"（纯粹驾驶乐趣）为核心理念，在全球车迷心中树立了无与伦比的运动化豪华品牌形象。品牌产品线覆盖从3系运动轿车、5系行政轿车到7系旗舰豪华轿车，以及X系列SUV家族、Z4敞篷跑车和i系列电动车型。宝马集团旗下还拥有MINI和劳斯莱斯（Rolls-Royce）两个重要的子品牌。凭借对后驱布局和直列六缸发动机的坚持，以及对操控性能的不懈追求，宝马已成为全球豪华车市场无可争议的标杆之一。",
+  "languages": {
+    "en": "BMW (Bayerische Motoren Werke) is a German luxury automotive and motorcycle manufacturer founded in 1916 in Munich. Originally an aircraft engine producer, BMW's iconic blue-and-white roundel logo pays homage to Bavaria's flag and its aviation heritage. After transitioning to motorcycles and then automobiles, BMW became synonymous with 'The Ultimate Driving Machine'—renowned for rear-wheel-drive dynamics, straight-six engines, and driver-focused engineering. The portfolio spans the iconic 3 Series, 5 Series, and 7 Series sedans, X-family SUVs, the Z4 roadster, and the electric i Series. BMW Group also owns MINI and Rolls-Royce. Globally recognized as a benchmark in the premium automotive segment, BMW combines sporty performance with luxury, technological innovation, and sustainable mobility, leading the transition toward electrification with its i and Neue Klasse platforms."
+  },
+  "similar_brands": [
+    {
+      "zh": "梅赛德斯-奔驰",
+      "en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "zh": "Ferrari",
+      "en": "Ferrari",
+      "slug": "ferrari"
+    },
+    {
+      "zh": "Toyota",
+      "en": "Toyota",
+      "slug": "toyota"
+    },
+    {
+      "zh": "BYD",
+      "en": "BYD",
+      "slug": "byd"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q26678",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 10:01:56",
+    "validator_pass": true
+  }
+}

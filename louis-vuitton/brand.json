@@ -1,0 +1,63 @@
+{
+  "slug": "louis-vuitton",
+  "names": {
+    "zh-CN": "路易·威登",
+    "en": "Louis Vuitton"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1854,
+  "founding_location": "法國",
+  "founder": "路易·威登",
+  "official_website": "https://fr.louisvuitton.com/fra-fr/homepage",
+  "main_business": [
+    "皮具",
+    "时装",
+    "配饰",
+    "香水"
+  ],
+  "current_slogan": "Louis Vuitton, Maison fondée en 1854",
+  "description_zh": "路易·威登（Louis Vuitton）是法国最负盛名的奢侈时装与皮具品牌，由路易·威登先生于1854年在巴黎创立。品牌最初以革命性的平顶行李箱闻名，凭借卓越的工艺和创新的设计迅速成为欧洲贵族和精英阶层旅行用品的首选。经典的Monogram帆布图案于1896年由乔治·威登创作，至今仍是全球辨识度最高的奢侈品标志之一。历经近两个世纪的发展，路易·威登已从单一的箱包作坊成长为涵盖成衣、鞋履、配饰、珠宝、腕表、香水及家居设计的综合奢侈品牌。作为LVMH集团的核心旗舰，路易·威登在全球主要城市设有旗舰店，年营收超百亿欧元，稳居全球最具价值的奢侈品牌行列。品牌始终坚守「旅行精神」的核心DNA，将精湛的法式手工艺与当代艺术、先锋设计完美融合，是奢侈品行业无可争议的标杆。",
+  "languages": {
+    "en": "Louis Vuitton is a French luxury fashion house founded in 1854 by Louis Vuitton in Paris. Originally renowned for its revolutionary flat-topped trunks, the brand quickly became the preferred travel accessory for European aristocracy and elites. The iconic Monogram canvas pattern, introduced by Georges Vuitton in 1896, remains one of the most recognizable luxury symbols worldwide. Over nearly two centuries, Louis Vuitton has expanded from a single trunk workshop into a comprehensive luxury house covering ready-to-wear, footwear, accessories, jewelry, watches, fragrances, and home decor. As the flagship brand of the LVMH group, it generates annual revenue exceeding €10 billion and consistently ranks among the world's most valuable luxury brands, upholding its core 'travel spirit' DNA while blending French craftsmanship with contemporary art and avant-garde design."
+  },
+  "similar_brands": [
+    {
+      "zh": "愛馬仕",
+      "en": "Hermès",
+      "slug": "hermès"
+    },
+    {
+      "zh": "古馳",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "Chanel",
+      "en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "zh": "Christian Dior",
+      "en": "Christian Dior",
+      "slug": "christian-dior"
+    },
+    {
+      "zh": "巴黎世家",
+      "en": "Balenciaga",
+      "slug": "balenciaga"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q191485",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

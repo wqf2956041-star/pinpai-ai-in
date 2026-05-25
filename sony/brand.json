@@ -1,0 +1,58 @@
+{
+  "slug": "sony",
+  "names": {
+    "zh-CN": "索尼",
+    "en": "Sony"
+  },
+  "category": "tech",
+  "founding_year": 1946,
+  "founding_location": "日本",
+  "founder": "井深大",
+  "official_website": "https://www.sony.com/",
+  "main_business": [
+    "游戏",
+    "电子",
+    "影视",
+    "音乐"
+  ],
+  "current_slogan": "感动人心",
+  "description_zh": "索尼集团（Sony Group Corporation）是日本最具代表性的跨国综合电子娱乐企业，由井深大和盛田昭夫于1946年5月7日在东京创立，最初名为东京通信工业株式会社。索尼以随身听Walkman、PlayStation游戏机、Bravia电视、Alpha微单相机等标志性产品闻名世界。索尼是全球最大的游戏和音乐娱乐公司之一，旗下PlayStation是全球最畅销的游戏主机之一。此外，索尼在影视制作、半导体图像传感器等领域也占据领先地位。",
+  "languages": {
+    "en": "Sony Group Corporation is a Japanese multinational conglomerate headquartered in Tokyo. Founded by Masaru Ibuka and Akio Morita in 1946 as Tokyo Tsushin Kogyo, Sony became a global electronics icon with products like the Walkman, PlayStation, Bravia TV, and Alpha cameras. Today, Sony is one of the world's largest entertainment companies, encompassing gaming (PlayStation), music (Sony Music), film (Sony Pictures), and imaging sensors for smartphones."
+  },
+  "similar_brands": [
+    {
+      "zh": "三星",
+      "en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "zh": "苹果",
+      "en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "zh": "华为",
+      "en": "Huawei",
+      "slug": "huawei"
+    },
+    {
+      "zh": "英伟达",
+      "en": "NVIDIA",
+      "slug": "nvidia"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q41187",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 10:01:57",
+    "validator_pass": true
+  }
+}

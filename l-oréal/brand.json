@@ -1,0 +1,58 @@
+{
+  "slug": "l-oréal",
+  "names": {
+    "zh-CN": "L'Oréal",
+    "en": "L'Oréal"
+  },
+  "category": "beauty",
+  "founding_year": 1909,
+  "founding_location": "",
+  "founder": "",
+  "official_website": "",
+  "main_business": [
+    "化妆品",
+    "护肤品",
+    "护发产品",
+    "香水"
+  ],
+  "current_slogan": "你值得拥有",
+  "description_zh": "L'Oréal（欧莱雅）是全球最大的化妆品集团，由化学家欧仁·舒莱尔于1909年在法国巴黎创立。公司最初以研发合成染发剂起家，凭借卓越的化学配方和对美妆趋势的敏锐洞察，迅速在法国市场站稳脚跟。一个多世纪以来，欧莱雅集团通过持续创新和战略性并购，已发展成为涵盖护肤品、彩妆、染发剂、香水及皮肤科学等领域的全方位美妆帝国。集团旗下拥有超过36个国际知名品牌，包括Lancôme、Giorgio Armani Beauty、YSL Beauté、Kiehl's、Biotherm以及大众市场的L'Oréal Paris、Maybelline New York等。欧莱雅以\"创造美，让世界为之动容\"为使命，在科研方面投入巨大，在法国、美国、日本、中国等地设有研发中心，每年申请数百项专利。作为世界500强企业之一，欧莱雅在全球150多个国家和地区开展业务，拥有超过8.5万名员工，连续多年位居全球美妆行业榜首。集团还积极履行企业社会责任，在可持续包装、减少碳足迹以及支持女性发展等公益领域均有突出贡献。",
+  "languages": {
+    "en": "L'Oréal is the world's largest cosmetics company, founded in 1909 by French chemist Eugène Schueller in Paris. Originally specializing in synthetic hair dye, the company grew into a comprehensive beauty conglomerate spanning skincare, makeup, haircare, fragrance, and dermatology. Through strategic acquisitions and relentless innovation, L'Oréal now owns 36+ international brands including Lancôme, Giorgio Armani Beauty, YSL Beauté, Kiehl's, and L'Oréal Paris. Operating in over 150 countries with 85,000+ employees, the group invests heavily in R&D across centers in France, the US, Japan, and China, filing hundreds of patents annually. L'Oréal has consistently ranked as the world's top beauty company and is committed to sustainability, ethical sourcing, and social responsibility through its Sharing Beauty With All program."
+  },
+  "similar_brands": [
+    {
+      "zh": "Estée Lauder",
+      "en": "Estée Lauder",
+      "slug": "estée-lauder"
+    },
+    {
+      "zh": "Shiseido",
+      "en": "Shiseido",
+      "slug": "shiseido"
+    },
+    {
+      "zh": "Lancôme",
+      "en": "Lancôme",
+      "slug": "lancôme"
+    },
+    {
+      "zh": "MAC Cosmetics",
+      "en": "MAC Cosmetics",
+      "slug": "mac-cosmetics"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q156077",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 09:45:46",
+    "validator_pass": false
+  }
+}

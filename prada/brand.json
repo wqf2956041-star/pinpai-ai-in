@@ -1,0 +1,63 @@
+{
+  "slug": "prada",
+  "names": {
+    "zh-CN": "普拉達",
+    "en": "Prada"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1913,
+  "founding_location": "意大利",
+  "founder": "馬里奧·普拉達",
+  "official_website": "https://prada.com",
+  "main_business": [
+    "皮具",
+    "时装",
+    "配饰",
+    "香水"
+  ],
+  "current_slogan": "Prada, 前卫与奢华",
+  "description_zh": "普拉达（Prada）是意大利最具知识分子气质的奢侈时装品牌，1913年由马里奥·普拉达在米兰创立。品牌最初是一家专营皮具和旅行箱的精品店，以优质皮革和低调奢华的工艺赢得声誉。1978年，马里奥的孙女缪西娅·普拉达接掌品牌，以其独到的艺术视野和极简主义美学推动了一场革命——她于1985年推出的黑色尼龙双肩包以颠覆性的材料运用震惊时尚界，成为品牌里程碑式的作品。普拉达以「丑时髦」（Ugly Chic）美学著称，擅长用不寻常的面料、非传统的色彩和建筑感的剪裁创造出兼具智性与实验性的设计。品牌旗下还拥有Miu Miu、Church's等子品牌，产品涵盖成衣、皮具、鞋履、眼镜和香氛。普拉达在米兰、纽约和上海时装周上始终占据核心地位，是意大利时尚工业中独树一帜的先锋力量。",
+  "languages": {
+    "en": "Prada is Italy's most intellectually sophisticated luxury fashion house, founded in 1913 by Mario Prada in Milan. Originally a boutique specializing in leather goods and travel trunks, the brand earned a reputation for high-quality leather and understated craftsmanship. In 1978, Mario's granddaughter Miuccia Prada took over and revolutionized the brand with her artistic vision and minimalist aesthetic — her 1985 black nylon backpack, using unconventional materials, shocked the fashion world and became a milestone piece. Known for the 'Ugly Chic' aesthetic, Prada excels at creating intellectual, experimental designs using unusual fabrics, non-traditional colors, and architectural cuts. The group also owns Miu Miu and Church's, spanning ready-to-wear, leather goods, footwear, eyewear, and fragrances. Prada remains a core presence at fashion weeks in Milan, New York, and Shanghai, standing as a pioneering force in Italian fashion."
+  },
+  "similar_brands": [
+    {
+      "zh": "古馳",
+      "en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "zh": "巴黎世家",
+      "en": "Balenciaga",
+      "slug": "balenciaga"
+    },
+    {
+      "zh": "范思哲",
+      "en": "Versace",
+      "slug": "versace"
+    },
+    {
+      "zh": "Burberry",
+      "en": "Burberry",
+      "slug": "burberry"
+    },
+    {
+      "zh": "路易·威登",
+      "en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    }
+  ],
+  "is_premium": false,
+  "image_url": "",
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "past_slogans": [],
+  "wikidata_id": "Q193136",
+  "_meta": {
+    "version": "2.0.0",
+    "created_at": "2026-05-25 10:01:56",
+    "validator_pass": true
+  }
+}

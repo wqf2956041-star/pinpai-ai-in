@@ -1,0 +1,4196 @@
+{
+  "total": 838,
+  "generated_at": "2026-05-25T09:44:02Z",
+  "brands": [
+    {
+      "wikidata_id": "Q3277165",
+      "brand_name": "Acne Studios",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q207939",
+      "brand_name": "Alexander McQueen",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1530892",
+      "brand_name": "Balenciaga",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q117715145",
+      "brand_name": "Bally",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q894874",
+      "brand_name": "Bottega Veneta",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q848553",
+      "brand_name": "Boucheron",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q3181628",
+      "brand_name": "Brunello Cucinelli",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q752515",
+      "brand_name": "Bulgari",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q390107",
+      "brand_name": "Burberry",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q421310",
+      "brand_name": "Cartier",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q18338336",
+      "brand_name": "Celine",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q218115",
+      "brand_name": "Chanel",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1075391",
+      "brand_name": "Chloé",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q670112",
+      "brand_name": "Chopard",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q159694",
+      "brand_name": "Christian Dior",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q452136",
+      "brand_name": "Christian Louboutin",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q21493304",
+      "brand_name": "Damiani",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q214480",
+      "brand_name": "Dolce & Gabbana",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q47004431",
+      "brand_name": "Ermenegildo Zegna",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1371677",
+      "brand_name": "Etro",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q926575",
+      "brand_name": "Fendi",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q157054",
+      "brand_name": "Giorgio Armani",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q759210",
+      "brand_name": "Givenchy",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q178516",
+      "brand_name": "Gucci",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q2522402",
+      "brand_name": "Harry Winston",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q843887",
+      "brand_name": "Hermès",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q440616",
+      "brand_name": "Isabel Marant",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q362249",
+      "brand_name": "Jimmy Choo",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q5491562",
+      "brand_name": "Kenzo",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1686544",
+      "brand_name": "Loro Piana",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q191485",
+      "brand_name": "Louis Vuitton",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1726925",
+      "brand_name": "Maison Margiela",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q2714705",
+      "brand_name": "Marni",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1400977",
+      "brand_name": "Missoni",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q552230",
+      "brand_name": "Miu Miu",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1548951",
+      "brand_name": "Moncler",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q358583",
+      "brand_name": "Piaget",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q3907789",
+      "brand_name": "Pomellato",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q193136",
+      "brand_name": "Prada",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q296647",
+      "brand_name": "Ralph Lauren",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q981342",
+      "brand_name": "Salvatore Ferragamo",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q950042",
+      "brand_name": "Stone Island",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1066858",
+      "brand_name": "Tiffany & Co.",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q1342350",
+      "brand_name": "Tod's",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q247953",
+      "brand_name": "Valentino",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q2708181",
+      "brand_name": "Van Cleef & Arpels",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q696376",
+      "brand_name": "Versace",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q343334",
+      "brand_name": "Yves Saint Laurent",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q278880",
+      "brand_name": "A. Lange & Söhne",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q667425",
+      "brand_name": "Audemars Piguet",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q299571",
+      "brand_name": "Benetton",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q804327",
+      "brand_name": "Blancpain",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q347948",
+      "brand_name": "Breguet",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q906678",
+      "brand_name": "Breitling",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q214800",
+      "brand_name": "Calvin Klein",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q217338",
+      "brand_name": "Casio",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q1020994",
+      "brand_name": "Citizen",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q404866",
+      "brand_name": "Coach",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1221452",
+      "brand_name": "Diesel",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q40614",
+      "brand_name": "Fossil",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q188326",
+      "brand_name": "H&M",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q691958",
+      "brand_name": "Hublot",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q662902",
+      "brand_name": "IWC Schaffhausen",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q6077665",
+      "brand_name": "Jack & Jones",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q378698",
+      "brand_name": "Jaeger-LeCoultre",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q275094",
+      "brand_name": "Kate Spade",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q233813",
+      "brand_name": "Longchamp",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q603698",
+      "brand_name": "Longines",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q47845757",
+      "brand_name": "Maje",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q169",
+      "brand_name": "Mango",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q313108",
+      "brand_name": "Marc Jacobs",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q717618",
+      "brand_name": "Michael Kors",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q939816",
+      "brand_name": "Movado",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q883395",
+      "brand_name": "Nomos Glashütte",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q9890",
+      "brand_name": "Omega",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q521374",
+      "brand_name": "Only",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q689037",
+      "brand_name": "Oris",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q1475590",
+      "brand_name": "Panerai",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q659096",
+      "brand_name": "Patek Philippe",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q452739",
+      "brand_name": "Rado",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q3431044",
+      "brand_name": "Richard Mille",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q62288",
+      "brand_name": "Rolex",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q37192461",
+      "brand_name": "Sandro",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q322601",
+      "brand_name": "Seiko",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q232812",
+      "brand_name": "Stella McCartney",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q573422",
+      "brand_name": "Swatch",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q7806630",
+      "brand_name": "Timex",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q659530",
+      "brand_name": "Tissot",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q136687",
+      "brand_name": "Tommy Hilfiger",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q26070",
+      "brand_name": "Uniqlo",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q62341",
+      "brand_name": "Vacheron Constantin",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q147614",
+      "brand_name": "Zara",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q82806",
+      "brand_name": "Zenith",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q3895",
+      "brand_name": "Adidas",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q123700068",
+      "brand_name": "Alo Yoga",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q3271455",
+      "brand_name": "Arc'teryx",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q327247",
+      "brand_name": "Asics",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q3784882",
+      "brand_name": "Athleta",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q18169875",
+      "brand_name": "Ben Sherman",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q648458",
+      "brand_name": "Birkenstock",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q527877",
+      "brand_name": "Carhartt",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q533276",
+      "brand_name": "Clarks",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q766625",
+      "brand_name": "Columbia",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1115170",
+      "brand_name": "Comme des Garçons",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q240905",
+      "brand_name": "Converse",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q926699",
+      "brand_name": "Crocs",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q114913",
+      "brand_name": "Dickies",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1126126",
+      "brand_name": "Dr. Martens",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1280255",
+      "brand_name": "ECCO",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1539031",
+      "brand_name": "Fear of God",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q482539",
+      "brand_name": "Fila",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q312639",
+      "brand_name": "Fred Perry",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q765087",
+      "brand_name": "Fruit of the Loom",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q588001",
+      "brand_name": "Geox",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q3126743",
+      "brand_name": "Hanes",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1603114",
+      "brand_name": "Helly Hansen",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q491627",
+      "brand_name": "Hugo Boss",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q469027",
+      "brand_name": "Issey Miyake",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q309031",
+      "brand_name": "Lacoste",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q6702957",
+      "brand_name": "Lululemon",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1156731",
+      "brand_name": "Mizuno",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q742988",
+      "brand_name": "New Balance",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q218202",
+      "brand_name": "Nike",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q116783961",
+      "brand_name": "Palm Angels",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1507",
+      "brand_name": "Patagonia",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1572564",
+      "brand_name": "Puma",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q466183",
+      "brand_name": "Reebok",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q268033",
+      "brand_name": "Rei Kawakubo",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q2945643",
+      "brand_name": "Skechers",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q7654224",
+      "brand_name": "Sweaty Betty",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q3521493",
+      "brand_name": "The Kooples",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q152784",
+      "brand_name": "The North Face",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q318149",
+      "brand_name": "Tom Ford",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1265452",
+      "brand_name": "UGG",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q2031485",
+      "brand_name": "Under Armour",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q1135366",
+      "brand_name": "Vans",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q332477",
+      "brand_name": "Victoria's Secret",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q707890",
+      "brand_name": "Yohji Yamamoto",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q152695",
+      "brand_name": "Amer Sports",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q402889",
+      "brand_name": "Anta",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q641226",
+      "brand_name": "Arena",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q27074",
+      "brand_name": "Aston Martin",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q26678",
+      "brand_name": "BMW",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q27224",
+      "brand_name": "Bentley",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q228829",
+      "brand_name": "Brooks",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q27401",
+      "brand_name": "Bugatti",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q250182",
+      "brand_name": "Callaway",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q184654",
+      "brand_name": "Decathlon",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q1208130",
+      "brand_name": "Diadora",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q5315461",
+      "brand_name": "Dunlop Sport",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q5389648",
+      "brand_name": "Erke",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q27586",
+      "brand_name": "Ferrari",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q224740",
+      "brand_name": "Ford",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q81965",
+      "brand_name": "General Motors",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q23640",
+      "brand_name": "Head",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q9584",
+      "brand_name": "Honda",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q29311",
+      "brand_name": "Hyundai",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q666888",
+      "brand_name": "Intersport",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q14401",
+      "brand_name": "Kappa",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q35349",
+      "brand_name": "Kia",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q35594",
+      "brand_name": "Koenigsegg",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q35886",
+      "brand_name": "Lamborghini",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q1272525",
+      "brand_name": "Li-Ning",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q35962",
+      "brand_name": "Maserati",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q172030",
+      "brand_name": "McLaren",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q36008",
+      "brand_name": "Mercedes-Benz",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q6820022",
+      "brand_name": "Merrell",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q40972",
+      "brand_name": "Pagani",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q40993",
+      "brand_name": "Porsche",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q2133785",
+      "brand_name": "Rawlings",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q225665",
+      "brand_name": "Rolls-Royce",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q867643",
+      "brand_name": "Salomon",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q347570",
+      "brand_name": "Spalding",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q1425519",
+      "brand_name": "Speedo",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q7579661",
+      "brand_name": "Sports Direct",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q3512646",
+      "brand_name": "TYR Sport",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q1380797",
+      "brand_name": "TaylorMade",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q765530",
+      "brand_name": "Tesla",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q609502",
+      "brand_name": "Titleist",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q53268",
+      "brand_name": "Toyota",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q652047",
+      "brand_name": "Umbro",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q246",
+      "brand_name": "Volkswagen",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q217973",
+      "brand_name": "Wilson",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q4021859",
+      "brand_name": "Xtep",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q773924",
+      "brand_name": "Yonex",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "Q26921",
+      "brand_name": "Alfa Romeo",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q23317",
+      "brand_name": "Audi",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q407394",
+      "brand_name": "BYD",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q27415",
+      "brand_name": "Buick",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q27436",
+      "brand_name": "Cadillac",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q591001",
+      "brand_name": "Chery",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q29570",
+      "brand_name": "Chevrolet",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q181114",
+      "brand_name": "Chrysler",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q6746",
+      "brand_name": "Citroën",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q47536216",
+      "brand_name": "Cupra",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q173082",
+      "brand_name": "Dacia",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q27511",
+      "brand_name": "Daihatsu",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q27564",
+      "brand_name": "Dodge",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q27597",
+      "brand_name": "Fiat",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q282425",
+      "brand_name": "Fisker",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q408467",
+      "brand_name": "GMC",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q739000",
+      "brand_name": "Geely",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q29714",
+      "brand_name": "Infiniti",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q29803",
+      "brand_name": "Isuzu",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q35694",
+      "brand_name": "Jaguar",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q30113",
+      "brand_name": "Jeep",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q35907",
+      "brand_name": "Land Rover",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q35919",
+      "brand_name": "Lexus",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q98139925",
+      "brand_name": "Li Auto",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q179404",
+      "brand_name": "Lincoln",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q1747158",
+      "brand_name": "Lucid",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q1881443",
+      "brand_name": "MG Motor",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q35996",
+      "brand_name": "Mazda",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q36024",
+      "brand_name": "Mini",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q183275",
+      "brand_name": "Mitsubishi",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q406952",
+      "brand_name": "NIO",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q20165",
+      "brand_name": "Nissan",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q40966",
+      "brand_name": "Opel",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q6742",
+      "brand_name": "Peugeot",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q4047174",
+      "brand_name": "Polestar",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q165708",
+      "brand_name": "Ram Trucks",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q6686",
+      "brand_name": "Renault",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q533163",
+      "brand_name": "Rimac",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q7338847",
+      "brand_name": "Rivian",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q423745",
+      "brand_name": "SAIC",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q2207370",
+      "brand_name": "Seat",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q225217",
+      "brand_name": "Skoda",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q172741",
+      "brand_name": "Subaru",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q181642",
+      "brand_name": "Suzuki",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q146747",
+      "brand_name": "Vauxhall",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q163810",
+      "brand_name": "Volvo",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q63035278",
+      "brand_name": "XPeng",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q106621124",
+      "brand_name": "Zeekr",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q43423",
+      "brand_name": "Aesop",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q233796",
+      "brand_name": "Avon",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q16951811",
+      "brand_name": "Bioderma",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q281024",
+      "brand_name": "Bobbi Brown",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q5000673",
+      "brand_name": "Burt's Bees",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q23731275",
+      "brand_name": "CeraVe",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q5065628",
+      "brand_name": "Cetaphil",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q5086166",
+      "brand_name": "Charlotte Tilbury",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q2655764",
+      "brand_name": "Clinique",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q103968",
+      "brand_name": "Clio",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1629990",
+      "brand_name": "CoverGirl",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q124547645",
+      "brand_name": "Drunk Elephant",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q5402269",
+      "brand_name": "Estée Lauder",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q16174973",
+      "brand_name": "Etude House",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1372140",
+      "brand_name": "Eucerin",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q6035863",
+      "brand_name": "Innisfree",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q3196447",
+      "brand_name": "Kiehl's",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q156077",
+      "brand_name": "L'Oréal",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q114515",
+      "brand_name": "La Prairie",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q391305",
+      "brand_name": "La Roche-Posay",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1541268",
+      "brand_name": "Lancôme",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q16935511",
+      "brand_name": "Laneige",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q357187",
+      "brand_name": "Lush",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q470196",
+      "brand_name": "Mary Kay",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1351054",
+      "brand_name": "Maybelline",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q6952357",
+      "brand_name": "NARS",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q2451589",
+      "brand_name": "Neutrogena",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q337408",
+      "brand_name": "Nivea",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1246901",
+      "brand_name": "Olay",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1459595",
+      "brand_name": "Revlon",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q7390579",
+      "brand_name": "SK-II",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q728185",
+      "brand_name": "Shiseido",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q226656",
+      "brand_name": "Smart",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "Q85980775",
+      "brand_name": "Sulwhasoo",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q837851",
+      "brand_name": "The Body Shop",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q7755316",
+      "brand_name": "The Ordinary",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q93351",
+      "brand_name": "Vichy",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q128896",
+      "brand_name": "AMD",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q297879",
+      "brand_name": "ASML",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q2056628",
+      "brand_name": "Acqua di Parma",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q183496",
+      "brand_name": "Adobe",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q456120",
+      "brand_name": "Amazon",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q89",
+      "brand_name": "Apple",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q2494771",
+      "brand_name": "Biotherm",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q30595852",
+      "brand_name": "Byredo",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q264589",
+      "brand_name": "Carolina Herrera",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q11148082",
+      "brand_name": "Caudalie",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q173395",
+      "brand_name": "Cisco",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q2975619",
+      "brand_name": "Clarins",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q247179",
+      "brand_name": "Creed",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q16924332",
+      "brand_name": "DJI",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q30873",
+      "brand_name": "Dell",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q1227345",
+      "brand_name": "Diptyque",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q115530",
+      "brand_name": "Floris",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q95",
+      "brand_name": "Google",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q1565800",
+      "brand_name": "HPE",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q160120",
+      "brand_name": "Huawei",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q37156",
+      "brand_name": "IBM",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q248",
+      "brand_name": "Intel",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q242868",
+      "brand_name": "Jean Paul Gaultier",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q20716050",
+      "brand_name": "Jo Malone",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1568588",
+      "brand_name": "Juicy Couture",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q2406369",
+      "brand_name": "Lalique",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q29469190",
+      "brand_name": "Le Labo",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q15907772",
+      "brand_name": "Meituan",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q225827",
+      "brand_name": "Meta",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q2283",
+      "brand_name": "Microsoft",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q217123",
+      "brand_name": "Oracle",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q467754",
+      "brand_name": "Paco Rabanne",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q769737",
+      "brand_name": "Payot",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q3374732",
+      "brand_name": "Penhaligon's",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q544847",
+      "brand_name": "Qualcomm",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q552581",
+      "brand_name": "SAP",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q941127",
+      "brand_name": "Salesforce",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q20716",
+      "brand_name": "Samsung",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q81230",
+      "brand_name": "Siemens",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q41187",
+      "brand_name": "Sony",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q713418",
+      "brand_name": "TSMC",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q860580",
+      "brand_name": "Tencent",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q11407",
+      "brand_name": "VMware",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q2707765",
+      "brand_name": "Viktor & Rolf",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1636958",
+      "brand_name": "Xiaomi",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q224232",
+      "brand_name": "Acer",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q200491",
+      "brand_name": "Activision",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q63327",
+      "brand_name": "Airbnb",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q757307",
+      "brand_name": "Atlassian",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q401091",
+      "brand_name": "Azure",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q14772",
+      "brand_name": "Baidu",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q51403327",
+      "brand_name": "Binance",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q6536648",
+      "brand_name": "Block",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q55606242",
+      "brand_name": "ByteDance",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q4778915",
+      "brand_name": "Cloudflare",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q16972754",
+      "brand_name": "Coinbase",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q16248637",
+      "brand_name": "Datadog",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q22907849",
+      "brand_name": "Discord",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q173941",
+      "brand_name": "Electronic Arts",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q739711",
+      "brand_name": "Epic Games",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q364",
+      "brand_name": "GitHub",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q3598926",
+      "brand_name": "JD.com",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q136778",
+      "brand_name": "LG",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q14799",
+      "brand_name": "Lenovo",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q213660",
+      "brand_name": "LinkedIn",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q196259",
+      "brand_name": "NetEase",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q907311",
+      "brand_name": "Netflix",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q8093",
+      "brand_name": "Nintendo",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q21708200",
+      "brand_name": "OpenAI",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q2047336",
+      "brand_name": "Palantir",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q53247",
+      "brand_name": "Panasonic",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q483959",
+      "brand_name": "PayPal",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q47015652",
+      "brand_name": "Pinduoduo",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q1136",
+      "brand_name": "Reddit",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q1060165",
+      "brand_name": "Riot Games",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q353745",
+      "brand_name": "Ripple",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q692989",
+      "brand_name": "Roblox",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q7501150",
+      "brand_name": "Shopify",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q1904950",
+      "brand_name": "Slack",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q550147",
+      "brand_name": "Snowflake",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q193701",
+      "brand_name": "SpaceX",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q689141",
+      "brand_name": "Spotify",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q164",
+      "brand_name": "Square",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q342029",
+      "brand_name": "Stripe",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q49125",
+      "brand_name": "Toshiba",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q15718485",
+      "brand_name": "Twitter",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q780442",
+      "brand_name": "Uber",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q232434",
+      "brand_name": "Unity",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q220292",
+      "brand_name": "Zoom",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q125074",
+      "brand_name": "Anheuser-Busch",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q226462",
+      "brand_name": "Asahi",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q610672",
+      "brand_name": "Budweiser",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q177054",
+      "brand_name": "Burger King",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q6677525",
+      "brand_name": "Cadbury",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q1036056",
+      "brand_name": "Cargill",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q407704",
+      "brand_name": "Carlsberg",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q484544",
+      "brand_name": "Cheetos",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q2813",
+      "brand_name": "Coca-Cola",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q2121324",
+      "brand_name": "Corona",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q329426",
+      "brand_name": "Danone",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q839466",
+      "brand_name": "Domino's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q776795",
+      "brand_name": "Doritos",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q623561",
+      "brand_name": "Dr Pepper",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q9935",
+      "brand_name": "Fanta",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q526516",
+      "brand_name": "Ferrero Rocher",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q691940",
+      "brand_name": "Folgers",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q304992",
+      "brand_name": "Gatorade",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q629998",
+      "brand_name": "General Mills",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q194297",
+      "brand_name": "Guinness",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q854383",
+      "brand_name": "Heineken",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q5744470",
+      "brand_name": "Hershey's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q524757",
+      "brand_name": "KFC",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q130326112",
+      "brand_name": "Kellogg's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q297659",
+      "brand_name": "Kirin",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q19681433",
+      "brand_name": "Kraft Heinz",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q723513",
+      "brand_name": "Lay's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q874407",
+      "brand_name": "Lipton",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q223127",
+      "brand_name": "Logitech",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q739550",
+      "brand_name": "M&M's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q111",
+      "brand_name": "Mars",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q38076",
+      "brand_name": "McDonald's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q276453",
+      "brand_name": "Monster",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q503191",
+      "brand_name": "Nescafé",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q160746",
+      "brand_name": "Nestlé",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q47719",
+      "brand_name": "Pepsi",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q191615",
+      "brand_name": "Pizza Hut",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q934273",
+      "brand_name": "Powerade",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q528187",
+      "brand_name": "Pringles",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q7299527",
+      "brand_name": "Razer",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q51482",
+      "brand_name": "Red Bull",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q714179",
+      "brand_name": "Snickers",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q232928",
+      "brand_name": "Sprite",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q37158",
+      "brand_name": "Starbucks",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q297686",
+      "brand_name": "Subway",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q869733",
+      "brand_name": "Twix",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q1325987",
+      "brand_name": "Tyson Foods",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q157062",
+      "brand_name": "Unilever",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q259340",
+      "brand_name": "7-Eleven",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q290389",
+      "brand_name": "ADM",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q125054",
+      "brand_name": "Aldi",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q217599",
+      "brand_name": "Carrefour",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q2961620",
+      "brand_name": "Chaumet",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q860808",
+      "brand_name": "Chipotle",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q10920877",
+      "brand_name": "Chow Sang Sang",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q5105515",
+      "brand_name": "Chow Tai Fook",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q608845",
+      "brand_name": "Costa Coffee",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q715583",
+      "brand_name": "Costco",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q5241390",
+      "brand_name": "David Yurman",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q3350191",
+      "brand_name": "Fred",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q358114",
+      "brand_name": "Graff",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q501476",
+      "brand_name": "Hasbro",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q969999",
+      "brand_name": "Illy",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q1446150",
+      "brand_name": "John Hardy",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q6395629",
+      "brand_name": "Keurig",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q15910313",
+      "brand_name": "Lao Feng Xiang",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q543750",
+      "brand_name": "Lavazza",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q151954",
+      "brand_name": "Lidl",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q10851432",
+      "brand_name": "Links of London",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q10893397",
+      "brand_name": "Lukfook",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q596139",
+      "brand_name": "Mattel",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q3300085",
+      "brand_name": "Mauboussin",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q16876992",
+      "brand_name": "Mikimoto",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q301301",
+      "brand_name": "Nespresso",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q131346",
+      "brand_name": "Pandora",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q7130852",
+      "brand_name": "Panera Bread",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q2759586",
+      "brand_name": "Papa John's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q5161882",
+      "brand_name": "Qeelin",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q18619470",
+      "brand_name": "Restaurant Brands International",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q611115",
+      "brand_name": "Swarovski",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q230479",
+      "brand_name": "Target",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q487494",
+      "brand_name": "Tesco",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q1178007",
+      "brand_name": "Tous",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "Q483551",
+      "brand_name": "Walmart",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q550258",
+      "brand_name": "Wendy's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q668737",
+      "brand_name": "Yum! Brands",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "Q539548",
+      "brand_name": "MGA Entertainment",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q7577375",
+      "brand_name": "Spin Master",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q160719",
+      "brand_name": "Playmobil",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q697136",
+      "brand_name": "Ravensburger",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q1420671",
+      "brand_name": "Fisher-Price",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q585537",
+      "brand_name": "Hot Wheels",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q167447",
+      "brand_name": "Barbie",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q1052347",
+      "brand_name": "G.I. Joe",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q1136885",
+      "brand_name": "Sanrio",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q49740",
+      "brand_name": "Minecraft",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q5509271",
+      "brand_name": "Funko",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q3208320",
+      "brand_name": "Sylvanian Families",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q344954",
+      "brand_name": "Brio",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q8075416",
+      "brand_name": "Zuru",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q15614889",
+      "brand_name": "Loewe",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q3113211",
+      "brand_name": "Graff Diamonds",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "Q645984",
+      "brand_name": "Tag Heuer",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q138109",
+      "brand_name": "Baume & Mercier",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "Q127962",
+      "brand_name": "Levi's",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1684445",
+      "brand_name": "Superdry",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q640418",
+      "brand_name": "Vero Moda",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "Q1014708",
+      "brand_name": "Avene",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q7535296",
+      "brand_name": "SkinCeuticals",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q175130",
+      "brand_name": "Sisley",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q16546558",
+      "brand_name": "Decleor",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q104381586",
+      "brand_name": "Maison Francis Kurkdjian",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "Q1359568",
+      "brand_name": "Alibaba",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q182477",
+      "brand_name": "NVIDIA",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "Q15733006",
+      "brand_name": "DeepMind",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Rimowa",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Moynat",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Goyard",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Delvaux",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mackintosh",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "John Lobb",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Berluti",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Jaquet Droz",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ulysse Nardin",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Girard-Perregaux",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "H. Moser & Cie",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Christophe Claret",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Greubel Forsey",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "De Bethune",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Xerjoff",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Roja Parfums",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Clive Christian",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Henry Jacques",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "The Harmonist",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Memo Paris",
+      "category": "fashion-luxury"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "A.P.C.",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "COS",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "& Other Stories",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Weekday",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Monki",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Arket",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Massimo Dutti",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Pull & Bear",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Bershka",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Stradivarius",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Oysho",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Uterqüe",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "GANT",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "NA-KD",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Boohoo",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "PrettyLittleThing",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "ASOS",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Zalando",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "About You",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Farfetch",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ssense",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "MatchesFashion",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Net-a-Porter",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Reformation",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Everlane",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Allbirds",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Rothy's",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Madewell",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Frame",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "AG Jeans",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Paige",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Rag & Bone",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Theory",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Vince",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Scotch & Soda",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Samsøe Samsøe",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ganni",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Rotate",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "By Malene Birger",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Stine Goya",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Baum und Pferdgarten",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Shaping New Tomorrow",
+      "category": "fashion"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Huda Beauty",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Fenty Beauty",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Kylie Cosmetics",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Rare Beauty",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Glossier",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Milk Makeup",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ilia",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Saie",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Kosas",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Tower 28",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Merit",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Westman Atelier",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Jones Road",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Tatcha",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Herbivore",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Youth to the People",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Summer Fridays",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sol de Janeiro",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Gisou",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Olaplex",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Kérastase",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Redken",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "L'Oréal Professionnel",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Davines",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Oribe",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Living Proof",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Aveda",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Bumble and bumble",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Moroccanoil",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Christophe Robin",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Dermalogica",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Murad",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Dr. Barbara Sturm",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Augustinus Bader",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "111Skin",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Helena Rubinstein",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Erno Laszlo",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Chantecaille",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "By Terry",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hourglass",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Pat McGrath Labs",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Anastasia Beverly Hills",
+      "category": "beauty"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Canon",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Nikon",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Fujifilm",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Leica",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hasselblad",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Olympus",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ricoh",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Pentax",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Dyson",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "iRobot",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Roomba",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Shark",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "GoPro",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ring",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Nest",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Arlo",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Seagate",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Western Digital",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Kingston",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Crucial",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Corsair",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "G.Skill",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "SanDisk",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Roku",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Chromecast",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Apple TV",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Fire TV",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sonos",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Bose",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "JBL",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Harman Kardon",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sennheiser",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Beyerdynamic",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Audio-Technica",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Shure",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Marshall",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Bang & Olufsen",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "TCL",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hisense",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Vizio",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sharp",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "TikTok",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Telegram",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Signal",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "WhatsApp",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "WeChat",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Line",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "KakaoTalk",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Viber",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Notion",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Figma",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Canva",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Miro",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Airtable",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Monday.com",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Asana",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Trello",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Jira",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Wix",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Squarespace",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Webflow",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "WordPress",
+      "category": "tech"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Pirelli",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Michelin",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Continental",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Goodyear",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Bridgestone",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Bosch",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Denso",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Valeo",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "ZF Friedrichshafen",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Magna International",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Aisin",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Faurecia",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Shell",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "BP",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "TotalEnergies",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "ExxonMobil",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Chevron",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "PetroChina",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sinopec",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hertz",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Avis",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Enterprise",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Turo",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Lyft",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "DiDi",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Grab",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Yamaha",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Kawasaki",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Harley-Davidson",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ducati",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "BMW Motorrad",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "KTM",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Aprilia",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Triumph",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Royal Enfield",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Vespa",
+      "category": "auto"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Starbucks Reserve",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Blue Bottle",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Peet's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Philz",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Intelligentsia",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Counter Culture",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Stumptown",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Tim Hortons",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Dunkin' Donuts",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mister Donut",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Baskin-Robbins",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Cold Stone",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Haagen-Dazs",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ben & Jerry's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Magnum",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mövenpick",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Krispy Kreme",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Cinnabon",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Auntie Anne's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Pret a Manger",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Eataly",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Whole Foods",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Trader Joe's",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sprouts",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Oatly",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Alpro",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Silk",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Califia Farms",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Beyond Meat",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Impossible Foods",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Quorn",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "MorningStar",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Garden Gourmet",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "HelloFresh",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Blue Apron",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Gousto",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Marley Spoon",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "PureGym",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "David Lloyd",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Equinox",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Peloton",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mirror",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Tonal",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hydrow",
+      "category": "food"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sport Chek",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "REI",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Dicks Sporting Goods",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Academy Sports",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Yeti",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hydro Flask",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Stanley",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Thermos",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Nalgene",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "CamelBak",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Gregory",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Osprey",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Deuter",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Vaude",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mammut",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Millet",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Black Diamond",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Petzl",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Grivel",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Burton",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Lib Tech",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "GNU",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ride",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Rossignol",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Atomic",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Fischer",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Nordica",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Volkl",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Rip Curl",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Quiksilver",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Billabong",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Roxy",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "O'Neill",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hurley",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Volcom",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Element",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Santa Cruz",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Powell-Peralta",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Baker",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Girl",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Zero Skateboards",
+      "category": "sport"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Myota",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Emporio Armani",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Guess",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Police",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Nixon",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "G-Shock",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Baby-G",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Edifice",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Pro Trek",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hamilton",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mido",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Certina",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mondaine",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Junghans",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Stowa",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Laco",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Steinhart",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Sinn",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Damasko",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mühle Glashütte",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Kurono Tokyo",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Grand Seiko",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Credor",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Maurice Lacroix",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Raymond Weil",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Frederique Constant",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Alpina",
+      "category": "watch"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Alex and Ani",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Kendra Scott",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Gorjana",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Jacquie Aiche",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Jennifer Meyer",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Foundrae",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Catbird",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mejuri",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Vrai",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Auvere",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Brilliant Earth",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Blue Nile",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "James Allen",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Tasaki",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Stauer",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Ross-Simons",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Danbury Mint",
+      "category": "jewelry"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Melissa & Doug",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Hape",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "PlanToys",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Green Toys",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Le Toy Van",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Djeco",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Janod",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Moulin Roty",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Londji",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "SES Creative",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "HABA",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Grimm's",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Grapat",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Oribel",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "LAMAZE",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Bright Starts",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Skip Hop",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Summer Infant",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Little Tikes",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Step2",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q12128282",
+      "brand_name": "Radio Flyer",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Lego",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Duplo",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Mega Bloks",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q85783157",
+      "brand_name": "Magna-Tiles",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "PicassoTiles",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "100 Wood Toys",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Jellycat",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Squishmallows",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "Q63810100",
+      "brand_name": "Steiff",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Gund",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Douglas",
+      "category": "toy"
+    },
+    {
+      "wikidata_id": "",
+      "brand_name": "Aurora World",
+      "category": "toy"
+    }
+  ]
+}
