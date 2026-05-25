@@ -1,109 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://pinpai.ai.in/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/en/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/es/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/de/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ko/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ru/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ar/"/>
-  </url>
-  <url>
-    <loc>https://pinpai.ai.in/escher/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/escher/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/en/escher/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/fr/escher/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/es/escher/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/de/escher/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ja/escher/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ko/escher/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/pt/escher/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ru/escher/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ar/escher/"/>
-  </url>
-  <url>
-    <loc>https://pinpai.ai.in/hermes/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/en/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/fr/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/es/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/de/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ja/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ko/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/pt/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ru/hermes/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ar/hermes/"/>
-  </url>
-  <url>
-    <loc>https://pinpai.ai.in/bmw/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/en/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/fr/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/es/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/de/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ja/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ko/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/pt/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ru/bmw/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ar/bmw/"/>
-  </url>
-  <url>
-    <loc>https://pinpai.ai.in/sony/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/sony/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/en/sony/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/fr/sony/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/es/sony/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/de/sony/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ja/sony/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ko/sony/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/pt/sony/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ru/sony/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ar/sony/"/>
-  </url>
-  <url>
-    <loc>https://pinpai.ai.in/nike/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/nike/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/en/nike/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/fr/nike/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/es/nike/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/de/nike/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ja/nike/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ko/nike/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/pt/nike/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ru/nike/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ar/nike/"/>
-  </url>
-  <url>
-    <loc>https://pinpai.ai.in/chanel/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/en/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/fr/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/es/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/de/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ja/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ko/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/pt/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ru/chanel/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ar/chanel/"/>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://pinpai.ai.in/escher/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/escher/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/3m/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/airbnb/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/amazon/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/hermes/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/bmw/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/sony/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/nike/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/chanel/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/anheuser-busch/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/aesop/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/benetton/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/chaumet/?lang=ar</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=zh-CN</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=en</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=fr</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=es</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=de</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=ja</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=ko</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=pt</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=ru</loc></url>
+  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/?lang=ar</loc></url>
 </urlset>

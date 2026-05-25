@@ -1,10 +1,15 @@
-slug,brand,country,category,status,deployed,created_at
-escher,埃舍尔Escher,中国,fashion,verified,true,2025-05-25
-3m,3M,美国,tech,verified,true,2025-05-25
-airbnb,Airbnb,美国,tech,verified,true,2025-05-25
-amazon,Amazon,美国,tech,verified,true,2025-05-25
-hermes,Hermès,法国,fashion-luxury,verified,true,2025-05-25
-bmw,BMW,德国,auto,verified,true,2025-05-25
-sony,Sony,日本,tech,verified,true,2025-05-25
-nike,Nike,美国,sport,verified,true,2025-05-25
-chanel,Chanel,法国,fashion-luxury,verified,true,2025-05-25
+slug,name_en,name_zh,category,country,deployed
+escher,Escher,埃舍尔,fashion,China,true
+3m,3M,3M,materials,United States,true
+airbnb,Airbnb,爱彼迎,technology,United States,true
+amazon,Amazon,亚马逊,technology,United States,true
+hermes,Hermès,爱马仕,fashion,France,true
+bmw,BMW,宝马,automotive,Germany,true
+sony,Sony,索尼,electronics,Japan,true
+nike,Nike,耐克,fashion,United States,true
+chanel,Chanel,香奈儿,fashion,France,true
+anheuser-busch,Anheuser-Busch,安海斯-布希,food,Belgium,true
+aesop,Aesop,伊索,beauty,Australia,true
+benetton,Benetton,贝纳通,fashion,Italy,true
+chaumet,Chaumet,尚美巴黎,jewelry,France,true
+a--lange-and-s-hne,A. Lange & Söhne,朗格,watch,Germany,true

@@ -10,3 +10,12 @@ dump_*.py
 generate_*.py
 brand_verify.py
 brand_gen_log.json
+*.sh
+ccheck*.py
+run_me.py
+runner.py
+count.py
+verify_*.py
+cl*.py
+batch_produce.py
+checkfinal.py

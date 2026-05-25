@@ -1,50 +1,114 @@
 [
   {
     "slug": "escher",
-    "zh": "埃舍尔Escher",
-    "en": "埃舍尔Escher",
-    "category": "fashion-luxury",
-    "premium": true,
-    "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
+    "name_en": "Escher",
+    "name_zh": "埃舍尔",
+    "category": "fashion",
+    "country": "China",
+    "founding_year": 2024
+  },
+  {
+    "slug": "3m",
+    "name_en": "3M",
+    "name_zh": "3M",
+    "category": "materials",
+    "country": "United States",
+    "founding_year": ""
+  },
+  {
+    "slug": "airbnb",
+    "name_en": "Airbnb",
+    "name_zh": "爱彼迎",
+    "category": "technology",
+    "country": "United States",
+    "founding_year": ""
+  },
+  {
+    "slug": "amazon",
+    "name_en": "Amazon",
+    "name_zh": "亚马逊",
+    "category": "technology",
+    "country": "United States",
+    "founding_year": ""
   },
   {
     "slug": "hermes",
-    "zh": "Hermès",
-    "en": "Hermès",
-    "category": "fashion-luxury",
-    "premium": true,
-    "desc_short": "法国顶级奢侈品牌"
+    "name_en": "Hermès",
+    "name_zh": "爱马仕",
+    "category": "fashion",
+    "country": "France",
+    "founding_year": 1837
   },
   {
     "slug": "bmw",
-    "zh": "BMW",
-    "en": "BMW",
-    "category": "auto",
-    "premium": true,
-    "desc_short": "德国豪华汽车制造商"
+    "name_en": "BMW",
+    "name_zh": "宝马",
+    "category": "automotive",
+    "country": "Germany",
+    "founding_year": 1916
   },
   {
     "slug": "sony",
-    "zh": "Sony",
-    "en": "Sony",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "日本跨国科技集团"
+    "name_en": "Sony",
+    "name_zh": "索尼",
+    "category": "electronics",
+    "country": "Japan",
+    "founding_year": 1946
   },
   {
     "slug": "nike",
-    "zh": "Nike",
-    "en": "Nike",
-    "category": "sport",
-    "premium": true,
-    "desc_short": "全球最大运动品牌"
+    "name_en": "Nike",
+    "name_zh": "耐克",
+    "category": "fashion",
+    "country": "United States",
+    "founding_year": 1964
   },
   {
     "slug": "chanel",
-    "zh": "Chanel",
-    "en": "Chanel",
-    "category": "fashion-luxury",
-    "premium": true,
-    "desc_short": "法国顶级时装品牌"
+    "name_en": "Chanel",
+    "name_zh": "香奈儿",
+    "category": "fashion",
+    "country": "France",
+    "founding_year": 1910
+  },
+  {
+    "slug": "anheuser-busch",
+    "name_en": "Anheuser-Busch",
+    "name_zh": "安海斯-布希",
+    "category": "food",
+    "country": "Belgium",
+    "founding_year": "1977-08-02T00:00:00Z"
+  },
+  {
+    "slug": "aesop",
+    "name_en": "Aesop",
+    "name_zh": "伊索",
+    "category": "beauty",
+    "country": "Australia",
+    "founding_year": "1987-00-00T00:00:00Z"
+  },
+  {
+    "slug": "benetton",
+    "name_en": "Benetton",
+    "name_zh": "贝纳通",
+    "category": "fashion",
+    "country": "Italy",
+    "founding_year": "1965-01-01T00:00:00Z"
+  },
+  {
+    "slug": "chaumet",
+    "name_en": "Chaumet",
+    "name_zh": "尚美巴黎",
+    "category": "jewelry",
+    "country": "France",
+    "founding_year": "1780-00-00T00:00:00Z"
+  },
+  {
+    "slug": "a--lange-and-s-hne",
+    "name_en": "A. Lange & Söhne",
+    "name_zh": "朗格",
+    "category": "watch",
+    "country": "Germany",
+    "founding_year": "1845-00-00T00:00:00Z"
   }
 ]

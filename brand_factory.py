@@ -144,8 +144,8 @@ def render_brand(brand_data):
     names = brand_data.get("names", {})
     name_zh = names.get("zh-CN", slug)
     name_en = names.get("en", slug)
-    desc_zh = brand_data.get("description_zh", "")
     langs = brand_data.get("languages", {})
+    desc_zh = langs.get("zh-CN") or brand_data.get("description_zh", "")
     en_content = langs.get("en", desc_zh)
 
     # 构建10语言 brand_json
