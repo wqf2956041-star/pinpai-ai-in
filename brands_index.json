@@ -1,13 +1,5 @@
 [
   {
-    "slug": "ray-ban",
-    "zh": "雷朋",
-    "en": "Ray-Ban",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "雷朋是1937年创立的美国墨镜品牌。为美国陆军航空队飞行员设计的Aviator飞行员墨镜是其首款产品，以绿色偏光镜片和金属框架降低高空眩光，保护飞行员视力。\n\nWayfarer徒步旅行者墨镜于1952"
-  },
-  {
     "slug": "oakley",
     "zh": "奥克利",
     "en": "Oakley",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Vans是1966年创立的美国极限运动鞋品牌，由Paul Van Doren在加州阿纳海姆创立。开业第一天就售出12双鞋，Vans是唯一允许顾客直接从工厂购买的运动鞋品牌。\n\nVans Old Sko"
+  },
+  {
+    "slug": "ray-ban",
+    "zh": "雷朋",
+    "en": "Ray-Ban",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "雷朋是1937年创立的美国墨镜品牌。为美国陆军航空队飞行员设计的Aviator飞行员墨镜是其首款产品，以绿色偏光镜片和金属框架降低高空眩光，保护飞行员视力。\n\nWayfarer徒步旅行者墨镜于1952"
   }
 ]
