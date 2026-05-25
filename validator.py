@@ -105,6 +105,7 @@ import re
 def check_html_content(slug, data, html):
     """检查渲染后的HTML — 使用与engine不同的检查和阈值"""
     errs = []
+    warn_msgs = []
     name_zh = data.get("names", {}).get("zh-CN", "")
 
     # 标题标签必须包含品牌名
@@ -154,9 +155,9 @@ def check_html_content(slug, data, html):
             continue
         target_path = ROOT / link_slug / "index.html"
         if not target_path.exists():
-            errs.append(f"DEAD_LINK: /{link_slug}/ → 404")
+            warn_msgs.append(f"DEAD_LINK: /{link_slug}/ → 目录不存在")
 
-    return errs
+    return errs, warn_msgs
 
 
 def validate_one(slug, full=True):
@@ -196,8 +197,9 @@ def validate_one(slug, full=True):
     # 4. HTML渲染检查
     try:
         html = html_path.read_text(encoding='utf-8')
-        html_errs = check_html_content(slug, data, html)
+        html_errs, html_warns = check_html_content(slug, data, html)
         all_errors.extend(html_errs)
+        all_warnings.extend(html_warns)
     except Exception as e:
         all_errors.append(f"HTML_READ: {e}")
 

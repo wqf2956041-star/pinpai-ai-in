@@ -199,6 +199,7 @@ def render_brand(brand_data):
 
     replacements = {
         "$NAME_ZH$": name_zh, "$NAME_EN$": name_en,
+        "$SLUG$": slug,
         "$CATEGORY_LABEL$": cat_label,
         "$META_DESC$": desc_short,
         "$FOUNDING_YEAR$": str(brand_data.get("founding_year","")),
