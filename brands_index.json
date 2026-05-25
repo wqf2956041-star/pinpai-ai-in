@@ -1,13 +1,5 @@
 [
   {
-    "slug": "champion",
-    "zh": "Champion",
-    "en": "Champion",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "Champion是1919年创立的美国经典运动服品牌。1934年发明的连帽卫衣彻底改变了休闲服装的历史。1938年的Reverse Weave抗缩水工艺在卫衣侧面加入横向编织，防止洗涤后缩水——这个技"
-  },
-  {
     "slug": "lancome",
     "zh": "兰蔻",
     "en": "Lancôme",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Stüssy是1980年代加州冲浪文化诞生的街头品牌鼻祖。创始人Shawn Stussy原本冲浪板雕刻师，他在冲浪板上签名的草书标志演变为品牌最经典的Logo。Stüssy是最早将冲浪、滑板、嘻哈和朋"
+  },
+  {
+    "slug": "champion",
+    "zh": "Champion",
+    "en": "Champion",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Champion是1919年创立的美国经典运动服品牌。1934年发明的连帽卫衣彻底改变了休闲服装的历史。1938年的Reverse Weave抗缩水工艺在卫衣侧面加入横向编织，防止洗涤后缩水——这个技"
   }
 ]
