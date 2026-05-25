@@ -1,13 +1,5 @@
 [
   {
-    "slug": "supreme",
-    "zh": "Supreme",
-    "en": "Supreme",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "Supreme是1994年创立的美国街头服装品牌，由James Jebbia在纽约曼哈顿拉法叶街创立。品牌以红底白字的Box Logo为标志，是世界上最著名的街头品牌之一。\n\nSupreme的运营模式"
-  },
-  {
     "slug": "off-white",
     "zh": "Off-White",
     "en": "Off-White",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "奥克利是1975年创立的美国运动眼镜品牌，由James Jannard在车库中创立。最初生产摩托车握把的Jannard将创新精神带入眼镜设计，不断推出颠覆性的产品。\n\nOakley以高科技材料和创新设"
+  },
+  {
+    "slug": "supreme",
+    "zh": "Supreme",
+    "en": "Supreme",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Supreme是1994年创立的美国街头服装品牌，由James Jebbia在纽约曼哈顿拉法叶街创立。品牌以红底白字的Box Logo为标志，是世界上最著名的街头品牌之一。\n\nSupreme的运营模式"
   }
 ]
