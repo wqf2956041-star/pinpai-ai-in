@@ -1,13 +1,5 @@
 [
   {
-    "slug": "bulgari",
-    "zh": "宝格丽",
-    "en": "Bulgari",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "宝格丽是意大利顶级珠宝品牌，由希腊银匠索帝里欧宝格丽于1884年在罗马创立。标志性的Serpenti灵蛇设计自1940年代起成为品牌的灵魂象征。宝格丽以大胆的色彩搭配和建筑灵感的设计区别于传统珠宝商，"
-  },
-  {
     "slug": "cartier",
     "zh": "卡地亚",
     "en": "Cartier",
@@ -550,5 +542,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "阿玛尼是意大利最具影响力的时尚品牌之一，由乔治阿玛尼于1975年与Sergio Galeotti共同创立。阿玛尼以重新定义男装剪裁著称，1980年《美国舞男》中Richard Gere穿着的阿玛尼西装"
+  },
+  {
+    "slug": "bulgari",
+    "zh": "宝格丽",
+    "en": "Bulgari",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "宝格丽是意大利顶级珠宝品牌，由希腊银匠索帝里欧宝格丽于1884年在罗马创立。标志性的Serpenti灵蛇设计自1940年代起成为品牌的灵魂象征。宝格丽以大胆的色彩搭配和建筑灵感的设计区别于传统珠宝商，"
   }
 ]
