@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>搜索品牌 — 品牌百科 · pinpai.ai.in</title>
-<meta name="description" content="搜索全球品牌百科 — 爱马仕、香奈儿、路易威登、古驰等，10种语言呈现">
+<title>搜索品牌 — 全球品牌索引 · pinpai.ai.in</title>
+<meta name="description" content="搜索全球品牌索引 — 爱马仕、香奈儿、路易威登、古驰等，10种语言呈现">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
@@ -37,7 +37,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 <div class="container">
 
 <div class="top-bar">
-  <a href="/" class="home-link">← 品牌百科首页</a>
+  <a href="/" class="home-link">← 全球品牌索引</a>
   <div class="search-box">
     <input type="text" id="search-input" placeholder="搜索品牌..." onkeydown="if(event.key==='Enter')doSearch()" autofocus>
     <button onclick="doSearch()">🔍</button>
@@ -49,7 +49,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 
 <script>
 // Inline brand index (lightweight — slug + names only)
-const BRAND_INDEX = [{"slug": "hermes", "zh": "爱马仕", "en": "Hermès", "category": "奢侈品/时尚", "premium": false, "desc_short": "爱马仕（Hermès）是一家法国奢侈品公司，由蒂埃利·爱马仕（Thierry Hermès）于1837年在法国巴黎创立。品牌最初以生产高级马具起家，为欧洲贵族和皇室打造精美耐用的马具产品。经过近两个世"}];
+const BRAND_INDEX = [{"slug": "hermes", "zh": "爱马仕", "en": "Hermès", "category": "奢侈品/时尚", "premium": false, "desc_short": "爱马仕（Hermès）是一家法国奢侈品公司，由蒂埃利·爱马仕（Thierry Hermès）于1837年在法国巴黎创立。"}];
 
 function getQueryParam(name) {
   var url = new URL(window.location.href);
@@ -83,7 +83,7 @@ function renderSearch() {
 
   if (matches.length === 0) {
     title.textContent = '搜索结果: "' + q + '" — 未找到匹配品牌';
-    list.innerHTML = '<div class="no-result"><h2>暂无此品牌</h2><p>该品牌百科尚未收录，请联系我们添加</p></div>';
+    list.innerHTML = '<div class="no-result"><h2>暂无此品牌</h2><p>该品牌尚未收录，请联系我们添加</p></div>';
     return;
   }
 
@@ -100,12 +100,11 @@ function renderSearch() {
     list.appendChild(li);
   });
 }
-
 renderSearch();
 </script>
 
 <div class="footer">
-  <p><a href="https://pinpai.ai.in">品牌百科 · pinpai.ai.in</a> — 全球品牌大全</p>
+  <a href="/">© pinpai.ai.in — 全球品牌索引</a>
 </div>
 </div>
 </body>
