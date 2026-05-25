@@ -22,29 +22,29 @@
   },
   "similar_brands": [
     {
-      "zh": "愛馬仕",
+      "zh": "爱马仕",
       "en": "Hermès",
-      "slug": "hermès"
+      "slug": "hermes"
     },
     {
-      "zh": "古馳",
+      "zh": "古驰",
       "en": "Gucci",
       "slug": "gucci"
     },
     {
-      "zh": "Chanel",
+      "zh": "香奈儿",
       "en": "Chanel",
       "slug": "chanel"
     },
     {
-      "zh": "Christian Dior",
+      "zh": "克里斯汀·迪奥",
       "en": "Christian Dior",
       "slug": "christian-dior"
     },
     {
-      "zh": "巴黎世家",
-      "en": "Balenciaga",
-      "slug": "balenciaga"
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
     }
   ],
   "is_premium": false,
@@ -57,7 +57,7 @@
   "wikidata_id": "Q191485",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

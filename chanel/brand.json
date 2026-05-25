@@ -22,27 +22,27 @@
   },
   "similar_brands": [
     {
-      "zh": "路易·威登",
+      "zh": "路易威登",
       "en": "Louis Vuitton",
       "slug": "louis-vuitton"
     },
     {
-      "zh": "愛馬仕",
+      "zh": "爱马仕",
       "en": "Hermès",
-      "slug": "hermès"
+      "slug": "hermes"
     },
     {
-      "zh": "Christian Dior",
+      "zh": "克里斯汀·迪奥",
       "en": "Christian Dior",
       "slug": "christian-dior"
     },
     {
-      "zh": "古馳",
+      "zh": "古驰",
       "en": "Gucci",
       "slug": "gucci"
     },
     {
-      "zh": "普拉達",
+      "zh": "普拉达",
       "en": "Prada",
       "slug": "prada"
     }
@@ -57,7 +57,7 @@
   "wikidata_id": "Q218115",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

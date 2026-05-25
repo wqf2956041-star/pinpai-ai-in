@@ -36,7 +36,9 @@
       "slug": "calvin-klein"
     },
     {
-      "zh": "迈克·科尔斯"
+      "zh": "迈可·寇斯",
+      "en": "Michael Kors",
+      "slug": "michael-kors"
     }
   ],
   "is_premium": false,
@@ -49,7 +51,7 @@
   "wikidata_id": "Q514378",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

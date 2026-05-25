@@ -20,7 +20,9 @@
   },
   "similar_brands": [
     {
-      "zh": "百事可乐"
+      "zh": "麦当劳",
+      "en": "McDonald's",
+      "slug": "mcdonald-s"
     },
     {
       "zh": "星巴克",
@@ -28,9 +30,9 @@
       "slug": "starbucks"
     },
     {
-      "zh": "麦当劳",
-      "en": "McDonald's",
-      "slug": "mcdonald-s"
+      "zh": "百事可乐",
+      "en": "PepsiCo",
+      "slug": "pepsi-co"
     }
   ],
   "is_premium": false,
@@ -43,7 +45,7 @@
   "wikidata_id": "Q2813",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

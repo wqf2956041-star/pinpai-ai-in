@@ -15,7 +15,7 @@
     "家电"
   ],
   "current_slogan": "Do What You Can't",
-  "description_zh": "三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重工业、建筑、生物制药等领域的庞大商业帝国。三星电子是其核心子公司，是全球最大的智能手机制造商、半导体制造商和电视机制造商。三星在存储芯片、OLED显示屏等领域占据全球领先地位，2023年集团营收超过2000亿美元。",
+  "description_zh": "三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重工业、建筑、生物制药等领域的庞大商业帝国。三星电子是其核心子公司，是全球最大的智能手机制造商、半导体制造商和电视机制造商。三星在存储芯片、OLED显示屏等领域占据全球领先地位，2023年集团营收超过2000亿美元。 三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星",
   "languages": {
     "en": "Samsung Group is a South Korean multinational conglomerate headquartered in Samsung Town, Seoul. Founded by Lee Byung-chul in 1938 as a trading company, Samsung has grown into one of the world's largest companies. Samsung Electronics, the flagship division, is the world's largest manufacturer of smartphones, memory chips, and TVs. The group also encompasses shipbuilding, construction, insurance, and biotechnology sectors."
   },
@@ -51,7 +51,7 @@
   "wikidata_id": "Q20716",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

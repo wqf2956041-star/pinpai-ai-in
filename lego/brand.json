@@ -24,10 +24,14 @@
       "slug": "mattel"
     },
     {
-      "zh": "万代南梦宫"
+      "zh": "孩之宝",
+      "en": "Hasbro",
+      "slug": "hasbro"
     },
     {
-      "zh": "孩之宝"
+      "zh": "万代",
+      "en": "Bandai Namco",
+      "slug": "bandai-namco"
     }
   ],
   "is_premium": false,
@@ -40,7 +44,7 @@
   "wikidata_id": "Q8957",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

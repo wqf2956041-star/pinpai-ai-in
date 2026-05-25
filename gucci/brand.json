@@ -22,29 +22,29 @@
   },
   "similar_brands": [
     {
-      "zh": "路易·威登",
+      "zh": "路易威登",
       "en": "Louis Vuitton",
       "slug": "louis-vuitton"
     },
     {
-      "zh": "愛馬仕",
+      "zh": "爱马仕",
       "en": "Hermès",
-      "slug": "hermès"
+      "slug": "hermes"
     },
     {
-      "zh": "Chanel",
+      "zh": "香奈儿",
       "en": "Chanel",
       "slug": "chanel"
     },
     {
-      "zh": "普拉達",
+      "zh": "普拉达",
       "en": "Prada",
       "slug": "prada"
     },
     {
-      "zh": "范思哲",
-      "en": "Versace",
-      "slug": "versace"
+      "zh": "巴伦夏加",
+      "en": "Balenciaga",
+      "slug": "balenciaga"
     }
   ],
   "is_premium": false,
@@ -57,7 +57,7 @@
   "wikidata_id": "Q178516",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

@@ -1,9 +1,9 @@
 id,brand,slug,country,industry,status
 1,埃舍尔Escher,escher,中国,fashion-luxury,done
-2,Louis Vuitton,louis-vuitton,法国,fashion-luxury,error
+2,Louis Vuitton,louis-vuitton,法国,fashion-luxury,done
 3,Hermès,hermes,法国,fashion-luxury,done
-4,Gucci,gucci,意大利,fashion-luxury,error
-5,Chanel,chanel,法国,fashion-luxury,error
+4,Gucci,gucci,意大利,fashion-luxury,done
+5,Chanel,chanel,法国,fashion-luxury,done
 6,Christian Dior,christian-dior,法国,fashion-luxury,done
 7,Prada,prada,意大利,fashion-luxury,done
 8,Balenciaga,balenciaga,西班牙,fashion-luxury,done
@@ -12,11 +12,11 @@ id,brand,slug,country,industry,status
 11,H&M,h-m,瑞典,fashion,done
 12,Levi's,levi-s,美国,fashion,done
 13,Calvin Klein,calvin-klein,美国,fashion,done
-14,L'Oréal,loreal,法国,beauty,error
-15,Estée Lauder,este-lauder,美国,beauty,error
-16,Shiseido,shiseido,日本,beauty,error
+14,L'Oréal,loreal,法国,beauty,done
+15,Estée Lauder,este-lauder,美国,beauty,done
+16,Shiseido,shiseido,日本,beauty,done
 17,Lancôme,lancome,法国,beauty,done
-18,MAC Cosmetics,mac-cosmetics,美国,beauty,error
+18,MAC Cosmetics,mac-cosmetics,美国,beauty,done
 19,Rolex,rolex,瑞士,watch,done
 20,Patek Philippe,patek-philippe,瑞士,watch,done
 21,Audemars Piguet,audemars-piguet,瑞士,watch,done
@@ -29,23 +29,23 @@ id,brand,slug,country,industry,status
 28,Ferrari,ferrari,意大利,auto,done
 29,BYD,byd,中国,auto,done
 30,Apple,apple,美国,tech,done
-31,Samsung,samsung,韩国,tech,error
-32,Huawei,huawei,中国,tech,error
+31,Samsung,samsung,韩国,tech,done
+32,Huawei,huawei,中国,tech,done
 33,Sony,sony,日本,tech,done
 34,NVIDIA,nvidia,美国,tech,done
-35,Nike,nike,美国,sport,error
+35,Nike,nike,美国,sport,done
 36,Adidas,adidas,德国,sport,done
-37,Puma,puma,德国,sport,error
-38,Coca-Cola,coca-cola,美国,food,error
-39,McDonald's,mcdonald-s,美国,food,error
-40,Starbucks,starbucks,美国,food,error
-41,LEGO,lego,丹麦,toy,error
-42,Mattel,mattel,美国,toy,error
+37,Puma,puma,德国,sport,done
+38,Coca-Cola,coca-cola,美国,food,done
+39,McDonald's,mcdonald-s,美国,food,done
+40,Starbucks,starbucks,美国,food,done
+41,LEGO,lego,丹麦,toy,done
+42,Mattel,mattel,美国,toy,done
 43,Burberry,burberry,英国,fashion-luxury,done
 44,Versace,versace,意大利,fashion-luxury,done
 45,Ralph Lauren,ralph-lauren,美国,fashion,done
 46,Tommy Hilfiger,tommy-hilfiger,美国,fashion,done
-47,Coach,coach,美国,fashion,error
+47,Coach,coach,美国,fashion,done
 48,Microsoft,microsoft,美国,tech,done
 49,Google,google,美国,tech,done
 50,Amazon,amazon,美国,tech,done

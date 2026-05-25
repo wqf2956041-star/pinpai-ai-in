@@ -20,20 +20,24 @@
   },
   "similar_brands": [
     {
-      "zh": "星巴克",
-      "en": "Starbucks",
-      "slug": "starbucks"
-    },
-    {
       "zh": "可口可乐",
       "en": "Coca-Cola",
       "slug": "coca-cola"
     },
     {
-      "zh": "汉堡王"
+      "zh": "星巴克",
+      "en": "Starbucks",
+      "slug": "starbucks"
     },
     {
-      "zh": "肯德基"
+      "zh": "肯德基",
+      "en": "KFC",
+      "slug": "kfc"
+    },
+    {
+      "zh": "汉堡王",
+      "en": "Burger King",
+      "slug": "burger-king"
     }
   ],
   "is_premium": false,
@@ -46,7 +50,7 @@
   "wikidata_id": "Q38076",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

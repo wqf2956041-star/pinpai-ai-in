@@ -22,22 +22,22 @@
   },
   "similar_brands": [
     {
-      "zh": "Estée Lauder",
+      "zh": "雅诗兰黛",
       "en": "Estée Lauder",
       "slug": "este-lauder"
     },
     {
-      "zh": "Shiseido",
+      "zh": "资生堂",
       "en": "Shiseido",
       "slug": "shiseido"
     },
     {
-      "zh": "Lancôme",
+      "zh": "兰蔻",
       "en": "Lancôme",
-      "slug": "lancôme"
+      "slug": "lancome"
     },
     {
-      "zh": "MAC Cosmetics",
+      "zh": "M·A·C",
       "en": "MAC Cosmetics",
       "slug": "mac-cosmetics"
     }
@@ -52,7 +52,7 @@
   "wikidata_id": "Q156077",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }

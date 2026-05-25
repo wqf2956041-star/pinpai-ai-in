@@ -31,10 +31,14 @@
       "slug": "puma"
     },
     {
-      "zh": "安德玛"
+      "zh": "汤米·希尔费格",
+      "en": "Tommy Hilfiger",
+      "slug": "tommy-hilfiger"
     },
     {
-      "zh": "新百伦"
+      "zh": "卡尔文·克莱因",
+      "en": "Calvin Klein",
+      "slug": "calvin-klein"
     }
   ],
   "is_premium": false,
@@ -47,7 +51,7 @@
   "wikidata_id": "Q218202",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:03:23",
+    "validator_pass": true
   }
 }
