@@ -1,13 +1,5 @@
 [
   {
-    "slug": "saint-laurent",
-    "zh": "圣罗兰",
-    "en": "Saint Laurent",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "圣罗兰是法国最具革命性的时尚品牌之一，由伊夫圣罗兰先生于1961年与皮埃尔贝格共同创立。作为Dior的继承人，圣罗兰以解放女性着装的设计著称，1966年推出的Le Smoking吸烟装女式燕尾服被视为"
-  },
-  {
     "slug": "burberry",
     "zh": "博柏利",
     "en": "Burberry",
@@ -550,5 +542,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "克里斯汀迪奥是法国最具传奇色彩的高级时装品牌，由克里斯汀迪奥先生于1946年在巴黎创立。1947年，迪奥推出New Look系列，以极致收腰和宽大裙摆重新定义了战后女性之美，震惊了整个时尚界。\n\nNe"
+  },
+  {
+    "slug": "saint-laurent",
+    "zh": "圣罗兰",
+    "en": "Saint Laurent",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "圣罗兰是法国最具革命性的时尚品牌之一，由伊夫圣罗兰先生于1961年与皮埃尔贝格共同创立。作为Dior的继承人，圣罗兰以解放女性着装的设计著称，1966年推出的Le Smoking吸烟装女式燕尾服被视为"
   }
 ]
