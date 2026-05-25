@@ -1,13 +1,5 @@
 [
   {
-    "slug": "meta",
-    "zh": "Meta（Facebook）",
-    "en": "Meta",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "Meta是全球最大的社交网络公司，2004年由马克扎克伯格在哈佛大学宿舍创立。最初名为Facebook，从校园社交网站发展为连接全球超过30亿用户的社交帝国。旗下拥有Facebook主站、Instag"
-  },
-  {
     "slug": "bape",
     "zh": "BAPE（安逸猿）",
     "en": "BAPE",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "亚马逊是全球最大的电子商务和云计算公司，1994年由杰夫贝佐斯在车库创立。最初仅售图书，后来扩展为万物商店——世界上最大最全的网上商城。Amazon Prime会员服务是商业史上最成功的订阅模式，全球"
+  },
+  {
+    "slug": "meta",
+    "zh": "Meta（Facebook）",
+    "en": "Meta",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "Meta是全球最大的社交网络公司，2004年由马克扎克伯格在哈佛大学宿舍创立。最初名为Facebook，从校园社交网站发展为连接全球超过30亿用户的社交帝国。旗下拥有Facebook主站、Instag"
   }
 ]
