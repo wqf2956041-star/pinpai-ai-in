@@ -6,5 +6,45 @@
     "category": "fashion-luxury",
     "premium": true,
     "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
+  },
+  {
+    "slug": "hermes",
+    "zh": "Hermès",
+    "en": "Hermès",
+    "category": "fashion-luxury",
+    "premium": true,
+    "desc_short": "法国顶级奢侈品牌"
+  },
+  {
+    "slug": "bmw",
+    "zh": "BMW",
+    "en": "BMW",
+    "category": "auto",
+    "premium": true,
+    "desc_short": "德国豪华汽车制造商"
+  },
+  {
+    "slug": "sony",
+    "zh": "Sony",
+    "en": "Sony",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "日本跨国科技集团"
+  },
+  {
+    "slug": "nike",
+    "zh": "Nike",
+    "en": "Nike",
+    "category": "sport",
+    "premium": true,
+    "desc_short": "全球最大运动品牌"
+  },
+  {
+    "slug": "chanel",
+    "zh": "Chanel",
+    "en": "Chanel",
+    "category": "fashion-luxury",
+    "premium": true,
+    "desc_short": "法国顶级时装品牌"
   }
 ]

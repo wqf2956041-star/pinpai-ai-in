@@ -1,2 +1,10 @@
-id,brand,slug,country,industry,status
-1,埃舍尔Escher,escher,中国,fashion-luxury,done
+slug,brand,country,category,status,deployed,created_at
+escher,埃舍尔Escher,中国,fashion,verified,true,2025-05-25
+3m,3M,美国,tech,verified,true,2025-05-25
+airbnb,Airbnb,美国,tech,verified,true,2025-05-25
+amazon,Amazon,美国,tech,verified,true,2025-05-25
+hermes,Hermès,法国,fashion-luxury,verified,true,2025-05-25
+bmw,BMW,德国,auto,verified,true,2025-05-25
+sony,Sony,日本,tech,verified,true,2025-05-25
+nike,Nike,美国,sport,verified,true,2025-05-25
+chanel,Chanel,法国,fashion-luxury,verified,true,2025-05-25
