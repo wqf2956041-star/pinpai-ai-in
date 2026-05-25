@@ -1,13 +1,5 @@
 [
   {
-    "slug": "escher",
-    "zh": "埃舍尔Escher",
-    "en": "埃舍尔Escher",
-    "category": "奢侈品/时尚",
-    "premium": true,
-    "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
-  },
-  {
     "slug": "chanel",
     "zh": "香奈儿",
     "en": "Chanel",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "法拉利是1947年由恩佐法拉利在意大利马拉内罗创立的全球最著名的超级跑车品牌。一匹跃起的黑色骏马是品牌最经典的符号——源自一战王牌飞行员Francesco Baracca座机上的幸运标志。法拉利以红色"
+  },
+  {
+    "slug": "escher",
+    "zh": "埃舍尔Escher",
+    "en": "埃舍尔Escher",
+    "category": "奢侈品/时尚",
+    "premium": true,
+    "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
   }
 ]
