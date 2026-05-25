@@ -1,13 +1,5 @@
 [
   {
-    "slug": "burberry",
-    "zh": "博柏利",
-    "en": "Burberry",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "博柏利是英国最具代表性的奢侈时尚品牌，由托马斯博柏利于1856年创立。品牌以革新性的防水面料Gabardine（华达呢）闻名，1901年设计的Trench Coat风衣成为英国军装和时尚史上最重要的单"
-  },
-  {
     "slug": "versace",
     "zh": "范思哲",
     "en": "Versace",
@@ -550,5 +542,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "圣罗兰是法国最具革命性的时尚品牌之一，由伊夫圣罗兰先生于1961年与皮埃尔贝格共同创立。作为Dior的继承人，圣罗兰以解放女性着装的设计著称，1966年推出的Le Smoking吸烟装女式燕尾服被视为"
+  },
+  {
+    "slug": "burberry",
+    "zh": "博柏利",
+    "en": "Burberry",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "博柏利是英国最具代表性的奢侈时尚品牌，由托马斯博柏利于1856年创立。品牌以革新性的防水面料Gabardine（华达呢）闻名，1901年设计的Trench Coat风衣成为英国军装和时尚史上最重要的单"
   }
 ]
