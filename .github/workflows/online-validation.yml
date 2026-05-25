@@ -1,0 +1,119 @@
+name: 上线验证 — 第三关
+# 每次 push 到 main 后自动运行
+# 对线上已部署的 done 品牌执行独立验证（validator.py）
+#
+# 失败不阻塞部署（因为 push 本身已包含 engine 验证通过的内容）
+# 但会发送警告到日志，标记未通过的品牌
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          pip install jsonschema
+
+      - name: 运行独立验证器（所有 done 品牌）
+        id: validate
+        continue-on-error: true
+        run: |
+          python3 validator.py all 2>&1 | tee validator_output.txt
+          echo "EXIT_CODE=$?" >> $GITHUB_OUTPUT
+
+      - name: 运行内链检查
+        id: check_links
+        continue-on-error: true
+        run: |
+          python3 validator.py check-links 2>&1 | tee link_output.txt
+          echo "LINK_EXIT=$?" >> $GITHUB_OUTPUT
+
+      - name: 线上验证 — curl 首页 + 每个 done 品牌
+        id: online_check
+        continue-on-error: true
+        run: |
+          import csv, json, subprocess, sys
+          from pathlib import Path
+
+          ROOT = Path('.')
+          csv_path = ROOT / 'master.csv'
+          if not csv_path.exists():
+              print("❌ master.csv 不存在")
+              sys.exit(1)
+
+          with open(csv_path) as f:
+              rows = list(csv.DictReader(f))
+
+          done_slugs = [r['slug'] for r in rows if r.get('status','').strip() == 'done']
+          if not done_slugs:
+              print("没有 done 品牌，跳过线上验证")
+              sys.exit(0)
+
+          errors = []
+          log_lines = []
+
+          for slug in done_slugs:
+              url = f"https://pinpai.ai.in/{slug}/"
+              try:
+                  r = subprocess.run(
+                      ['curl', '-s', '-o', '/dev/null', '-w', '%{http_code}', url],
+                      capture_output=True, timeout=15
+                  )
+                  code = r.stdout.decode().strip()
+                  if code == "200":
+                      log_lines.append(f"  ✅ {slug}: {code}")
+                  else:
+                      err = f"  ❌ {slug}: HTTP {code}"
+                      errors.append(err)
+                      log_lines.append(err)
+              except Exception as e:
+                  err = f"  ❌ {slug}: {str(e)}"
+                  errors.append(err)
+                  log_lines.append(err)
+
+          # 首页
+          try:
+              r = subprocess.run(
+                  ['curl', '-s', '-o', '/dev/null', '-w', '%{http_code}', "https://pinpai.ai.in/"],
+                  capture_output=True, timeout=15
+              )
+              code = r.stdout.decode().strip()
+              log_lines.append(f"  首页: HTTP {code}")
+              if code != "200":
+                  errors.append(f"首页: {code}")
+          except Exception as e:
+              errors.append(f"首页: {str(e)}")
+
+          print("\n".join(log_lines))
+          print(f"\n总计: {len(done_slugs)} 个品牌, {len(errors)} 个失败")
+
+          # 写入验证结果
+          result = {"passed": len(errors) == 0, "errors": errors, "timestamp": __import__('datetime').datetime.now().isoformat()}
+          Path('logs/online_validation.json').write_text(json.dumps(result, indent=2))
+
+          if errors:
+              sys.exit(1)
+          print("✅ 线上验证全部通过")
+        shell: python3
+
+      - name: 验证失败 — 回写日志到仓库
+        if: failure()
+        run: |
+          echo "⚠️  线上验证发现失败品牌，已记录到 logs/online_validation.json"
+          cat logs/online_validation.json 2>/dev/null || echo "(日志文件未生成)"
+          # 不修改 master.csv（不自动降级 done→error，只通知）
