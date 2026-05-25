@@ -1,0 +1,5 @@
+id,brand,slug,status,timestamp,errors
+escher,埃舍尔Escher,escher,processing,2026-05-25 07:34:33,
+escher,埃舍尔Escher,escher,error,2026-05-25 07:34:33,MISSING_HREFLANG: 缺少hreflang标签
+escher,埃舍尔Escher,escher,processing,2026-05-25 07:34:53,
+escher,埃舍尔Escher,escher,done,2026-05-25 07:34:53,
