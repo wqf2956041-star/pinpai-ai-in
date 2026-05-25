@@ -1,13 +1,5 @@
 [
   {
-    "slug": "ikea",
-    "zh": "宜家",
-    "en": "IKEA",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "宜家是1943年由Ingvar Kamprad在瑞典艾尔姆胡特创立的全球最大家具零售商。品牌名称IKEA是其创始人姓名（Ingvar Kamprad）、家族农场（Elmtaryd）和村庄（Agunna"
-  },
-  {
     "slug": "shiseido",
     "zh": "资生堂",
     "en": "Shiseido",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "倩碧是1968年创立的美国护肤品牌，也是世界上第一个由皮肤科医生开发的化妆品品牌。品牌在雅诗兰黛旗下创立，三位创始人是皮肤科专家Norman Orentreich和Carol Phillips以及雅诗"
+  },
+  {
+    "slug": "ikea",
+    "zh": "宜家",
+    "en": "IKEA",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "宜家是1943年由Ingvar Kamprad在瑞典艾尔姆胡特创立的全球最大家具零售商。品牌名称IKEA是其创始人姓名（Ingvar Kamprad）、家族农场（Elmtaryd）和村庄（Agunna"
   }
 ]
