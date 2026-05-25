@@ -1,13 +1,5 @@
 [
   {
-    "slug": "coach",
-    "zh": "蔻驰",
-    "en": "Coach",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "蔻驰是美国标志性轻奢皮具品牌，1941年在纽约曼哈顿的皮具工坊中创立。最初是一家小型皮具工坊，以制作高质量棒球手套皮具起家。1962年推出的Glove-tanned皮革工艺将手套的柔软质感引入手袋设计"
-  },
-  {
     "slug": "michael-kors",
     "zh": "迈可·寇斯",
     "en": "Michael Kors",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "Timberland是1952年创立的美国户外鞋履品牌，以标志性大黄靴闻名。1973年推出的6寸防水靴（10061经典款）是品牌最具辨识度的产品，也是工装时尚的终极符号。\n\nTimberland大黄靴"
+  },
+  {
+    "slug": "coach",
+    "zh": "蔻驰",
+    "en": "Coach",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "蔻驰是美国标志性轻奢皮具品牌，1941年在纽约曼哈顿的皮具工坊中创立。最初是一家小型皮具工坊，以制作高质量棒球手套皮具起家。1962年推出的Glove-tanned皮革工艺将手套的柔软质感引入手袋设计"
   }
 ]
