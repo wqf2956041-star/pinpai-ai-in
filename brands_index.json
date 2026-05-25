@@ -1,13 +1,5 @@
 [
   {
-    "slug": "louis-vuitton",
-    "zh": "路易威登",
-    "en": "Louis Vuitton",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "路易威登是法国最负盛名的奢侈箱包品牌，由路易威登先生于1854年在巴黎创立。品牌最初以制作高质量的旅行箱起家，发明了平顶防水帆布行李箱，彻底改变了19世纪人们的旅行方式。\n\nLV标志性的Monogra"
-  },
-  {
     "slug": "gucci",
     "zh": "古驰",
     "en": "Gucci",
@@ -550,5 +542,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "爱马仕（Hermès）是一家法国奢侈品公司，由蒂埃利·爱马仕（Thierry Hermès）于1837年在法国巴黎创立。品牌最初以生产高级马具起家，为欧洲贵族和皇室打造精美耐用的马具产品。经过近两个世"
+  },
+  {
+    "slug": "louis-vuitton",
+    "zh": "路易威登",
+    "en": "Louis Vuitton",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "路易威登是法国最负盛名的奢侈箱包品牌，由路易威登先生于1854年在巴黎创立。品牌最初以制作高质量的旅行箱起家，发明了平顶防水帆布行李箱，彻底改变了19世纪人们的旅行方式。\n\nLV标志性的Monogra"
   }
 ]
