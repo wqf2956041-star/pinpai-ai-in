@@ -6,9 +6,9 @@
   },
   "category": "beauty",
   "founding_year": 1872,
-  "founding_location": "",
-  "founder": "",
-  "official_website": "",
+  "founding_location": "日本东京",
+  "founder": "福原有信 (Shinzo Fukuhara)",
+  "official_website": "https://www.shiseido.com",
   "main_business": [
     "护肤品",
     "化妆品",
@@ -24,12 +24,12 @@
     {
       "zh": "L'Oréal",
       "en": "L'Oréal",
-      "slug": "l-oréal"
+      "slug": "loreal"
     },
     {
       "zh": "Estée Lauder",
       "en": "Estée Lauder",
-      "slug": "estée-lauder"
+      "slug": "este-lauder"
     },
     {
       "zh": "Lancôme",

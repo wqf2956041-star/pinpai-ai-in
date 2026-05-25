@@ -6,9 +6,9 @@
   },
   "category": "auto",
   "founding_year": 1995,
-  "founding_location": "",
-  "founder": "",
-  "official_website": "",
+  "founding_location": "中国深圳",
+  "founder": "王传福",
+  "official_website": "https://www.byd.com",
   "main_business": [
     "电动汽车",
     "电池"
@@ -50,7 +50,7 @@
   "wikidata_id": "Q407394",
   "_meta": {
     "version": "2.0.0",
-    "created_at": "2026-05-25 09:45:46",
-    "validator_pass": false
+    "created_at": "2026-05-25 10:02:56",
+    "validator_pass": true
   }
 }

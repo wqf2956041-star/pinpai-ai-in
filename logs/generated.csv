@@ -207,3 +207,59 @@ google,Google,google,processing,2026-05-25 10:01:57,
 google,Google,google,done,2026-05-25 10:01:57,
 amazon,Amazon,amazon,processing,2026-05-25 10:01:57,
 amazon,Amazon,amazon,done,2026-05-25 10:01:57,
+louis-vuitton,Louis Vuitton,louis-vuitton,processing,2026-05-25 10:02:55,
+louis-vuitton,Louis Vuitton,louis-vuitton,error,2026-05-25 10:02:56,similar_brands.0.slug: 'hermès' does not match '^[a-z0-9-]+$'
+hermes,Hermès,hermes,processing,2026-05-25 10:02:56,
+hermes,Hermès,hermes,done,2026-05-25 10:02:56,
+gucci,Gucci,gucci,processing,2026-05-25 10:02:56,
+gucci,Gucci,gucci,error,2026-05-25 10:02:56,similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+chanel,Chanel,chanel,processing,2026-05-25 10:02:56,
+chanel,Chanel,chanel,error,2026-05-25 10:02:56,similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+h-m,H&M,h-m,processing,2026-05-25 10:02:56,
+h-m,H&M,h-m,done,2026-05-25 10:02:56,
+loreal,L'Oréal,loreal,processing,2026-05-25 10:02:56,
+loreal,L'Oréal,loreal,error,2026-05-25 10:02:56,similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+este-lauder,Estée Lauder,este-lauder,processing,2026-05-25 10:02:56,
+este-lauder,Estée Lauder,este-lauder,error,2026-05-25 10:02:56,similar_brands.1.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+shiseido,Shiseido,shiseido,processing,2026-05-25 10:02:56,
+shiseido,Shiseido,shiseido,error,2026-05-25 10:02:56,similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+lancome,Lancôme,lancome,processing,2026-05-25 10:02:56,
+lancome,Lancôme,lancome,done,2026-05-25 10:02:56,
+mac-cosmetics,MAC Cosmetics,mac-cosmetics,processing,2026-05-25 10:02:56,
+mac-cosmetics,MAC Cosmetics,mac-cosmetics,error,2026-05-25 10:02:56,similar_brands.3.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+rolex,Rolex,rolex,processing,2026-05-25 10:02:56,
+rolex,Rolex,rolex,done,2026-05-25 10:02:56,
+patek-philippe,Patek Philippe,patek-philippe,processing,2026-05-25 10:02:56,
+patek-philippe,Patek Philippe,patek-philippe,done,2026-05-25 10:02:56,
+audemars-piguet,Audemars Piguet,audemars-piguet,processing,2026-05-25 10:02:56,
+audemars-piguet,Audemars Piguet,audemars-piguet,done,2026-05-25 10:02:56,
+tiffany-co,Tiffany & Co.,tiffany-co,processing,2026-05-25 10:02:56,
+tiffany-co,Tiffany & Co.,tiffany-co,done,2026-05-25 10:02:56,
+cartier,Cartier,cartier,processing,2026-05-25 10:02:56,
+cartier,Cartier,cartier,done,2026-05-25 10:02:56,
+bulgari,Bulgari,bulgari,processing,2026-05-25 10:02:56,
+bulgari,Bulgari,bulgari,done,2026-05-25 10:02:56,
+toyota,Toyota,toyota,processing,2026-05-25 10:02:56,
+toyota,Toyota,toyota,done,2026-05-25 10:02:56,
+byd,BYD,byd,processing,2026-05-25 10:02:56,
+byd,BYD,byd,done,2026-05-25 10:02:56,
+samsung,Samsung,samsung,processing,2026-05-25 10:02:56,
+samsung,Samsung,samsung,error,2026-05-25 10:02:56,description_zh: '三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重
+huawei,Huawei,huawei,processing,2026-05-25 10:02:56,
+huawei,Huawei,huawei,error,2026-05-25 10:02:56,similar_brands.1: 'slug' is a required property
+nike,Nike,nike,processing,2026-05-25 10:02:56,
+nike,Nike,nike,error,2026-05-25 10:02:56,similar_brands.2: 'en' is a required property; similar_brands.2: 'slug' is a required property; simi
+puma,Puma,puma,processing,2026-05-25 10:02:56,
+puma,Puma,puma,error,2026-05-25 10:02:56,similar_brands.2: 'en' is a required property; similar_brands.2: 'slug' is a required property
+coca-cola,Coca-Cola,coca-cola,processing,2026-05-25 10:02:56,
+coca-cola,Coca-Cola,coca-cola,error,2026-05-25 10:02:56,similar_brands.0: 'en' is a required property; similar_brands.0: 'slug' is a required property
+mcdonald-s,McDonald's,mcdonald-s,processing,2026-05-25 10:02:56,
+mcdonald-s,McDonald's,mcdonald-s,error,2026-05-25 10:02:56,similar_brands.2: 'en' is a required property; similar_brands.2: 'slug' is a required property; simi
+starbucks,Starbucks,starbucks,processing,2026-05-25 10:02:56,
+starbucks,Starbucks,starbucks,error,2026-05-25 10:02:56,similar_brands.2: 'en' is a required property; similar_brands.2: 'slug' is a required property
+lego,LEGO,lego,processing,2026-05-25 10:02:56,
+lego,LEGO,lego,error,2026-05-25 10:02:56,similar_brands.1: 'en' is a required property; similar_brands.1: 'slug' is a required property; simi
+mattel,Mattel,mattel,processing,2026-05-25 10:02:56,
+mattel,Mattel,mattel,error,2026-05-25 10:02:56,similar_brands.1: 'en' is a required property; similar_brands.1: 'slug' is a required property; simi
+coach,Coach,coach,processing,2026-05-25 10:02:56,
+coach,Coach,coach,error,2026-05-25 10:02:56,similar_brands.3: 'en' is a required property; similar_brands.3: 'slug' is a required property

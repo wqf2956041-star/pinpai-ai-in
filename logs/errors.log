@@ -341,3 +341,44 @@
 [2026-05-25 10:01:57] microsoft: [WARN] 类似品牌目标不存在: google, amazon
 [2026-05-25 10:01:57] google: [WARN] 类似品牌目标不存在: amazon, samsung
 [2026-05-25 10:01:57] amazon: [WARN] 类似品牌目标不存在: samsung
+[2026-05-25 10:02:56] louis-vuitton: SCHEMA: similar_brands.0.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:02:56] hermes: [WARN] 类似品牌目标不存在: louis-vuitton, gucci, chanel
+[2026-05-25 10:02:56] gucci: SCHEMA: similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:02:56] chanel: SCHEMA: similar_brands.1.slug: 'hermès' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:02:56] loreal: SCHEMA: similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:02:56] este-lauder: SCHEMA: similar_brands.1.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:02:56] shiseido: SCHEMA: similar_brands.2.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:02:56] lancome: [WARN] 类似品牌目标不存在: loreal, este-lauder, shiseido, mac-cosmetics
+[2026-05-25 10:02:56] mac-cosmetics: SCHEMA: similar_brands.3.slug: 'lancôme' does not match '^[a-z0-9-]+$'
+[2026-05-25 10:02:56] rolex: [WARN] 类似品牌目标不存在: patek-philippe, audemars-piguet, cartier
+[2026-05-25 10:02:56] patek-philippe: [WARN] 类似品牌目标不存在: audemars-piguet, cartier
+[2026-05-25 10:02:56] audemars-piguet: [WARN] 类似品牌目标不存在: cartier
+[2026-05-25 10:02:56] tiffany-co: [WARN] 类似品牌目标不存在: cartier, bulgari
+[2026-05-25 10:02:56] cartier: [WARN] 类似品牌目标不存在: bulgari
+[2026-05-25 10:02:56] toyota: [WARN] 类似品牌目标不存在: byd
+[2026-05-25 10:02:56] samsung: SCHEMA: description_zh: '三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重工业、建筑、生物制药等领域的庞大商业帝国。三星电子是其核心子公司，是全球最大的智能手机制造商、半导体制造商和电视机制造商。三星在存储芯片、OLED显示屏等领域占据全球领先地位，2023年集团营收超过2000亿美元。' is too short
+[2026-05-25 10:02:56] huawei: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:02:56] nike: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:02:56] nike: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:02:56] nike: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:02:56] nike: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:02:56] puma: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:02:56] puma: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:02:56] coca-cola: SCHEMA: similar_brands.0: 'en' is a required property
+[2026-05-25 10:02:56] coca-cola: SCHEMA: similar_brands.0: 'slug' is a required property
+[2026-05-25 10:02:56] mcdonald-s: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:02:56] mcdonald-s: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:02:56] mcdonald-s: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:02:56] mcdonald-s: SCHEMA: similar_brands.3: 'slug' is a required property
+[2026-05-25 10:02:56] starbucks: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:02:56] starbucks: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:02:56] lego: SCHEMA: similar_brands.1: 'en' is a required property
+[2026-05-25 10:02:56] lego: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:02:56] lego: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:02:56] lego: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:02:56] mattel: SCHEMA: similar_brands.1: 'en' is a required property
+[2026-05-25 10:02:56] mattel: SCHEMA: similar_brands.1: 'slug' is a required property
+[2026-05-25 10:02:56] mattel: SCHEMA: similar_brands.2: 'en' is a required property
+[2026-05-25 10:02:56] mattel: SCHEMA: similar_brands.2: 'slug' is a required property
+[2026-05-25 10:02:56] coach: SCHEMA: similar_brands.3: 'en' is a required property
+[2026-05-25 10:02:56] coach: SCHEMA: similar_brands.3: 'slug' is a required property

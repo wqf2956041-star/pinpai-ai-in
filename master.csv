@@ -1,7 +1,7 @@
 id,brand,slug,country,industry,status
 1,埃舍尔Escher,escher,中国,fashion-luxury,done
 2,Louis Vuitton,louis-vuitton,法国,fashion-luxury,error
-3,Hermès,hermès,法国,fashion-luxury,error
+3,Hermès,hermes,法国,fashion-luxury,done
 4,Gucci,gucci,意大利,fashion-luxury,error
 5,Chanel,chanel,法国,fashion-luxury,error
 6,Christian Dior,christian-dior,法国,fashion-luxury,done
@@ -9,25 +9,25 @@ id,brand,slug,country,industry,status
 8,Balenciaga,balenciaga,西班牙,fashion-luxury,done
 9,Zara,zara,西班牙,fashion,done
 10,Uniqlo,uniqlo,日本,fashion,done
-11,H&M,h-m,瑞典,fashion,error
+11,H&M,h-m,瑞典,fashion,done
 12,Levi's,levi-s,美国,fashion,done
 13,Calvin Klein,calvin-klein,美国,fashion,done
-14,L'Oréal,l-oréal,法国,beauty,error
-15,Estée Lauder,estée-lauder,美国,beauty,error
+14,L'Oréal,loreal,法国,beauty,error
+15,Estée Lauder,este-lauder,美国,beauty,error
 16,Shiseido,shiseido,日本,beauty,error
-17,Lancôme,lancôme,法国,beauty,error
+17,Lancôme,lancome,法国,beauty,done
 18,MAC Cosmetics,mac-cosmetics,美国,beauty,error
-19,Rolex,rolex,瑞士,watch,error
-20,Patek Philippe,patek-philippe,瑞士,watch,error
-21,Audemars Piguet,audemars-piguet,瑞士,watch,error
-22,Tiffany & Co.,tiffany-co,美国,jewelry,error
-23,Cartier,cartier,法国,jewelry,error
-24,Bulgari,bulgari,意大利,jewelry,error
-25,Toyota,toyota,日本,auto,error
+19,Rolex,rolex,瑞士,watch,done
+20,Patek Philippe,patek-philippe,瑞士,watch,done
+21,Audemars Piguet,audemars-piguet,瑞士,watch,done
+22,Tiffany & Co.,tiffany-co,美国,jewelry,done
+23,Cartier,cartier,法国,jewelry,done
+24,Bulgari,bulgari,意大利,jewelry,done
+25,Toyota,toyota,日本,auto,done
 26,Mercedes-Benz,mercedes-benz,德国,auto,done
 27,BMW,bmw,德国,auto,done
 28,Ferrari,ferrari,意大利,auto,done
-29,BYD,byd,中国,auto,error
+29,BYD,byd,中国,auto,done
 30,Apple,apple,美国,tech,done
 31,Samsung,samsung,韩国,tech,error
 32,Huawei,huawei,中国,tech,error

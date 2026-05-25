@@ -8,6 +8,14 @@
     "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
   },
   {
+    "slug": "hermes",
+    "zh": "爱马仕",
+    "en": "Hermès",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "愛馬仕（Hermès）是法国顶级奢侈品牌，1837年由蒂埃里·爱马仕在巴黎创立，最初以马具和马鞍制作起家。凭借对顶级皮革的严苛筛选和精湛的手工缝制技艺，爱马仕迅速赢得欧洲皇室和贵族的青睐。品牌最具代表"
+  },
+  {
     "slug": "christian-dior",
     "zh": "Christian Dior",
     "en": "Christian Dior",
@@ -48,6 +56,14 @@
     "desc_short": "优衣库（UNIQLO）是日本最大的服装零售商，母公司迅销集团（Fast Retailing）由柳井正掌舵。品牌前身是1949年在山口县宇部市创立的一家男士服装店，1984年柳井正接手后将其转型为休闲服"
   },
   {
+    "slug": "h-m",
+    "zh": "H&M",
+    "en": "H&M",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "H&M（Hennes & Mauritz）是瑞典最大的全球快时尚服装零售商，1947年由厄林·佩尔松在韦斯特罗斯创立。品牌最初名为「Hennes」（瑞典语意为「她的」），专营女装；1968年收购男装品"
+  },
+  {
     "slug": "levi-s",
     "zh": "李维斯",
     "en": "Levi's",
@@ -62,6 +78,70 @@
     "category": "fashion",
     "premium": false,
     "desc_short": "卡尔文·克莱因（Calvin Klein）是美国最具标志性的生活方式时尚品牌之一，1968年由卡尔文·克莱因在纽约创立。品牌以极简主义美学、干净的线条和性感广告风格闻名于世。CK在20世纪70年代率先"
+  },
+  {
+    "slug": "lancome",
+    "zh": "兰蔻",
+    "en": "Lancôme",
+    "category": "beauty",
+    "premium": false,
+    "desc_short": "Lancôme（兰蔻）是源自法国的全球顶级奢侈美妆品牌，由阿芒·珀蒂让于1935年在法国巴黎创立。品牌名称灵感来自法国中部的Lancôme城堡，标志性的玫瑰Logo则象征着女性优雅与自然之美。创立当年"
+  },
+  {
+    "slug": "rolex",
+    "zh": "Rolex",
+    "en": "Rolex",
+    "category": "watch",
+    "premium": false,
+    "desc_short": "Rolex（劳力士）是全球最负盛名的瑞士奢侈腕表品牌，由汉斯·威尔斯多夫于1905年在伦敦创立，1908年正式注册'Rolex'商标，后于1919年将总部迁至瑞士日内瓦。劳力士在钟表发展史上拥有众多里"
+  },
+  {
+    "slug": "patek-philippe",
+    "zh": "Patek Philippe",
+    "en": "Patek Philippe",
+    "category": "watch",
+    "premium": false,
+    "desc_short": "Patek Philippe（百达翡丽）是瑞士日内瓦最负盛名的顶级独立制表品牌，由安东尼·百达（Antoni Patek）和让·阿德里安·翡丽（Jean-Adrien Philippe）于1839年共"
+  },
+  {
+    "slug": "audemars-piguet",
+    "zh": "Audemars Piguet",
+    "en": "Audemars Piguet",
+    "category": "watch",
+    "premium": false,
+    "desc_short": "Audemars Piguet（爱彼）是瑞士顶级奢侈腕表品牌，由朱尔-路易·奥德玛（Jules-Louis Audemars）和爱德华-奥古斯特·皮盖（Edward-Auguste Piguet）于1"
+  },
+  {
+    "slug": "tiffany-co",
+    "zh": "Tiffany & Co.",
+    "en": "Tiffany & Co.",
+    "category": "jewelry",
+    "premium": false,
+    "desc_short": "Tiffany & Co.（蒂芙尼）是美国最具标志性的奢侈珠宝及银器品牌，由查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）于1837年在纽约市创立，最初以文具和精品杂货店起家，后"
+  },
+  {
+    "slug": "cartier",
+    "zh": "Cartier",
+    "en": "Cartier",
+    "category": "jewelry",
+    "premium": false,
+    "desc_short": "Cartier（卡地亚）是全球最具影响力的奢华珠宝与腕表品牌之一，由路易-弗朗索瓦·卡地亚（Louis-François Cartier）于1847年在法国巴黎创立。品牌被誉为'皇帝的珠宝商，珠宝商的"
+  },
+  {
+    "slug": "bulgari",
+    "zh": "Bulgari",
+    "en": "Bulgari",
+    "category": "jewelry",
+    "premium": false,
+    "desc_short": "Bulgari（宝格丽）是源自意大利的全球顶级奢侈珠宝品牌，由希腊裔银匠索蒂里奥斯·布尔加里斯（Sotirios Voulgaris）于1884年在意大利罗马创立。品牌名称源自创始人家族的希腊姓氏，但"
+  },
+  {
+    "slug": "toyota",
+    "zh": "Toyota",
+    "en": "Toyota",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "Toyota（丰田）是全球最大的汽车制造商之一，由丰田喜一郎（Kiichiro Toyoda）于1937年从丰田自动织机制作所独立出来创立，总部位于日本爱知县丰田市。丰田以'精益生产'（Lean Pr"
   },
   {
     "slug": "mercedes-benz",
@@ -86,6 +166,14 @@
     "category": "auto",
     "premium": false,
     "desc_short": "法拉利（Ferrari）是全球最具传奇色彩的超级跑车制造商，由恩佐·法拉利（Enzo Ferrari）于1947年在意大利马拉内罗创立。品牌的跃马标志源自第一次世界大战中意大利王牌飞行员弗朗切斯科·巴"
+  },
+  {
+    "slug": "byd",
+    "zh": "BYD",
+    "en": "BYD",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "BYD（比亚迪，全称Build Your Dreams）是中国最具创新力的新能源汽车制造商和全球领先的动力电池生产商，由王传福于1995年在深圳创立。公司最初以镍镉电池和锂离子电池研发生产起家，凭借成"
   },
   {
     "slug": "apple",
