@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pinpai.ai.in — 全球品牌百科</title>
-    <meta name="description" content="pinpai.ai.in 是一个开放的全球品牌百科网站，收录各类品牌信息，支持10种语言。为您创建品牌百科页面，推荐置顶，世界可见。">
+    <title>pinpai.ai.in — 全球品牌索引</title>
+    <meta name="description" content="全球品牌索引 — 开放 · 10种语言 · 精准收录。全球品牌实体索引系统，每个品牌一个页面，覆盖全品类。">
     <style>
         * { box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 20px; line-height: 1.8; color: #222; background: #f8f9fa; }
@@ -41,7 +41,7 @@
 </head>
 <body>
     <h1>🌐 pinpai.ai.in</h1>
-    <p class="subtitle">全球品牌百科 — 开放 · 10种语言 · 精准收录</p>
+    <p class="subtitle">全球品牌索引 — 开放 · 10种语言 · 精准收录</p>
 
     <div class="search-box">
         <input type="text" id="search-input" placeholder="搜索品牌..." onkeydown="if(event.key==='Enter')goSearch()">
@@ -50,8 +50,8 @@
     </div>
 
     <div class="notice">
-        <h2>📢 品牌百科收录</h2>
-        <p>无论是大品牌还是小品牌、新品牌还是老品牌、国内品牌还是海外品牌，我们都可以为您创建品牌百科页面。支持<strong>10种语言</strong>（中文、English、Français、Español、Deutsch、日本語、한국어、Русский、Português、العربية），一次收录，全球可见。推荐置顶，获取更多曝光。</p>
+        <h2>📢 全球品牌索引收录</h2>
+        <p>无论是大品牌还是小品牌、新品牌还是老品牌、国内品牌还是海外品牌，我们都可以为您创建独立索引页面。支持<strong>10种语言</strong>（中文、English、Français、Español、Deutsch、日本語、한국어、Русский、Português、العربية），一次收录，全球可见。推荐置顶，获取更多曝光。</p>
         <p>如有品牌希望被收录，请联系我们：</p>
         <div class="contact">
             <strong>📧 Telegram：</strong> <a href="https://t.me/Escher_cn">@Escher_cn</a>
@@ -65,7 +65,7 @@
     </div>
 
     <footer>
-        <p>© <a href="https://pinpai.ai.in">pinpai.ai.in</a> — 全球品牌百科 | 收录品牌 · 支持10种语言</p>
+        <p>© <a href="https://pinpai.ai.in">pinpai.ai.in</a> — 全球品牌索引 | 收录品牌 · 支持10种语言</p>
     </footer>
 
     <script>
@@ -97,10 +97,6 @@
             if (!m.length) { dd.style.display = 'none'; return; }
             dd.innerHTML = m.map(b => '<a href="/' + b.slug + '/">🔹 ' + (b.zh || b.slug) + ' (' + (b.en || '') + ')</a>').join('');
             dd.style.display = 'block';
-        });
-
-        document.addEventListener('click', function(e) {
-            if (!e.target.closest('.search-box')) document.getElementById('search-dropdown').style.display = 'none';
         });
     </script>
 </body>

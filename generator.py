@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""
-品牌百科生成器 — pinpai.ai.in
+""""
+全球品牌索引生成器 — pinpai.ai.in
 ======================================
+全球品牌实体索引系统 · master-brands.csv 驱动
+
 用法：
   python3 generator.py new          # 交互式添加一个新品牌
   python3 generator.py list         # 列出已有品牌
@@ -181,7 +183,7 @@ def write_brand(brand_data):
 
     # Git commit + push
     run_git(["add", slug + "/", "brands_index.json", "search.html"])
-    run_git(["commit", "-m", f"品牌百科: {index[-1]['zh']} {index[-1]['en']} - {datetime.now().strftime('%Y-%m-%d %H:%M')}"])
+    run_git(["commit", "-m", f"全球品牌索引: {index[-1]['zh']} {index[-1]['en']} - {datetime.now().strftime('%Y-%m-%d %H:%M')}"])
     run_git(["push", "origin", "main"])
 
     name_zh = brand_data.get("names", {}).get("zh-CN", slug)

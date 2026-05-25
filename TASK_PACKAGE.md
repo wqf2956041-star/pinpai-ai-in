@@ -14,7 +14,7 @@
 | 🚇 token-1.com | 🔴 P0 | 巡检稳定+TG获客 | 核心收入来源 |
 | 👜 bags.bbroot.com | 🔴 P0 | 10新品×10语言 | 核心竞争力 |
 | 🧦 stockings.bbroot.com | 🔴 P0 | 10新品×10语言 | 丝袜站 |
-| 🌐 pinpai.ai.in | 🔴 P0 | 50品牌×10语言 | 新项目，品牌百科 |
+|| 🌐 pinpai.ai.in | 🔴 P0 | 50品牌×10语言 | 新项目，全球品牌索引 |
 | 📖 escher-bags | 🟢 已完成 | — | 品牌专栏，不再碰 |
 | 💝 interest.cc.cd | 🟡 P1 | 每日更新 | 情趣用品 |
 | 📚 werights.xqt.cn | 🟡 P1 | 10篇知识产权文章 | 爬取+创作+多语言 |
@@ -93,11 +93,11 @@
 
 ---
 
-## 四、🌐 pinpai.ai.in — 全球品牌百科站
+## 四、🌐 pinpai.ai.in — 全球品牌索引
 
 ### 基本信息
 - **域名：** pinpai.ai.in（.in后缀，约30元/年）
-- **定位：** 全球品牌百科，纯文字SEO
+- **定位：** 全球品牌索引，纯文字SEO
 - **托管：** GitHub Pages
 - **盈利：** Google AdSense广告
 - **不侵权：** 纯文字，无图片
