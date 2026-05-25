@@ -1,13 +1,5 @@
 [
   {
-    "slug": "nike",
-    "zh": "耐克",
-    "en": "Nike",
-    "category": "奢侈品/时尚",
-    "premium": false,
-    "desc_short": "耐克是全球最大的运动品牌，由比尔鲍尔曼和菲尔奈特于1964年以Blue Ribbon Sports之名创立，1971年正式更名为Nike。品牌的Swoosh标志由波特兰州立大学学生Carolyn Da"
-  },
-  {
     "slug": "adidas",
     "zh": "阿迪达斯",
     "en": "Adidas",
@@ -550,5 +542,13 @@
     "category": "奢侈品/时尚",
     "premium": false,
     "desc_short": "H&M是瑞典全球快时尚巨头，由厄林佩尔森于1947年创立。最初名为Hennes（瑞典语意为她的），以女装起家。1968年收购男装品牌Mauritz，正式更名为H&M。品牌以高性价比时装和可持续时尚理念"
+  },
+  {
+    "slug": "nike",
+    "zh": "耐克",
+    "en": "Nike",
+    "category": "奢侈品/时尚",
+    "premium": false,
+    "desc_short": "耐克是全球最大的运动品牌，由比尔鲍尔曼和菲尔奈特于1964年以Blue Ribbon Sports之名创立，1971年正式更名为Nike。品牌的Swoosh标志由波特兰州立大学学生Carolyn Da"
   }
 ]
