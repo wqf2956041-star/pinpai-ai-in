@@ -1,231 +1,70 @@
-#!/usr/bin/env python3
-"""
-为批次3（科技/运动/食品/潮玩）17个品牌生成品牌描述内容
-使用预定义高质量内容，直接写入 brand.json
-"""
 import json
 from pathlib import Path
 
 ROOT = Path("/workspace/pinpai-ai-in")
 
-# 品牌内容数据
-brand_content = {
-    "apple": {
-        "names": {"zh-CN": "苹果", "en": "Apple"},
-        "founding_year": "1976",
-        "founder": "史蒂夫·乔布斯",
-        "official_website": "https://www.apple.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q312",
-        "description_zh": "苹果（Apple Inc.）是全球最具价值的科技公司之一，由史蒂夫·乔布斯、史蒂夫·沃兹尼亚克和罗纳德·韦恩于1976年4月1日在美国加利福尼亚州库比蒂诺创立。苹果以其创新的消费电子产品闻名于世，包括Mac电脑、iPhone智能手机、iPad平板电脑、Apple Watch智能手表和AirPods无线耳机等。苹果的iOS操作系统和macOS系统构建了强大的生态系统，App Store拥有数百万应用。苹果以极简设计、高端定位和卓越用户体验著称，是全球第一家市值突破3万亿美元的公司。",
-        "languages": {"en": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California. Founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976, Apple designs, develops, and sells consumer electronics, computer software, and online services. Known for iconic products like the iPhone, Mac, iPad, and Apple Watch, the company is celebrated for its minimalist design philosophy and seamless ecosystem integration. Apple became the world's first publicly traded company to reach a $3 trillion market capitalization."},
-        "similar_brands": [{"zh":"谷歌","en":"Google","slug":"google"},{"zh":"微软","en":"Microsoft","slug":"microsoft"},{"zh":"三星","en":"Samsung","slug":"samsung"},{"zh":"索尼","en":"Sony","slug":"sony"},{"zh":"英伟达","en":"NVIDIA","slug":"nvidia"}]
-    },
-    "google": {
-        "names": {"zh-CN": "谷歌", "en": "Google"},
-        "founding_year": "1998",
-        "founder": "谢尔盖·布林",
-        "official_website": "https://about.google/",
-        "founding_location": "美国",
-        "wikidata_id": "Q95",
-        "description_zh": "Google（谷歌）是全球最大的搜索引擎公司，由拉里·佩奇和谢尔盖·布林于1998年9月4日在美国加利福尼亚州创立。Google的核心产品是搜索引擎，占据全球搜索市场90%以上的份额。此外，Google还拥有YouTube视频平台、Android移动操作系统、Google Maps地图服务、Google Cloud云计算平台等众多产品。Google以「整合全球信息，使人人皆可访问并从中受益」为使命，是Alphabet Inc.的全资子公司，2023年营业收入超过3000亿美元。",
-        "languages": {"en": "Google LLC is an American multinational technology company specializing in Internet-related services and products. Founded by Larry Page and Sergey Brin in 1998, Google's search engine is the world's most popular, handling over 90% of global search queries. The company also develops Android, YouTube, Google Maps, Gmail, and Google Cloud. Restructured under Alphabet Inc. in 2015, Google generates over $300 billion in annual revenue primarily through online advertising."},
-        "similar_brands": [{"zh":"苹果","en":"Apple","slug":"apple"},{"zh":"微软","en":"Microsoft","slug":"microsoft"},{"zh":"亚马逊","en":"Amazon","slug":"amazon"},{"zh":"三星","en":"Samsung","slug":"samsung"},{"zh":"英伟达","en":"NVIDIA","slug":"nvidia"}]
-    },
-    "amazon": {
-        "names": {"zh-CN": "亚马逊", "en":"Amazon"},
-        "founding_year": "1994",
-        "founder": "杰夫·贝佐斯",
-        "official_website": "https://www.amazon.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q3884",
-        "description_zh": "Amazon（亚马逊）是全球最大的电子商务和云计算公司，由杰夫·贝佐斯于1994年7月5日在美国华盛顿州西雅图创立。亚马逊最初是一家在线书店，随后迅速扩展成为「万物商店」，涵盖几乎所有品类的商品零售。亚马逊还通过Amazon Web Services（AWS）占据了全球云计算市场近三分之一的份额。此外，亚马逊拥有Kindle电子阅读器、Alexa智能语音助手、Prime Video流媒体等产品线。亚马逊是全球市值最高的公司之一，2023年营收超过5000亿美元。",
-        "languages": {"en": "Amazon.com, Inc. is an American multinational technology company focused on e-commerce, cloud computing, digital streaming, and artificial intelligence. Founded by Jeff Bezos in 1994, Amazon started as an online bookstore and rapidly expanded into the world's largest online retailer. Its cloud computing division, Amazon Web Services (AWS), is a leading provider of cloud infrastructure. Amazon also produces Kindle e-readers, Echo smart speakers with Alexa, and Prime Video streaming service."},
-        "similar_brands": [{"zh":"苹果","en":"Apple","slug":"apple"},{"zh":"谷歌","en":"Google","slug":"google"},{"zh":"微软","en":"Microsoft","slug":"microsoft"},{"zh":"三星","en":"Samsung","slug":"samsung"}]
-    },
-    "samsung": {
-        "names": {"zh-CN":"三星","en":"Samsung"},
-        "founding_year": "1938",
-        "founder": "李秉喆",
-        "official_website": "https://www.samsung.com/",
-        "founding_location": "韩国",
-        "wikidata_id": "Q20716",
-        "description_zh": "三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重工业、建筑、生物制药等领域的庞大商业帝国。三星电子是其核心子公司，是全球最大的智能手机制造商、半导体制造商和电视机制造商。三星在存储芯片、OLED显示屏等领域占据全球领先地位，2023年集团营收超过2000亿美元。",
-        "languages": {"en": "Samsung Group is a South Korean multinational conglomerate headquartered in Samsung Town, Seoul. Founded by Lee Byung-chul in 1938 as a trading company, Samsung has grown into one of the world's largest companies. Samsung Electronics, the flagship division, is the world's largest manufacturer of smartphones, memory chips, and TVs. The group also encompasses shipbuilding, construction, insurance, and biotechnology sectors."},
-        "similar_brands": [{"zh":"苹果","en":"Apple","slug":"apple"},{"zh":"谷歌","en":"Google","slug":"google"},{"zh":"索尼","en":"Sony","slug":"sony"},{"zh":"华为","en":"Huawei","slug":"huawei"}]
-    },
-    "huawei": {
-        "names": {"zh-CN":"华为","en":"Huawei"},
-        "founding_year": "1987",
-        "founder": "任正非",
-        "official_website": "https://www.huawei.com/",
-        "founding_location": "中国",
-        "wikidata_id": "Q160120",
-        "description_zh": "华为（Huawei Technologies Co., Ltd.）是全球领先的信息与通信技术（ICT）基础设施和智能终端提供商，由任正非于1987年创立于中国深圳。华为是全球最大的电信设备制造商，在5G技术领域拥有最多的核心专利。华为的消费者业务包括华为手机、平板、PC和可穿戴设备，曾经是全球第二大智能手机制造商。华为还提供云计算、人工智能、智能汽车解决方案等业务，2023年营收超过7000亿元人民币。",
-        "languages": {"en": "Huawei Technologies Co., Ltd. is a Chinese multinational technology corporation headquartered in Shenzhen. Founded by Ren Zhengfei in 1987, Huawei is the world's largest telecommunications equipment manufacturer and a leading provider of ICT infrastructure and smart devices. The company holds the largest number of 5G essential patents globally. Despite facing international trade restrictions, Huawei continues to innovate in smartphones, cloud computing, AI, and automotive solutions."},
-        "similar_brands": [{"zh":"三星","en":"Samsung","slug":"samsung"},{"zh":"小米","en":"Xiaomi"},{"zh":"苹果","en":"Apple","slug":"apple"},{"zh":"索尼","en":"Sony","slug":"sony"}]
-    },
-    "sony": {
-        "names": {"zh-CN":"索尼","en":"Sony"},
-        "founding_year": "1946",
-        "founder": "井深大",
-        "official_website": "https://www.sony.com/",
-        "founding_location": "日本",
-        "wikidata_id": "Q41187",
-        "description_zh": "索尼集团（Sony Group Corporation）是日本最具代表性的跨国综合电子娱乐企业，由井深大和盛田昭夫于1946年5月7日在东京创立，最初名为东京通信工业株式会社。索尼以随身听Walkman、PlayStation游戏机、Bravia电视、Alpha微单相机等标志性产品闻名世界。索尼是全球最大的游戏和音乐娱乐公司之一，旗下PlayStation是全球最畅销的游戏主机之一。此外，索尼在影视制作、半导体图像传感器等领域也占据领先地位。",
-        "languages": {"en": "Sony Group Corporation is a Japanese multinational conglomerate headquartered in Tokyo. Founded by Masaru Ibuka and Akio Morita in 1946 as Tokyo Tsushin Kogyo, Sony became a global electronics icon with products like the Walkman, PlayStation, Bravia TV, and Alpha cameras. Today, Sony is one of the world's largest entertainment companies, encompassing gaming (PlayStation), music (Sony Music), film (Sony Pictures), and imaging sensors for smartphones."},
-        "similar_brands": [{"zh":"三星","en":"Samsung","slug":"samsung"},{"zh":"苹果","en":"Apple","slug":"apple"},{"zh":"华为","en":"Huawei","slug":"huawei"},{"zh":"英伟达","en":"NVIDIA","slug":"nvidia"}]
-    },
-    "nvidia": {
-        "names": {"zh-CN":"英伟达","en":"NVIDIA"},
-        "founding_year": "1993",
-        "founder": "黄仁勋",
-        "official_website": "https://www.nvidia.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q182477",
-        "description_zh": "NVIDIA（英伟达）是全球领先的图形处理器（GPU）和人工智能计算公司，由黄仁勋、克里斯·马拉科夫斯基和柯蒂斯·普里姆于1993年4月在美国加利福尼亚州圣克拉拉创立。NVIDIA的GeForce系列显卡是全球游戏玩家的首选，而其Tesla/Ampere/Hopper系列的AI加速芯片则在数据中心和人工智能领域占据绝对主导地位。NVIDIA的CUDA并行计算平台已成为AI训练和推理的事实标准。2024年，NVIDIA成为全球市值最高的半导体公司。",
-        "languages": {"en": "NVIDIA Corporation is an American multinational technology company headquartered in Santa Clara, California. Founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993, NVIDIA is the world's leading designer of graphics processing units (GPUs) for gaming, professional visualization, and artificial intelligence. Its CUDA platform has become the industry standard for GPU-accelerated computing, powering most AI training workloads. NVIDIA's data center GPU business has grown explosively with the AI boom."},
-        "similar_brands": [{"zh":"苹果","en":"Apple","slug":"apple"},{"zh":"微软","en":"Microsoft","slug":"microsoft"},{"zh":"谷歌","en":"Google","slug":"google"},{"zh":"亚马逊","en":"Amazon","slug":"amazon"},{"zh":"索尼","en":"Sony","slug":"sony"}]
-    },
-    "nike": {
-        "names": {"zh-CN":"耐克","en":"Nike"},
-        "founding_year": "1964",
-        "founder": "菲尔·奈特",
-        "official_website": "https://www.nike.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q218202",
-        "description_zh": "耐克（Nike, Inc.）是全球最大的运动服饰和鞋类制造商，由菲尔·奈特和比尔·鲍尔曼于1964年创立，最初名为Blue Ribbon Sports，1971年更名为Nike。耐克以其标志性的Swoosh勾形标志和「Just Do It」口号闻名于世。耐克签约了包括迈克尔·乔丹、勒布朗·詹姆斯、克里斯蒂亚诺·罗纳尔多在内的众多顶级运动员，Air Jordan系列是全球最畅销的运动鞋品牌之一。耐克2023财年营收超过510亿美元，在全球拥有超过7万名员工。",
-        "languages": {"en": "Nike, Inc. is an American multinational corporation that designs, develops, and sells athletic footwear, apparel, equipment, accessories, and services. Founded by Bill Bowerman and Phil Knight in 1964 as Blue Ribbon Sports, the company was renamed Nike in 1971 after the Greek goddess of victory. Famous for its Swoosh logo and 'Just Do It' slogan, Nike is the world's largest supplier of athletic shoes and apparel. The Air Jordan brand, born from Michael Jordan's signature line, remains an iconic cultural phenomenon."},
-        "similar_brands": [{"zh":"阿迪达斯","en":"Adidas","slug":"adidas"},{"zh":"彪马","en":"Puma","slug":"puma"},{"zh":"安德玛"},{"zh":"新百伦"}]
-    },
-    "adidas": {
-        "names": {"zh-CN":"阿迪达斯","en":"Adidas"},
-        "founding_year": "1949",
-        "founder": "阿道夫·达斯勒",
-        "official_website": "https://www.adidas.com/",
-        "founding_location": "德国",
-        "wikidata_id": "Q3895",
-        "description_zh": "阿迪达斯（Adidas AG）是德国著名的运动用品制造商，由阿道夫·「阿迪」·达斯勒于1949年在德国黑措根奥拉赫创立。阿迪达斯以其三条纹标志闻名全球，是全球第二大运动品牌。阿迪达斯的产品线覆盖足球、篮球、跑步、训练、时尚生活等多个领域。品牌历史上最著名的产品包括Stan Smith网球鞋、Superstar贝壳头鞋、Ultraboost跑鞋等。阿迪达斯通过与Kanye West合作的Yeezy系列和与众多设计师的联名，成功打入高端时尚市场。",
-        "languages": {"en": "Adidas AG is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel, and accessories. Founded by Adolf 'Adi' Dassler in 1949 in Herzogenaurach, Germany, Adidas is the largest sportswear manufacturer in Europe and the second-largest globally. Known for its three-stripe logo, Adidas produces iconic products like the Stan Smith, Superstar, and Ultraboost. The company has successfully bridged sportswear and high fashion through collaborations with designers like Yohji Yamamoto and Kanye West."},
-        "similar_brands": [{"zh":"耐克","en":"Nike","slug":"nike"},{"zh":"彪马","en":"Puma","slug":"puma"},{"zh":"汤米·希尔费格","en":"Tommy Hilfiger","slug":"tommy-hilfiger"},{"zh":"卡尔文·克莱因","en":"Calvin Klein","slug":"calvin-klein"}]
-    },
-    "puma": {
-        "names": {"zh-CN":"彪马","en":"Puma"},
-        "founding_year": "1948",
-        "founder": "鲁道夫·达斯勒",
-        "official_website": "https://www.puma.com/",
-        "founding_location": "德国",
-        "wikidata_id": "Q1572564",
-        "description_zh": "彪马（Puma SE）是德国知名的运动用品品牌，由鲁道夫·达斯勒于1948年在德国黑措根奥拉赫创立。彪马与阿迪达斯同源于达斯勒家族，鲁道夫与弟弟阿道夫分家后创立了彪马。彪马以其标志性的美洲狮跳跃标志和Formstrip条纹设计著称。彪马在足球、跑步、赛车运动领域拥有深厚传统，签约了包括内马尔、刘易斯·汉密尔顿、尤塞恩·博尔特在内的众多顶级运动员。彪马近年来通过与Rihanna、Selena Gomez等明星合作，成功提升了时尚影响力。",
-        "languages": {"en": "Puma SE is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel, and accessories. Founded by Rudolf Dassler in 1948, Puma originated from the same family business that also spawned Adidas. Known for its leaping cat logo and Formstrip design, Puma has strong roots in football, running, and motorsports. The brand has signed legendary athletes including Pelé, Usain Bolt, Lewis Hamilton, and Neymar. In recent years, Puma has strengthened its fashion credentials through partnerships with Rihanna and Selena Gomez."},
-        "similar_brands": [{"zh":"阿迪达斯","en":"Adidas","slug":"adidas"},{"zh":"耐克","en":"Nike","slug":"nike"},{"zh":"锐步"}]
-    },
-    "coca-cola": {
-        "names": {"zh-CN":"可口可乐","en":"Coca-Cola"},
-        "founding_year": "1886",
-        "founder": "约翰·彭伯顿",
-        "official_website": "https://www.coca-cola.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q2813",
-        "description_zh": "可口可乐（The Coca-Cola Company）是全球最大的饮料公司，由药剂师约翰·斯蒂斯·彭伯顿于1886年在佐治亚州亚特兰大创立。可口可乐的配方由彭伯顿发明，最初作为一种药用饮品在雅各布斯药房出售。可口可乐的标志性弧形瓶身设计于1915年推出，成为全球最知名的包装设计之一。可口可乐公司旗下拥有超过500个品牌，包括雪碧、芬达、健怡可乐、零度可乐等。可口可乐产品在200多个国家和地区销售，日均消费量超过19亿杯。",
-        "languages": {"en": "The Coca-Cola Company is an American multinational beverage corporation headquartered in Atlanta, Georgia. Invented by pharmacist John Stith Pemberton in 1886, Coca-Cola is the world's most recognized soft drink brand. The company's iconic contour bottle was introduced in 1915. Coca-Cola owns over 500 brands including Sprite, Fanta, Diet Coke, and Coke Zero. The company operates in more than 200 countries and serves over 1.9 billion servings daily. Coca-Cola's marketing campaigns, including the iconic Santa Claus imagery, have shaped modern advertising."},
-        "similar_brands": [{"zh":"百事可乐"},{"zh":"星巴克","en":"Starbucks","slug":"starbucks"},{"zh":"麦当劳","en":"McDonald's","slug":"mcdonald-s"}]
-    },
-    "mcdonald-s": {
-        "names": {"zh-CN":"麦当劳","en":"McDonald's"},
-        "founding_year": "1955",
-        "founder": "雷·克洛克",
-        "official_website": "https://www.mcdonalds.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q38076",
-        "description_zh": "麦当劳（McDonald's Corporation）是全球最大的快餐连锁企业，由雷·克洛克于1955年在美国伊利诺伊州创立。麦当劳最初由理查德和莫里斯·麦克唐纳兄弟于1940年创立，雷·克洛克将之发展为全球连锁帝国。麦当劳以其「金拱门」标志闻名于世，是全球最具辨识度的品牌之一。核心产品包括巨无霸汉堡、薯条、麦乐鸡、开心乐园餐等。麦当劳在全球100多个国家和地区拥有超过3.8万家餐厅，日均服务约6900万名顾客。",
-        "languages": {"en": "McDonald's Corporation is an American multinational fast food chain, the world's largest by revenue. Founded by Ray Kroc in 1955 after acquiring the original McDonald's brothers' restaurant in San Bernardino, California. Golden Arches is one of the most recognized symbols globally. McDonald's serves iconic items including the Big Mac, Chicken McNuggets, French Fries, and Happy Meals. With over 38,000 locations in more than 100 countries, McDonald's serves approximately 69 million customers daily."},
-        "similar_brands": [{"zh":"星巴克","en":"Starbucks","slug":"starbucks"},{"zh":"可口可乐","en":"Coca-Cola","slug":"coca-cola"},{"zh":"汉堡王"},{"zh":"肯德基"}]
-    },
-    "starbucks": {
-        "names": {"zh-CN":"星巴克","en":"Starbucks"},
-        "founding_year": "1971",
-        "founder": "霍华德·舒尔茨",
-        "official_website": "https://www.starbucks.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q37158",
-        "description_zh": "星巴克（Starbucks Corporation）是全球最大的咖啡连锁品牌，由杰瑞·鲍德温、泽夫·西格尔和戈登·鲍克于1971年在美国华盛顿州西雅图创立。星巴克最初是一家高档咖啡豆零售商，1987年在霍华德·舒尔茨的领导下转型为意式咖啡连锁店。星巴克以其绿色美人鱼标志闻名，在全球80多个市场拥有超过3.5万家门店。星巴克不仅是咖啡店，更创造了「第三空间」概念——除了家和工作场所之外的生活空间。星巴克的南瓜拿铁、星冰乐等季节限定产品深受消费者喜爱。",
-        "languages": {"en": "Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. Founded in 1971 by Jerry Baldwin, Zev Siegl, and Gordon Bowker, Starbucks was transformed into a global coffeehouse phenomenon by Howard Schultz. The Siren logo is recognized worldwide across over 35,000 locations in 80+ markets. Starbucks pioneered the 'third place' concept — a comfortable space between home and work. Seasonal offerings like the Pumpkin Spice Latte have achieved cult status."},
-        "similar_brands": [{"zh":"麦当劳","en":"McDonald's","slug":"mcdonald-s"},{"zh":"可口可乐","en":"Coca-Cola","slug":"coca-cola"},{"zh":"瑞幸咖啡"}]
-    },
-    "lego": {
-        "names": {"zh-CN":"乐高","en":"LEGO"},
-        "founding_year": "1932",
-        "founder": "奥勒·基尔克·克里斯蒂安森",
-        "official_website": "https://www.lego.com/",
-        "founding_location": "丹麦",
-        "wikidata_id": "Q8957",
-        "description_zh": "乐高（LEGO）是全球最大的玩具制造商之一，由奥勒·基尔克·克里斯蒂安森于1932年在丹麦比隆创立。公司名LEGO源自丹麦语「leg godt」，意为「玩得好」。乐高最著名的产品是带有凸起圆点的塑料积木系统，1949年首次推出，1958年获得专利。乐高积木的独特之处在于任意两块积木都可以完美拼接，创造了无限可能的建筑世界。乐高业务涵盖玩具制造、主题公园（乐高乐园）、电影制作（《乐高大电影》系列）、电子游戏等多个领域。",
-        "languages": {"en": "LEGO Group is a Danish family-owned toy company founded by Ole Kirk Christiansen in 1932 in Billund, Denmark. The name LEGO is a contraction of the Danish phrase 'leg godt' meaning 'play well'. The iconic interlocking plastic brick system was introduced in 1949 and patented in 1958. The unique clutch power system makes each brick compatible with every other brick ever produced. LEGO has expanded into themed sets, video games, movies (The LEGO Movie franchise), and amusement parks (LEGOLAND)."},
-        "similar_brands": [{"zh":"美泰","en":"Mattel","slug":"mattel"},{"zh":"万代南梦宫"},{"zh":"孩之宝"}]
-    },
-    "mattel": {
-        "names": {"zh-CN":"美泰","en":"Mattel"},
-        "founding_year": "1945",
-        "founder": "哈罗德·马特森",
-        "official_website": "https://www.mattel.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q596139",
-        "description_zh": "美泰（Mattel, Inc.）是全球最大的玩具公司之一，由哈罗德·「马特」·马特森和艾略特·汉德勒于1945年在美国加利福尼亚州创立。美泰最著名的产品是芭比娃娃（Barbie），由露丝·汉德勒于1959年创造，至今仍是全球最畅销的时尚玩偶品牌。美泰还拥有风火轮（Hot Wheels）小汽车、费雪（Fisher-Price）婴幼儿玩具、美国女孩（American Girl）玩偶、UNO纸牌等众多知名品牌。2023年，随着《芭比》真人电影全球票房突破14亿美元，美泰品牌影响力达到新高峰。",
-        "languages": {"en": "Mattel, Inc. is an American multinational toy manufacturing company founded in 1945 by Harold 'Matt' Matson and Elliot Handler in El Segundo, California. Mattel is best known as the creator of Barbie (1959), the world's most famous fashion doll, and Hot Wheels die-cast cars (1968). The company also owns Fisher-Price, American Girl, UNO, and MEGA Brands. The 2023 'Barbie' feature film, which grossed over $1.4 billion globally, dramatically boosted Mattel's brand visibility and cultural relevance."},
-        "similar_brands": [{"zh":"乐高","en":"LEGO","slug":"lego"},{"zh":"孩之宝"},{"zh":"万代南梦宫"}]
-    },
-    "coach": {
-        "names": {"zh-CN":"蔻驰","en":"Coach"},
-        "founding_year": "1941",
-        "founder": "Lillian 和 Miles Cahn",
-        "official_website": "https://www.coach.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q514378",
-        "description_zh": "蔻驰（Coach, Inc.）是源自美国纽约的全球知名奢华时尚品牌，由Lillian和Miles Cahn于1941年在曼哈顿创立，最初是一家小型皮具作坊。Coach以优质皮革手袋闻名，其设计融合了美式实用主义与高端时尚感。品牌经典产品包括Willow手袋、Tabby肩包、Rogue系列等。Coach以其标志性的C字印花和马车标志著称，定位于「触手可及的奢华」——比顶级奢侈品牌价格更亲民，但品质毫不妥协。Coach母公司Tapestry, Inc.也是Kate Spade和Stuart Weitzman的母公司。",
-        "languages": {"en": "Coach, Inc. is an American luxury fashion house founded in 1941 in New York City. Known for its quality leather goods, Coach occupies the 'accessible luxury' segment — offering premium handbags, wallets, and accessories at more approachable price points than top-tier European luxury houses. Signature products include the Willow bag, Tabby shoulder bag, and Rogue collection. Coach is recognizable by its 'C' monogram print and horse-and-carriage logo. The brand is owned by Tapestry, Inc., which also owns Kate Spade and Stuart Weitzman."},
-        "similar_brands": [{"zh":"汤米·希尔费格","en":"Tommy Hilfiger","slug":"tommy-hilfiger"},{"zh":"拉尔夫·劳伦","en":"Ralph Lauren","slug":"ralph-lauren"},{"zh":"卡尔文·克莱因","en":"Calvin Klein","slug":"calvin-klein"},{"zh":"迈克·科尔斯"}]
-    },
-    "microsoft": {
-        "names": {"zh-CN":"微软","en":"Microsoft"},
-        "founding_year": "1975",
-        "founder": "比尔·盖茨",
-        "official_website": "https://www.microsoft.com/",
-        "founding_location": "美国",
-        "wikidata_id": "Q2283",
-        "description_zh": "微软（Microsoft Corporation）是全球最大的软件公司之一，由比尔·盖茨和保罗·艾伦于1975年4月4日在美国新墨西哥州阿尔伯克基创立。微软的Windows操作系统是全球使用最广泛的电脑操作系统，Office办公套件是全球企业和个人办公的标准工具。微软还通过Xbox品牌在游戏领域占据重要地位，通过Azure云计算平台成为全球第二大云服务提供商。2023年，微软对OpenAI的投资使其在人工智能革命中占据了领先地位。",
-        "languages": {"en": "Microsoft Corporation is an American multinational technology corporation founded by Bill Gates and Paul Allen on April 4, 1975 in Albuquerque, New Mexico. Microsoft's Windows operating system dominates the PC market, and its Office productivity suite is the global standard for business software. The company also leads in gaming with Xbox, cloud computing with Azure (the world's second-largest cloud platform), and professional networking through LinkedIn. In 2023, Microsoft's strategic investment in OpenAI positioned it at the forefront of the AI revolution."},
-        "similar_brands": [{"zh":"苹果","en":"Apple","slug":"apple"},{"zh":"谷歌","en":"Google","slug":"google"},{"zh":"亚马逊","en":"Amazon","slug":"amazon"},{"zh":"英伟达","en":"NVIDIA","slug":"nvidia"}]
-    }
-}
+def write_brand(slug, langs, desc_zh="", desc_en=""):
+    path = ROOT / slug / "brand.json"
+    data = json.loads(path.read_text())
+    data["languages"] = langs
+    if desc_zh:
+        data["description_zh"] = desc_zh
+    if desc_en:
+        data["description_en"] = desc_en
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2))
+    ok = True
+    for l, c in langs.items():
+        req = 800 if l in ("zh-CN","ja","ko") else 1500
+        n = len(c)
+        flag = " ✗" if n < req else ""
+        if flag:
+            ok = False
+        print(f"  {l}: {n}/{req}{flag}")
+    print(f"  {'✅ ALL PASS' if ok else '❌ SOME FAIL'} {slug}")
+    return ok
 
-# Apply to brand.json files
-for slug, content in brand_content.items():
-    bj = ROOT / slug / 'brand.json'
-    if not bj.exists():
-        print(f"❌ {slug}: brand.json not found")
-        continue
-    
-    data = json.loads(bj.read_text(encoding='utf-8'))
-    
-    # Update all fields
-    for key, value in content.items():
-        if key in ('names', 'languages', 'similar_brands'):
-            data[key] = value
-        elif key == 'description_zh':
-            data['description_zh'] = value
-        elif value:  # only overwrite if we have a value
-            data[key] = value
-    
-    # Write back
-    bj.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f"✅ {slug}: content written")
+# === Adidas ===
+print("=== Adidas ===")
+write_brand("adidas", {
+    "zh-CN": "阿迪达斯（Adidas AG）是德国跨国运动用品公司，总部位于黑措根奥拉赫（Herzogenaurach）。由阿道夫·达斯勒（Adolf Dassler）于1949年创立，其兄弟鲁道夫·达斯勒创立了彪马（Puma），两兄弟的竞争成为体育用品行业的一段传奇。阿迪达斯以三条纹标志闻名于世，是全球最大的运动鞋服制造商之一。公司业务覆盖足球、篮球、跑步、训练、网球、游泳等多个体育领域。阿迪达斯与世界足联FIFA保持长期合作，是世界杯的官方赞助商和官方用球供应商。在足球领域，阿迪达斯为梅西、本泽马等顶级球星提供装备。公司旗下拥有运动时尚品牌阿迪达斯三叶草（Originals）和运动表现系列（Performance）。阿迪达斯积极推动可持续发展，与Parley合作利用海洋塑料废弃物生产环保运动鞋。公司还推出Primeknit编织技术和4D中底技术等创新成果。阿迪达斯的Yeezy系列与说唱歌手Kanye West合作，成为潮流文化标志。公司在全球超过120个国家开展业务，拥有约6万名员工。阿迪达斯的品牌理念是通过运动改变生活，致力于让每个人都享受运动的乐趣。公司总部大楼以独特的建筑风格著称，被称为世界最大的运动鞋形状建筑。",
+    "en": "Adidas AG is a German multinational corporation headquartered in Herzogenaurach, Germany. Founded by Adolf Dassler in 1949, the company has grown to become one of the largest sportswear manufacturers in the world, instantly recognizable by its iconic three-stripe logo. Adidas designs and manufactures footwear, apparel, and accessories for a comprehensive range of sports including football, basketball, running, training, tennis, golf, and swimming. The company is a long-standing official partner of FIFA, providing match balls for the FIFA World Cup since 1970. Adidas sponsors elite athletes including Lionel Messi, Karim Benzema, and numerous football clubs worldwide. The company operates through multiple brand divisions: Adidas Performance for athletic gear, Adidas Originals for lifestyle and streetwear, and collaborations with high-fashion designers. Adidas is a pioneer in sustainable innovation, partnering with Parley for the Oceans to create shoes and apparel from recycled ocean plastic. The brand is also known for cutting-edge technologies like Primeknit seamless uppers and 4D-printed midsoles. The Adidas Yeezy line, a collaboration with Kanye West, became a cultural phenomenon in streetwear and sneaker culture. With operations in over 120 countries and approximately 60,000 employees, Adidas generated billions in annual revenue. The company has a strong commitment to diversity, inclusion, and environmental sustainability. The Adidas headquarters in Herzogenaurach features a distinctive stadium-shaped building known as the Adidas World of Sports. The company continues to push boundaries in sportswear technology while maintaining its brand heritage and commitment to improving athletic performance for all.",
+    "ja": "アディダスはドイツヘルツォーゲンアウラッハに本社を置く多国籍スポーツ用品メーカー。1949年にアドルフダスラーによって設立されました。三本線のロゴで世界的に知られています。サッカー、バスケットボール、ランニング、テニス向けにシューズやアパレルを製造。FIFAワールドカップの公式ボールサプライヤーとしても有名です。メッシやベンゼマといったトップアスリートをスポンサー。Parleyとの協業で海洋プラスチックをリサイクルした環境配慮型製品も展開。Primeknit技術や4Dミッドソールなどの革新技術を開発。イージーシリーズはストリートウェア文化で重要な位置を占めています。120カ国以上で事業を展開し約6万人の従業員を擁します。",
+    "ko": "아디다스는 독일 헤르초게나우라흐에 본사를 둔 다국적 스포츠 용품 제조업체입니다. 1949년 아돌프 다슬러에 의해 설립되었으며 세 줄무늬 로고로 유명합니다. 축구, 농구, 러닝, 테니스 분야의 신발과 의류를 제조합니다. FIFA 월드컵 공식 공급업체로도 잘 알려져 있습니다. 메시와 벤제마 같은 정상급 선수들을 후원합니다. Parley와의 협력을 통해 해양 플라스틱을 재활용한 친환경 제품을 개발하고 있습니다. Primeknit 기술과 4D 미드솔 등의 혁신적인 기술을 보유하고 있습니다. 이지(Yeezy) 시리즈는 스트리트웨어 문화에서 중요한 위치를 차지하고 있습니다. 120개 이상의 국가에서 사업을 운영하며 약 6만 명의 직원을 고용하고 있습니다.",
+    "fr": "Adidas AG est une entreprise multinationale allemande de vetements de sport, siegeant a Herzogenaurach. Fondee par Adolf Dassler en 1949, elle est l un des plus grands fabricants d articles de sport au monde, reconnaissable a son logo a trois bandes. Adidas concoit des chaussures, vetements et accessoires pour le football, le basketball, la course a pied, le tennis et d autres sports. Partenaire officiel de la FIFA, Adidas fournit les ballons officiels de la Coupe du Monde depuis 1970. La marque sponsorise des athletes d elite comme Lionel Messi et Karim Benzema. Adidas developpe des innovations durables en partenariat avec Parley for the Oceans, transformant les plastiques oceaniques en produits sportifs. Les technologies Primeknit et les semelles intermediaires 4D representent des avancees majeures. La ligne Yeezy, creee avec Kanye West, est devenue un phenomene culturel. Presente dans plus de 120 pays, Adidas emploie environ 60 000 personnes. L entreprise s engage pour la diversite, l inclusion et la durabilite environnementale.",
+    "es": "Adidas AG es una corporacion multinacional alemana de ropa deportiva con sede en Herzogenaurach, Alemania. Fundada por Adolf Dassler en 1949, es uno de los mayores fabricantes de articulos deportivos del mundo, reconocida por su logotipo de tres rayas. Adidas disena calzado, ropa y accesorios para futbol, baloncesto, running, tenis y mas. Es socia oficial de la FIFA, suministrando los balones oficiales de la Copa Mundial desde 1970. Patrocina a atletas de elite como Lionel Messi y Karim Benzema. Adidas impulsa la innovacion sostenible con Parley for the Oceans, utilizando plasticos reciclados del oceano. Las tecnologias Primeknit y las mediasuelas 4D son innovaciones destacadas. La linea Yeezy con Kanye West se convirtio en un fenomeno cultural. Con operaciones en mas de 120 paises y unos 60.000 empleados, Adidas promueve la diversidad, inclusion y sostenibilidad ambiental.",
+    "de": "Adidas AG ist ein deutscher multinationaler Sportartikelhersteller mit Hauptsitz in Herzogenaurach. Gegrundet 1949 von Adolf Dassler, zahlt das Unternehmen zu den grossten Sportartikelherstellern der Welt und ist durch sein Drei-Streifen-Logo weltbekannt. Adidas entwirft Schuhe, Bekleidung und Accessoires fur Fussball, Basketball, Laufen, Tennis und weitere Sportarten. Als offizieller FIFA-Partner liefert Adidas seit 1970 die Spielballe fur die Fussball-Weltmeisterschaft. Das Unternehmen sponsert Spitzensportler wie Lionel Messi und Karim Benzema. Adidas treibt nachhaltige Innovationen mit Parley for the Oceans voran. Die Primeknit-Technologie und 4D-Zwischensohlen sind bahnbrechende Entwicklungen. Die Yeezy-Linie mit Kanye West wurde zum Kulturphanomen. Mit Niederlassungen in uber 120 Landern und rund 60.000 Mitarbeitern fordert Adidas Diversitat, Inklusion und Umweltschutz.",
+    "pt": "Adidas AG e uma empresa multinacional alema de artigos esportivos com sede em Herzogenaurach, Alemanha. Fundada por Adolf Dassler em 1949, e um dos maiores fabricantes de artigos esportivos do mundo, reconhecida por seu logotipo de tres listras. Adidas projeta calcados, roupas e acessorios para futebol, basquete, corrida, tenis e mais. Parceira oficial da FIFA, fornece as bolas oficiais da Copa do Mundo desde 1970. Patrocina atletas de elite como Lionel Messi e Karim Benzema. A empresa impulsiona a inovacao sustentavel com a Parley for the Oceans. As tecnologias Primeknit e as entressolas 4D sao inovacoes notaveis. A linha Yeezy com Kanye West tornou-se um fenomeno cultural. Com operacoes em mais de 120 paises e cerca de 60.000 funcionarios, a Adidas promove diversidade, inclusao e sustentabilidade ambiental.",
+    "ru": "Adidas AG немецкая транснациональная корпорация по производству спортивных товаров со штаб-квартирой в Херцогенаурахе, Германия. Основана Адольфом Дасслером в 1949 году. Компания является одним из крупнейших производителей спортивной одежды и обуви в мире, узнаваемым по логотипу из трех полос. Adidas производит обувь, одежду и аксессуары для футбола, баскетбола, бега, тенниса и других видов спорта. Официальный партнер FIFA, поставляющий мячи для чемпионата мира с 1970 года. Компания спонсирует элитных спортсменов. Adidas развивает устойчивые инновации с Parley for the Oceans. Технологии Primeknit и 4D-подошвы являются передовыми разработками. Линия Yeezy с Канье Уэстом стала культурным феноменом. Компания представлена более чем в 120 странах и насчитывает около 60 000 сотрудников.",
+    "ar": "أديداس هي شركة ألمانية متعددة الجنسيات للملابس الرياضية يقع مقرها الرئيسي في هرتسوغن آوراخ بألمانيا. أسسها أدولف داسلر في عام 1949، وهي واحدة من أكبر شركات تصنيع الملابس الرياضية في العالم، وتشتهر بشعارها المكون من ثلاثة خطوط. تصمم أديداس الأحذية والملابس والإكسسوارات لكرة القدم وكرة السلة والجري والتنس وغيرها. شريك رسمي للفيفا، توفر الكرات الرسمية لكأس العالم منذ عام 1970. ترعى الشركة نخبة الرياضيين. تطور أديداس ابتكارات مستدامة بالشراكة مع Parley for the Oceans. تقنيات Primeknit والنعال الوسطى 4D هي ابتكارات رائدة. أصبح خط Yeezy مع كانييه ويست ظاهرة ثقافية. تعمل الشركة في أكثر من 120 دولة وتوظف حوالي 60 ألف موظف."
+})
 
-    # Validate
-    try:
-        json.loads(bj.read_text(encoding='utf-8'))
-        print(f"   ✓ valid JSON")
-    except json.JSONDecodeError as e:
-        print(f"   ❌ JSON error: {e}")
+print()
+print("=== Lego ===")
+write_brand("lego", {
+    "zh-CN": "乐高集团（The Lego Group）是丹麦玩具制造公司，总部位于比隆（Billund）。由奥勒·柯克·克里斯蒂安森（Ole Kirk Christiansen）于1932年创立，最初是一家生产木制玩具的小型木工作坊。1934年公司正式定名为乐高（Lego），源自丹麦语leg godt（玩得好）。1949年乐高开始生产标志性的拼插式塑料积木，这一发明彻底改变了玩具行业。乐高积木的独特之处在于其精确的尺寸公差和互锁系统，确保每块积木都能完美拼合。产品线涵盖经典的乐高城市系列、乐高创意系列、乐高科技系列以及乐高得宝系列。公司还与迪士尼、漫威、星球大战、哈利波特等全球顶级IP合作推出主题套装。乐高在全球运营多个乐高乐园主题公园和乐高探索中心。乐高教育系列广泛应用于全球学校的STEM教学。乐高集团始终坚持质量第一、创意无限和寓教于乐的理念，是世界上最受尊敬的企业之一。如今乐高积木已不仅仅是玩具，更成为创意表达和艺术创作的媒介。公司致力于可持续发展，计划在2030年前实现全部产品使用可持续材料制造。乐高基金会投入大量资金支持全球儿童的教育和创造力发展。乐高品牌在全球拥有极高的知名度和美誉度，深受各年龄段消费者的喜爱。",
+    "en": "The Lego Group is a Danish toy production company based in Billund, Denmark. Founded by Ole Kirk Christiansen in 1932 as a small carpentry workshop producing wooden toys. The name Lego was adopted in 1934, derived from the Danish phrase leg godt meaning play well. In 1949, Lego began producing its iconic plastic interlocking bricks, which revolutionized the toy industry. The Lego brick system is renowned for its precise manufacturing tolerances and clutch power, allowing bricks to connect firmly while remaining easy to separate. Product lines span across Lego City, Creator, Technic, Classic, Duplo, and numerous licensed themes including Star Wars, Harry Potter, Marvel, DC, Disney, Minecraft, and many more. The company operates multiple Legoland theme parks and Lego Discovery Centers worldwide. Lego Education products are used in classrooms globally to teach STEM subjects through hands-on learning experiences. The Lego Group has consistently been ranked among the most respected and trusted companies in the world. Beyond being a toy, Lego has become a medium for creative expression, with adult fans building intricate sculptures and large-scale artworks. The company is committed to environmental sustainability, aiming to use sustainable materials in all core products by 2030 and investing in plant-based plastic alternatives. The Lego Foundation supports children's education and creativity development globally. Lego remains a family-owned company with a deep commitment to quality, creativity, and learning through play.",
+    "ja": "レゴグループはデンマークビルンに本社を置く玩具製造会社です。1932年にオーレカーククリスチャンセンによって木製玩具を製造する小さな大工工房として創業しました。社名レゴはデンマーク語のleg godt（よく遊べ）に由来します。1949年にプラスチック製の組み立てブロックの製造を開始し玩具業界に革命をもたらしました。製品ラインはシティシリーズ、クリエイターシリーズ、テクニックシリーズ、デュプロシリーズに加えてスターウォーズ、ハリーポッター、マーベル、ディズニー、マインクラフトなどのコラボシリーズを展開。世界中にレゴランドテーマパークとレゴディスカバリーセンターを運営。レゴエデュケーションは世界中の学校でSTEM教育に活用されています。レゴはおもちゃを超えて創造的表現のメディアとしても認識されています。2030年までに全ての製品に持続可能な素材を使用する目標を掲げています。レゴファミリー企業として品質と創造性への深いコミットメントを持ち続けています。",
+    "ko": "레고 그룹은 덴마크 빌룬에 본사를 둔 장난감 제조 회사입니다. 1932년 올레 키르크 크리스티안센에 의해 나무 장난감을 만드는 소규모 목공소로 설립되었습니다. 레고라는 이름은 덴마크어 leg godt(잘 놀다)에서 유래했습니다. 1949년 플라스틱 인터로킹 브릭 생산을 시작했습니다. 주요 제품 라인은 시티, 크리에이터, 테크닉, 클래식, 듀플로 시리즈와 스타워즈, 해리포터, 마블, 디즈니, 마인크래프트 협업 시리즈입니다. 전 세계에 레고랜드 테마파크와 레고 디스커버리 센터를 운영합니다. 레고 에듀케이션은 STEM 교육에 활용됩니다. 2030년까지 모든 핵심 제품에 지속 가능한 소재를 사용할 계획입니다. 레고는 장난감을 넘어 창의적 표현의 매체로 인정받고 있으며, 가족 경영 기업으로서 품질과 창의성에 깊이 헌신하고 있습니다.",
+    "fr": "Le Groupe Lego est une entreprise danoise de jouets basee a Billund, au Danemark. Fonde par Ole Kirk Christiansen en 1932 comme atelier de menuiserie produisant des jouets en bois. Le nom Lego derive du danois leg godt signifiant bien jouer. En 1949, Lego commence a produire ses briques en plastique revolutionnaires. Les gammes incluent City, Creator, Technic, Classic, Duplo et des themes sous licence Star Wars, Harry Potter, Marvel, DC, Disney et Minecraft. L entreprise exploite des parcs Legoland et Lego Discovery Centers. Les produits Lego Education sont utilises dans les ecoles pour l enseignement des STEM. Lego est l une des marques les plus respectees mondialement. Devenu un moyen d expression creatif, Lego vise a utiliser des materiaux durables d ici 2030 et investit dans les plastiques d origine vegetale. La Fondation Lego soutient l education des enfants. Lego reste une entreprise familiale dediee a la qualite et la creativite.",
+    "es": "El Grupo Lego es una empresa danesa de juguetes con sede en Billund, Dinamarca. Fundado por Ole Kirk Christiansen en 1932 como taller de carpinteria que producia juguetes de madera. El nombre Lego deriva del danes leg godt (jugar bien). En 1949 Lego comenzo a producir sus ladrillos de plastico revolucionarios. Las lineas incluyen City, Creator, Technic, Classic, Duplo y temas con licencia Star Wars, Harry Potter, Marvel, DC, Disney y Minecraft. Opera parques Legoland y Lego Discovery Centers. Los productos Lego Education se usan en escuelas para ensenanza STEM. Lego es una de las marcas mas respetadas. Se ha convertido en medio de expresion creativa. La empresa busca usar materiales sostenibles para 2030. La Fundacion Lego apoya la educacion infantil. Lego sigue siendo una empresa familiar comprometida con la calidad y la creatividad.",
+    "de": "Die Lego Gruppe ist ein danischer Spielzeughersteller mit Hauptsitz in Billund, Danemark. Gegrundet 1932 von Ole Kirk Christiansen als Tischlerwerkstatt, die Holzspielzeug produzierte. Der Name Lego leitet sich vom danischen leg godt (spiel gut) ab. 1949 begann Lego mit der Produktion der revolutionaren Kunststoffsteine. Die Produktlinien umfassen City, Creator, Technic, Classic, Duplo und lizenzierte Themen wie Star Wars, Harry Potter, Marvel, DC, Disney und Minecraft. Das Unternehmen betreibt Legoland-Freizeitparks und Lego Discovery Centers. Lego Education Produkte werden fur den MINT-Unterricht eingesetzt. Lego gehort zu den angesehensten Marken weltweit. Das Unternehmen strebt bis 2030 nachhaltige Materialien an. Die Lego Foundation unterstutzt die Bildung von Kindern. Lego bleibt ein Familienunternehmen, das sich Qualitat und Kreativitat verschrieben hat.",
+    "pt": "O Grupo Lego e uma empresa dinamarquesa de brinquedos sediada em Billund, Dinamarca. Fundado por Ole Kirk Christiansen em 1932 como oficina de carpintaria que produzia brinquedos de madeira. O nome Lego deriva do dinamarques leg godt (brincar bem). Em 1949 a Lego comecou a produzir seus blocos de plastico revolucionarios. As linhas incluem City, Creator, Technic, Classic, Duplo e temas licenciados Star Wars, Harry Potter, Marvel, DC, Disney e Minecraft. Opera parques Legoland e Lego Discovery Centers. Produtos Lego Education sao usados em escolas para ensino STEM. Lego e uma das marcas mais respeitadas. Tornou-se meio de expressao criativa. A empresa busca usar materiais sustentaveis ate 2030. A Fundacao Lego apoia a educacao infantil. Lego permanece empresa familiar comprometida com qualidade e criatividade.",
+    "ru": "Группа Lego датская компания по производству игрушек со штаб-квартирой в Биллунде, Дания. Основана Оле Кирком Кристиансеном в 1932 году как столярная мастерская по производству деревянных игрушек. Название Lego происходит от датского leg godt (играй хорошо). В 1949 году Lego начала производство революционных пластиковых кубиков. Линейки включают City, Creator, Technic, Classic, Duplo и лицензионные серии Star Wars, Harry Potter, Marvel, DC, Disney и Minecraft. Компания управляет парками Legoland и Lego Discovery Centers. Продукты Lego Education используются для обучения STEM. Lego входит в число самых уважаемых брендов. Компания стремится к устойчивому развитию. Фонд Lego поддерживает детское образование. Lego остается семейной компанией, приверженной качеству и творчеству.",
+    "ar": "مجموعة ليغو هي شركة دنماركية لتصنيع الألعاب يقع مقرها الرئيسي في بلوند، الدنمارك. أسسها أولي كيرك كريستيانسن في عام 1932 كورقة نجارة تنتج الألعاب الخشبية. اسم ليغو مشتق من الدانمركية leg godt (العب جيدا). في عام 1949 بدأت ليغو إنتاج مكعباتها البلاستيكية الثورية. تشمل الخطوط City وCreator وTechnic وClassic وDuplo وسلسلة مرخصة من Star Wars وHarry Potter وMarvel وDC وDisney وMinecraft. تدير الشركة متنزهات ليغولاند ومراكز ليغو ديسكفري. تُستخدم منتجات ليغو إديوكيشن في المدارس لتدريس STEM. ليغو من أكثر العلامات التجارية احتراما. تهدف الشركة لاستخدام مواد مستدامة بحلول 2030. مؤسسة ليغو تدعم تعليم الأطفال. تظل ليغو شركة عائلية ملتزمة بالجودة والإبداع."
+})
 
-print("\n✅ Batch 3 complete! 17 brands written.")
+# === Coca-Cola ===
+print()
+print("=== Coca-Cola ===")
+write_brand("coca-cola", {
+    "zh-CN": "可口可乐公司（The Coca-Cola Company）是美国跨国饮料公司，成立于1892年，总部位于佐治亚州亚特兰大。公司以其旗舰产品可口可乐闻名于世，这是由约翰·彭伯顿（John S. Pemberton）于1886年发明的碳酸饮料。可口可乐是全球最大的饮料公司之一，拥有超过500个品牌和3800多种饮料产品。除了经典的可口可乐外，旗下还包括雪碧（Sprite）、芬达（Fanta）、健怡可乐（Diet Coke）、零度可乐（Coca-Cola Zero）、矿泉水品牌Dasani、果汁品牌Simply和运动饮料Powerade等。可口可乐的标志性红白配色和曲线瓶身设计已经成为全球最具辨识度的视觉符号之一。公司的成功在很大程度上归功于其强大的全球分销网络和独特的保密配方。可口可乐是体育和娱乐活动的标志性赞助商，与奥运会和FIFA世界杯保持长期合作。圣诞节与可口可乐的关联也深入人心，北极熊和圣诞老人卡车广告已成为节日文化的一部分。公司积极推进环境可持续战略，包括减少塑料使用、提高水资源利用效率。可口可乐文化被视为美国文化和全球化品牌的象征，在200多个国家和地区销售产品。",
+    "en": "The Coca-Cola Company is an American multinational beverage corporation headquartered in Atlanta, Georgia, founded in 1892. Its flagship product Coca-Cola was invented by pharmacist John S. Pemberton in 1886 as a medicinal tonic. The beverage was originally sold at Jacobs Pharmacy in Atlanta for five cents a glass. The company has grown to become the largest beverage company in the world, offering over 500 brands and 3,800 different beverage products. Beyond the classic Coca-Cola, the portfolio includes Sprite, Fanta, Diet Coke, Coca-Cola Zero, Dasani water, Simply juices, Minute Maid, Powerade sports drinks, and many more. Coca-Cola distinctive red-and-white color scheme and contoured bottle shape have become one of the most recognized visual symbols in the world. The company formula, known as Merchandise 7X, remains a closely guarded trade secret. Coca-Cola is an iconic sponsor of major sporting events including the Olympic Games since 1928 and the FIFA World Cup since 1974. The brand association with Christmas has become legendary, with its Santa Claus imagery and holiday truck advertisements becoming cultural touchstones. The company has been actively pursuing sustainability initiatives, including reducing plastic packaging and improving water stewardship. Coca-Cola has faced both admiration and criticism for its global reach, with controversies around sugar content and environmental impact. Nevertheless, it remains one of the most valuable and recognized brands worldwide, sold in more than 200 countries and territories. The Coca-Cola Museum in Atlanta attracts millions of visitors annually, showcasing the brand rich history and global cultural impact.",
+    "ja": "コカコーラカンパニーは米国ジョージア州アトランタに本社を置く多国籍飲料会社。1886年に薬剤師ジョンSペンバートンが清涼飲料として発明したコカコーラを中心に、世界最大級の飲料メーカーに成長しました。500以上のブランドと3800以上の飲料製品を展開。スプライト、ファンタ、ダイエットコーク、コカコーラゼロ、ダサニウォーター、シンプリージュース、パワーエードなどを所有。赤と白のカラーリングと曲線的なボトルデザインは世界的に認知されています。1928年からオリンピック、1974年からFIFAワールドカップの公式スポンサー。クリスマスとコカコーラの関係も深く、サンタクロースの広告は文化的に重要な位置を占めています。200以上の国と地域で販売されています。",
+    "ko": "코카콜라 컴퍼니는 미국 조지아주 애틀랜타에 본사를 둔 다국적 음료 회사입니다. 1886년 약사 존 S. 펨버턴이 청량음료로 발명한 코카콜라를 중심으로 세계 최대의 음료 회사로 성장했습니다. 500개 이상의 브랜드와 3800개 이상의 음료 제품을 보유하고 있습니다. 스프라이트, 환타, 다이어트 코크, 코카콜라 제로, 다사니 워터, 심플리 주스, 파워에이드를 소유하고 있습니다. 빨간색과 흰색의 색상과 곡선형 병 디자인은 전 세계적으로 인정받고 있습니다. 1928년부터 올림픽, 1974년부터 FIFA 월드컵 공식 후원사입니다. 200개 이상의 국가와 지역에서 판매되고 있습니다.",
+    "fr": "The Coca-Cola Company est une entreprise multinationale americaine de boissons, siegeant a Atlanta, en Georgie. Son produit phare, le Coca-Cola, a ete invente par le pharmacien John S. Pemberton en 1886 comme tonique medicinal. L entreprise est devenue le plus grand fabricant de boissons au monde avec plus de 500 marques et 3800 produits. Le portefeuille inclut Sprite, Fanta, Diet Coke, Coca-Cola Zero, Dasani, Simply, Minute Maid et Powerade. Le design rouge et blanc et la bouteille contournee sont devenus des symboles visuels iconiques. Partenaire officiel des Jeux Olympiques depuis 1928 et de la FIFA depuis 1974. L association du Coca-Cola avec Noel est legendaire, ses publicites du Pere Noel etant devenues des references culturelles. Present dans plus de 200 pays et territoires, Coca-Cola reste l une des marques les plus reconnues et precieuses au monde.",
+    "es": "The Coca-Cola Company es una empresa multinacional estadounidense de bebidas con sede en Atlanta, Georgia. Su producto emblematico Coca-Cola fue inventado por el farmaceutico John S. Pemberton en 1886 como tonico medicinal. La empresa se ha convertido en la mayor compania de bebidas del mundo con mas de 500 marcas y 3800 productos. El portafolio incluye Sprite, Fanta, Coca-Cola Light, Coca-Cola Zero, Dasani, Simply, Minute Maid y Powerade. El diseno rojo y blanco y la botella contorneada son simbolos visuales iconicos. Patrocinadora oficial de los Juegos Olimpicos desde 1928 y de la FIFA desde 1974. La asociacion de Coca-Cola con la Navidad es legendaria. Presente en mas de 200 paises y territorios, Coca-Cola sigue siendo una de las marcas mas valiosas y reconocidas del mundo.",
+    "de": "The Coca-Cola Company ist ein amerikanischer multinationaler Getrankehersteller mit Hauptsitz in Atlanta, Georgia. Das Flaggschiffprodukt Coca-Cola wurde 1886 vom Apotheker John S. Pemberton als medizinisches Tonikum erfunden. Das Unternehmen ist zum grossten Getrankehersteller der Welt mit uber 500 Marken und 3800 Produkten gewachsen. Zum Portfolio gehoren Sprite, Fanta, Coca-Cola Light, Coca-Cola Zero, Dasani, Simply, Minute Maid und Powerade. Das rot-weisse Design und die konturierte Flasche sind ikonische visuelle Symbole. Offizieller Sponsor der Olympischen Spiele seit 1928 und der FIFA seit 1974. Die Verbindung von Coca-Cola mit Weihnachten ist legendär. In uber 200 Landern und Territorien pra sent, bleibt Coca-Cola eine der wertvollsten und bekanntesten Marken weltweit.",
+    "pt": "The Coca-Cola Company e uma empresa multinacional americana de bebidas com sede em Atlanta, Georgia. Seu produto carro-chefe Coca-Cola foi inventado pelo farmaceutico John S. Pemberton em 1886 como um tonico medicinal. A empresa tornou-se a maior fabricante de bebidas do mundo com mais de 500 marcas e 3800 produtos. O portfolio inclui Sprite, Fanta, Coca-Cola Light, Coca-Cola Zero, Dasani, Simply, Minute Maid e Powerade. O design vermelho e branco e a garrafa contornada sao simbolos visuais iconicos. Patrocinadora oficial dos Jogos Olimpicos desde 1928 e da FIFA desde 1974. Presente em mais de 200 paises e territorios, a Coca-Cola continua sendo uma das marcas mais valiosas e reconhecidas do mundo.",
+    "ru": "The Coca-Cola Company американская транснациональная компания по производству напитков со штаб-квартирой в Атланте, Джорджия. Флагманский продукт Coca-Cola был изобретен фармацевтом Джоном С. Пембертоном в 1886 году как лекарственный тоник. Компания стала крупнейшим производителем напитков в мире, насчитывающим более 500 брендов и 3800 продуктов. Портфель включает Sprite, Fanta, Coca-Cola Light, Coca-Cola Zero, Dasani, Simply, Minute Maid и Powerade. Красно-белый дизайн и фирменная бутылка стали культовыми визуальными символами. Официальный спонсор Олимпийских игр с 1928 года и FIFA с 1974 года. Coca-Cola представлена более чем в 200 странах и территориях мира.",
+    "ar": "شركة كوكا كولا هي شركة أمريكية متعددة الجنسيات للمشروبات يقع مقرها الرئيسي في أتلانتا، جورجيا. اخترع جون إس بيمبرتون منتجها الرئيسي كوكا كولا في عام 1886 كمنشط طبي. أصبحت الشركة أكبر شركة مشروبات في العالم بأكثر من 500 علامة تجارية و3800 منتج. تشمل المحفظة سبرايت وفانتا وكوكا كولا لايت وكوكا كولا زيرو وداساني وسيمبلي ومينيت ميد وباوريد. أصبح التصميم الأحمر والأبيض والزجاجة المنحنية رموزا بصرية أيقونية. الراعي الرسمي للألعاب الأولمبية منذ 1928 والفيفا منذ 1974. تتواجد كوكا كولا في أكثر من 200 دولة وإقليم حول العالم."
+})

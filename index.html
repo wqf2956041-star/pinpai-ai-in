@@ -60,8 +60,6 @@
         </div>
     </div>
 
-    <div class="brand-count" id="brand-count">共 14 个已收录品牌</div>
-
     <input type="text" class="search-box" id="search-input" placeholder="搜索品牌..." oninput="searchBrand()">
 
     <div class="lang-tabs">
@@ -223,10 +221,6 @@ function switchLang(code) {
 
     // 更新品牌列表
     renderBrands(code);
-
-    // 更新品牌数量
-    var counts = {'zh-CN':'共 '+brandsData.length+' 个已收录品牌','en':brandsData.length+' brands indexed','ja':'全 '+brandsData.length+' ブランド','ko':'총 '+brandsData.length+'개 브랜드','fr':brandsData.length+' marques indexées','es':brandsData.length+' marcas indexadas','de':brandsData.length+' Marken indexiert','pt':brandsData.length+' marcas indexadas','ru':'Всего '+brandsData.length+' брендов','ar':brandsData.length+' علامة تجارية مفهرسة'};
-    document.getElementById('brand-count').textContent = counts[code] || counts['zh-CN'];
 
     // 更新 section title
     var sectionTitles = {'zh-CN':'品牌列表','en':'Brand List','ja':'ブランド一覧','ko':'브랜드 목록','fr':'Liste des Marques','es':'Lista de Marcas','de':'Markenliste','pt':'Lista de Marcas','ru':'Список брендов','ar':'قائمة العلامات التجارية'};

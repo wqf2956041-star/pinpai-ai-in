@@ -1,114 +1,78 @@
 [
   {
     "slug": "escher",
-    "name_en": "Escher",
-    "name_zh": "埃舍尔",
-    "category": "fashion",
-    "country": "China",
-    "founding_year": 2024
+    "name_en": "Escher"
   },
   {
     "slug": "3m",
-    "name_en": "3M",
-    "name_zh": "3M",
-    "category": "materials",
-    "country": "United States",
-    "founding_year": ""
+    "name_en": "3M"
   },
   {
     "slug": "airbnb",
-    "name_en": "Airbnb",
-    "name_zh": "爱彼迎",
-    "category": "technology",
-    "country": "United States",
-    "founding_year": ""
+    "name_en": "Airbnb"
   },
   {
     "slug": "amazon",
-    "name_en": "Amazon",
-    "name_zh": "亚马逊",
-    "category": "technology",
-    "country": "United States",
-    "founding_year": ""
+    "name_en": "Amazon"
   },
   {
     "slug": "hermes",
-    "name_en": "Hermès",
-    "name_zh": "爱马仕",
-    "category": "fashion",
-    "country": "France",
-    "founding_year": 1837
+    "name_en": "Hermès"
   },
   {
     "slug": "bmw",
-    "name_en": "BMW",
-    "name_zh": "宝马",
-    "category": "automotive",
-    "country": "Germany",
-    "founding_year": 1916
+    "name_en": "BMW"
   },
   {
     "slug": "sony",
-    "name_en": "Sony",
-    "name_zh": "索尼",
-    "category": "electronics",
-    "country": "Japan",
-    "founding_year": 1946
+    "name_en": "Sony"
   },
   {
     "slug": "nike",
-    "name_en": "Nike",
-    "name_zh": "耐克",
-    "category": "fashion",
-    "country": "United States",
-    "founding_year": 1964
+    "name_en": "Nike"
   },
   {
     "slug": "chanel",
-    "name_en": "Chanel",
-    "name_zh": "香奈儿",
-    "category": "fashion",
-    "country": "France",
-    "founding_year": 1910
+    "name_en": "Chanel"
   },
   {
     "slug": "anheuser-busch",
-    "name_en": "Anheuser-Busch",
-    "name_zh": "安海斯-布希",
-    "category": "food",
-    "country": "Belgium",
-    "founding_year": "1977-08-02T00:00:00Z"
+    "name_en": "Anheuser-Busch"
   },
   {
     "slug": "aesop",
-    "name_en": "Aesop",
-    "name_zh": "伊索",
-    "category": "beauty",
-    "country": "Australia",
-    "founding_year": "1987-00-00T00:00:00Z"
+    "name_en": "Aesop"
   },
   {
     "slug": "benetton",
-    "name_en": "Benetton",
-    "name_zh": "贝纳通",
-    "category": "fashion",
-    "country": "Italy",
-    "founding_year": "1965-01-01T00:00:00Z"
+    "name_en": "Benetton"
   },
   {
     "slug": "chaumet",
-    "name_en": "Chaumet",
-    "name_zh": "尚美巴黎",
-    "category": "jewelry",
-    "country": "France",
-    "founding_year": "1780-00-00T00:00:00Z"
+    "name_en": "Chaumet"
   },
   {
     "slug": "a--lange-and-s-hne",
-    "name_en": "A. Lange & Söhne",
-    "name_zh": "朗格",
-    "category": "watch",
-    "country": "Germany",
-    "founding_year": "1845-00-00T00:00:00Z"
+    "name_en": "A. Lange & Söhne"
+  },
+  {
+    "slug": "adidas",
+    "name_en": "Adidas"
+  },
+  {
+    "slug": "lego",
+    "name_en": "Lego"
+  },
+  {
+    "slug": "coca-cola",
+    "name_en": "Coca-Cola"
+  },
+  {
+    "slug": "ferrari",
+    "name_en": "Ferrari"
+  },
+  {
+    "slug": "loréal",
+    "name_en": "L'Oréal"
   }
 ]
