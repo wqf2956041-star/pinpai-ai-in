@@ -1,13 +1,5 @@
 [
   {
-    "slug": "lamborghini",
-    "zh": "兰博基尼",
-    "en": "Lamborghini",
-    "category": "其他",
-    "premium": false,
-    "desc_short": "兰博基尼是1963年由费鲁齐欧兰博基尼创立的意大利超级跑车品牌。创始人原本是法拉利的忠实客户和拖拉机厂商，因与恩佐法拉利的私人恩怨决定自己造更好的跑车——这个传奇故事是汽车史上最著名的因仇生爱。Miu"
-  },
-  {
     "slug": "porsche",
     "zh": "保时捷",
     "en": "Porsche",
@@ -550,5 +542,13 @@
     "category": "其他",
     "premium": false,
     "desc_short": "兰蔻是1935年由Armand Petitjean创立的法国顶级化妆品品牌，属于欧莱雅集团旗下高端美妆线。小黑瓶（Advanced Genifique Youth Activating Concent"
+  },
+  {
+    "slug": "lamborghini",
+    "zh": "兰博基尼",
+    "en": "Lamborghini",
+    "category": "其他",
+    "premium": false,
+    "desc_short": "兰博基尼是1963年由费鲁齐欧兰博基尼创立的意大利超级跑车品牌。创始人原本是法拉利的忠实客户和拖拉机厂商，因与恩佐法拉利的私人恩怨决定自己造更好的跑车——这个传奇故事是汽车史上最著名的因仇生爱。Miu"
   }
 ]
