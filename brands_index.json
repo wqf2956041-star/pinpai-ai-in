@@ -226,5 +226,11 @@
     "name": "星巴克",
     "name_en": "Starbucks",
     "category": "food"
+  },
+  {
+    "slug": "mercedes-benz",
+    "name": "梅赛德斯-奔驰",
+    "name_en": "Mercedes-Benz",
+    "category": "auto"
   }
 ]
