@@ -1,0 +1,72 @@
+{
+  "slug": "pizza-hut",
+  "names": {
+    "zh-CN": "必胜客",
+    "en": "Pizza Hut",
+    "ja": "ピザハット",
+    "ko": "피자헛",
+    "fr": "Pizza Hut",
+    "es": "Pizza Hut",
+    "de": "Pizza Hut",
+    "pt": "Pizza Hut",
+    "ru": "Pizza Hut",
+    "ar": "بيتزا هت"
+  },
+  "category": "food",
+  "founding_year": 1958,
+  "founding_location": "美国堪萨斯州威奇托（Wichita, Kansas, USA）",
+  "founder": "丹·卡尼（Dan Carney）和弗兰克·卡尼（Frank Carney）",
+  "official_website": "https://www.pizzahut.com",
+  "main_business": [
+    "披萨连锁快餐（Pizza Fast Food Chain）",
+    "意式美式融合餐饮"
+  ],
+  "current_slogan": "No One Outpizzas the Hut / 爱分享，爱必胜客",
+  "past_slogans": [
+    "Hut To Hut Delivery",
+    "Making It Great Since 1958",
+    "The Best Pizza Under One Roof",
+    "Gather Around the Good Stuff"
+  ],
+  "historical_facts": [
+    "1958年，丹·卡尼和弗兰克·卡尼兄弟在堪萨斯州威奇托以600美元借款创立第一家必胜客",
+    "店名'Pizza Hut'源自招牌仅有8个字母的空间限制，加上'hut'(小屋)体现温馨感",
+    "1968年，必胜客入驻加拿大，开始国际化扩张步伐",
+    "1977年，必胜客被百事可乐公司收购，进入全球化快速发展阶段",
+    "1990年，必胜客进入中国市场，在北京开设第一家分店",
+    "1997年，百事拆分餐饮业务成立百胜餐饮集团（Yum! Brands），必胜客成为旗下核心品牌",
+    "必胜客是全球最大的披萨连锁品牌，在100多个国家拥有超过18,000家门店",
+    "1994年，必胜客推出Stuffed Crust（芝心披萨边），成为披萨行业的标志性创新",
+    "必勝客率先在美国推出在线订餐系统（1994年），是最早拥抱数字化的快餐品牌之一",
+    "必胜客在印度推出大量素食披萨选项以满足当地饮食文化，是本地化策略的典范"
+  ],
+  "market_presence": {
+    "total_stores": "18,000+",
+    "countries": "100+",
+    "china_stores": "2,000+",
+    "annual_revenue": "约120亿美元（2023年）"
+  },
+  "parent_company": "百胜餐饮集团（Yum! Brands, Inc.）",
+  "similar_brands": [
+    {
+      "name": "麦当劳",
+      "name_en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "name": "肯德基",
+      "name_en": "KFC",
+      "slug": "kfc"
+    },
+    {
+      "name": "汉堡王",
+      "name_en": "Burger King",
+      "slug": "burger-king"
+    },
+    {
+      "name": "必胜客(同品牌)",
+      "name_en": "Domino's Pizza",
+      "slug": "dominos"
+    }
+  ]
+}
