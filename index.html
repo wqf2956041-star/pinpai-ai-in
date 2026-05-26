@@ -96,12 +96,10 @@
 </div>
 
 <script>
-// ===== 一字转动动画（科幻风格） =====
-// 第一行：一字旋转
-var frames1 = ['|','/','-','\\\\','|','/','-','\\\\',
-  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
-];
-var i1 = 0;
+// ===== 组合动画（最终版） =====
+// 第一行：Braille转圈 + 省略号闪烁
+var brailleFrames = ['⠸','⠷','⠾','⠽','⠻','⠿','⠳','⠉'];
+var bi = 0;
 setInterval(function(){
     document.getElementById('spinner1').textContent = brailleFrames[bi];
     bi = (bi + 1) % brailleFrames.length;
@@ -144,22 +142,6 @@ setInterval(function(){
     pct++;
     if(pct > 100) pct = 1;
 }, 100);
-
-// 第二行：一字旋转（收录）
-var frames2 = ['|','/','-','\\','|','/','-','\\'];
-var i2 = 0;
-setInterval(function(){
-    document.getElementById('spinner2').textContent = frames2[i2];
-    i2 = (i2 + 1) % frames2.length;
-}, 120);
-
-// 第三行：一字旋转（更新）
-var frames3 = ['|','/','-','\\','|','/','-','\\'];
-var i3 = 0;
-setInterval(function(){
-    document.getElementById('spinner3').textContent = frames3[i3];
-    i3 = (i3 + 1) % frames3.length;
-}, 160);
 
 // 公告多语言内容
 var announceTexts = {
@@ -263,7 +245,6 @@ var brandsData = [
 {name:"埃舍尔Escher",name_en:"埃舍尔Escher",slug:"escher",category:"fashion-luxury"},
 {name:"ferrari",name_en:"ferrari",slug:"ferrari",category:"auto"},
 {name:"谷歌",name_en:"Google",slug:"google",category:"technology"},
-{name:"古驰",name_en:"Gucci",slug:"gucci",category:"fashion-luxury"},
 {name:"愛馬仕",name_en:"Hermès",slug:"hermes",category:"fashion-luxury"},
 {name:"lego",name_en:"lego",slug:"lego",category:"toy"},
 {name:"loréal",name_en:"loréal",slug:"loreal",category:"beauty"},
@@ -277,10 +258,9 @@ var brandsData = [
 {name:"三星",name_en:"Samsung",slug:"samsung",category:"technology"},
 {name:"索尼",name_en:"Sony",slug:"sony",category:"tech"},
 {name:"星巴克",name_en:"Starbucks",slug:"starbucks",category:"food"},
-{name:"英伟达",name_en:"NVIDIA",slug:"nvidia",category:"tech"},
 {name:"特斯拉",name_en:"Tesla",slug:"tesla",category:"auto"},
 {name:"丰田",name_en:"Toyota",slug:"toyota",category:"automotive"},
-{name:"英特尔",name_en:"Intel",slug:"intel",category:"technology"}
+{name:"英伟达",name_en:"NVIDIA",slug:"nvidia",category:"technology"}
 ];
 
 var categoryNames = {

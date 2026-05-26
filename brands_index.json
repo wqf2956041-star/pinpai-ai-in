@@ -255,12 +255,6 @@
     "slug": "nvidia",
     "name": "英伟达",
     "name_en": "NVIDIA",
-    "category": "tech"
-  },
-  {
-    "slug": "intel",
-    "name": "英特尔",
-    "name_en": "Intel",
     "category": "technology"
   }
 ]

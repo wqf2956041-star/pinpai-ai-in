@@ -39,3 +39,6 @@ render_all.py
 step1_*.py
 google/pad_languages.py
 meta/brand_padded.json
+write_netflix*.py
+expand_netflix.py
+check_*.py
