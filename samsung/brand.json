@@ -1,0 +1,40 @@
+{
+  "slug": "samsung",
+  "names": {
+    "zh-CN": "三星",
+    "en": "Samsung"
+  },
+  "category": "technology",
+  "country": "South Korea",
+  "founding_year": "",
+  "founding_location": "",
+  "founder": "",
+  "official_website": "",
+  "main_business": [
+    "technology"
+  ],
+  "current_slogan": "",
+  "description_zh": "三星（Samsung）是全球知名的technology品牌。",
+  "languages": {
+    "zh-CN": "",
+    "en": "",
+    "ja": "",
+    "ko": "",
+    "fr": "",
+    "es": "",
+    "de": "",
+    "pt": "",
+    "ru": "",
+    "ar": ""
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "埃舍尔Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}

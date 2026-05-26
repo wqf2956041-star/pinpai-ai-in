@@ -1,0 +1,40 @@
+{
+  "slug": "toyota",
+  "names": {
+    "zh-CN": "丰田",
+    "en": "Toyota"
+  },
+  "category": "automotive",
+  "country": "Japan",
+  "founding_year": "",
+  "founding_location": "",
+  "founder": "",
+  "official_website": "",
+  "main_business": [
+    "automotive"
+  ],
+  "current_slogan": "",
+  "description_zh": "丰田（Toyota）是全球知名的automotive品牌。",
+  "languages": {
+    "zh-CN": "",
+    "en": "",
+    "ja": "",
+    "ko": "",
+    "fr": "",
+    "es": "",
+    "de": "",
+    "pt": "",
+    "ru": "",
+    "ar": ""
+  },
+  "is_premium": false,
+  "image_url": "",
+  "similar_brands": [
+    {
+      "zh": "埃舍尔Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
+}
