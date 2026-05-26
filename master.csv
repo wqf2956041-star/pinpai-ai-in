@@ -1,14 +1,5 @@
 slug,name_en,name_zh,category,country,deployed
 escher,Escher,埃舍尔,fashion,China,true
-3m,3M,3M,materials,United States,false
-airbnb,Airbnb,爱彼迎,technology,United States,false
-amazon,Amazon,亚马逊,technology,United States,false
-<<<<<<< Updated upstream
-3m,3M,3M,materials,United States,false
-airbnb,Airbnb,爱彼迎,technology,United States,false
-amazon,Amazon,亚马逊,technology,United States,false
-=======
->>>>>>> Stashed changes
 hermes,Hermès,爱马仕,fashion,France,true
 bmw,BMW,宝马,automotive,Germany,true
 sony,Sony,索尼,electronics,Japan,true
@@ -30,8 +21,8 @@ google,Google,谷歌,technology,United States,true
 meta,Meta,Meta,technology,United States,true
 tesla,Tesla,特斯拉,automotive,United States,true
 disney,Disney,迪士尼,entertainment,United States,true
-toyota,Toyota,丰田,automotive,Japan,true
-samsung,Samsung,三星,technology,South Korea,true
+toyota,Toyota,丰田,automotive,Japan,false
+samsung,Samsung,三星,technology,South Korea,false
 starbucks,Starbucks,星巴克,food,United States,true
 mercedes-benz,Mercedes-Benz,梅赛德斯-奔驰,automotive,Germany,true
 netflix,Netflix,奈飞,technology,United States,false
@@ -57,7 +48,6 @@ uniqlo,Uniqlo,优衣库,fashion,Japan,false
 muji,Muji,无印良品,fashion,Japan,false
 louis-vuitton,Louis Vuitton,路易威登,fashion-luxury,France,false
 gucci,Gucci,古驰,fashion-luxury,Italy,false
-prada,Prada,普拉达,fashion-luxury,Italy,true
 prada,Prada,普拉达,fashion-luxury,Italy,true
 versace,Versace,范思哲,fashion-luxury,Italy,false
 dior,Dior,迪奥,fashion-luxury,France,false
