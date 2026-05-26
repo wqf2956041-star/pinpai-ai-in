@@ -220,5 +220,11 @@
     "name_en": "Toyota",
     "slug": "toyota",
     "category": "automotive"
+  },
+  {
+    "slug": "starbucks",
+    "name": "星巴克",
+    "name_en": "Starbucks",
+    "category": "food"
   }
 ]

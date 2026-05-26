@@ -28,3 +28,14 @@ render_*.py
 rebuild_*.py
 check_remote.py
 fix_index.py
+auto_brand.py
+brand_auto_drive.py
+brand_automation.py
+brand_driver.py
+brand_pool.json
+.batch_state.json
+caddy_config_block.txt
+render_all.py
+step1_*.py
+google/pad_languages.py
+meta/brand_padded.json

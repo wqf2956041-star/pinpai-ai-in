@@ -1,11 +1,11 @@
 slug,name_en,name_zh,category,country,deployed
 escher,Escher,埃舍尔,fashion,China,true
-3m,3M,3M,materials,United States,true
-airbnb,Airbnb,爱彼迎,technology,United States,true
-amazon,Amazon,亚马逊,technology,United States,true
-3m,3M,3M,materials,United States,true
-airbnb,Airbnb,爱彼迎,technology,United States,true
-amazon,Amazon,亚马逊,technology,United States,true
+3m,3M,3M,materials,United States,false
+airbnb,Airbnb,爱彼迎,technology,United States,false
+amazon,Amazon,亚马逊,technology,United States,false
+3m,3M,3M,materials,United States,false
+airbnb,Airbnb,爱彼迎,technology,United States,false
+amazon,Amazon,亚马逊,technology,United States,false
 hermes,Hermès,爱马仕,fashion,France,true
 bmw,BMW,宝马,automotive,Germany,true
 sony,Sony,索尼,electronics,Japan,true
@@ -29,7 +29,7 @@ tesla,Tesla,特斯拉,automotive,United States,true
 disney,Disney,迪士尼,entertainment,United States,true
 toyota,Toyota,丰田,automotive,Japan,true
 samsung,Samsung,三星,technology,South Korea,true
-starbucks,Starbucks,星巴克,food,United States,false
+starbucks,Starbucks,星巴克,food,United States,true
 mercedes-benz,Mercedes-Benz,梅赛德斯-奔驰,automotive,Germany,false
 netflix,Netflix,奈飞,technology,United States,false
 nvidia,NVIDIA,英伟达,technology,United States,false
