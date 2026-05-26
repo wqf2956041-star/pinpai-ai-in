@@ -1,56 +1,40 @@
 {
   "slug": "toyota",
   "names": {
-    "zh-CN": "Toyota",
+    "zh-CN": "丰田",
     "en": "Toyota"
   },
-  "category": "auto",
-  "founding_year": 1937,
-  "founding_location": "日本丰田市",
-  "founder": "丰田喜一郎 (Kiichiro Toyoda)",
-  "official_website": "https://www.toyota.com",
+  "category": "automotive",
+  "country": "Japan",
+  "founding_year": "",
+  "founding_location": "",
+  "founder": "",
+  "official_website": "",
   "main_business": [
-    "汽车",
-    "混合动力"
+    "automotive"
   ],
-  "current_slogan": "车到山前必有路，有路必有丰田车",
-  "description_zh": "Toyota（丰田）是全球最大的汽车制造商之一，由丰田喜一郎（Kiichiro Toyoda）于1937年从丰田自动织机制作所独立出来创立，总部位于日本爱知县丰田市。丰田以\"精益生产\"（Lean Production）和\"丰田生产方式\"（Toyota Production System, TPS）闻名于世，这套以准时制（Just-In-Time）和持续改善（Kaizen）为核心的管理哲学被全球制造业奉为圭臬。丰田在全球汽车产业中拥有举足轻重的地位，常年位居全球汽车销量前三，并连续多年蝉联全球最畅销汽车品牌。品牌产品线极为丰富，涵盖从经济型轿车（Corolla卡罗拉——全球最畅销车型）到豪华品牌雷克萨斯（Lexus），从皮卡（Hilux海拉克斯）到混合动力先驱（Prius普锐斯）的全方位布局。1997年推出的第一代Prius是世界首款大规模生产的混合动力汽车，标志着汽车电气化时代的重要开端。丰田在氢燃料电池技术和固态电池领域同样走在行业前列。凭借其无可挑剔的可靠性和完善的服务网络，丰田在全球消费者中赢得了极高的忠诚信赖。",
+  "current_slogan": "",
+  "description_zh": "丰田（Toyota）是全球知名的automotive品牌。",
   "languages": {
-    "en": "Toyota is one of the world's largest and most respected automakers, founded in 1937 by Kiichiro Toyoda in Japan. Renowned for the Toyota Production System (TPS)—based on Just-In-Time manufacturing and Kaizen continuous improvement—Toyota revolutionized global manufacturing practices. The brand consistently ranks among the top three automakers by sales volume, with the Corolla being the best-selling car model in history. Toyota pioneered mass hybrid vehicle production with the Prius in 1997, and continues to lead in hydrogen fuel cell and solid-state battery technology. Its product range spans from affordable compact cars to the luxury Lexus division, rugged Hilux pickups, and commercial vehicles. Toyota is globally synonymous with reliability, quality, and durability, commanding exceptional customer loyalty worldwide."
+    "zh-CN": "",
+    "en": "",
+    "ja": "",
+    "ko": "",
+    "fr": "",
+    "es": "",
+    "de": "",
+    "pt": "",
+    "ru": "",
+    "ar": ""
   },
-  "similar_brands": [
-    {
-      "zh": "梅赛德斯-奔驰",
-      "en": "Mercedes-Benz",
-      "slug": "mercedes-benz"
-    },
-    {
-      "zh": "BMW",
-      "en": "BMW",
-      "slug": "bmw"
-    },
-    {
-      "zh": "Ferrari",
-      "en": "Ferrari",
-      "slug": "ferrari"
-    },
-    {
-      "zh": "BYD",
-      "en": "BYD",
-      "slug": "byd"
-    }
-  ],
   "is_premium": false,
   "image_url": "",
-  "representative_products": [],
-  "key_events": [],
-  "philanthropy": [],
-  "exhibitions": [],
-  "past_slogans": [],
-  "wikidata_id": "Q53268",
-  "_meta": {
-    "version": "2.0.0",
-    "created_at": "2026-05-25 10:02:56",
-    "validator_pass": true
-  }
+  "similar_brands": [
+    {
+      "zh": "埃舍尔Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    }
+  ]
 }

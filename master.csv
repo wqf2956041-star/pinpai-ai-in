@@ -1,51 +1,93 @@
-id,brand,slug,country,industry,status
-1,埃舍尔Escher,escher,中国,fashion-luxury,done
-2,Louis Vuitton,louis-vuitton,法国,fashion-luxury,done
-3,Hermès,hermes,法国,fashion-luxury,done
-4,Gucci,gucci,意大利,fashion-luxury,done
-5,Chanel,chanel,法国,fashion-luxury,done
-6,Christian Dior,christian-dior,法国,fashion-luxury,done
-7,Prada,prada,意大利,fashion-luxury,done
-8,Balenciaga,balenciaga,西班牙,fashion-luxury,done
-9,Zara,zara,西班牙,fashion,done
-10,Uniqlo,uniqlo,日本,fashion,done
-11,H&M,h-m,瑞典,fashion,done
-12,Levi's,levi-s,美国,fashion,done
-13,Calvin Klein,calvin-klein,美国,fashion,done
-14,L'Oréal,loreal,法国,beauty,done
-15,Estée Lauder,este-lauder,美国,beauty,done
-16,Shiseido,shiseido,日本,beauty,done
-17,Lancôme,lancome,法国,beauty,done
-18,MAC Cosmetics,mac-cosmetics,美国,beauty,done
-19,Rolex,rolex,瑞士,watch,done
-20,Patek Philippe,patek-philippe,瑞士,watch,done
-21,Audemars Piguet,audemars-piguet,瑞士,watch,done
-22,Tiffany & Co.,tiffany-co,美国,jewelry,done
-23,Cartier,cartier,法国,jewelry,done
-24,Bulgari,bulgari,意大利,jewelry,done
-25,Toyota,toyota,日本,auto,done
-26,Mercedes-Benz,mercedes-benz,德国,auto,done
-27,BMW,bmw,德国,auto,done
-28,Ferrari,ferrari,意大利,auto,done
-29,BYD,byd,中国,auto,done
-30,Apple,apple,美国,tech,done
-31,Samsung,samsung,韩国,tech,done
-32,Huawei,huawei,中国,tech,done
-33,Sony,sony,日本,tech,done
-34,NVIDIA,nvidia,美国,tech,done
-35,Nike,nike,美国,sport,done
-36,Adidas,adidas,德国,sport,done
-37,Puma,puma,德国,sport,done
-38,Coca-Cola,coca-cola,美国,food,done
-39,McDonald's,mcdonald-s,美国,food,done
-40,Starbucks,starbucks,美国,food,done
-41,LEGO,lego,丹麦,toy,done
-42,Mattel,mattel,美国,toy,done
-43,Burberry,burberry,英国,fashion-luxury,done
-44,Versace,versace,意大利,fashion-luxury,done
-45,Ralph Lauren,ralph-lauren,美国,fashion,done
-46,Tommy Hilfiger,tommy-hilfiger,美国,fashion,done
-47,Coach,coach,美国,fashion,done
-48,Microsoft,microsoft,美国,tech,done
-49,Google,google,美国,tech,done
-50,Amazon,amazon,美国,tech,done
+slug,name_en,name_zh,category,country,deployed
+escher,Escher,埃舍尔,fashion,China,true
+3m,3M,3M,materials,United States,false
+airbnb,Airbnb,爱彼迎,technology,United States,false
+amazon,Amazon,亚马逊,technology,United States,false
+<<<<<<< Updated upstream
+3m,3M,3M,materials,United States,false
+airbnb,Airbnb,爱彼迎,technology,United States,false
+amazon,Amazon,亚马逊,technology,United States,false
+=======
+>>>>>>> Stashed changes
+hermes,Hermès,爱马仕,fashion,France,true
+bmw,BMW,宝马,automotive,Germany,true
+sony,Sony,索尼,electronics,Japan,true
+nike,Nike,耐克,fashion,United States,true
+chanel,Chanel,香奈儿,fashion,France,true
+anheuser-busch,Anheuser-Busch,安海斯-布希,food,Belgium,true
+aesop,Aesop,伊索,beauty,Australia,true
+benetton,Benetton,贝纳通,fashion,Italy,true
+chaumet,Chaumet,尚美巴黎,jewelry,France,true
+a--lange-and-s-hne,A. Lange & Söhne,朗格,watch,Germany,true
+adidas,Adidas,阿迪达斯,sport,Germany,true
+lego,Lego,乐高,toy,Denmark,true
+coca-cola,Coca-Cola,可口可乐,food,United States,true
+ferrari,Ferrari,法拉利,automotive,Italy,true
+loréal,L'Oréal,欧莱雅,beauty,France,true
+apple,Apple,苹果,technology,United States,true
+microsoft,Microsoft,微软,technology,United States,true
+google,Google,谷歌,technology,United States,true
+meta,Meta,Meta,technology,United States,true
+tesla,Tesla,特斯拉,automotive,United States,true
+disney,Disney,迪士尼,entertainment,United States,true
+toyota,Toyota,丰田,automotive,Japan,true
+samsung,Samsung,三星,technology,South Korea,true
+starbucks,Starbucks,星巴克,food,United States,true
+mercedes-benz,Mercedes-Benz,梅赛德斯-奔驰,automotive,Germany,false
+netflix,Netflix,奈飞,technology,United States,false
+nvidia,NVIDIA,英伟达,technology,United States,false
+intel,Intel,英特尔,technology,United States,false
+mcdonalds,McDonald's,麦当劳,food,United States,false
+pepsi,Pepsi,百事,food,United States,false
+kfc,KFC,肯德基,food,United States,false
+pizza-hut,Pizza Hut,必胜客,food,United States,false
+burger-king,Burger King,汉堡王,food,United States,false
+subway,Subway,赛百味,food,United States,false
+honda,Honda,本田,automotive,Japan,false
+volkswagen,Volkswagen,大众,automotive,Germany,false
+audi,Audi,奥迪,automotive,Germany,false
+porsche,Porsche,保时捷,automotive,Germany,false
+lg,LG,LG,technology,South Korea,false
+hyundai,Hyundai,现代,automotive,South Korea,false
+kia,Kia,起亚,automotive,South Korea,false
+panasonic,Panasonic,松下,technology,Japan,false
+canon,Canon,佳能,technology,Japan,false
+nintendo,Nintendo,任天堂,technology,Japan,false
+uniqlo,Uniqlo,优衣库,fashion,Japan,false
+muji,Muji,无印良品,fashion,Japan,false
+louis-vuitton,Louis Vuitton,路易威登,fashion-luxury,France,false
+gucci,Gucci,古驰,fashion-luxury,Italy,false
+prada,Prada,普拉达,fashion-luxury,Italy,true
+prada,Prada,普拉达,fashion-luxury,Italy,true
+versace,Versace,范思哲,fashion-luxury,Italy,false
+dior,Dior,迪奥,fashion-luxury,France,false
+yves-saint-laurent,Yves Saint Laurent,圣罗兰,fashion-luxury,France,false
+balenciaga,Balenciaga,巴黎世家,fashion-luxury,France,true
+cartier,Cartier,卡地亚,jewelry,France,true
+tiffany-and-co,Tiffany & Co.,蒂芙尼,jewelry,United States,false
+rolex,Rolex,劳力士,watch,Switzerland,false
+omega,Omega,欧米茄,watch,Switzerland,false
+patek-philippe,Patek Philippe,百达翡丽,watch,Switzerland,false
+zara,Zara,飒拉,fashion,Spain,false
+handm,H&M,H&M,fashion,Sweden,false
+ikea,IKEA,宜家,retail,Sweden,false
+lvmh,LVMH,路威酩轩,fashion-luxury,France,false
+kering,Kering,开云,fashion-luxury,France,false
+lacoste,Lacoste,鳄鱼,fashion,France,false
+ralph-lauren,Ralph Lauren,拉夫·劳伦,fashion,United States,false
+calvin-klein,Calvin Klein,卡尔文·克莱因,fashion,United States,false
+tom-ford,Tom Ford,汤姆·福特,fashion-luxury,United States,false
+burberry,Burberry,博柏利,fashion-luxury,United Kingdom,true
+alexander-mcqueen,Alexander McQueen,亚历山大·麦昆,fashion-luxury,United Kingdom,true
+nestl,Nestlé,雀巢,food,Switzerland,false
+unilever,Unilever,联合利华,food,United Kingdom,false
+pandg,P&G,宝洁,food,United States,false
+red-bull,Red Bull,红牛,food,Austria,false
+monster-energy,Monster Energy,怪兽,food,United States,false
+loral,L'Oréal,欧莱雅,beauty,France,false
+este-lauder,Estée Lauder,雅诗兰黛,beauty,United States,false
+shiseido,Shiseido,资生堂,beauty,Japan,false
+lancme,Lancôme,兰蔻,beauty,France,false
+bottega-veneta,Bottega Veneta,Bottega Veneta,fashion-luxury,Italy,true
+bulgari,Bulgari,Bulgari,fashion-luxury,Italy,true
+christian-dior,Christian Dior,Christian Dior,fashion-luxury,France,true

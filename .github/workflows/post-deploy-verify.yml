@@ -1,0 +1,107 @@
+name: 部署后语言独立性自动验证
+# 每次 push 到 main 后自动验证所有 done 品牌的语言独立性
+# 如果发现任何语言的 content 等于英文 content，标记失败
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  verify-languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 验证所有 done 品牌的10种语言独立性
+        run: |
+          python3 << 'PYEOF'
+          import csv, json, sys, urllib.request
+
+          failures = []
+          passed = 0
+
+          # 读取 master.csv 获取所有 done 品牌
+          with open("master.csv", encoding="utf-8") as f:
+              reader = csv.DictReader(f)
+              brands = [r for r in reader if r.get("status", "").strip() == "done"]
+
+          if not brands:
+              print("✅ 没有 done 状态的品牌需要验证")
+              sys.exit(0)
+
+          for brand_row in brands:
+              slug = brand_row["slug"].strip()
+              brand_name = brand_row["brand"].strip()
+              url = f"https://pinpai.ai.in/{slug}/"
+
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                  with urllib.request.urlopen(req, timeout=15) as resp:
+                      html = resp.read().decode("utf-8")
+              except Exception as e:
+                  print(f"❌ {slug} ({brand_name}): 页面无法访问 - {e}")
+                  failures.append(slug)
+                  continue
+
+              # 提取 BRAND_DATA
+              import re
+              m = re.search(r'const BRAND_DATA = ({.*?});', html, re.DOTALL)
+              if not m:
+                  print(f"❌ {slug} ({brand_name}): BRAND_DATA 不存在于页面中")
+                  failures.append(slug)
+                  continue
+
+              try:
+                  data = json.loads(m.group(1))
+              except json.JSONDecodeError:
+                  print(f"❌ {slug} ({brand_name}): BRAND_DATA JSON 解析失败")
+                  failures.append(slug)
+                  continue
+
+              en_content = data.get("en", {}).get("content", "")
+              if not en_content:
+                  print(f"❌ {slug} ({brand_name}): 英文内容为空")
+                  failures.append(slug)
+                  continue
+
+              lang_checks = {
+                  "zh-CN": "中文", "fr": "Français", "es": "Español",
+                  "de": "Deutsch", "ja": "日本語", "ko": "한국어",
+                  "pt": "Português", "ru": "Русский", "ar": "العربية"
+              }
+
+              brand_ok = True
+              for lang_code, lang_label in lang_checks.items():
+                  content_obj = data.get(lang_code, {})
+                  content = content_obj.get("content", "") if isinstance(content_obj, dict) else ""
+
+                  if not content:
+                      print(f"  ❌ {slug}/{lang_code}: 内容为空")
+                      brand_ok = False
+                      continue
+
+                  if content == en_content:
+                      print(f"  ❌ {slug}/{lang_code} ({lang_label}): 内容等于英文 ({len(content)} chars)")
+                      brand_ok = False
+                  else:
+                      print(f"  ✅ {slug}/{lang_code} ({lang_label}): {len(content)} chars (en={len(en_content)} chars)")
+
+              if brand_ok:
+                  passed += 1
+              else:
+                  failures.append(slug)
+
+          print(f"\n{'='*50}")
+          print(f"结果: {passed}/{len(brands)} 品牌通过, {len(failures)} 品牌失败")
+          if failures:
+              print(f"失败品牌: {', '.join(failures)}")
+              sys.exit(1)
+          else:
+              print("✅ 所有品牌语言验证通过!")
+          PYEOF

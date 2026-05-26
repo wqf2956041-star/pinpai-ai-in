@@ -144,8 +144,8 @@ def render_brand(brand_data):
     names = brand_data.get("names", {})
     name_zh = names.get("zh-CN", slug)
     name_en = names.get("en", slug)
-    desc_zh = brand_data.get("description_zh", "")
     langs = brand_data.get("languages", {})
+    desc_zh = langs.get("zh-CN") or brand_data.get("description_zh", "")
     en_content = langs.get("en", desc_zh)
 
     # 构建10语言 brand_json
@@ -185,12 +185,57 @@ def render_brand(brand_data):
 
     similar = brand_data.get("similar_brands", [])
     similar_html = ""
+
+    # 动态获取最新已部署品牌（有index.html的）
+    deployed_slugs = []
+    try:
+        for d in sorted(ROOT.iterdir()):
+            if d.is_dir() and (d / "index.html").exists() and d.name != "logs":
+                deployed_slugs.append(d.name)
+    except:
+        pass
+
+    # 在推荐列表最前面固定插入埃舍尔Escher（仅埃舍尔带"品牌推广"标记）
+    escher_slot = {"zh": "埃舍尔Escher", "en": "埃舍尔Escher", "slug": "escher", "promoted": True}
+    
+    # 从deployed品牌中收集最新品牌（排除埃舍尔），按字母顺序稳定填充，最多19个
+    # 优先从similar_brands中取，不够再从所有deployed中取
+    auto_brands = []
+    seen_slugs = {"escher"}
     for s in similar:
-        premium_cls = " premium" if s.get("premium") else ""
-        badge = '<span class="badge-premium">品牌推广</span>' if s.get("premium") else ""
+        s_slug = s.get("slug", "")
+        if s_slug not in seen_slugs and s_slug in deployed_slugs:
+            auto_brands.append(s)
+            seen_slugs.add(s_slug)
+    # 如果similar_brands不够，从所有deployed中取
+    for slug in deployed_slugs:
+        if slug not in seen_slugs and len(auto_brands) < 19:
+            # 读取该brand.json获取名称
+            bj_path = ROOT / slug / "brand.json"
+            if bj_path.exists():
+                try:
+                    bj = json.loads(bj_path.read_text(encoding='utf-8'))
+                    auto_brands.append({
+                        "zh": bj.get("names", {}).get("zh-CN", slug),
+                        "en": bj.get("names", {}).get("en", slug),
+                        "slug": slug,
+                        "promoted": False
+                    })
+                    seen_slugs.add(slug)
+                except:
+                    pass
+
+    # 组合：埃舍尔(推广) + 其他品牌(无推广标记，无坑位编号，无可售字样)
+    all_slots = [escher_slot] + auto_brands[:19]
+    for s in all_slots:
+        promoted = s.get("promoted", False)
+        premium_cls = " premium" if promoted else ""
+        badge = '<span class="badge-premium">品牌推广</span>' if promoted else ""
         similar_html += f'<a href="/{s["slug"]}/" class="similar-card{premium_cls}"><span class="zh">{s["zh"]} {badge}</span><span class="en">{s["en"]}</span></a>\n    '
 
-    similar_index = [{"zh":s["zh"],"en":s["en"],"slug":s["slug"],"premium":s.get("premium",False)} for s in similar]
+    similar_index = []
+    for s in all_slots:
+        similar_index.append({"zh":s["zh"],"en":s["en"],"slug":s["slug"],"promoted":s.get("promoted",False)})
 
     html = template_content
     brand_json_str = json.dumps(brand_json, ensure_ascii=False)

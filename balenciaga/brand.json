@@ -2,61 +2,174 @@
   "slug": "balenciaga",
   "names": {
     "zh-CN": "巴黎世家",
-    "en": "Balenciaga"
+    "en": "Balenciaga",
+    "fr": "Balenciaga",
+    "es": "Balenciaga",
+    "de": "Balenciaga",
+    "ja": "バレンシアガ",
+    "ko": "발렌시아가",
+    "pt": "Balenciaga",
+    "ru": "Баленсиага",
+    "ar": "بالينسياغا"
   },
   "category": "fashion-luxury",
   "founding_year": 1919,
-  "founding_location": "西班牙",
-  "founder": "克里斯托瓦尔·巴伦西亚加",
+  "founding_location": "西班牙圣塞巴斯蒂安",
+  "founding_location_en": "San Sebastián, Spain",
+  "founder": "克里斯托瓦尔·巴伦西亚加（Cristóbal Balenciaga）",
   "official_website": "https://www.balenciaga.com/",
   "main_business": [
-    "时装",
+    "高级时装",
+    "成衣",
+    "鞋履",
     "配饰",
+    "手袋",
     "香水"
   ],
-  "current_slogan": "Balenciaga, 结构与先锋",
-  "description_zh": "巴黎世家（Balenciaga）是创立于西班牙后迁至法国的顶级时装品牌，1917年由被誉为「大师中的大师」的克里斯托瓦尔·巴伦西亚加在圣塞巴斯蒂安创立，1937年迁至巴黎。巴伦西亚加先生以其建筑感的结构主义剪裁和高定技艺闻名——他的茧形大衣、气球裙和娃娃裙设计至今影响深远，连克里斯汀·迪奥都尊称他为「我们所有人的大师」。2015年，格鲁吉亚设计师德姆娜·格瓦萨利亚出任创意总监，将品牌彻底重塑为街头风格与奢侈时尚碰撞的前卫代表。Triple S老爹鞋、Tracker运动鞋和Hourglass沙漏包等单品引爆全球潮流。巴黎世家以反传统、解构主义和「丑美学」著称，将高定基因与青年亚文化融合，成为当今最具话题性和影响力的奢侈品牌之一，隶属开云集团。",
+  "current_slogan": "Balenciaga defines the shape of fashion itself.",
+  "description_zh": "巴黎世家（Balenciaga）由克里斯托瓦尔·巴伦西亚加（Cristóbal Balenciaga）于1919年在西班牙圣塞巴斯蒂安创立，是全球最具影响力的奢侈时装品牌之一。巴伦西亚加被誉为\"高级时装界的建筑师\"，以其革命性的剪裁技术和雕塑般的轮廓设计重新定义了20世纪女性时装的形态语言。1937年，品牌在巴黎开设时装沙龙，正式进入法国高级时装界。1968年，巴伦西亚加因对高级时装业衰落深感失望而关闭时装屋，震惊整个时尚界。1986年，品牌被法国开云集团收购，此后经历多次复兴。1997年，尼古拉·盖斯奇埃尔出任创意总监，为品牌注入现代活力；2015年，德姆纳·格瓦萨利亚接任，以颠覆性的街头风格和反时尚态度将巴黎世家推向全新的文化高度。如今，巴黎世家代表着一种前卫、大胆、不循规蹈矩的时尚态度，其设计语言深远影响着全球潮流方向。\n\n品牌的核心设计哲学是\"形式先行\"——巴伦西亚加深信服装的轮廓比装饰更重要。他创造的桶形轮廓（Barrel Line）、半紧身连衣裙（Semi-Fitted Silhouette）和气球裙（Balloon Skirt）都是时装史上的里程碑。这种以建筑般的结构感为核心的审美，在德姆纳时期演变为对日常物品的戏剧性放大——超大廓形、夸张比例、模糊正装与休闲的界线。巴黎世家将高定时装的技术标准与街头文化的活力结合在一起，创造出一种独特的视觉语言。\n\n在产品方面，巴黎世家创造了一系列具有文化影响力的标志性单品。2001年推出的机车包（Motorcycle Bag，又名City Bag）是21世纪初最具代表性的手袋之一，朋克风格与实用功能兼具。2017年的Triple S运动鞋掀起全球老爹鞋风潮，三层复古鞋底彻底颠覆了运动鞋审美。2016年的尖头Knife Boot以极致极简主义定义了新时代的鞋履设计。2019年的Hourglass沙漏包以B字形弧形底座为特色，兼具建筑美感与现代气质。这些产品共同塑造了巴黎世家在当代时尚界不可替代的地位。\n\n品牌历史上经历了多个关键转折。从创始人隐退到被集团收购，从盖斯奇埃尔时代的知识分子美学到德姆纳时代的街头革命，每一次变革都伴随着争议与喝彩。巴黎世家的CSR实践包括参与开云基金会妇女权益项目，以及响应巴黎时装周可持续发展倡议。品牌展览如伦敦V&A博物馆的\"Balenciaga: Shaping Fashion\"回顾展和巴黎装饰艺术博物馆的专题展，都证实了其在时尚史上的学术价值和文化影响力。",
   "languages": {
-    "en": "Balenciaga is a premier fashion house founded in 1917 by Cristóbal Balenciaga in San Sebastián, Spain, later moving to Paris in 1937. Known as 'the master of us all' by Christian Dior, Balenciaga pioneered architectural silhouettes and structural tailoring — his cocoon coats, balloon skirts, and sack dresses remain profoundly influential. In 2015, Georgian designer Demna Gvasalia took over as creative director, radically reinventing the brand as an avant-garde fusion of streetwear and luxury. Pieces like the Triple S sneakers, Track trainers, and the Hourglass bag became global sensations. Known for anti-traditionalism, deconstruction, and 'ugly aesthetics,' Balenciaga merges haute couture heritage with youth subculture, becoming one of the most talked-about and influential luxury brands today, owned by Kering."
+    "zh-CN": "巴黎世家（Balenciaga）由克里斯托瓦尔·巴伦西亚加（Cristóbal Balenciaga）于1919年在西班牙圣塞巴斯蒂安创立，是全球最具影响力的奢侈时装品牌之一。巴伦西亚加被誉为\"高级时装界的建筑师\"，以其革命性的剪裁技术和雕塑般的轮廓设计重新定义了20世纪女性时装的形态语言。1937年，品牌在巴黎开设时装沙龙，正式进入法国高级时装界。1968年，巴伦西亚加因对高级时装业衰落深感失望而关闭时装屋，震惊整个时尚界。1986年，品牌被法国开云集团收购，此后经历多次复兴。1997年，尼古拉·盖斯奇埃尔出任创意总监，为品牌注入现代活力；2015年，德姆纳·格瓦萨利亚接任，以颠覆性的街头风格和反时尚态度将巴黎世家推向全新的文化高度。如今，巴黎世家代表着一种前卫、大胆、不循规蹈矩的时尚态度，其设计语言深远影响着全球潮流方向。\n\n品牌的核心设计哲学是\"形式先行\"——巴伦西亚加深信服装的轮廓比装饰更重要。他创造的桶形轮廓（Barrel Line）、半紧身连衣裙（Semi-Fitted Silhouette）和气球裙（Balloon Skirt）都是时装史上的里程碑。这种以建筑般的结构感为核心的审美，在德姆纳时期演变为对日常物品的戏剧性放大——超大廓形、夸张比例、模糊正装与休闲的界线。巴黎世家将高定时装的技术标准与街头文化的活力结合在一起，创造出一种独特的视觉语言。\n\n在产品方面，巴黎世家创造了一系列具有文化影响力的标志性单品。2001年推出的机车包（Motorcycle Bag，又名City Bag）是21世纪初最具代表性的手袋之一，朋克风格与实用功能兼具。2017年的Triple S运动鞋掀起全球老爹鞋风潮，三层复古鞋底彻底颠覆了运动鞋审美。2016年的尖头Knife Boot以极致极简主义定义了新时代的鞋履设计。2019年的Hourglass沙漏包以B字形弧形底座为特色，兼具建筑美感与现代气质。这些产品共同塑造了巴黎世家在当代时尚界不可替代的地位。\n\n品牌历史上经历了多个关键转折。从创始人隐退到被集团收购，从盖斯奇埃尔时代的知识分子美学到德姆纳时代的街头革命，每一次变革都伴随着争议与喝彩。巴黎世家的CSR实践包括参与开云基金会妇女权益项目，以及响应巴黎时装周可持续发展倡议。品牌展览如伦敦V&A博物馆的\"Balenciaga: Shaping Fashion\"回顾展和巴黎装饰艺术博物馆的专题展，都证实了其在时尚史上的学术价值和文化影响力。",
+    "en": "Balenciaga defines the shape of fashion itself. Founded by Cristóbal Balenciaga in 1919 in San Sebastián, Spain, the house rose to become one of the most influential forces in luxury fashion. The founder, often called \"the architect of haute couture,\" revolutionized women's clothing with his sculptural silhouettes and masterful construction techniques. His approach treated fabric like building material — every seam, every fold, every proportion was engineered for visual impact.\n\nIn 1937, Balenciaga opened his couture salon in Paris, entering the elite world of French haute couture. His innovations included the semi-fitted silhouette, the barrel line, and the balloon skirt — each one reshaping how women dressed. Unlike many of his contemporaries, Balenciaga cut his own patterns and constructed every garment himself, maintaining complete creative control. This hands-on mastery set his work apart and earned him the respect of rivals like Coco Chanel, who called him \"the only true couturier.\"\n\nThe house closed in 1968 when the founder, disillusioned with the decline of haute couture, shuttered his doors — a decision that shocked the fashion world. After the founder's death, the brand was acquired by the Kering Group in 1986. Two creative directors redefined its trajectory: Nicolas Ghesquière (1997-2012) brought a modern intellectual edge, and Demna Gvasalia (2015-present) unleashed a cultural phenomenon by injecting streetwear, irony, and anti-fashion sensibility into the brand's DNA.\n\nBalenciaga's product innovations have become cultural markers. The Motorcycle Bag (2001) combined punk attitude with everyday utility. The Triple S sneaker (2017) single-handedly launched the \"ugly dad shoe\" trend. The Knife boot (2016) stripped footwear down to its most extreme minimal form. And the Hourglass bag (2019) turned the brand's B logo into a three-dimensional architectural statement.\n\nToday Balenciaga operates at the intersection of haute couture rigor and pop culture relevance. Its oversized silhouettes, logo-heavy accessories, and deliberately \"ugly\" aesthetic have redefined what luxury looks like for a new generation. The brand's exhibitions — including the V&A's \"Balenciaga: Shaping Fashion\" — confirm its enduring influence on fashion history and design education. Through the Kering Foundation, Balenciaga also supports women's rights initiatives and participates in sustainability programs within the fashion industry.",
+    "fr": "Balenciaga incarne l'architecture du vêtement depuis sa fondation en 1919 par Cristóbal Balenciaga à Saint-Sébastien, en Espagne. Reconnu comme « l'architecte de la haute couture », le fondateur a transformé la mode féminine du XXe siècle par des coupes révolutionnaires et des silhouettes sculpturales. Chaque création témoignait d'une maîtrise technique exceptionnelle — le tissu n'était jamais plat, toujours construit en volume. En 1937, Balenciaga ouvre son salon parisien et entre dans l'univers élitiste de la haute couture française.\n\nLe créateur espagnol a introduit des formes qui ont marqué l'histoire : la ligne baril, la silhouette semi-ajustée, la jupe ballon. Sa rigueur était légendaire — il coupait lui-même ses patrons et construisait chaque vêtement de ses mains. Coco Chanel elle-même le considérait comme son seul véritable rival en matière de couture. La fermeture de la maison en 1968, lorsque Balenciaga choisit de se retirer face au déclin perçu de la haute couture, fut un choc pour l'industrie.\n\nLe renouveau est venu par étapes. Racheté par le groupe Kering en 1986, le label a connu deux vagues créatives majeures : Nicolas Ghesquière de 1997 à 2012, qui a redonné une pertinence intellectuelle à la marque, puis Demna Gvasalia à partir de 2015, qui a fait basculer Balenciaga dans une esthétique streetwear provocatrice et anticonformiste. Le sac City (2001), la basket Triple S (2017) et le sac Hourglass (2019) sont devenus des objets cultes, chacun redéfinissant son époque.\n\nAujourd'hui, Balenciaga fusionne l'exigence de la haute couture avec l'énergie de la culture populaire. Ses silhouettes oversized, ses accessoires marqués par le logo et son esthétique résolument « moche » ont redessiné les contours du luxe contemporain. La marque soutient des initiatives pour les droits des femmes via la Fondation Kering. Les expositions « Balenciaga: Shaping Fashion » au V&A de Londres et la rétrospective au Musée des Arts Décoratifs de Paris attestent de sa place dans l'histoire du design.",
+    "es": "En 1919, Cristóbal Balenciaga abrió su primera casa de moda en San Sebastián, España, sin saber que estaba sentando las bases de una de las marcas más influyentes de la historia de la moda. Apodado «el arquitecto de la alta costura», Balenciaga transformó la silueta femenina con cortes revolucionarios y una comprensión tridimensional del tejido que nadie había alcanzado antes. En 1937 dio el salto a París, donde su salón se convirtió rápidamente en referencia obligada.\n\nLas innovaciones del maestro español incluyen la línea barril, el vestido semi-ajustado y la falda globo — formas que liberaron el cuerpo femenino de las restricciones de la moda anterior. Su obsesión por la perfección lo llevaba a cortar él mismo todos los patrones. Coco Chanel, su gran rival, admitía que Balenciaga era «el único verdadero couturier». En 1968, decepcionado por la decadencia de la alta costura, cerró su casa — un gesto dramático que conmocionó al mundo de la moda.\n\nTras varios años de letargo, el grupo Kering adquirió la marca en 1986. La resurrección llegó de la mano de Nicolas Ghesquière (1997-2012), quien devolvió a Balenciaga su relevancia intelectual y comercial. Pero la transformación más radical ocurrió con Demna Gvasalia en 2015, quien inyectó una dosis masiva de cultura callejera, ironía y anti-moda. El Bolso City (2001), las zapatillas Triple S (2017) y el Bolso Hourglass (2019) no son solo productos — son hitos culturales.\n\nBalenciaga hoy representa la fusión entre la artesanía de la alta costura y la energía de la cultura juvenil. Sus siluetas extragrandes, el uso provocador del logo y su estética deliberadamente «fea» han redefinido el lujo para una nueva generación. La marca participa en iniciativas de sostenibilidad de la moda y apoya proyectos de derechos de la mujer a través de la Fundación Kering. Las exposiciones internacionales dedicadas a Balenciaga confirman su lugar indiscutible en la historia del diseño.",
+    "de": "Balenciaga hat die Formensprache der Mode entscheidend geprägt. Cristóbal Balenciaga, geboren im spanischen Getaria, eröffnete 1919 sein erstes Modehaus in San Sebastián und schuf damit die Grundlage für eines der einflussreichsten Luxuslabel der Welt. Der Designer, der als „Architekt der Haute Couture\" in die Geschichte einging, revolutionierte die Damenmode mit skulpturalen Silhouetten und technisch perfekter Verarbeitung. Jedes Kleidungsstück war ein dreidimensionales Kunstwerk.\n\nDer Umzug nach Paris 1937 markierte den Eintritt in die exklusive Welt der französischen Haute Couture. Balenciagas Innovationen — die Tonnenlinie, die halbangesetzte Silhouette, der Ballonrock — veränderten nachhaltig, wie Frauen sich kleideten. Anders als viele Zeitgenossen schnitt er seine Schnittmuster selbst und nähte jedes Kleidungsstück eigenhändig. Coco Chanel selbst nannte ihn den „einzigen wahren Couturier\".\n\n1968 schloss Balenciaga sein Haus aus Protest gegen den Niedergang der Haute Couture — ein Schock für die gesamte Branche. Nach einer langen Ruhephase wurde die Marke 1986 vom Kering-Konzern übernommen. Zwei Kreativdirektoren prägten die Neuzeit: Nicolas Ghesquière (1997-2012) verlieh der Marke intellektuelle Schärfe, während Demna Gvasalia (seit 2015) eine Streetwear-Revolution auslöste und die Grenzen zwischen Luxus und Alltagskultur sprengte.\n\nDie Motorcycle Bag (2001) wurde zum Kultobjekt, der Triple S Sneaker (2017) löste den „Ugly Dad Shoe\"-Trend aus. Die Marke engagiert sich über die Kering-Stiftung für Frauenrechte und Nachhaltigkeit in der Modeindustrie. Ausstellungen wie „Balenciaga: Shaping Fashion\" im Londoner V&A Museum unterstreichen die anhaltende Bedeutung des Hauses für die Modewissenschaft und Designgeschichte.",
+    "ja": "バレンシアガは、1919年にスペインのサン・セバスティアンでクリストバル・バレンシアガによって創業された、世界で最も影響力のあるラグジュアリーファッションブランドのひとつです。彼は「オートクチュールの建築家」と称され、彫刻のようなシルエットと革新的な裁断技術で20世紀の女性ファッションに革命をもたらしました。1937年にパリの高級サロンを開き、フランスのオートクチュール界に参入。バレンシアガはトンネルライン、セミフィットシルエット、バルーンスカートなど、それまでにない新しい服の形を次々と生み出しました。\n\nバレンシアガのデザイン哲学は「形が先」というものでした。彼は装飾よりも服の輪郭こそが最も重要だと考え、布をまるで建築材料のように扱いました。彼が自らすべてのパターンを裁断したという逸話は、その完璧主義を象徴しています。ココ・シャネルでさえ、彼を「唯一の真のクチュリエ」と呼んだと言われています。\n\n1968年、オートクチュールの衰退に失望した創業者は自らの店を閉め、ファッション業界に衝撃を与えました。1986年にケリンググループに買収され、1997年からニコラ・ジェスキエールがクリエイティブ・ディレクターとしてブランドを現代的に再生。2015年に就任したデムナ・ヴァザリアは、ストリートウェアとアンチファッションの美学を大胆に融合させ、ブランドをまったく新しい文化的領域へと導きました。\n\n代表的なプロダクトには、2001年のモーターサイクルバッグ（シティバッグ）、2017年のトリプルSスニーカー、2019年のアワーグラスバッグがあります。現在のバレンシアガは、オーバーサイズのシルエットと挑発的なロゴ使いで知られ、オートクチュールの技術的水準とストリートカルチャーのエネルギーを融合させています。ロンドンのV&A博物館での回顧展やパリの装飾美術館での特別展など、その文化的影響力は世界的に認められており、ファッション史学においても重要な研究対象となっています。",
+    "ko": "발렌시아가는 1919년 스페인 산세바스티안에서 크리스토발 발렌시아가가 설립한 세계적인 명품 패션 브랜드입니다. '오트 쿠튀르의 건축가'로 불리는 창립자는 조각 같은 실루엣과 혁신적인 커팅 기술로 20세기 여성 패션의 형태를 완전히 바꾸어 놓았습니다. 1937년 파리에서 살롱을 열고 프랑스 오트 쿠튀르계에 진출하여 배럴 라인, 세미피트 실루엣, 벌룬 스커트 등 혁신적인 실루엣을 선보였습니다.\n\n발렌시아가의 디자인 철학은 '형태가 우선'이었습니다. 그는 장식보다 의상의 윤곽이 가장 중요하다고 믿었으며, 천을 건축 자재처럼 다루었습니다. 모든 패턴을 직접 재단했다는 일화는 그의 완벽주의를 상징합니다. 코코 샤넬조차 그를 '유일한 진정한 쿠튀리에'라고 칭했습니다.\n\n1968년, 오트 쿠튀르의 쇠퇴에 실망한 발렌시아가는 매장을 폐쇄하여 패션계에 큰 충격을 주었습니다. 1986년 케링 그룹이 인수한 후, 1997년 니콜라 게스키에르가 크리에이티브 디렉터로 취임하며 브랜드를 현대적으로 부활시켰습니다. 2015년부터는 뎀나 바잘리아가 이끌며 스트리트웨어와 반패션 감성을 결합한 파격적인 스타일로 주목받고 있습니다.\n\n대표 제품으로는 2001년 모터사이클 백(시티 백), 2017년 트리플 S 스니커즈(전 세계적인 '못난이 신발' 트렌드를 주도), 2016년 나이프 부츠, 2019년 아워글래스 백이 있습니다. 현재 발렌시아가는 오버사이즈 실루엣과 로고 액세서리, 의도적으로 '못생긴' 미학으로 유명합니다. 케링 재단을 통한 여성 권리 지원과 패션 업계 지속 가능성 프로그램에도 참여하고 있습니다. 런던 V&A 박물관의 '발렌시아가: 패션을 빚다' 전시는 그 문화적 영향력을 입증하고 있습니다.",
+    "pt": "A Balenciaga foi fundada por Cristóbal Balenciaga em 1919 em San Sebastián, na Espanha, tornando-se uma das marcas de moda de luxo mais influentes do mundo. Conhecido como \"o arquiteto da alta-costura\", o fundador revolucionou a moda feminina com suas silhuetas esculturais e técnicas de corte inovadoras. Em 1937, abriu seu salão de costura em Paris, ingressando no seleto mundo da alta-costura francesa. Suas contribuições incluem a linha barril, a silhueta semi-ajustada e a saia balão — formas que libertaram o corpo feminino das restrições da moda anterior.\n\nA filosofia de design de Balenciaga era \"a forma em primeiro lugar\". Ele acreditava que o contorno da roupa era mais importante que a decoração, tratando o tecido como material de construção. Ele mesmo cortava todos os seus moldes, um testemunho de seu perfeccionismo. Coco Chanel o chamava de \"o único verdadeiro costureiro\". Em 1968, decepcionado com o declínio da alta-costura, fechou sua maison, chocando o mundo da moda.\n\nApós um período de silêncio, a marca foi adquirida pelo grupo Kering em 1986. Sob a direção de Nicolas Ghesquière (1997-2012), a Balenciaga recuperou relevância intelectual. Demna Gvasalia assumiu em 2015 e transformou a marca com uma estética streetwear ousada e irônica. A Bolsa Motorcycle (2001) combinou atitude punk com funcionalidade. O tênis Triple S (2017) lançou a tendência global dos \"tênis feios\" (dad shoes). A Bota Knife (2016) levou o minimalismo ao extremo. A Bolsa Hourglass (2019) transformou o logotipo B em uma declaração arquitetônica tridimensional.\n\nHoje, a Balenciaga representa a fusão entre o rigor da alta-costura e a energia da cultura jovem. Suas silhuetas oversized, acessórios com logotipos marcantes e estética deliberadamente \"feia\" redefiniram o luxo contemporâneo. A marca apoia iniciativas de direitos das mulheres através da Fundação Kering e participa de programas de sustentabilidade da indústria da moda. Exposições internacionais confirmam seu lugar na história do design.",
+    "ru": "Balenciaga — один из самых влиятельных домов высокой моды в мире, основанный Кристобалем Баленсиагой в 1919 году в Сан-Себастьяне, Испания. Основатель, которого называли «архитектором высокой моды», произвел революцию в женской одежде с помощью скульптурных силуэтов и новаторских техник кроя. В 1937 году он открыл свой парижский салон, войдя в элитный мир французской высокой моды. Его изобретения — линия «бочонок», полуприлегающий силуэт, юбка-шар — изменили представление о том, как должна выглядеть женская одежда.\n\nФилософия дизайна Balenciaga основывалась на принципе «форма прежде всего». Он считал, что контур одежды важнее декора, и работал с тканью как со строительным материалом. Он сам кроил все свои лекала, что свидетельствует о его перфекционизме. Даже Коко Шанель признавала его «единственным настоящим кутюрье».\n\nЗакрытие дома в 1968 году из-за разочарования основателя в упадке высокой моды потрясло весь модный мир. В 1986 году бренд был приобретен группой Kering. Два креативных директора определили его траекторию: Николя Гескьер (1997-2012) привнес интеллектуальную остроту, а Демна Гвасалия (с 2015 года) совершил культурный переворот, внедрив уличную эстетику, иронию и антимоду. Сумка Motorcycle Bag (2001) сочетает панк-атмосферу с повседневной функциональностью. Кроссовки Triple S (2017) положили начало глобальному тренду «уродливых папиных кроссовок». Часы Hourglass (2019) превратили логотип B в трехмерное архитектурное заявление.\n\nСегодня Balenciaga работает на стыке высокой моды и поп-культуры. Oversized-силуэты, массивные аксессуары с логотипами и намеренно «уродливая» эстетика переопределили понятие роскоши для нового поколения. Balenciaga участвует в благотворительных проектах Фонда Kering по защите прав женщин и программах устойчивого развития модной индустрии. Выставки в музеях V&A и Musée des Arts Décoratifs подтверждают ее непреходящее влияние на историю моды.",
+    "ar": "تأسست بالينسياغا على يد كريستوبال بالينسياغا في عام 1919 في سان سيباستيان، إسبانيا، لتصبح واحدة من أكثر دور الأزياء الفاخرة تأثيراً في العالم. لُقّب المؤسس بـ 'مهندس الأزياء الراقية' بفضل قصّاته الثورية وصوره الظلية النحتية التي أعادت تعريف الموضة النسائية في القرن العشرين. في عام 1937، افتتح صالونه في باريس ودخل عالم الأزياء الراقية الفرنسي، مبتكراً أشكالاً جديدة مثل خط البرميل والتنورة البالونية التي حررت جسد المرأة من قيود الموضة السابقة.\n\nكانت فلسفة بالينسياغا التصميمية تقوم على مبدأ 'الشكل أولاً'. كان يعتقد أن محيط الثوب أهم من الزخرفة، وكان يعامل القماش كمواد بناء. كان يقص جميع أنماطه بنفسه، دليلاً على كماليته. حتى كوكو شانيل كانت تعتبره 'الخياط الحقيقي الوحيد'. في عام 1968، أغلق بالينسياغا داره بسبب خيبة أمله من تراجع الأزياء الراقية، مما هز عالم الموضة.\n\nاستحوذت مجموعة كيرينغ على العلامة التجارية في عام 1986. تحت قيادة نيكولا غيسكيار (1997-2012) أعيد إحياء العلامة بذكاء حداثي، ثم ديمنا غفاساليا (منذ 2015) قلب الموازين بجرأة بإدخال أزياء الشارع والسخرية والجماليات المعادية للموضة. حقيبة الموتورسايكل (2001) وحذاء تريبل إس (2017) الذي أطلق موجة 'الأحذية القبيحة' العالمية وحذاء نايف (2016) وحقيبة أورغلاس (2019) أصبحت جميعها أيقونات ثقافية تعكس روح كل عصر.\n\nاليوم، تمثل بالينسياغا اندماجاً فريداً بين دقة الأزياء الراقية وطاقة ثقافة الشباب. صورها الظلية فائقة الاتساع وإكسسواراتها المميزة بشعار العلامة وجمالياتها 'القبيحة' المتعمدة أعادت تعريف مفهوم الفخامة للجيل الجديد. تدعم العلامة مبادرات حقوق المرأة عبر مؤسسة كيرينغ وتشارك في برامج الاستدامة في صناعة الأزياء. المعارض الدولية مثل 'بالينسياغا: تشكيل الموضة' في متحف V&A بلندن تؤكد مكانتها في تاريخ التصميم."
   },
   "similar_brands": [
     {
-      "zh": "古馳",
+      "zh": "埃舍尔Escher",
+      "en": "Escher",
+      "slug": "escher",
+      "premium": true
+    },
+    {
+      "zh": "香奈儿",
+      "en": "Chanel",
+      "slug": "chanel",
+      "premium": true
+    },
+    {
+      "zh": "爱马仕",
+      "en": "Hermès",
+      "slug": "hermes",
+      "premium": true
+    },
+    {
+      "zh": "古驰",
       "en": "Gucci",
       "slug": "gucci"
     },
     {
-      "zh": "普拉達",
-      "en": "Prada",
-      "slug": "prada"
+      "zh": "迪奥",
+      "en": "Dior",
+      "slug": "christian-dior"
     },
     {
-      "zh": "范思哲",
-      "en": "Versace",
-      "slug": "versace"
-    },
-    {
-      "zh": "路易·威登",
+      "zh": "路易威登",
       "en": "Louis Vuitton",
       "slug": "louis-vuitton"
     },
     {
-      "zh": "Christian Dior",
-      "en": "Christian Dior",
-      "slug": "christian-dior"
+      "zh": "圣罗兰",
+      "en": "Yves Saint Laurent",
+      "slug": "yves-saint-laurent"
+    },
+    {
+      "zh": "亚历山大·麦昆",
+      "en": "Alexander McQueen",
+      "slug": "alexander-mcqueen"
+    },
+    {
+      "zh": "芬迪",
+      "en": "Fendi",
+      "slug": "fendi"
+    },
+    {
+      "zh": "普拉达",
+      "en": "Prada",
+      "slug": "prada"
     }
   ],
   "is_premium": false,
   "image_url": "",
-  "representative_products": [],
-  "key_events": [],
-  "philanthropy": [],
-  "exhibitions": [],
-  "past_slogans": [],
-  "wikidata_id": "Q1530892",
-  "_meta": {
-    "version": "2.0.0",
-    "created_at": "2026-05-25 10:01:56",
-    "validator_pass": true
-  }
+  "representative_products": [
+    {
+      "name_zh": "摩托车包 Motorcycle Bag (City Bag)",
+      "name_en": "Motorcycle Bag (City Bag)",
+      "year": 2001,
+      "description": "由尼古拉·盖斯奇埃尔设计的经典机车包，以朋克风格和实用功能著称，是21世纪初最具有标志性的手袋之一。"
+    },
+    {
+      "name_zh": "Triple S老爹鞋",
+      "name_en": "Triple S Sneaker",
+      "year": 2017,
+      "description": "三层底复古运动鞋，重新定义了2010年代末的球鞋审美，引发老爹鞋风潮。"
+    },
+    {
+      "name_zh": "尖头高跟鞋 Knife Boot",
+      "name_en": "Knife Boot",
+      "year": 2016,
+      "description": "超尖头、细高跟的靴款，极简主义设计风格的代表作。"
+    },
+    {
+      "name_zh": "Hourglass沙漏包",
+      "name_en": "Hourglass Bag",
+      "year": 2019,
+      "description": "独特的弧形底座设计，灵感源自B字母的几何线条，兼具建筑感和现代感。"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1919,
+      "event_zh": "克里斯托瓦尔·巴伦西亚加在西班牙圣塞巴斯蒂安开设首家时装屋",
+      "event_en": "Cristóbal Balenciaga opens his first fashion house in San Sebastián, Spain"
+    },
+    {
+      "year": 1937,
+      "event_zh": "巴黎世家在巴黎开设时装沙龙，正式进入法国高级时装界",
+      "event_en": "Balenciaga opens a couture salon in Paris, entering French haute couture"
+    },
+    {
+      "year": 1951,
+      "event_zh": "推出革命性的半紧身连衣裙和桶形轮廓，改变女性服装的线条",
+      "event_en": "Launches revolutionary semi-fitted silhouette and barrel line, changing women's fashion silhouettes"
+    },
+    {
+      "year": 1968,
+      "event_zh": "巴伦西亚加因高级时装业衰落关闭时装屋，震惊时尚界",
+      "event_en": "Balenciaga closes his couture house citing the decline of haute couture, shocking the fashion world"
+    },
+    {
+      "year": 1986,
+      "event_zh": "品牌被法国开云集团（原PPR集团）收购",
+      "event_en": "Brand acquired by French Kering Group (formerly PPR)"
+    },
+    {
+      "year": 1997,
+      "event_zh": "尼古拉·盖斯奇埃尔出任创意总监，复兴品牌",
+      "event_en": "Nicolas Ghesquière becomes creative director, revitalizing the brand"
+    },
+    {
+      "year": 2015,
+      "event_zh": "德姆纳·格瓦萨利亚接任创意总监，带领品牌进入新纪元",
+      "event_en": "Demna Gvasalia takes over as creative director, ushering a new era for the brand"
+    }
+  ],
+  "philanthropy": [
+    "开云基金会支持妇女权益项目",
+    "参与巴黎时装周可持续发展倡议"
+  ],
+  "exhibitions": [
+    "Balenciaga: Shaping Fashion — 伦敦V&A博物馆回顾展(2017)",
+    "Cristóbal Balenciaga 回顾展 — 巴黎装饰艺术博物馆(2017)"
+  ],
+  "past_slogans": [
+    "The Architect of Couture",
+    "Le Créateur du Silence"
+  ]
 }

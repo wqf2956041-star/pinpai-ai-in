@@ -1,402 +1,230 @@
 [
   {
-    "slug": "escher",
-    "zh": "埃舍尔Escher",
-    "en": "埃舍尔Escher",
-    "category": "fashion-luxury",
-    "premium": true,
-    "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
+    "name": "3M",
+    "name_en": "3M",
+    "slug": "3m",
+    "category": "materials"
   },
   {
-    "slug": "louis-vuitton",
-    "zh": "路易·威登",
-    "en": "Louis Vuitton",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "路易·威登（Louis Vuitton）是法国最负盛名的奢侈时装与皮具品牌，由路易·威登先生于1854年在巴黎创立。品牌最初以革命性的平顶行李箱闻名，凭借卓越的工艺和创新的设计迅速成为欧洲贵族和精英阶"
+    "name": "A. Lange & Söhne",
+    "name_en": "A. Lange & Söhne",
+    "slug": "a--lange-and-s-hne",
+    "category": "watch"
   },
   {
-    "slug": "hermes",
-    "zh": "爱马仕",
-    "en": "Hermès",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "愛馬仕（Hermès）是法国顶级奢侈品牌，1837年由蒂埃里·爱马仕在巴黎创立，最初以马具和马鞍制作起家。凭借对顶级皮革的严苛筛选和精湛的手工缝制技艺，爱马仕迅速赢得欧洲皇室和贵族的青睐。品牌最具代表"
+    "name": "Acne Studios",
+    "name_en": "Acne Studios",
+    "slug": "acne-studios",
+    "category": "fashion-luxury"
   },
   {
-    "slug": "gucci",
-    "zh": "古馳",
-    "en": "Gucci",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "古馳（Gucci）是全球最具影响力的意大利奢侈时装品牌之一，1921年由古驰奥·古驰在佛罗伦萨创立。品牌最初以优质皮具和马术灵感的设计著称，双G标志和红绿条纹织带成为其最具识别度的品牌符号。古驰在20"
-  },
-  {
-    "slug": "chanel",
-    "zh": "Chanel",
-    "en": "Chanel",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "香奈儿（Chanel）是法国最具传奇色彩的奢侈品牌，由可可·香奈儿（Gabrielle Bonheur Chanel）于1910年在巴黎创立。品牌从一家女帽店起步，随后以颠覆性的设计理念解放了女性的着"
-  },
-  {
-    "slug": "christian-dior",
-    "zh": "Christian Dior",
-    "en": "Christian Dior",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "克里斯汀·迪奥（Christian Dior）是法国顶级奢時裝品牌，1946年由克里斯汀·迪奥在巴黎创立。1947年品牌首次发布「新风貌」（New Look）系列——收腰上衣配以宽大及地长裙——彻底颠"
-  },
-  {
-    "slug": "prada",
-    "zh": "普拉達",
-    "en": "Prada",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "普拉达（Prada）是意大利最具知识分子气质的奢侈时装品牌，1913年由马里奥·普拉达在米兰创立。品牌最初是一家专营皮具和旅行箱的精品店，以优质皮革和低调奢华的工艺赢得声誉。1978年，马里奥的孙女缪"
-  },
-  {
-    "slug": "balenciaga",
-    "zh": "巴黎世家",
-    "en": "Balenciaga",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "巴黎世家（Balenciaga）是创立于西班牙后迁至法国的顶级时装品牌，1917年由被誉为「大师中的大师」的克里斯托瓦尔·巴伦西亚加在圣塞巴斯蒂安创立，1937年迁至巴黎。巴伦西亚加先生以其建筑感的结"
-  },
-  {
-    "slug": "zara",
-    "zh": "Zara",
-    "en": "Zara",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "Zara是全球最大的时装零售商之一，1975年由阿曼西奥·奥尔特加在西班牙拉科鲁尼亚创立，是Inditex集团的核心品牌。Zara以其革命性的「快时尚」（Fast Fashion）商业模式闻名——从设"
-  },
-  {
-    "slug": "uniqlo",
-    "zh": "优衣库",
-    "en": "UNIQLO",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "优衣库（UNIQLO）是日本最大的服装零售商，母公司迅销集团（Fast Retailing）由柳井正掌舵。品牌前身是1949年在山口县宇部市创立的一家男士服装店，1984年柳井正接手后将其转型为休闲服"
-  },
-  {
-    "slug": "h-m",
-    "zh": "H&M",
-    "en": "H&M",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "H&M（Hennes & Mauritz）是瑞典最大的全球快时尚服装零售商，1947年由厄林·佩尔松在韦斯特罗斯创立。品牌最初名为「Hennes」（瑞典语意为「她的」），专营女装；1968年收购男装品"
-  },
-  {
-    "slug": "levi-s",
-    "zh": "李维斯",
-    "en": "Levi's",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "李维斯（Levi's）是全球最知名的牛仔裤品牌，1853年由巴伐利亚移民李维·斯特劳斯在旧金山创立。1873年，李维·斯特劳斯与裁缝雅各布·戴维斯合作获得了铆钉加固工作裤的专利——这被公认为现代牛仔裤"
-  },
-  {
-    "slug": "calvin-klein",
-    "zh": "Calvin Klein",
-    "en": "Calvin Klein",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "卡尔文·克莱因（Calvin Klein）是美国最具标志性的生活方式时尚品牌之一，1968年由卡尔文·克莱因在纽约创立。品牌以极简主义美学、干净的线条和性感广告风格闻名于世。CK在20世纪70年代率先"
-  },
-  {
-    "slug": "loreal",
-    "zh": "欧莱雅",
-    "en": "L'Oréal",
-    "category": "beauty",
-    "premium": false,
-    "desc_short": "L'Oréal（欧莱雅）是全球最大的化妆品集团，由化学家欧仁·舒莱尔于1909年在法国巴黎创立。公司最初以研发合成染发剂起家，凭借卓越的化学配方和对美妆趋势的敏锐洞察，迅速在法国市场站稳脚跟。一个多世"
-  },
-  {
-    "slug": "este-lauder",
-    "zh": "雅诗兰黛",
-    "en": "Estée Lauder",
-    "category": "beauty",
-    "premium": false,
-    "desc_short": "Estée Lauder（雅诗兰黛）是全球知名的顶级化妆品品牌，由雅诗·兰黛夫人于1946年在美国纽约创立。品牌以高品质的护肤品和经典香水闻名于世，最初从四款核心护肤产品起步，凭借创始人非凡的商业天赋"
-  },
-  {
-    "slug": "shiseido",
-    "zh": "Shiseido",
-    "en": "Shiseido",
-    "category": "beauty",
-    "premium": false,
-    "desc_short": "Shiseido（资生堂）是日本历史最悠久的化妆品公司，其历史可追溯至1872年，由福原有信在日本东京银座创立了日本第一家西式药房。品牌名称源自中国古籍《易经》中的'至哉坤元，万物资生'，体现了对生命"
-  },
-  {
-    "slug": "lancome",
-    "zh": "兰蔻",
-    "en": "Lancôme",
-    "category": "beauty",
-    "premium": false,
-    "desc_short": "Lancôme（兰蔻）是源自法国的全球顶级奢侈美妆品牌，由阿芒·珀蒂让于1935年在法国巴黎创立。品牌名称灵感来自法国中部的Lancôme城堡，标志性的玫瑰Logo则象征着女性优雅与自然之美。创立当年"
-  },
-  {
-    "slug": "mac-cosmetics",
-    "zh": "MAC Cosmetics",
-    "en": "MAC Cosmetics",
-    "category": "beauty",
-    "premium": false,
-    "desc_short": "MAC Cosmetics（魅可）是全球最具影响力的专业彩妆品牌之一，由Frank Toskan（专业化妆师）和Frank Angelo（美发沙龙主理人）于1984年在加拿大多伦多创立。品牌名称是'M"
-  },
-  {
-    "slug": "rolex",
-    "zh": "Rolex",
-    "en": "Rolex",
-    "category": "watch",
-    "premium": false,
-    "desc_short": "Rolex（劳力士）是全球最负盛名的瑞士奢侈腕表品牌，由汉斯·威尔斯多夫于1905年在伦敦创立，1908年正式注册'Rolex'商标，后于1919年将总部迁至瑞士日内瓦。劳力士在钟表发展史上拥有众多里"
-  },
-  {
-    "slug": "patek-philippe",
-    "zh": "Patek Philippe",
-    "en": "Patek Philippe",
-    "category": "watch",
-    "premium": false,
-    "desc_short": "Patek Philippe（百达翡丽）是瑞士日内瓦最负盛名的顶级独立制表品牌，由安东尼·百达（Antoni Patek）和让·阿德里安·翡丽（Jean-Adrien Philippe）于1839年共"
-  },
-  {
-    "slug": "audemars-piguet",
-    "zh": "Audemars Piguet",
-    "en": "Audemars Piguet",
-    "category": "watch",
-    "premium": false,
-    "desc_short": "Audemars Piguet（爱彼）是瑞士顶级奢侈腕表品牌，由朱尔-路易·奥德玛（Jules-Louis Audemars）和爱德华-奥古斯特·皮盖（Edward-Auguste Piguet）于1"
-  },
-  {
-    "slug": "tiffany-co",
-    "zh": "Tiffany & Co.",
-    "en": "Tiffany & Co.",
-    "category": "jewelry",
-    "premium": false,
-    "desc_short": "Tiffany & Co.（蒂芙尼）是美国最具标志性的奢侈珠宝及银器品牌，由查尔斯·路易斯·蒂芙尼（Charles Lewis Tiffany）于1837年在纽约市创立，最初以文具和精品杂货店起家，后"
-  },
-  {
-    "slug": "cartier",
-    "zh": "Cartier",
-    "en": "Cartier",
-    "category": "jewelry",
-    "premium": false,
-    "desc_short": "Cartier（卡地亚）是全球最具影响力的奢华珠宝与腕表品牌之一，由路易-弗朗索瓦·卡地亚（Louis-François Cartier）于1847年在法国巴黎创立。品牌被誉为'皇帝的珠宝商，珠宝商的"
-  },
-  {
-    "slug": "bulgari",
-    "zh": "Bulgari",
-    "en": "Bulgari",
-    "category": "jewelry",
-    "premium": false,
-    "desc_short": "Bulgari（宝格丽）是源自意大利的全球顶级奢侈珠宝品牌，由希腊裔银匠索蒂里奥斯·布尔加里斯（Sotirios Voulgaris）于1884年在意大利罗马创立。品牌名称源自创始人家族的希腊姓氏，但"
-  },
-  {
-    "slug": "toyota",
-    "zh": "Toyota",
-    "en": "Toyota",
-    "category": "auto",
-    "premium": false,
-    "desc_short": "Toyota（丰田）是全球最大的汽车制造商之一，由丰田喜一郎（Kiichiro Toyoda）于1937年从丰田自动织机制作所独立出来创立，总部位于日本爱知县丰田市。丰田以'精益生产'（Lean Pr"
-  },
-  {
-    "slug": "mercedes-benz",
-    "zh": "梅赛德斯-奔驰",
-    "en": "Mercedes-Benz",
-    "category": "auto",
-    "premium": false,
-    "desc_short": "梅赛德斯-奔驰（Mercedes-Benz）是全球公认最负盛名的豪华汽车品牌之一，起源于1886年卡尔·本茨发明了世界上第一辆三轮汽车——奔驰专利汽车，这一年被公认为汽车诞生元年。品牌正式成立于192"
-  },
-  {
-    "slug": "bmw",
-    "zh": "BMW",
-    "en": "BMW",
-    "category": "auto",
-    "premium": false,
-    "desc_short": "BMW（宝马，全称Bayerische Motoren Werke，意为巴伐利亚发动机制造厂）是德国最著名的豪华汽车和摩托车制造商之一，成立于1916年，总部位于慕尼黑。宝马最初以生产飞机发动机起家，"
-  },
-  {
-    "slug": "ferrari",
-    "zh": "法拉利汽車",
-    "en": "Ferrari",
-    "category": "auto",
-    "premium": false,
-    "desc_short": "法拉利（Ferrari）是全球最具传奇色彩的超级跑车制造商，由恩佐·法拉利（Enzo Ferrari）于1947年在意大利马拉内罗创立。品牌的跃马标志源自第一次世界大战中意大利王牌飞行员弗朗切斯科·巴"
-  },
-  {
-    "slug": "byd",
-    "zh": "BYD",
-    "en": "BYD",
-    "category": "auto",
-    "premium": false,
-    "desc_short": "BYD（比亚迪，全称Build Your Dreams）是中国最具创新力的新能源汽车制造商和全球领先的动力电池生产商，由王传福于1995年在深圳创立。公司最初以镍镉电池和锂离子电池研发生产起家，凭借成"
-  },
-  {
-    "slug": "apple",
-    "zh": "苹果",
-    "en": "Apple",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "苹果（Apple Inc.）是全球最具价值的科技公司之一，由史蒂夫·乔布斯、史蒂夫·沃兹尼亚克和罗纳德·韦恩于1976年4月1日在美国加利福尼亚州库比蒂诺创立。苹果以其创新的消费电子产品闻名于世，包括"
-  },
-  {
-    "slug": "samsung",
-    "zh": "三星",
-    "en": "Samsung",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "三星集团（Samsung Group）是韩国最大的跨国企业集团，由李秉喆于1938年创立于韩国大邱。三星最初是一家贸易公司，历经八十余年发展，已成为涵盖电子、金融、重工业、建筑、生物制药等领域的庞大商"
-  },
-  {
-    "slug": "huawei",
-    "zh": "华为",
-    "en": "Huawei",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "华为（Huawei Technologies Co., Ltd.）是全球领先的信息与通信技术（ICT）基础设施和智能终端提供商，由任正非于1987年创立于中国深圳。华为是全球最大的电信设备制造商，在5"
-  },
-  {
-    "slug": "sony",
-    "zh": "索尼",
-    "en": "Sony",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "索尼集团（Sony Group Corporation）是日本最具代表性的跨国综合电子娱乐企业，由井深大和盛田昭夫于1946年5月7日在东京创立，最初名为东京通信工业株式会社。索尼以随身听Walkma"
-  },
-  {
-    "slug": "nvidia",
-    "zh": "英伟达",
-    "en": "NVIDIA",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "NVIDIA（英伟达）是全球领先的图形处理器（GPU）和人工智能计算公司，由黄仁勋、克里斯·马拉科夫斯基和柯蒂斯·普里姆于1993年4月在美国加利福尼亚州圣克拉拉创立。NVIDIA的GeForce系列"
-  },
-  {
-    "slug": "nike",
-    "zh": "耐克",
-    "en": "Nike",
-    "category": "sport",
-    "premium": false,
-    "desc_short": "耐克（Nike, Inc.）是全球最大的运动服饰和鞋类制造商，由菲尔·奈特和比尔·鲍尔曼于1964年创立，最初名为Blue Ribbon Sports，1971年更名为Nike。耐克以其标志性的Swo"
-  },
-  {
+    "name": "adidas",
+    "name_en": "adidas",
     "slug": "adidas",
-    "zh": "阿迪达斯",
-    "en": "Adidas",
-    "category": "sport",
-    "premium": false,
-    "desc_short": "阿迪达斯（Adidas AG）是德国著名的运动用品制造商，由阿道夫·「阿迪」·达斯勒于1949年在德国黑措根奥拉赫创立。阿迪达斯以其三条纹标志闻名全球，是全球第二大运动品牌。阿迪达斯的产品线覆盖足球、"
+    "category": "sport"
   },
   {
-    "slug": "puma",
-    "zh": "彪马",
-    "en": "Puma",
-    "category": "sport",
-    "premium": false,
-    "desc_short": "彪马（Puma SE）是德国知名的运动用品品牌，由鲁道夫·达斯勒于1948年在德国黑措根奥拉赫创立。彪马与阿迪达斯同源于达斯勒家族，鲁道夫与弟弟阿道夫分家后创立了彪马。彪马以其标志性的美洲狮跳跃标志和"
+    "name": "Aesop",
+    "name_en": "Aesop",
+    "slug": "aesop",
+    "category": "beauty"
   },
   {
+    "name": "爱彼迎",
+    "name_en": "Airbnb",
+    "slug": "airbnb",
+    "category": "technology"
+  },
+  {
+    "name": "亚历山大·麦昆（Alexander McQueen）",
+    "name_en": "Alexander McQueen",
+    "slug": "alexander-mcqueen",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "亚马逊",
+    "name_en": "Amazon",
+    "slug": "amazon",
+    "category": "technology"
+  },
+  {
+    "name": "Anheuser-Busch",
+    "name_en": "Anheuser-Busch",
+    "slug": "anheuser-busch",
+    "category": "food"
+  },
+  {
+    "name": "苹果",
+    "name_en": "Apple",
+    "slug": "apple",
+    "category": "technology"
+  },
+  {
+    "name": "巴黎世家",
+    "name_en": "Balenciaga",
+    "slug": "balenciaga",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "巴利（Bally）",
+    "name_en": "Bally",
+    "slug": "bally",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "Benetton",
+    "name_en": "Benetton",
+    "slug": "benetton",
+    "category": "fashion"
+  },
+  {
+    "name": "宝马",
+    "name_en": "BMW",
+    "slug": "bmw",
+    "category": "auto"
+  },
+  {
+    "name": "葆蝶家",
+    "name_en": "Bottega Veneta",
+    "slug": "bottega-veneta",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "宝格丽",
+    "name_en": "Bulgari",
+    "slug": "bulgari",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "博柏利",
+    "name_en": "Burberry",
+    "slug": "burberry",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "卡地亚",
+    "name_en": "Cartier",
+    "slug": "cartier",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "香奈儿",
+    "name_en": "Chanel",
+    "slug": "chanel",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "Chaumet",
+    "name_en": "Chaumet",
+    "slug": "chaumet",
+    "category": "jewelry"
+  },
+  {
+    "name": "克里斯汀·迪奥",
+    "name_en": "Christian Dior",
+    "slug": "christian-dior",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "coca-cola",
+    "name_en": "coca-cola",
     "slug": "coca-cola",
-    "zh": "可口可乐",
-    "en": "Coca-Cola",
-    "category": "food",
-    "premium": false,
-    "desc_short": "可口可乐（The Coca-Cola Company）是全球最大的饮料公司，由药剂师约翰·斯蒂斯·彭伯顿于1886年在佐治亚州亚特兰大创立。可口可乐的配方由彭伯顿发明，最初作为一种药用饮品在雅各布斯药"
+    "category": "food"
   },
   {
-    "slug": "mcdonald-s",
-    "zh": "麦当劳",
-    "en": "McDonald's",
-    "category": "food",
-    "premium": false,
-    "desc_short": "麦当劳（McDonald's Corporation）是全球最大的快餐连锁企业，由雷·克洛克于1955年在美国伊利诺伊州创立。麦当劳最初由理查德和莫里斯·麦克唐纳兄弟于1940年创立，雷·克洛克将之发"
+    "name": "迪士尼",
+    "name_en": "Disney",
+    "slug": "disney",
+    "category": "entertainment"
+  },
+  {
+    "name": "埃舍尔Escher",
+    "name_en": "埃舍尔Escher",
+    "slug": "escher",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "ferrari",
+    "name_en": "ferrari",
+    "slug": "ferrari",
+    "category": "auto"
+  },
+  {
+    "name": "谷歌",
+    "name_en": "Google",
+    "slug": "google",
+    "category": "technology"
+  },
+  {
+    "name": "愛馬仕",
+    "name_en": "Hermès",
+    "slug": "hermes",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "lego",
+    "name_en": "lego",
+    "slug": "lego",
+    "category": "toy"
+  },
+  {
+    "name": "loréal",
+    "name_en": "loréal",
+    "slug": "loreal",
+    "category": "beauty"
+  },
+  {
+    "name": "Meta",
+    "name_en": "Meta",
+    "slug": "meta",
+    "category": "technology"
+  },
+  {
+    "name": "微软",
+    "name_en": "Microsoft",
+    "slug": "microsoft",
+    "category": "technology"
+  },
+  {
+    "name": "耐克",
+    "name_en": "Nike",
+    "slug": "nike",
+    "category": "sport"
+  },
+  {
+    "name": "普拉达",
+    "name_en": "Prada",
+    "slug": "prada",
+    "category": "fashion-luxury"
+  },
+  {
+    "name": "三星",
+    "name_en": "Samsung",
+    "slug": "samsung",
+    "category": "technology"
+  },
+  {
+    "name": "索尼",
+    "name_en": "Sony",
+    "slug": "sony",
+    "category": "tech"
+  },
+  {
+    "name": "特斯拉",
+    "name_en": "Tesla",
+    "slug": "tesla",
+    "category": "auto"
+  },
+  {
+    "name": "丰田",
+    "name_en": "Toyota",
+    "slug": "toyota",
+    "category": "automotive"
   },
   {
     "slug": "starbucks",
-    "zh": "星巴克",
-    "en": "Starbucks",
-    "category": "food",
-    "premium": false,
-    "desc_short": "星巴克（Starbucks Corporation）是全球最大的咖啡连锁品牌，由杰瑞·鲍德温、泽夫·西格尔和戈登·鲍克于1971年在美国华盛顿州西雅图创立。星巴克最初是一家高档咖啡豆零售商，1987年"
-  },
-  {
-    "slug": "lego",
-    "zh": "乐高",
-    "en": "LEGO",
-    "category": "toy",
-    "premium": false,
-    "desc_short": "乐高（LEGO）是全球最大的玩具制造商之一，由奥勒·基尔克·克里斯蒂安森于1932年在丹麦比隆创立。公司名LEGO源自丹麦语「leg godt」，意为「玩得好」。乐高最著名的产品是带有凸起圆点的塑料积"
-  },
-  {
-    "slug": "mattel",
-    "zh": "美泰",
-    "en": "Mattel",
-    "category": "toy",
-    "premium": false,
-    "desc_short": "美泰（Mattel, Inc.）是全球最大的玩具公司之一，由哈罗德·「马特」·马特森和艾略特·汉德勒于1945年在美国加利福尼亚州创立。美泰最著名的产品是芭比娃娃（Barbie），由露丝·汉德勒于19"
-  },
-  {
-    "slug": "burberry",
-    "zh": "Burberry",
-    "en": "Burberry",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "博柏利（Burberry）是英国最具代表性的奢侈时装品牌，1856年由托马斯·巴伯利在伦敦创立。品牌以其标志性的加巴甸（Gabardine）防水面料闻名——这种透气又防水的面料于1879年获得专利，被"
-  },
-  {
-    "slug": "versace",
-    "zh": "范思哲",
-    "en": "Versace",
-    "category": "fashion-luxury",
-    "premium": false,
-    "desc_short": "范思哲（Versace）是意大利最具张扬魅力的奢侈时装品牌，1978年由詹尼·范思哲在米兰创立。品牌以大胆的性感风格、鲜艳的印花和标志性的美杜莎（Medusa）Logo闻名——传说美杜莎具有令人无法抗"
-  },
-  {
-    "slug": "ralph-lauren",
-    "zh": "拉爾夫·勞倫",
-    "en": "Ralph Lauren",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "拉尔夫·劳伦（Ralph Lauren）是世界上最成功的美国生活方式品牌之一，1967年由拉尔夫·劳伦在纽约创立。品牌以诠释美国梦般的精英生活方式著称——马球（Polo）衬衫上的小马标Logo是其最具"
-  },
-  {
-    "slug": "tommy-hilfiger",
-    "zh": "汤米·席尔菲格",
-    "en": "Tommy Hilfiger",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "汤米·希尔费格（Tommy Hilfiger）是美国最具代表性的休闲时尚品牌之一，1985年由汤米·希尔费格在纽约创立。品牌以经典的美式学院风、红白蓝三色Logo和「美式酷」设计理念著称。汤米·希尔费"
-  },
-  {
-    "slug": "coach",
-    "zh": "蔻驰",
-    "en": "Coach",
-    "category": "fashion",
-    "premium": false,
-    "desc_short": "蔻驰（Coach, Inc.）是源自美国纽约的全球知名奢华时尚品牌，由Lillian和Miles Cahn于1941年在曼哈顿创立，最初是一家小型皮具作坊。Coach以优质皮革手袋闻名，其设计融合了美"
-  },
-  {
-    "slug": "microsoft",
-    "zh": "微软",
-    "en": "Microsoft",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "微软（Microsoft Corporation）是全球最大的软件公司之一，由比尔·盖茨和保罗·艾伦于1975年4月4日在美国新墨西哥州阿尔伯克基创立。微软的Windows操作系统是全球使用最广泛的电"
-  },
-  {
-    "slug": "google",
-    "zh": "谷歌",
-    "en": "Google",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "Google（谷歌）是全球最大的搜索引擎公司，由拉里·佩奇和谢尔盖·布林于1998年9月4日在美国加利福尼亚州创立。Google的核心产品是搜索引擎，占据全球搜索市场90%以上的份额。此外，Googl"
-  },
-  {
-    "slug": "amazon",
-    "zh": "亚马逊",
-    "en": "Amazon",
-    "category": "tech",
-    "premium": false,
-    "desc_short": "Amazon（亚马逊）是全球最大的电子商务和云计算公司，由杰夫·贝佐斯于1994年7月5日在美国华盛顿州西雅图创立。亚马逊最初是一家在线书店，随后迅速扩展成为「万物商店」，涵盖几乎所有品类的商品零售。"
+    "name": "星巴克",
+    "name_en": "Starbucks",
+    "category": "food"
   }
 ]
