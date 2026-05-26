@@ -244,5 +244,11 @@
     "name_en": "Toyota",
     "slug": "toyota",
     "category": "automotive"
+  },
+  {
+    "slug": "gucci",
+    "name": "古驰",
+    "name_en": "Gucci",
+    "category": "fashion-luxury"
   }
 ]
