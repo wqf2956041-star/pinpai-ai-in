@@ -1,0 +1,73 @@
+{
+  "slug": "subway",
+  "names": {
+    "zh-CN": "赛百味",
+    "en": "Subway",
+    "ja": "サブウェイ",
+    "ko": "서브웨이",
+    "fr": "Subway",
+    "es": "Subway",
+    "de": "Subway",
+    "pt": "Subway",
+    "ru": "Subway",
+    "ar": "صب واي"
+  },
+  "category": "food",
+  "founding_year": 1965,
+  "founding_location": "美国康涅狄格州布里奇波特（Bridgeport, Connecticut, USA）",
+  "founder": "弗雷德·德卢卡（Fred DeLuca）和彼得·巴克（Peter Buck）",
+  "official_website": "https://www.subway.com",
+  "main_business": [
+    "快餐三明治连锁（Fast Food Submarine Sandwich Chain）",
+    "现做三明治与沙拉"
+  ],
+  "current_slogan": "Subway® Eat Fresh.™ / 赛百味，新鲜吃出来",
+  "past_slogans": [
+    "Eat Fresh.",
+    "Live Fresh",
+    "The World Eats Fresh at Subway",
+    "Get Fresh. Eat Fresh.",
+    "Subway — The Fresh Alternative"
+  ],
+  "historical_facts": [
+    "1965年，17岁的弗雷德·德卢卡（Fred DeLuca）在朋友彼得·巴克（Peter Buck）博士的1000美元贷款支持下，在康涅狄格州布里奇波特开设了第一家三明治店，名为\"Pete's Super Submarines\"",
+    "1968年，品牌正式更名为\"Subway\"，并开始采用黄绿相间的品牌色",
+    "1974年，德卢卡和巴克决定通过加盟模式扩张，这是Subway高速增长的关键转折点",
+    "1984年，Subway在美国推出低脂三明治系列，率先在快餐行业响应健康饮食趋势",
+    "1987年，Subway在巴林开设第一家国际门店，正式开始全球化布局",
+    "2000年代初期，知名减肥者贾里德·福格尔（Jared Fogle）通过Subway低脂三明治成功减肥的故事将品牌推向了健康饮食的先锋地位",
+    "Subway在全球100多个国家拥有超过37,000家门店，是全球门店数量最多的快餐连锁品牌之一",
+    "Subway提供超过2000万种三明治组合方式，顾客可以自由选择面包、肉类、蔬菜和酱料",
+    "Subway强调\"Eat Fresh\"理念，坚持三明治食材现做现售，蔬菜每日新鲜配送",
+    "2024年，Subway被Roark Capital以约96亿美元收购，结束了德卢卡家族近60年的控股权"
+  ],
+  "market_presence": {
+    "total_stores": "37,000+",
+    "countries": "100+",
+    "china_stores": "约600家（2024年）",
+    "annual_revenue": "约100亿美元（2023年，全球系统销售额）"
+  },
+  "parent_company": "Independent (2024年前为德卢卡家族控股，2024年被Roark Capital收购)",
+  "similar_brands": [
+    {
+      "name": "麦当劳",
+      "name_en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "name": "汉堡王",
+      "name_en": "Burger King",
+      "slug": "burger-king"
+    },
+    {
+      "name": "肯德基",
+      "name_en": "KFC",
+      "slug": "kfc"
+    },
+    {
+      "name": "必胜客",
+      "name_en": "Pizza Hut",
+      "slug": "pizza-hut"
+    }
+  ]
+}

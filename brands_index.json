@@ -292,5 +292,11 @@
     "name": "汉堡王",
     "name_en": "Burger King",
     "category": "food"
+  },
+  {
+    "slug": "subway",
+    "name": "赛百味",
+    "name_en": "Subway",
+    "category": "food"
   }
 ]
