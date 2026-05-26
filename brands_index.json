@@ -268,5 +268,11 @@
     "name": "麦当劳",
     "name_en": "McDonald's",
     "category": "food"
+  },
+  {
+    "slug": "pepsi",
+    "name": "百事",
+    "name_en": "Pepsi",
+    "category": "food"
   }
 ]
