@@ -18,13 +18,6 @@
         .announcement a{color:#8ab4f8}
         .announcement .disclaimer{font-size:13px;color:#999;margin-top:10px;border-top:1px solid #444;padding-top:10px}
         
-        .search-section{margin-bottom:30px}
-        .search-box{display:flex;gap:8px;max-width:500px}
-        .search-box input{flex:1;padding:10px 16px;border:2px solid #ddd;border-radius:8px;font-size:15px;outline:none}
-        .search-box input:focus{border-color:#222}
-        .search-box button{padding:10px 20px;background:#222;color:#fff;border:none;border-radius:8px;cursor:pointer;font-size:15px}
-        .search-box button:hover{background:#444}
-        
         .section-title{font-size:20px;margin:30px 0 12px;padding-bottom:8px;border-bottom:2px solid #222}
         
         .brand-grid{display:grid;gap:12px;grid-template-columns:1fr}
@@ -39,6 +32,11 @@
         .footer a{color:#666}
         a{color:#222}
         a:hover{color:#555}
+        .lang-tabs{display:flex;gap:6px;flex-wrap:wrap;margin:16px 0}
+        .lang-tab{background:#eee;color:#444;padding:4px 10px;border-radius:4px;font-size:12px;cursor:pointer;border:none}
+        .lang-tab.active{background:#222;color:#fff}
+        .search-box{width:100%;padding:12px 16px;border:2px solid #ddd;border-radius:10px;font-size:16px;outline:none;margin-bottom:20px}
+        .search-box:focus{border-color:#222}
         @media(max-width:600px){
             h1{font-size:28px}
             .search-box{max-width:100%}
@@ -47,325 +45,281 @@
 </head>
 <body>
 <div class="container">
-    <h1>全球品牌索引</h1>
-    <p class="subtitle">Global Brand Index · 全球品牌实体索引系统</p>
+    <h1 id="site-title">全球品牌索引</h1>
+    <p class="subtitle" id="site-subtitle">Global Brand Index · 全球品牌实体索引系统</p>
+
+    <!-- 纯字符动效区域 -->
+    <div style="background:#eef2ff;border-radius:10px;padding:14px 20px;margin-bottom:20px;font-size:15px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;color:#222;letter-spacing:0.3px" id="status-animation">
+        <div id="status-line1"><span id="spinner1">⠋</span> 检索新的品牌……</div>
+        <div id="status-line2" style="margin-top:4px"><span id="spinner2">⣾</span> 收录新的品牌……</div>
+        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◐</span> 网址实时更新中……</div>
+    </div>
 
     <!-- 公告区域 -->
-    <div class="announcement">
-        <h2>📢 欢迎来到全球品牌索引</h2>
-        <p>我们致力于收录全球范围内的品牌信息，不限规模、不限行业、不限国家。</p>
-        <p>🔓 任何品牌都可以被收录 — 无论是国际巨头还是新兴品牌。</p>
-        <p>📩 提交收录申请或反馈：<a href="mailto:wqf2956041@gmail.com">wqf2956041@gmail.com</a></p>
-        <div class="disclaimer">
+    <div class="announcement" id="announcement-box">
+        <h2 id="ann-title">📢 欢迎来到全球品牌索引</h2>
+        <p id="ann-line1">我们致力于收录全球范围内的品牌信息，不限规模、不限行业、不限国家。</p>
+        <p id="ann-line2">🔓 任何品牌都可以被收录 — 无论是国际巨头还是新兴品牌。</p>
+        <p id="ann-line3">📩 提交收录申请或反馈：<a href="mailto:wqf2956041@gmail.com" id="ann-email">wqf2956041@gmail.com</a></p>
+        <div class="disclaimer" id="ann-disclaimer">
             ⚠️ 声明：我们只负责收录和展示品牌信息，不参与任何品牌运营、营销或管理。<br>
             品牌内容来源于公开信息，如有异议请联系我们删除或更正。
         </div>
     </div>
 
-    <div class="search-section">
-        <div class="search-box">
-            <input type="text" id="search-input" placeholder="搜索品牌…" onkeydown="if(event.key==='Enter') searchBrand()">
-            <button onclick="searchBrand()">搜索</button>
-        </div>
+    <input type="text" class="search-box" id="search-input" placeholder="搜索品牌..." oninput="searchBrand()">
+
+    <div class="lang-tabs">
+        <button class="lang-tab active" onclick="switchLang('zh-CN')">中文</button>
+        <button class="lang-tab" onclick="switchLang('en')">English</button>
+        <button class="lang-tab" onclick="switchLang('ja')">日本語</button>
+        <button class="lang-tab" onclick="switchLang('ko')">한국어</button>
+        <button class="lang-tab" onclick="switchLang('fr')">Français</button>
+        <button class="lang-tab" onclick="switchLang('es')">Español</button>
+        <button class="lang-tab" onclick="switchLang('de')">Deutsch</button>
+        <button class="lang-tab" onclick="switchLang('pt')">Português</button>
+        <button class="lang-tab" onclick="switchLang('ru')">Русский</button>
+        <button class="lang-tab" onclick="switchLang('ar')">العربية</button>
     </div>
 
-    <div class="brand-count">共 50 个已收录品牌</div>
-
-    
-    <h2 class="section-title">奢侈品/时尚</h2>
-    <div class="brand-grid">
-        <a href="/escher/" class="brand-card">
-            <h2>埃舍尔Escher<span class="badge-premium">品牌推广</span></h2>
-            <div class="en">埃舍尔Escher</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/louis-vuitton/" class="brand-card">
-            <h2>路易·威登</h2>
-            <div class="en">Louis Vuitton</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/hermes/" class="brand-card">
-            <h2>爱马仕</h2>
-            <div class="en">Hermès</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/gucci/" class="brand-card">
-            <h2>古馳</h2>
-            <div class="en">Gucci</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/chanel/" class="brand-card">
-            <h2>Chanel</h2>
-            <div class="en">Chanel</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/christian-dior/" class="brand-card">
-            <h2>Christian Dior</h2>
-            <div class="en">Christian Dior</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/prada/" class="brand-card">
-            <h2>普拉達</h2>
-            <div class="en">Prada</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/balenciaga/" class="brand-card">
-            <h2>巴黎世家</h2>
-            <div class="en">Balenciaga</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/burberry/" class="brand-card">
-            <h2>Burberry</h2>
-            <div class="en">Burberry</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a>
-        <a href="/versace/" class="brand-card">
-            <h2>范思哲</h2>
-            <div class="en">Versace</div>
-            <span class="cat-tag">奢侈品/时尚</span>
-        </a></div>
-    <h2 class="section-title">时尚</h2>
-    <div class="brand-grid">
-        <a href="/zara/" class="brand-card">
-            <h2>Zara</h2>
-            <div class="en">Zara</div>
-            <span class="cat-tag">时尚</span>
-        </a>
-        <a href="/uniqlo/" class="brand-card">
-            <h2>优衣库</h2>
-            <div class="en">UNIQLO</div>
-            <span class="cat-tag">时尚</span>
-        </a>
-        <a href="/h-m/" class="brand-card">
-            <h2>H&M</h2>
-            <div class="en">H&M</div>
-            <span class="cat-tag">时尚</span>
-        </a>
-        <a href="/levi-s/" class="brand-card">
-            <h2>李维斯</h2>
-            <div class="en">Levi's</div>
-            <span class="cat-tag">时尚</span>
-        </a>
-        <a href="/calvin-klein/" class="brand-card">
-            <h2>Calvin Klein</h2>
-            <div class="en">Calvin Klein</div>
-            <span class="cat-tag">时尚</span>
-        </a>
-        <a href="/ralph-lauren/" class="brand-card">
-            <h2>拉爾夫·勞倫</h2>
-            <div class="en">Ralph Lauren</div>
-            <span class="cat-tag">时尚</span>
-        </a>
-        <a href="/tommy-hilfiger/" class="brand-card">
-            <h2>汤米·席尔菲格</h2>
-            <div class="en">Tommy Hilfiger</div>
-            <span class="cat-tag">时尚</span>
-        </a>
-        <a href="/coach/" class="brand-card">
-            <h2>蔻驰</h2>
-            <div class="en">Coach</div>
-            <span class="cat-tag">时尚</span>
-        </a></div>
-    <h2 class="section-title">美妆</h2>
-    <div class="brand-grid">
-        <a href="/loreal/" class="brand-card">
-            <h2>欧莱雅</h2>
-            <div class="en">L'Oréal</div>
-            <span class="cat-tag">美妆</span>
-        </a>
-        <a href="/este-lauder/" class="brand-card">
-            <h2>雅诗兰黛</h2>
-            <div class="en">Estée Lauder</div>
-            <span class="cat-tag">美妆</span>
-        </a>
-        <a href="/shiseido/" class="brand-card">
-            <h2>Shiseido</h2>
-            <div class="en">Shiseido</div>
-            <span class="cat-tag">美妆</span>
-        </a>
-        <a href="/lancome/" class="brand-card">
-            <h2>兰蔻</h2>
-            <div class="en">Lancôme</div>
-            <span class="cat-tag">美妆</span>
-        </a>
-        <a href="/mac-cosmetics/" class="brand-card">
-            <h2>MAC Cosmetics</h2>
-            <div class="en">MAC Cosmetics</div>
-            <span class="cat-tag">美妆</span>
-        </a></div>
-    <h2 class="section-title">腕表</h2>
-    <div class="brand-grid">
-        <a href="/rolex/" class="brand-card">
-            <h2>Rolex</h2>
-            <div class="en">Rolex</div>
-            <span class="cat-tag">腕表</span>
-        </a>
-        <a href="/patek-philippe/" class="brand-card">
-            <h2>Patek Philippe</h2>
-            <div class="en">Patek Philippe</div>
-            <span class="cat-tag">腕表</span>
-        </a>
-        <a href="/audemars-piguet/" class="brand-card">
-            <h2>Audemars Piguet</h2>
-            <div class="en">Audemars Piguet</div>
-            <span class="cat-tag">腕表</span>
-        </a></div>
-    <h2 class="section-title">珠宝</h2>
-    <div class="brand-grid">
-        <a href="/tiffany-co/" class="brand-card">
-            <h2>Tiffany & Co.</h2>
-            <div class="en">Tiffany & Co.</div>
-            <span class="cat-tag">珠宝</span>
-        </a>
-        <a href="/cartier/" class="brand-card">
-            <h2>Cartier</h2>
-            <div class="en">Cartier</div>
-            <span class="cat-tag">珠宝</span>
-        </a>
-        <a href="/bulgari/" class="brand-card">
-            <h2>Bulgari</h2>
-            <div class="en">Bulgari</div>
-            <span class="cat-tag">珠宝</span>
-        </a></div>
-    <h2 class="section-title">汽车</h2>
-    <div class="brand-grid">
-        <a href="/toyota/" class="brand-card">
-            <h2>Toyota</h2>
-            <div class="en">Toyota</div>
-            <span class="cat-tag">汽车</span>
-        </a>
-        <a href="/mercedes-benz/" class="brand-card">
-            <h2>梅赛德斯-奔驰</h2>
-            <div class="en">Mercedes-Benz</div>
-            <span class="cat-tag">汽车</span>
-        </a>
-        <a href="/bmw/" class="brand-card">
-            <h2>BMW</h2>
-            <div class="en">BMW</div>
-            <span class="cat-tag">汽车</span>
-        </a>
-        <a href="/ferrari/" class="brand-card">
-            <h2>法拉利汽車</h2>
-            <div class="en">Ferrari</div>
-            <span class="cat-tag">汽车</span>
-        </a>
-        <a href="/byd/" class="brand-card">
-            <h2>BYD</h2>
-            <div class="en">BYD</div>
-            <span class="cat-tag">汽车</span>
-        </a></div>
-    <h2 class="section-title">科技</h2>
-    <div class="brand-grid">
-        <a href="/apple/" class="brand-card">
-            <h2>苹果</h2>
-            <div class="en">Apple</div>
-            <span class="cat-tag">科技</span>
-        </a>
-        <a href="/samsung/" class="brand-card">
-            <h2>三星</h2>
-            <div class="en">Samsung</div>
-            <span class="cat-tag">科技</span>
-        </a>
-        <a href="/huawei/" class="brand-card">
-            <h2>华为</h2>
-            <div class="en">Huawei</div>
-            <span class="cat-tag">科技</span>
-        </a>
-        <a href="/sony/" class="brand-card">
-            <h2>索尼</h2>
-            <div class="en">Sony</div>
-            <span class="cat-tag">科技</span>
-        </a>
-        <a href="/nvidia/" class="brand-card">
-            <h2>英伟达</h2>
-            <div class="en">NVIDIA</div>
-            <span class="cat-tag">科技</span>
-        </a>
-        <a href="/microsoft/" class="brand-card">
-            <h2>微软</h2>
-            <div class="en">Microsoft</div>
-            <span class="cat-tag">科技</span>
-        </a>
-        <a href="/google/" class="brand-card">
-            <h2>谷歌</h2>
-            <div class="en">Google</div>
-            <span class="cat-tag">科技</span>
-        </a>
-        <a href="/amazon/" class="brand-card">
-            <h2>亚马逊</h2>
-            <div class="en">Amazon</div>
-            <span class="cat-tag">科技</span>
-        </a></div>
-    <h2 class="section-title">运动</h2>
-    <div class="brand-grid">
-        <a href="/nike/" class="brand-card">
-            <h2>耐克</h2>
-            <div class="en">Nike</div>
-            <span class="cat-tag">运动</span>
-        </a>
-        <a href="/adidas/" class="brand-card">
-            <h2>阿迪达斯</h2>
-            <div class="en">Adidas</div>
-            <span class="cat-tag">运动</span>
-        </a>
-        <a href="/puma/" class="brand-card">
-            <h2>彪马</h2>
-            <div class="en">Puma</div>
-            <span class="cat-tag">运动</span>
-        </a></div>
-    <h2 class="section-title">食品</h2>
-    <div class="brand-grid">
-        <a href="/coca-cola/" class="brand-card">
-            <h2>可口可乐</h2>
-            <div class="en">Coca-Cola</div>
-            <span class="cat-tag">食品</span>
-        </a>
-        <a href="/mcdonald-s/" class="brand-card">
-            <h2>麦当劳</h2>
-            <div class="en">McDonald's</div>
-            <span class="cat-tag">食品</span>
-        </a>
-        <a href="/starbucks/" class="brand-card">
-            <h2>星巴克</h2>
-            <div class="en">Starbucks</div>
-            <span class="cat-tag">食品</span>
-        </a></div>
-    <h2 class="section-title">潮玩/玩具</h2>
-    <div class="brand-grid">
-        <a href="/lego/" class="brand-card">
-            <h2>乐高</h2>
-            <div class="en">LEGO</div>
-            <span class="cat-tag">潮玩/玩具</span>
-        </a>
-        <a href="/mattel/" class="brand-card">
-            <h2>美泰</h2>
-            <div class="en">Mattel</div>
-            <span class="cat-tag">潮玩/玩具</span>
-        </a></div>
+    <h2 class="section-title" id="section-title">品牌列表</h2>
+    <div class="brand-grid" id="brand-list"></div>
 
     <div class="footer">
         <p><a href="https://pinpai.ai.in">全球品牌索引 · pinpai.ai.in</a></p>
-        <p>全球品牌大全 · 10种语言呈现 · 品牌信息持续更新</p>
-        <p style="color:#aaa;font-size:12px;margin-top:8px">免责声明：本站仅作为品牌信息收录与展示平台，不参与任何品牌运营。品牌信息如有不准确之处，请联系我们更正。</p>
+        <p id="footer-tagline">全球品牌大全 · 10种语言呈现 · 品牌信息持续更新</p>
+        <p style="color:#aaa;font-size:12px;margin-top:8px" id="footer-disclaimer">免责声明：本站仅作为品牌信息收录与展示平台，不参与任何品牌运营。品牌信息如有不准确之处，请联系我们更正。</p>
+    </div>
+    <div style="text-align:center;margin:30px 0 40px">
+        <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;" style="display:inline-block;padding:14px 48px;background:#e53935;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 12px rgba(229,57,53,0.4);transition:all 0.2s;" onmouseover="this.style.background='#c62828';this.style.boxShadow='0 6px 16px rgba(229,57,53,0.6)'" onmouseout="this.style.background='#e53935';this.style.boxShadow='0 4px 12px rgba(229,57,53,0.4)'">⟰ 返回顶部</a>
     </div>
 </div>
 
 <script>
-var brands = [{"slug": "escher", "zh": "埃舍尔Escher", "en": "埃舍尔Escher", "category": "fashion-luxury", "premium": true}, {"slug": "louis-vuitton", "zh": "路易·威登", "en": "Louis Vuitton", "category": "fashion-luxury", "premium": false}, {"slug": "hermes", "zh": "爱马仕", "en": "Hermès", "category": "fashion-luxury", "premium": false}, {"slug": "gucci", "zh": "古馳", "en": "Gucci", "category": "fashion-luxury", "premium": false}, {"slug": "chanel", "zh": "Chanel", "en": "Chanel", "category": "fashion-luxury", "premium": false}, {"slug": "christian-dior", "zh": "Christian Dior", "en": "Christian Dior", "category": "fashion-luxury", "premium": false}, {"slug": "prada", "zh": "普拉達", "en": "Prada", "category": "fashion-luxury", "premium": false}, {"slug": "balenciaga", "zh": "巴黎世家", "en": "Balenciaga", "category": "fashion-luxury", "premium": false}, {"slug": "zara", "zh": "Zara", "en": "Zara", "category": "fashion", "premium": false}, {"slug": "uniqlo", "zh": "优衣库", "en": "UNIQLO", "category": "fashion", "premium": false}, {"slug": "h-m", "zh": "H&M", "en": "H&M", "category": "fashion", "premium": false}, {"slug": "levi-s", "zh": "李维斯", "en": "Levi's", "category": "fashion", "premium": false}, {"slug": "calvin-klein", "zh": "Calvin Klein", "en": "Calvin Klein", "category": "fashion", "premium": false}, {"slug": "loreal", "zh": "欧莱雅", "en": "L'Oréal", "category": "beauty", "premium": false}, {"slug": "este-lauder", "zh": "雅诗兰黛", "en": "Estée Lauder", "category": "beauty", "premium": false}, {"slug": "shiseido", "zh": "Shiseido", "en": "Shiseido", "category": "beauty", "premium": false}, {"slug": "lancome", "zh": "兰蔻", "en": "Lancôme", "category": "beauty", "premium": false}, {"slug": "mac-cosmetics", "zh": "MAC Cosmetics", "en": "MAC Cosmetics", "category": "beauty", "premium": false}, {"slug": "rolex", "zh": "Rolex", "en": "Rolex", "category": "watch", "premium": false}, {"slug": "patek-philippe", "zh": "Patek Philippe", "en": "Patek Philippe", "category": "watch", "premium": false}, {"slug": "audemars-piguet", "zh": "Audemars Piguet", "en": "Audemars Piguet", "category": "watch", "premium": false}, {"slug": "tiffany-co", "zh": "Tiffany & Co.", "en": "Tiffany & Co.", "category": "jewelry", "premium": false}, {"slug": "cartier", "zh": "Cartier", "en": "Cartier", "category": "jewelry", "premium": false}, {"slug": "bulgari", "zh": "Bulgari", "en": "Bulgari", "category": "jewelry", "premium": false}, {"slug": "toyota", "zh": "Toyota", "en": "Toyota", "category": "auto", "premium": false}, {"slug": "mercedes-benz", "zh": "梅赛德斯-奔驰", "en": "Mercedes-Benz", "category": "auto", "premium": false}, {"slug": "bmw", "zh": "BMW", "en": "BMW", "category": "auto", "premium": false}, {"slug": "ferrari", "zh": "法拉利汽車", "en": "Ferrari", "category": "auto", "premium": false}, {"slug": "byd", "zh": "BYD", "en": "BYD", "category": "auto", "premium": false}, {"slug": "apple", "zh": "苹果", "en": "Apple", "category": "tech", "premium": false}, {"slug": "samsung", "zh": "三星", "en": "Samsung", "category": "tech", "premium": false}, {"slug": "huawei", "zh": "华为", "en": "Huawei", "category": "tech", "premium": false}, {"slug": "sony", "zh": "索尼", "en": "Sony", "category": "tech", "premium": false}, {"slug": "nvidia", "zh": "英伟达", "en": "NVIDIA", "category": "tech", "premium": false}, {"slug": "nike", "zh": "耐克", "en": "Nike", "category": "sport", "premium": false}, {"slug": "adidas", "zh": "阿迪达斯", "en": "Adidas", "category": "sport", "premium": false}, {"slug": "puma", "zh": "彪马", "en": "Puma", "category": "sport", "premium": false}, {"slug": "coca-cola", "zh": "可口可乐", "en": "Coca-Cola", "category": "food", "premium": false}, {"slug": "mcdonald-s", "zh": "麦当劳", "en": "McDonald's", "category": "food", "premium": false}, {"slug": "starbucks", "zh": "星巴克", "en": "Starbucks", "category": "food", "premium": false}, {"slug": "lego", "zh": "乐高", "en": "LEGO", "category": "toy", "premium": false}, {"slug": "mattel", "zh": "美泰", "en": "Mattel", "category": "toy", "premium": false}, {"slug": "burberry", "zh": "Burberry", "en": "Burberry", "category": "fashion-luxury", "premium": false}, {"slug": "versace", "zh": "范思哲", "en": "Versace", "category": "fashion-luxury", "premium": false}, {"slug": "ralph-lauren", "zh": "拉爾夫·勞倫", "en": "Ralph Lauren", "category": "fashion", "premium": false}, {"slug": "tommy-hilfiger", "zh": "汤米·席尔菲格", "en": "Tommy Hilfiger", "category": "fashion", "premium": false}, {"slug": "coach", "zh": "蔻驰", "en": "Coach", "category": "fashion", "premium": false}, {"slug": "microsoft", "zh": "微软", "en": "Microsoft", "category": "tech", "premium": false}, {"slug": "google", "zh": "谷歌", "en": "Google", "category": "tech", "premium": false}, {"slug": "amazon", "zh": "亚马逊", "en": "Amazon", "category": "tech", "premium": false}];
+// ===== 一字转动动画（科幻风格） =====
+// 第一行：一字旋转
+var frames1 = ['|','/','-','\\\\','|','/','-','\\\\'];
+var i1 = 0;
+setInterval(function(){
+    document.getElementById('spinner1').textContent = frames1[i1];
+    i1 = (i1 + 1) % frames1.length;
+}, 100);
 
-function searchBrand(){
+// 第二行：一字旋转（收录）
+var frames2 = ['|','/','-','\\\\','|','/','-','\\\\'];
+var i2 = 0;
+setInterval(function(){
+    document.getElementById('spinner2').textContent = frames2[i2];
+    i2 = (i2 + 1) % frames2.length;
+}, 120);
+
+// 第三行：一字旋转（更新）
+var frames3 = ['|','/','-','\\\\','|','/','-','\\\\'];
+var i3 = 0;
+setInterval(function(){
+    document.getElementById('spinner3').textContent = frames3[i3];
+    i3 = (i3 + 1) % frames3.length;
+}, 160);
+
+// 公告多语言内容
+var announceTexts = {
+    "zh-CN": {
+        "title": "📢 欢迎来到全球品牌索引",
+        "line1": "我们致力于收录全球范围内的品牌信息，不限规模、不限行业、不限国家。",
+        "line2": "🔓 任何品牌都可以被收录 — 无论是国际巨头还是新兴品牌。",
+        "line3": "📩 提交收录申请或反馈：",
+        "disclaimer": "⚠️ 声明：我们只负责收录和展示品牌信息，不参与任何品牌运营、营销或管理。<br>品牌内容来源于公开信息，如有异议请联系我们删除或更正。"
+    },
+    "en": {
+        "title": "📢 Welcome to the Global Brand Index",
+        "line1": "We are dedicated to cataloging brand information worldwide — no limits on size, industry, or country.",
+        "line2": "🔓 Every brand can be included — from global giants to emerging brands.",
+        "line3": "📩 Submit listing request or feedback:",
+        "disclaimer": "⚠️ Disclaimer: We only catalog and display brand information and do not participate in any brand operations, marketing, or management.<br>Brand content comes from public sources; please contact us for corrections or removal."
+    },
+    "ja": {
+        "title": "📢 グローバルブランドインデックスへようこそ",
+        "line1": "世界中のブランド情報を収集・提供しています。規模、業種、国を問いません。",
+        "line2": "🔓 すべてのブランドが登録可能 — グローバル企業から新興ブランドまで。",
+        "line3": "📩 登録申請やフィードバック：",
+        "disclaimer": "⚠️ 免責事項：当サイトはブランド情報の収集と表示のみを行い、ブランドの運営やマーケティングには関与しません。<br>ブランド情報は公開情報に基づいており、訂正や削除をご希望の場合はご連絡ください。"
+    },
+    "ko": {
+        "title": "📢 글로벌 브랜드 인덱스에 오신 것을 환영합니다",
+        "line1": "전 세계 브랜드 정보를 수집하여 제공합니다. 규모, 업종, 국가에 관계없이 모두 포함됩니다.",
+        "line2": "🔓 모든 브랜드가 등록 가능합니다 — 글로벌 기업부터 신흥 브랜드까지.",
+        "line3": "📩 등록 신청 또는 피드백 보내기:",
+        "disclaimer": "⚠️ 면책 고지: 당 사이트는 브랜드 정보 수집 및 표시만을 제공하며, 브랜드 운영이나 마케팅에 참여하지 않습니다.<br>브랜드 정보는 공개 자료를 기반으로 하며, 수정이나 삭제를 원하시면 연락 주시기 바랍니다."
+    },
+    "fr": {
+        "title": "📢 Bienvenue sur l'Index Global des Marques",
+        "line1": "Nous cataloguons les informations sur les marques du monde entier — sans limite de taille, d'industrie ou de pays.",
+        "line2": "🔓 Toute marque peut être répertoriée — des géants mondiaux aux marques émergentes.",
+        "line3": "📩 Soumettre une demande ou un retour :",
+        "disclaimer": "⚠️ Avertissement : Nous ne faisons que cataloguer et afficher les informations sur les marques. Nous ne participons à aucune opération, marketing ou gestion de marque.<br>Les informations proviennent de sources publiques ; contactez-nous pour toute correction ou suppression."
+    },
+    "es": {
+        "title": "📢 Bienvenido al Índice Global de Marcas",
+        "line1": "Catalogamos información de marcas de todo el mundo — sin límites de tamaño, industria o país.",
+        "line2": "🔓 Cualquier marca puede ser incluida — desde gigantes globales hasta marcas emergentes.",
+        "line3": "📩 Enviar solicitud o comentarios:",
+        "disclaimer": "⚠️ Aviso legal: Solo catalogamos y mostramos información de marcas. No participamos en operaciones, marketing o gestión de marcas.<br>La información proviene de fuentes públicas; contáctenos para correcciones o eliminación."
+    },
+    "de": {
+        "title": "📢 Willkommen im Globalen Markenindex",
+        "line1": "Wir katalogisieren Markeninformationen aus aller Welt — ohne Größen-, Branchen- oder Länderbeschränkung.",
+        "line2": "🔓 Jede Marke kann aufgenommen werden — von Weltkonzernen bis zu aufstrebenden Marken.",
+        "line3": "📩 Eintragungsantrag oder Feedback:",
+        "disclaimer": "⚠️ Haftungsausschluss: Wir katalogisieren und zeigen nur Markeninformationen an und beteiligen uns nicht an Markenoperationen, Marketing oder Management.<br>Die Informationen stammen aus öffentlichen Quellen; kontaktieren Sie uns für Korrekturen oder Löschungen."
+    },
+    "pt": {
+        "title": "📢 Bem-vindo ao Índice Global de Marcas",
+        "line1": "Catalogamos informações de marcas de todo o mundo — sem limites de tamanho, setor ou país.",
+        "line2": "🔓 Qualquer marca pode ser incluída — de gigantes globais a marcas emergentes.",
+        "line3": "📩 Enviar solicitação ou feedback:",
+        "disclaimer": "⚠️ Aviso legal: Apenas catalogamos e exibimos informações de marcas. Não participamos de operações, marketing ou gestão de marcas.<br>As informações vêm de fontes públicas; entre em contato para correções ou remoção."
+    },
+    "ru": {
+        "title": "📢 Добро пожаловать в Глобальный индекс брендов",
+        "line1": "Мы каталогизируем информацию о брендах со всего мира — без ограничений по размеру, отрасли или стране.",
+        "line2": "🔓 Любой бренд может быть включен — от мировых гигантов до新兴 брендов.",
+        "line3": "📩 Отправить заявку или отзыв:",
+        "disclaimer": "⚠️ Отказ от ответственности: Мы только каталогизируем и отображаем информацию о брендах и не участвуем в операциях, маркетинге или управлении брендами.<br>Информация основана на общедоступных источниках; свяжитесь с нами для исправления или удаления."
+    },
+    "ar": {
+        "title": "📢 مرحبًا بكم في فهرس العلامات التجارية العالمي",
+        "line1": "نحن نختص بفهرسة معلومات العلامات التجارية من جميع أنحاء العالم — بدون حدود على الحجم أو الصناعة أو الدولة.",
+        "line2": "🔓 يمكن إدراج أي علامة تجارية — من الشركات العالمية العملاقة إلى العلامات الناشئة.",
+        "line3": "📩 إرسال طلب إدراج أو ملاحظات:",
+        "disclaimer": "⚠️ إخلاء مسؤولية: نحن فقط نختص بفهرسة وعرض معلومات العلامات التجارية، ولا نشارك في أي عمليات أو تسويق أو إدارة للعلامات التجارية.<br>معلومات العلامات التجارية مأخوذة من مصادر عامة؛ يرجى الاتصال بنا للتصحيح أو الحذف."
+    }
+};
+
+// 品牌数据 (从 brands_index.json 生成)
+var brandsData = [
+{name:"3M",name_en:"3M",slug:"3m",category:"materials"},
+{name:"A. Lange & Söhne",name_en:"A. Lange & Söhne",slug:"a--lange-and-s-hne",category:"watch"},
+{name:"Acne Studios",name_en:"Acne Studios",slug:"acne-studios",category:"fashion-luxury"},
+{name:"adidas",name_en:"adidas",slug:"adidas",category:"sport"},
+{name:"Aesop",name_en:"Aesop",slug:"aesop",category:"beauty"},
+{name:"爱彼迎",name_en:"Airbnb",slug:"airbnb",category:"technology"},
+{name:"亚历山大·麦昆（Alexander McQueen）",name_en:"Alexander McQueen",slug:"alexander-mcqueen",category:"fashion-luxury"},
+{name:"亚马逊",name_en:"Amazon",slug:"amazon",category:"technology"},
+{name:"Anheuser-Busch",name_en:"Anheuser-Busch",slug:"anheuser-busch",category:"food"},
+{name:"苹果",name_en:"Apple",slug:"apple",category:"technology"},
+{name:"巴黎世家",name_en:"Balenciaga",slug:"balenciaga",category:"fashion-luxury"},
+{name:"巴利（Bally）",name_en:"Bally",slug:"bally",category:"fashion-luxury"},
+{name:"Benetton",name_en:"Benetton",slug:"benetton",category:"fashion"},
+{name:"宝马",name_en:"BMW",slug:"bmw",category:"auto"},
+{name:"葆蝶家",name_en:"Bottega Veneta",slug:"bottega-veneta",category:"fashion-luxury"},
+{name:"宝格丽",name_en:"Bulgari",slug:"bulgari",category:"fashion-luxury"},
+{name:"博柏利",name_en:"Burberry",slug:"burberry",category:"fashion-luxury"},
+{name:"卡地亚",name_en:"Cartier",slug:"cartier",category:"fashion-luxury"},
+{name:"香奈儿",name_en:"Chanel",slug:"chanel",category:"fashion-luxury"},
+{name:"Chaumet",name_en:"Chaumet",slug:"chaumet",category:"jewelry"},
+{name:"克里斯汀·迪奥",name_en:"Christian Dior",slug:"christian-dior",category:"fashion-luxury"},
+{name:"coca-cola",name_en:"coca-cola",slug:"coca-cola",category:"food"},
+{name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"},
+{name:"埃舍尔Escher",name_en:"埃舍尔Escher",slug:"escher",category:"fashion-luxury"},
+{name:"ferrari",name_en:"ferrari",slug:"ferrari",category:"auto"},
+{name:"谷歌",name_en:"Google",slug:"google",category:"technology"},
+{name:"愛馬仕",name_en:"Hermès",slug:"hermes",category:"fashion-luxury"},
+{name:"lego",name_en:"lego",slug:"lego",category:"toy"},
+{name:"loréal",name_en:"loréal",slug:"loreal",category:"beauty"},
+{name:"Meta",name_en:"Meta",slug:"meta",category:"technology"},
+{name:"微软",name_en:"Microsoft",slug:"microsoft",category:"technology"},
+{name:"耐克",name_en:"Nike",slug:"nike",category:"sport"},
+{name:"普拉达",name_en:"Prada",slug:"prada",category:"fashion-luxury"},
+{name:"三星",name_en:"Samsung",slug:"samsung",category:"technology"},
+{name:"索尼",name_en:"Sony",slug:"sony",category:"tech"},
+{name:"特斯拉",name_en:"Tesla",slug:"tesla",category:"auto"},
+{name:"丰田",name_en:"Toyota",slug:"toyota",category:"automotive"}
+];
+
+var categoryNames = {
+    "zh-CN":{"fashion":"时尚","automotive":"汽车","electronics":"电子","food":"食品","beauty":"美妆","jewelry":"珠宝","watch":"腕表","technology":"科技","materials":"材料","sport":"运动","toy":"玩具","fashion-luxury":"奢侈品"},
+    "en":{"fashion":"Fashion","automotive":"Automotive","electronics":"Electronics","food":"Food & Beverage","beauty":"Beauty","jewelry":"Jewelry","watch":"Watchmaking","technology":"Technology","materials":"Materials","sport":"Sports","toy":"Toys","fashion-luxury":"Luxury"},
+    "ja":{"fashion":"ファッション","automotive":"自動車","electronics":"電子機器","food":"食品","beauty":"美容","jewelry":"ジュエリー","watch":"時計","technology":"テクノロジー","materials":"素材","sport":"スポーツ","toy":"おもちゃ","fashion-luxury":"ラグジュアリー"},
+    "ko":{"fashion":"패션","automotive":"자동차","electronics":"전자","food":"식품","beauty":"뷰티","jewelry":"주얼리","watch":"시계","technology":"기술","materials":"재료","sport":"스포츠","toy":"장난감","fashion-luxury":"럭셔리"},
+    "fr":{"fashion":"Mode","automotive":"Automobile","electronics":"Électronique","food":"Alimentation","beauty":"Beauté","jewelry":"Bijouterie","watch":"Horlogerie","technology":"Technologie","materials":"Matériaux","sport":"Sport","toy":"Jouets","fashion-luxury":"Luxe"},
+    "es":{"fashion":"Moda","automotive":"Automotriz","electronics":"Electrónica","food":"Alimentos","beauty":"Belleza","jewelry":"Joyería","watch":"Relojería","technology":"Tecnología","materials":"Materiales","sport":"Deportes","toy":"Juguetes","fashion-luxury":"Lujo"},
+    "de":{"fashion":"Mode","automotive":"Automobil","electronics":"Elektronik","food":"Lebensmittel","beauty":"Schönheit","jewelry":"Schmuck","watch":"Uhren","technology":"Technologie","materials":"Werkstoffe","sport":"Sport","toy":"Spielzeug","fashion-luxury":"Luxus"},
+    "pt":{"fashion":"Moda","automotive":"Automotivo","electronics":"Eletrônicos","food":"Alimentos","beauty":"Beleza","jewelry":"Joalheria","watch":"Relojoaria","technology":"Tecnologia","materials":"Materiais","sport":"Esportes","toy":"Brinquedos","fashion-luxury":"Luxo"},
+    "ru":{"fashion":"Мода","automotive":"Автомобили","electronics":"Электроника","food":"Продукты","beauty":"Красота","jewelry":"Ювелирные изделия","watch":"Часовое дело","technology":"Технологии","materials":"Материалы","sport":"Спорт","toy":"Игрушки","fashion-luxury":"Люкс"},
+    "ar":{"fashion":"أزياء","automotive":"سيارات","electronics":"إلكترونيات","food":"أطعمة","beauty":"جمال","jewelry":"مجوهرات","watch":"ساعات","technology":"تقنية","materials":"مواد","sport":"رياضة","toy":"ألعاب","fashion-luxury":"فخامة"},
+};
+
+function getLangLabel(code) {
+    var labels = {'zh-CN':'中文','en':'English','ja':'日本語','ko':'한국어','fr':'Français','es':'Español','de':'Deutsch','pt':'Português','ru':'Русский','ar':'العربية'};
+    return labels[code] || code;
+}
+
+function switchLang(code) {
+    // 更新标签页
+    var tabs = document.querySelectorAll('.lang-tab');
+    tabs.forEach(function(t) { t.classList.remove('active'); });
+    tabs.forEach(function(t) {
+        if(t.textContent.trim() === getLangLabel(code)) t.classList.add('active');
+    });
+
+    // 更新公告
+    var at = announceTexts[code] || announceTexts['zh-CN'];
+    document.getElementById('ann-title').textContent = at.title;
+    document.getElementById('ann-line1').textContent = at.line1;
+    document.getElementById('ann-line2').textContent = at.line2;
+    // line3 特殊处理：保留 email 链接
+    var line3El = document.getElementById('ann-line3');
+    line3El.innerHTML = at.line3 + ' <a href="mailto:wqf2956041@gmail.com">wqf2956041@gmail.com</a>';
+    document.getElementById('ann-disclaimer').innerHTML = at.disclaimer;
+
+    // 更新标题
+    var titles = {'zh-CN':'全球品牌索引','en':'Global Brand Index','ja':'グローバルブランドインデックス','ko':'글로벌 브랜드 인덱스','fr':'Index Global des Marques','es':'Índice Global de Marcas','de':'Globaler Markenindex','pt':'Índice Global de Marcas','ru':'Глобальный индекс брендов','ar':'فهرس العلامات التجارية العالمي'};
+    document.getElementById('site-title').textContent = titles[code] || titles['zh-CN'];
+    document.getElementById('site-subtitle').textContent = titles[code] + ' · pinpai.ai.in';
+
+    // 更新品牌列表
+    renderBrands(code);
+
+    // 更新 section title
+    var sectionTitles = {'zh-CN':'品牌列表','en':'Brand List','ja':'ブランド一覧','ko':'브랜드 목록','fr':'Liste des Marques','es':'Lista de Marcas','de':'Markenliste','pt':'Lista de Marcas','ru':'Список брендов','ar':'قائمة العلامات التجارية'};
+    document.getElementById('section-title').textContent = sectionTitles[code] || sectionTitles['zh-CN'];
+
+    var footerNotes = {'zh-CN':'全球品牌大全 · 10种语言呈现 · 品牌信息持续更新','en':'Global Brand Directory · 10 Languages · Continuously Updated','ja':'世界中のブランド · 10言語対応 · 随時更新','ko':'전 세계 브랜드 · 10개 언어 · 지속적 업데이트','fr':'Répertoire mondial des marques · 10 langues · Mis à jour en continu','es':'Directorio global de marcas · 10 idiomas · Actualización continua','de':'Weltweites Markenverzeichnis · 10 Sprachen · Kontinuierlich aktualisiert','pt':'Diretório global de marcas · 10 idiomas · Atualização contínua','ru':'Глобальный каталог брендов · 10 языков · Постоянное обновление','ar':'دليل العلامات التجارية العالمي · 10 لغات · تحديث مستمر'};
+    document.getElementById('footer-tagline').textContent = footerNotes[code] || footerNotes['zh-CN'];
+}
+
+function renderBrands(lang) {
+    lang = lang || 'zh-CN';
+    var cats = categoryNames[lang] || categoryNames['zh-CN'];
+    var container = document.getElementById('brand-list');
+    var html = '';
+    for (var i = 0; i < brandsData.length; i++) {
+        var b = brandsData[i];
+        // 按品牌名排序，Escher置顶
+        var nameDisplay = (lang === 'zh-CN') ? b.name_zh : b.name_en;
+        if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
+        var catLabel = cats[b.category] || b.category;
+        var premiumTag = b.premium ? '<span class="badge-premium">品牌推广</span>' : '';
+        html += '<a href="/' + b.slug + '/" class="brand-card">' +
+            '<h2>' + nameDisplay + premiumTag + '</h2>' +
+            '<div class="en">' + b.name_en + '</div>' +
+            '<span class="cat-tag">' + catLabel + '</span></a>';
+    }
+    container.innerHTML = html;
+}
+
+function searchBrand() {
     var q = document.getElementById('search-input').value.toLowerCase().trim();
     var cards = document.querySelectorAll('.brand-card');
-    var sections = document.querySelectorAll('.section-title');
-    var count = 0;
     cards.forEach(function(card) {
         var text = card.textContent.toLowerCase();
-        if(!q || text.includes(q)){card.style.display = ''; count++;}
+        if(!q || text.includes(q)){card.style.display = '';}
         else{card.style.display = 'none';}
     });
-    sections.forEach(function(s) { s.style.display = q ? 'none' : ''; });
-    document.querySelector('.brand-count').textContent = q ? '搜索到 ' + count + ' 个品牌' : '共 50 个已收录品牌';
 }
+
+// 默认渲染
+renderBrands('zh-CN');
 </script>
 </body>
 </html>
