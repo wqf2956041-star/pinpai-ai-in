@@ -102,6 +102,12 @@
     "category": "fashion-luxury"
   },
   {
+    "slug": "burger-king",
+    "name": "汉堡王",
+    "name_en": "Burger King",
+    "category": "food"
+  },
+  {
     "slug": "cartier",
     "name": "卡地亚",
     "name_en": "Cartier",
@@ -168,6 +174,24 @@
     "category": "fashion-luxury"
   },
   {
+    "slug": "honda",
+    "name": "本田",
+    "name_en": "Honda",
+    "category": "automotive"
+  },
+  {
+    "slug": "intel",
+    "name": "英特尔",
+    "name_en": "Intel",
+    "category": "technology"
+  },
+  {
+    "slug": "kfc",
+    "name": "肯德基",
+    "name_en": "KFC",
+    "category": "food"
+  },
+  {
     "slug": "lego",
     "name": "lego",
     "name_en": "lego",
@@ -184,6 +208,12 @@
     "name": "路易威登",
     "name_en": "Louis Vuitton",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "mcdonalds",
+    "name": "麦当劳",
+    "name_en": "McDonald's",
+    "category": "food"
   },
   {
     "slug": "mercedes-benz",
@@ -216,6 +246,24 @@
     "category": "sport"
   },
   {
+    "slug": "nvidia",
+    "name": "英伟达",
+    "name_en": "NVIDIA",
+    "category": "technology"
+  },
+  {
+    "slug": "pepsi",
+    "name": "百事",
+    "name_en": "Pepsi",
+    "category": "food"
+  },
+  {
+    "slug": "pizza-hut",
+    "name": "必胜客",
+    "name_en": "Pizza Hut",
+    "category": "food"
+  },
+  {
     "slug": "prada",
     "name": "普拉达",
     "name_en": "Prada",
@@ -240,6 +288,12 @@
     "category": "food"
   },
   {
+    "slug": "subway",
+    "name": "赛百味",
+    "name_en": "Subway",
+    "category": "food"
+  },
+  {
     "slug": "tesla",
     "name": "特斯拉",
     "name_en": "Tesla",
@@ -250,53 +304,5 @@
     "name": "丰田",
     "name_en": "Toyota",
     "category": "automotive"
-  },
-  {
-    "slug": "nvidia",
-    "name": "英伟达",
-    "name_en": "NVIDIA",
-    "category": "technology"
-  },
-  {
-    "slug": "intel",
-    "name": "英特尔",
-    "name_en": "Intel",
-    "category": "technology"
-  },
-  {
-    "slug": "mcdonalds",
-    "name": "麦当劳",
-    "name_en": "McDonald's",
-    "category": "food"
-  },
-  {
-    "slug": "pepsi",
-    "name": "百事",
-    "name_en": "Pepsi",
-    "category": "food"
-  },
-  {
-    "slug": "kfc",
-    "name": "肯德基",
-    "name_en": "KFC",
-    "category": "food"
-  },
-  {
-    "slug": "pizza-hut",
-    "name": "必胜客",
-    "name_en": "Pizza Hut",
-    "category": "food"
-  },
-  {
-    "slug": "burger-king",
-    "name": "汉堡王",
-    "name_en": "Burger King",
-    "category": "food"
-  },
-  {
-    "slug": "subway",
-    "name": "赛百味",
-    "name_en": "Subway",
-    "category": "food"
   }
 ]
