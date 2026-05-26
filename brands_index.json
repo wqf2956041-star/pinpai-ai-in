@@ -286,5 +286,11 @@
     "name": "必胜客",
     "name_en": "Pizza Hut",
     "category": "food"
+  },
+  {
+    "slug": "burger-king",
+    "name": "汉堡王",
+    "name_en": "Burger King",
+    "category": "food"
   }
 ]
