@@ -1,5 +1,11 @@
 [
   {
+    "name": "3M",
+    "name_en": "3M",
+    "slug": "3m",
+    "category": "materials"
+  },
+  {
     "name": "A. Lange & Söhne",
     "name_en": "A. Lange & Söhne",
     "slug": "a--lange-and-s-hne",
@@ -24,10 +30,22 @@
     "category": "beauty"
   },
   {
+    "name": "爱彼迎",
+    "name_en": "Airbnb",
+    "slug": "airbnb",
+    "category": "technology"
+  },
+  {
     "name": "亚历山大·麦昆（Alexander McQueen）",
     "name_en": "Alexander McQueen",
     "slug": "alexander-mcqueen",
     "category": "fashion-luxury"
+  },
+  {
+    "name": "亚马逊",
+    "name_en": "Amazon",
+    "slug": "amazon",
+    "category": "technology"
   },
   {
     "name": "Anheuser-Busch",

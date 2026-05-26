@@ -16,7 +16,7 @@
   "founding_year": 1916,
   "founding_location": "慕尼黑",
   "founding_location_en": "Munich",
-  "founder": "卡尔·弗里德里希·拉普（Karl Friedrich Rapp）",
+  "founder": "",
   "official_website": "https://www.bmwgroup.com/",
   "main_business": [
     "汽车",
@@ -57,7 +57,7 @@
       "premium": true
     }
   ],
-  "is_premium": true,
+  "is_premium": false,
   "image_url": "",
   "representative_products": [
     "BMW 3 Series (3系轿车)",

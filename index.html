@@ -48,6 +48,13 @@
     <h1 id="site-title">全球品牌索引</h1>
     <p class="subtitle" id="site-subtitle">Global Brand Index · 全球品牌实体索引系统</p>
 
+    <!-- 纯字符动效区域 -->
+    <div style="background:#eef2ff;border-radius:10px;padding:14px 20px;margin-bottom:20px;font-size:15px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;color:#222;letter-spacing:0.3px" id="status-animation">
+        <div id="status-line1"><span id="spinner1">⠋</span> 检索新的品牌……</div>
+        <div id="status-line2" style="margin-top:4px"><span id="spinner2">⣾</span> 收录新的品牌……</div>
+        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◐</span> 网址实时更新中……</div>
+    </div>
+
     <!-- 公告区域 -->
     <div class="announcement" id="announcement-box">
         <h2 id="ann-title">📢 欢迎来到全球品牌索引</h2>
@@ -83,9 +90,37 @@
         <p id="footer-tagline">全球品牌大全 · 10种语言呈现 · 品牌信息持续更新</p>
         <p style="color:#aaa;font-size:12px;margin-top:8px" id="footer-disclaimer">免责声明：本站仅作为品牌信息收录与展示平台，不参与任何品牌运营。品牌信息如有不准确之处，请联系我们更正。</p>
     </div>
+    <div style="text-align:center;margin:30px 0 40px">
+        <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;" style="display:inline-block;padding:14px 48px;background:#e53935;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 12px rgba(229,57,53,0.4);transition:all 0.2s;" onmouseover="this.style.background='#c62828';this.style.boxShadow='0 6px 16px rgba(229,57,53,0.6)'" onmouseout="this.style.background='#e53935';this.style.boxShadow='0 4px 12px rgba(229,57,53,0.4)'">⟰ 返回顶部</a>
+    </div>
 </div>
 
 <script>
+// ===== 纯字符跳动动画 =====
+// 第一行：Braille点阵转圈（8帧）
+var frames1 = ['⠋','⠙','⠹','⠸','⠼','⠴','⠦','⠧','⠇','⠏'];
+var i1 = 0;
+setInterval(function(){
+    document.getElementById('spinner1').textContent = frames1[i1];
+    i1 = (i1 + 1) % frames1.length;
+}, 100);
+
+// 第二行：Braille点阵全转圈（12帧，更丰富）
+var frames2 = ['⣾','⣽','⣻','⢿','⡿','⣟','⣯','⣷'];
+var i2 = 0;
+setInterval(function(){
+    document.getElementById('spinner2').textContent = frames2[i2];
+    i2 = (i2 + 1) % frames2.length;
+}, 120);
+
+// 第三行：半圆旋（4帧）
+var frames3 = ['◐','◓','◑','◒'];
+var i3 = 0;
+setInterval(function(){
+    document.getElementById('spinner3').textContent = frames3[i3];
+    i3 = (i3 + 1) % frames3.length;
+}, 160);
+
 // 公告多语言内容
 var announceTexts = {
     "zh-CN": {
@@ -162,11 +197,14 @@ var announceTexts = {
 
 // 品牌数据 (从 brands_index.json 生成)
 var brandsData = [
+{name:"3M",name_en:"3M",slug:"3m",category:"materials"},
 {name:"A. Lange & Söhne",name_en:"A. Lange & Söhne",slug:"a--lange-and-s-hne",category:"watch"},
 {name:"Acne Studios",name_en:"Acne Studios",slug:"acne-studios",category:"fashion-luxury"},
 {name:"adidas",name_en:"adidas",slug:"adidas",category:"sport"},
 {name:"Aesop",name_en:"Aesop",slug:"aesop",category:"beauty"},
+{name:"爱彼迎",name_en:"Airbnb",slug:"airbnb",category:"technology"},
 {name:"亚历山大·麦昆（Alexander McQueen）",name_en:"Alexander McQueen",slug:"alexander-mcqueen",category:"fashion-luxury"},
+{name:"亚马逊",name_en:"Amazon",slug:"amazon",category:"technology"},
 {name:"Anheuser-Busch",name_en:"Anheuser-Busch",slug:"anheuser-busch",category:"food"},
 {name:"苹果",name_en:"Apple",slug:"apple",category:"technology"},
 {name:"巴黎世家",name_en:"Balenciaga",slug:"balenciaga",category:"fashion-luxury"},

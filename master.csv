@@ -1,8 +1,11 @@
 slug,name_en,name_zh,category,country,deployed
 escher,Escher,埃舍尔,fashion,China,true
-3m,3M,3M,materials,United States,false
-airbnb,Airbnb,爱彼迎,technology,United States,false
-amazon,Amazon,亚马逊,technology,United States,false
+3m,3M,3M,materials,United States,true
+airbnb,Airbnb,爱彼迎,technology,United States,true
+amazon,Amazon,亚马逊,technology,United States,true
+3m,3M,3M,materials,United States,true
+airbnb,Airbnb,爱彼迎,technology,United States,true
+amazon,Amazon,亚马逊,technology,United States,true
 hermes,Hermès,爱马仕,fashion,France,true
 bmw,BMW,宝马,automotive,Germany,true
 sony,Sony,索尼,electronics,Japan,true
@@ -52,11 +55,12 @@ muji,Muji,无印良品,fashion,Japan,false
 louis-vuitton,Louis Vuitton,路易威登,fashion-luxury,France,false
 gucci,Gucci,古驰,fashion-luxury,Italy,false
 prada,Prada,普拉达,fashion-luxury,Italy,true
+prada,Prada,普拉达,fashion-luxury,Italy,true
 versace,Versace,范思哲,fashion-luxury,Italy,false
 dior,Dior,迪奥,fashion-luxury,France,false
 yves-saint-laurent,Yves Saint Laurent,圣罗兰,fashion-luxury,France,false
-balenciaga,Balenciaga,巴黎世家,fashion-luxury,France,false
-cartier,Cartier,卡地亚,jewelry,France,false
+balenciaga,Balenciaga,巴黎世家,fashion-luxury,France,true
+cartier,Cartier,卡地亚,jewelry,France,true
 tiffany-and-co,Tiffany & Co.,蒂芙尼,jewelry,United States,false
 rolex,Rolex,劳力士,watch,Switzerland,false
 omega,Omega,欧米茄,watch,Switzerland,false
@@ -70,8 +74,8 @@ lacoste,Lacoste,鳄鱼,fashion,France,false
 ralph-lauren,Ralph Lauren,拉夫·劳伦,fashion,United States,false
 calvin-klein,Calvin Klein,卡尔文·克莱因,fashion,United States,false
 tom-ford,Tom Ford,汤姆·福特,fashion-luxury,United States,false
-burberry,Burberry,博柏利,fashion-luxury,United Kingdom,false
-alexander-mcqueen,Alexander McQueen,亚历山大·麦昆,fashion-luxury,United Kingdom,false
+burberry,Burberry,博柏利,fashion-luxury,United Kingdom,true
+alexander-mcqueen,Alexander McQueen,亚历山大·麦昆,fashion-luxury,United Kingdom,true
 nestl,Nestlé,雀巢,food,Switzerland,false
 unilever,Unilever,联合利华,food,United Kingdom,false
 pandg,P&G,宝洁,food,United States,false

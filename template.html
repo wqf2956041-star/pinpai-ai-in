@@ -63,6 +63,13 @@ $PREMIUM_BADGE$
 .similar-card .zh{display:block;font-weight:500}
 .similar-card .en{display:block;font-size:11px;color:#999}
 
+/* --- 预留坑位 (广告位) --- */
+.similar-card.slot-open{border:2px dashed #d4a844;background:#fefcf5;cursor:default}
+.similar-card.slot-open:hover{border-color:#b8922e;box-shadow:0 2px 12px rgba(212,168,68,0.15)}
+.similar-card.slot-open .badge-slot{display:inline-block;background:#d4a844;color:#fff;font-size:10px;padding:1px 6px;border-radius:3px;margin-left:4px}
+.similar-card.slot-open .zh{color:#d4a844;font-style:italic}
+.similar-card.slot-open .en{color:#c9a94e}
+
 /* --- Footer --- */
 .footer{text-align:center;padding:20px 0;font-size:13px;color:#999;border-top:1px solid #eee;margin-top:10px}
 .footer a{color:#555;text-decoration:none}
@@ -112,12 +119,12 @@ $PREMIUM_BADGE$
 
 <!-- Info Cards -->
 <div class="info-grid" id="info-grid">
-  <div class="info-card"><div class="label">创立时间</div><div class="value">$FOUNDING_YEAR$</div></div>
-  <div class="info-card"><div class="label">创立地点</div><div class="value">$FOUNDING_LOCATION$</div></div>
-  <div class="info-card"><div class="label">创始人</div><div class="value">$FOUNDER$</div></div>
-  <div class="info-card"><div class="label">官网</div><div class="value"><a href="$WEBSITE$" target="_blank" rel="noopener">$WEBSITE_SHORT$</a></div></div>
-  <div class="info-card"><div class="label">主营业务</div><div class="value">$MAIN_BUSINESS$</div></div>
-  <div class="info-card"><div class="label">品牌标语</div><div class="value">$SLOGAN$</div></div>
+  <div class="info-card"><div class="label">创立时间 · Founded</div><div class="value">$FOUNDING_YEAR$</div></div>
+  <div class="info-card"><div class="label">创立地点 · Location</div><div class="value">$FOUNDING_LOCATION$</div></div>
+  <div class="info-card"><div class="label">创始人 · Founder</div><div class="value">$FOUNDER$</div></div>
+  <div class="info-card"><div class="label">官网 · Website</div><div class="value"><a href="$WEBSITE$" target="_blank" rel="noopener">$WEBSITE_SHORT$</a></div></div>
+  <div class="info-card"><div class="label">主营业务 · Business</div><div class="value">$MAIN_BUSINESS$</div></div>
+  <div class="info-card"><div class="label">品牌标语 · Slogan</div><div class="value">$SLOGAN$</div></div>
 </div>
 
 <!-- Content -->
@@ -136,6 +143,11 @@ $PREMIUM_BADGE$
 <!-- Footer -->
 <div class="footer">
   <p><a href="https://pinpai.ai.in">全球品牌索引 · pinpai.ai.in</a> — 全球品牌大全，10种语言呈现</p>
+</div>
+
+<!-- 首页按钮 -->
+<div style="text-align:center;margin:30px 0 40px">
+  <a href="/" style="display:inline-block;padding:14px 48px;background:#e53935;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 12px rgba(229,57,53,0.4);transition:all 0.2s;" onmouseover="this.style.background='#c62828';this.style.boxShadow='0 6px 16px rgba(229,57,53,0.6)'" onmouseout="this.style.background='#e53935';this.style.boxShadow='0 4px 12px rgba(229,57,53,0.4)'">🏠 首页</a>
 </div>
 
 </div><!-- /container -->
