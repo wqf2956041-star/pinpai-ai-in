@@ -1,0 +1,21 @@
+# 宿主机上执行：sudo tee -a /etc/caddy/Caddyfile 追加以下内容
+# 然后 sudo caddy reload --config /etc/caddy/Caddyfile
+
+pinpai.ai.in, www.pinpai.ai.in {
+    # HTTP 自动跳 HTTPS（Caddy 默认行为，但显式写上更可靠）
+    # 用户打 pinpai.ai.in 裸域名 → 自动跳 https://pinpai.ai.in
+
+    # 反向代理到 GitHub Pages
+    reverse_proxy https://wqf2956041-star.github.io {
+        header_up Host wqf2956041-star.github.io
+        header_up X-Forwarded-Host pinpai.ai.in
+    }
+
+    # 缓存 + 压缩
+    header Cache-Control "public, max-age=3600"
+    encode gzip
+
+    log {
+        output file /var/log/caddy/pinpai-ai-in.log
+    }
+}
