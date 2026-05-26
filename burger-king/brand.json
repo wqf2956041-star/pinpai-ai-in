@@ -1,0 +1,72 @@
+{
+  "slug": "burger-king",
+  "names": {
+    "zh-CN": "汉堡王",
+    "en": "Burger King",
+    "ja": "バーガーキング",
+    "ko": "버거킹",
+    "fr": "Burger King",
+    "es": "Burger King",
+    "de": "Burger King",
+    "pt": "Burger King",
+    "ru": "Burger King",
+    "ar": "برغر كينغ"
+  },
+  "category": "food",
+  "founding_year": 1954,
+  "founding_location": "美国佛罗里达州迈阿密（Miami, Florida, USA）",
+  "founder": "詹姆斯·麦克拉莫尔（James McLamore）和大卫·埃杰顿（David Edgerton）",
+  "official_website": "https://www.bk.com",
+  "main_business": [
+    "快餐汉堡连锁（Fast Food Burger Chain）",
+    "西式快餐"
+  ],
+  "current_slogan": "Have It Your Way / 我选我味",
+  "past_slogans": [
+    "Home of the Whopper",
+    "The King is Back",
+    "Be Your Way",
+    "Taste Is King"
+  ],
+  "historical_facts": [
+    "1954年，詹姆斯·麦克拉莫尔和大卫·埃杰顿在佛罗里达州迈阿密创立了Insta-Burger King",
+    "1957年，推出皇堡（Whopper），成为品牌标志性产品",
+    "1967年，被皮尔斯百利公司（Pillsbury Company）收购，开始国际化扩张",
+    "1974年，在英国开设第一家海外门店，正式进入欧洲市场",
+    "2002年，被TPG资本、高盛和贝恩资本等私募股权财团收购",
+    "2010年，3G资本收购Burger King，随后与Tim Hortons合并成立Restaurant Brands International（RBI）",
+    "Burger King在全球100多个国家拥有超过19,000家门店",
+    "皇堡（Whopper）是Burger King最著名的产品，全球每年售出超过21亿个",
+    "2005年，Burger King在上海开设中国第一家门店",
+    "Burger King以'火烤'（Flame-Grilling）技术区别于竞争对手油炸工艺"
+  ],
+  "market_presence": {
+    "total_stores": "19,000+",
+    "countries": "100+",
+    "china_stores": "1,300+",
+    "annual_revenue": "约18亿美元（2023年）"
+  },
+  "parent_company": "Restaurant Brands International（RBI）",
+  "similar_brands": [
+    {
+      "name": "麦当劳",
+      "name_en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "name": "肯德基",
+      "name_en": "KFC",
+      "slug": "kfc"
+    },
+    {
+      "name": "必胜客",
+      "name_en": "Pizza Hut",
+      "slug": "pizza-hut"
+    },
+    {
+      "name": "赛百味",
+      "name_en": "Subway",
+      "slug": "subway"
+    }
+  ]
+}
