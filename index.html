@@ -289,9 +289,7 @@ function switchLang(code) {
     });
 
     // 更新公告
-    var at = announceTexts[code] || announceTexts['zh-CN',
-  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
-];
+    var at = announceTexts[code] || announceTexts['zh-CN'];
     document.getElementById('ann-title').textContent = at.title;
     document.getElementById('ann-line1').textContent = at.line1;
     document.getElementById('ann-line2').textContent = at.line2;
@@ -302,9 +300,7 @@ function switchLang(code) {
 
     // 更新标题
     var titles = {'zh-CN':'全球品牌索引','en':'Global Brand Index','ja':'グローバルブランドインデックス','ko':'글로벌 브랜드 인덱스','fr':'Index Global des Marques','es':'Índice Global de Marcas','de':'Globaler Markenindex','pt':'Índice Global de Marcas','ru':'Глобальный индекс брендов','ar':'فهرس العلامات التجارية العالمي'};
-    document.getElementById('site-title').textContent = titles[code] || titles['zh-CN',
-  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
-];
+    document.getElementById('site-title').textContent = titles[code] || titles['zh-CN'];
     document.getElementById('site-subtitle').textContent = titles[code] + ' · pinpai.ai.in';
 
     // 更新品牌列表
@@ -312,27 +308,19 @@ function switchLang(code) {
 
     // 更新 section title
     var sectionTitles = {'zh-CN':'品牌列表','en':'Brand List','ja':'ブランド一覧','ko':'브랜드 목록','fr':'Liste des Marques','es':'Lista de Marcas','de':'Markenliste','pt':'Lista de Marcas','ru':'Список брендов','ar':'قائمة العلامات التجارية'};
-    document.getElementById('section-title').textContent = sectionTitles[code] || sectionTitles['zh-CN',
-  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
-];
+    document.getElementById('section-title').textContent = sectionTitles[code] || sectionTitles['zh-CN'];
 
     var footerNotes = {'zh-CN':'全球品牌大全 · 10种语言呈现 · 品牌信息持续更新','en':'Global Brand Directory · 10 Languages · Continuously Updated','ja':'世界中のブランド · 10言語対応 · 随時更新','ko':'전 세계 브랜드 · 10개 언어 · 지속적 업데이트','fr':'Répertoire mondial des marques · 10 langues · Mis à jour en continu','es':'Directorio global de marcas · 10 idiomas · Actualización continua','de':'Weltweites Markenverzeichnis · 10 Sprachen · Kontinuierlich aktualisiert','pt':'Diretório global de marcas · 10 idiomas · Atualização contínua','ru':'Глобальный каталог брендов · 10 языков · Постоянное обновление','ar':'دليل العلامات التجارية العالمي · 10 لغات · تحديث مستمر'};
-    document.getElementById('footer-tagline').textContent = footerNotes[code] || footerNotes['zh-CN',
-  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
-];
+    document.getElementById('footer-tagline').textContent = footerNotes[code] || footerNotes['zh-CN'];
 }
 
 function renderBrands(lang) {
     lang = lang || 'zh-CN';
-    var cats = categoryNames[lang] || categoryNames['zh-CN',
-  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
-];
+    var cats = categoryNames[lang] || categoryNames['zh-CN'];
     var container = document.getElementById('brand-list');
     var html = '';
     for (var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i,
-  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
-];
+        var b = brandsData[i];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name_zh : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
