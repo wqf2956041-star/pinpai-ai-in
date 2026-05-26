@@ -3,9 +3,12 @@ escher,Escher,埃舍尔,fashion,China,true
 3m,3M,3M,materials,United States,false
 airbnb,Airbnb,爱彼迎,technology,United States,false
 amazon,Amazon,亚马逊,technology,United States,false
+<<<<<<< Updated upstream
 3m,3M,3M,materials,United States,false
 airbnb,Airbnb,爱彼迎,technology,United States,false
 amazon,Amazon,亚马逊,technology,United States,false
+=======
+>>>>>>> Stashed changes
 hermes,Hermès,爱马仕,fashion,France,true
 bmw,BMW,宝马,automotive,Germany,true
 sony,Sony,索尼,electronics,Japan,true
