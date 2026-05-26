@@ -50,9 +50,9 @@
 
     <!-- 纯字符动效区域 -->
     <div style="background:#eef2ff;border-radius:10px;padding:14px 20px;margin-bottom:20px;font-size:15px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;color:#222;letter-spacing:0.3px" id="status-animation">
-        <div id="status-line1"><span id="spinner1">⠋</span> 检索新的品牌……</div>
-        <div id="status-line2" style="margin-top:4px"><span id="spinner2">⣾</span> 收录新的品牌……</div>
-        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◐</span> 网址实时更新中……</div>
+        <div id="status-line1"><span id="spinner1">⠋</span> 检索新的品牌<span id="dot1">…</span></div>
+        <div id="status-line2" style="margin-top:4px"><span id="spinner2">⣾</span> 收录新的品牌<span id="dot2">…</span></div>
+        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◐</span> 网址实时更新中<br><span id="progress3">1%=================></span></div>
     </div>
 
     <!-- 公告区域 -->
@@ -96,30 +96,52 @@
 </div>
 
 <script>
-// ===== 一字转动动画（科幻风格） =====
-// 第一行：一字旋转
-var frames1 = ['|','/','-','\\\\','|','/','-','\\\\'];
+// ===== 组合动画 =====
+// 第一行：一字旋转 + 省略号闪烁
+var frames1 = ['|','/','-','\\','|','/','-','\\'];
 var i1 = 0;
 setInterval(function(){
     document.getElementById('spinner1').textContent = frames1[i1];
     i1 = (i1 + 1) % frames1.length;
 }, 100);
+var dotVisible1 = true;
+setInterval(function(){
+    dotVisible1 = !dotVisible1;
+    document.getElementById('dot1').textContent = dotVisible1 ? '…' : ' ';
+}, 500);
 
-// 第二行：一字旋转（收录）
-var frames2 = ['|','/','-','\\\\','|','/','-','\\\\'];
+// 第二行：一字旋转 + 省略号闪烁
+var frames2 = ['|','/','-','\\','|','/','-','\\'];
 var i2 = 0;
 setInterval(function(){
     document.getElementById('spinner2').textContent = frames2[i2];
     i2 = (i2 + 1) % frames2.length;
 }, 120);
+var dotVisible2 = true;
+setInterval(function(){
+    dotVisible2 = !dotVisible2;
+    document.getElementById('dot2').textContent = dotVisible2 ? '…' : ' ';
+}, 500);
 
-// 第三行：一字旋转（更新）
-var frames3 = ['|','/','-','\\\\','|','/','-','\\\\'];
+// 第三行：一字旋转 + 百分号推进
+var frames3 = ['|','/','-','\\','|','/','-','\\'];
 var i3 = 0;
 setInterval(function(){
     document.getElementById('spinner3').textContent = frames3[i3];
     i3 = (i3 + 1) % frames3.length;
 }, 160);
+var pct = 1;
+var eqs = 25;
+setInterval(function(){
+    var eqCount = Math.round(pct / 4);
+    var eqStr = '';
+    for(var e=0; e<eqCount; e++) eqStr += '=';
+    var spaces = '';
+    for(var s=0; s<eqs-eqCount; s++) spaces += ' ';
+    document.getElementById('progress3').textContent = pct + '%' + eqStr + '>';
+    pct++;
+    if(pct > 100) pct = 1;
+}, 2000);
 
 // 公告多语言内容
 var announceTexts = {
