@@ -1,0 +1,79 @@
+{
+  "slug": "honda",
+  "names": {
+    "zh-CN": "本田",
+    "en": "Honda",
+    "ja": "ホンダ",
+    "ko": "혼다",
+    "fr": "Honda",
+    "es": "Honda",
+    "de": "Honda",
+    "pt": "Honda",
+    "ru": "Honda",
+    "ar": "هوندا"
+  },
+  "category": "automotive",
+  "founding_year": 1948,
+  "founding_location": "日本静冈县滨松市（Hamamatsu, Shizuoka, Japan）",
+  "founder": "本田宗一郎（Soichiro Honda）",
+  "official_website": "https://www.honda.com",
+  "main_business": [
+    "汽车制造（Automobile Manufacturing）",
+    "摩托车制造（Motorcycle Manufacturing）",
+    "动力设备与发电机",
+    "船外机和割草机"
+  ],
+  "current_slogan": "The Power of Dreams / 梦想的力量",
+  "past_slogans": [
+    "The Power of Dreams",
+    "The Power of Innovation",
+    "Honda The Power of Dreams — First Move the World",
+    "Technology for Humans",
+    "The Joy of Driving"
+  ],
+  "historical_facts": [
+    "1946年，本田宗一郎在滨松建立本田技术研究所，最初生产摩托车发动机和辅助动力自行车",
+    "1948年，本田技研工业株式会社正式成立",
+    "1949年，推出第一款真正意义上的摩托车「Dream D型」，搭载98cc发动机",
+    "1958年，推出超级幼兽（Super Cub）摩托车，成为世界上最畅销的摩托车，累计产量超过1亿辆",
+    "1963年，本田正式进入汽车行业，推出第一款量产汽车T360微型卡车和S500跑车",
+    "1972年，推出CVCC（复合涡流控制燃烧）发动机，成为首款通过美国《清洁空气法案》排放标准的发动机",
+    "1973年，本田宗一郎退休，河岛喜好接任社长",
+    "1986年，创立高端品牌Acura（讴歌），率先进入北美豪华车市场",
+    "1990年，推出NSX超级跑车，采用全铝车身和VTEC技术，重新定义超跑可靠性",
+    "1999年，推出Insight混合动力车，是北美市场首款量产混合动力车型",
+    "2015年，本田宣布将在2030年前全面转向电动化战略",
+    "本田是世界上最大的发动机制造商，年产量超过1400万台",
+    "本田的摩托车业务在全球市场份额超过30%，位居世界第一",
+    "VTEC（可变气门正时和升程电子控制）技术是本田最具标志性的发动机技术"
+  ],
+  "market_presence": {
+    "total_vehicles_sold_annual": "约400万辆（汽车）+ 约1800万辆（摩托车）",
+    "countries": "130+",
+    "china_joint_venture": "广汽本田、东风本田",
+    "annual_revenue": "约14.5万亿日元（2023财年，约1000亿美元）"
+  },
+  "parent_company": "本田技研工业株式会社（Honda Motor Co., Ltd.）",
+  "similar_brands": [
+    {
+      "name": "丰田",
+      "name_en": "Toyota",
+      "slug": "toyota"
+    },
+    {
+      "name": "宝马",
+      "name_en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "name": "梅赛德斯-奔驰",
+      "name_en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "name": "现代",
+      "name_en": "Hyundai",
+      "slug": "hyundai"
+    }
+  ]
+}
