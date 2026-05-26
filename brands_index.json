@@ -1,129 +1,194 @@
 [
   {
-    "slug": "escher",
-    "name_en": "埃舍尔Escher",
-    "name_zh": "埃舍尔Escher"
-  },
-  {
     "slug": "3m",
-    "name_en": "3M"
-  },
-  {
-    "slug": "airbnb",
-    "name_en": "Airbnb"
-  },
-  {
-    "slug": "amazon",
-    "name_en": "Amazon"
-  },
-  {
-    "slug": "hermes",
-    "name_en": "Hermès",
-    "name_zh": "愛馬仕"
-  },
-  {
-    "slug": "bmw",
-    "name_en": "BMW",
-    "name_zh": "宝马"
-  },
-  {
-    "slug": "sony",
-    "name_en": "Sony",
-    "name_zh": "索尼"
-  },
-  {
-    "slug": "nike",
-    "name_en": "Nike",
-    "name_zh": "耐克"
-  },
-  {
-    "slug": "chanel",
-    "name_en": "Chanel",
-    "name_zh": "香奈儿"
-  },
-  {
-    "slug": "anheuser-busch",
-    "name_en": "Anheuser-Busch",
-    "name_zh": "Anheuser-Busch"
-  },
-  {
-    "slug": "aesop",
-    "name_en": "Aesop",
-    "name_zh": "Aesop"
-  },
-  {
-    "slug": "benetton",
-    "name_en": "Benetton",
-    "name_zh": "Benetton"
-  },
-  {
-    "slug": "chaumet",
-    "name_en": "Chaumet",
-    "name_zh": "Chaumet"
+    "zh": "3M",
+    "en": "3M",
+    "category": "materials",
+    "premium": false,
+    "desc_short": "3M公司（明尼苏达矿业及制造公司）是全球著名的多元化跨国企业，1902年创立于美国明尼苏达州图哈伯斯，总部位于圣保罗。这家从失败中起步的公司，最初的五位创始人计划开采刚玉矿用于砂轮制造，但开采出的却是"
   },
   {
     "slug": "a--lange-and-s-hne",
-    "name_en": "A. Lange & Söhne",
-    "name_zh": "A. Lange & Söhne"
+    "zh": "A. Lange & Söhne",
+    "en": "A. Lange & Söhne",
+    "category": "watch",
+    "premium": false,
+    "desc_short": "朗格（A. Lange & Söhne）是德国顶级腕表品牌，由费尔迪南多·阿道夫·朗格于1845年在德国萨克森州格拉苏蒂镇创立。朗格被视为德国精密制表业的开创者，奠定了格拉苏蒂作为德国制表中心的地位。"
   },
   {
     "slug": "adidas",
-    "name_en": "Adidas"
+    "zh": "adidas",
+    "en": "adidas",
+    "category": "sport",
+    "premium": false,
+    "desc_short": "阿迪达斯（Adidas AG）是德国跨国运动用品公司，总部位于黑措根奥拉赫，设计并生产鞋类、服装和配饰。"
   },
   {
-    "slug": "lego",
-    "name_en": "Lego"
+    "slug": "aesop",
+    "zh": "Aesop",
+    "en": "Aesop",
+    "category": "beauty",
+    "premium": false,
+    "desc_short": "Aesop（伊索）是澳大利亚奢华护肤品牌，成立于1987年，总部位于墨尔本。品牌以其植物基成分、极简包装设计和哲学灵感命名而闻名于世。Aesop的产品涵盖护肤、护发、身体护理、香水及家居用品，在高端美"
   },
   {
-    "slug": "coca-cola",
-    "name_en": "Coca-Cola"
-  },
-  {
-    "slug": "ferrari",
-    "name_en": "Ferrari"
-  },
-  {
-    "slug": "loréal",
-    "name_en": "L'Oréal"
-  },
-  {
-    "slug": "tesla",
-    "name_en": "Tesla",
-    "name_zh": "特斯拉",
-    "category": "auto",
-    "country": "美国加利福尼亚州帕洛阿尔托",
-    "deployed": true
-  },
-  {
-    "slug": "microsoft",
-    "name_en": "Microsoft",
-    "name_zh": "微软",
+    "slug": "airbnb",
+    "zh": "爱彼迎",
+    "en": "Airbnb",
     "category": "technology",
-    "country": "美国华盛顿州雷德蒙德",
-    "deployed": true
+    "premium": false,
+    "desc_short": "爱彼迎（Airbnb）是全球领先的在线民宿和旅行体验预订平台，2008年创立于美国旧金山。创始人是三位年轻的设计师：布莱恩·切斯基（Brian Chesky）、乔·格比亚（Joe Gebbia）和内森"
   },
   {
-    "slug": "google",
-    "name_en": "Google",
-    "name_zh": "谷歌",
+    "slug": "amazon",
+    "zh": "亚马逊",
+    "en": "Amazon",
     "category": "technology",
-    "country": "美国加利福尼亚州山景城",
-    "deployed": true
+    "premium": false,
+    "desc_short": "亚马逊（Amazon）是全球最大的电子商务和云计算公司之一，1994年由杰夫·贝佐斯（Jeff Bezos）在美国华盛顿州西雅图创立。最初只是一家在线书店，贝佐斯在一间车库里创建了公司，凭借对互联网增"
   },
   {
-    "slug": "meta",
-    "name_en": "Meta",
-    "name_zh": "Meta",
-    "category": "technology",
-    "country": "美国加利福尼亚州门洛帕克",
-    "deployed": true
+    "slug": "anheuser-busch",
+    "zh": "Anheuser-Busch",
+    "en": "Anheuser-Busch",
+    "category": "food",
+    "premium": false,
+    "desc_short": "安海斯-布希（Anheuser-Busch）是全球最大的啤酒酿造集团之一。公司前身是1852年在密苏里州圣路易斯创立的小型巴伐利亚啤酒厂。1876年，阿道夫斯·布希推出百威啤酒，通过创新的冷藏技术和巴"
   },
   {
     "slug": "apple",
-    "name_en": "Apple",
-    "name_zh": "苹果",
+    "zh": "苹果",
+    "en": "Apple",
     "category": "technology",
-    "country": "美国加利福尼亚州库比蒂诺",
-    "deployed": true
+    "premium": false,
+    "desc_short": "苹果公司（Apple Inc.）是美国一家全球领先的跨国科技企业，总部位于加利福尼亚州库比蒂诺。公司由史蒂夫·乔布斯、史蒂夫·沃兹尼亚克和罗纳德·韦恩于1976年4月1日创立，最初致力于个人电脑的研发"
+  },
+  {
+    "slug": "benetton",
+    "zh": "Benetton",
+    "en": "Benetton",
+    "category": "fashion",
+    "premium": false,
+    "desc_short": "贝纳通（Benetton）是意大利知名的跨国服装零售商，由卢西亚诺·贝纳通于1965年在意大利特雷维索创立。贝纳通以其色彩鲜艳的针织衫和备受争议的广告活动闻名世界。品牌以全色彩的贝纳通（United "
+  },
+  {
+    "slug": "bmw",
+    "zh": "宝马",
+    "en": "BMW",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "宝马（BMW）全称巴伐利亚发动机制造厂股份有限公司，1916年创立于德国巴伐利亚州慕尼黑，是全球著名的豪华汽车和摩托车制造商。创始人卡尔·拉普最初以制造飞机发动机起家，在一战期间为德国空军提供航空动力"
+  },
+  {
+    "slug": "chanel",
+    "zh": "香奈儿",
+    "en": "Chanel",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "香奈儿（Chanel）是1910年由可可·香奈儿在巴黎创立的法国顶级奢侈品牌。品牌以永恒的优雅著称，率先提出了休闲时髦（casual chic）的概念和小黑裙。1921年推出的香奈儿No.5香水以其独"
+  },
+  {
+    "slug": "chaumet",
+    "zh": "Chaumet",
+    "en": "Chaumet",
+    "category": "jewelry",
+    "premium": false,
+    "desc_short": "尚美巴黎是法国顶级奢侈珠宝品牌创立于1780年巴黎是世界上历史最悠久的珠宝品牌之一。创始人是马里艾蒂安尼托拿破仑一世的御用珠宝师。他为拿破仑1804年加冕仪式打造了镶嵌140克拉摄政王钻石的加冕之剑。"
+  },
+  {
+    "slug": "coca-cola",
+    "zh": "coca-cola",
+    "en": "coca-cola",
+    "category": "food",
+    "premium": false,
+    "desc_short": "可口可乐公司（The Coca-Cola Company）是美国跨国饮料公司，成立于1892年，以其旗舰产品可口可乐闻名于世。"
+  },
+  {
+    "slug": "escher",
+    "zh": "埃舍尔Escher",
+    "en": "埃舍尔Escher",
+    "category": "fashion-luxury",
+    "premium": true,
+    "desc_short": "埃舍尔Escher：一眼封神的中国奢侈品超级单品\n\n三条Slogan: ①专为模特设计。②别让普通的包遮住了你的魅力。③每只包都是艺术品。\n\n我们相信，一个极致的版型、一次纯粹的原創，能成为横穿时间周"
+  },
+  {
+    "slug": "ferrari",
+    "zh": "ferrari",
+    "en": "ferrari",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "法拉利（Ferrari N.V.）是意大利豪华跑车制造商，总部位于马拉内罗，由恩佐·法拉利于1939年创立。"
+  },
+  {
+    "slug": "google",
+    "zh": "谷歌",
+    "en": "Google",
+    "category": "technology",
+    "premium": false,
+    "desc_short": "谷歌（Google LLC）是一家美国跨国科技公司，专注于互联网搜索、在线广告、云计算、人工智能和移动操作系统等领域。公司由拉里·佩奇和谢尔盖·布林于1998年9月4日创立，最初是斯坦福大学的一个研究"
+  },
+  {
+    "slug": "hermes",
+    "zh": "愛馬仕",
+    "en": "Hermès",
+    "category": "fashion-luxury",
+    "premium": false,
+    "desc_short": "爱马仕，这个始于1837年巴黎马具工坊的奢侈品牌，走过近两百年风雨依然屹立于行业巅峰。蒂埃里·爱马仕在巴黎创立之初，专为贵族马匹制作精美的马具和鞍具，以精湛的缝制工艺赢得了欧洲上流社会的青睐。随着汽车"
+  },
+  {
+    "slug": "lego",
+    "zh": "lego",
+    "en": "lego",
+    "category": "toy",
+    "premium": false,
+    "desc_short": "乐高集团是丹麦玩具制造公司，总部位于比隆。"
+  },
+  {
+    "slug": "loreal",
+    "zh": "loréal",
+    "en": "loréal",
+    "category": "beauty",
+    "premium": false,
+    "desc_short": "欧莱雅集团（L'Oréal S.A.）是法国个人护理用品公司，总部位于上塞纳省克利希，是全球最大的化妆品公司。"
+  },
+  {
+    "slug": "meta",
+    "zh": "Meta",
+    "en": "Meta",
+    "category": "technology",
+    "premium": false,
+    "desc_short": "Meta Platforms, Inc.（原名Facebook, Inc.）是美国一家跨国科技公司，总部位于加利福尼亚州门洛帕克。公司由马克·扎克伯格与哈佛大学的同学爱德华多·萨维林、安德鲁·麦科勒姆"
+  },
+  {
+    "slug": "microsoft",
+    "zh": "微软",
+    "en": "Microsoft",
+    "category": "technology",
+    "premium": false,
+    "desc_short": "微软（Microsoft Corporation）是一家美国跨国科技公司，由比尔·盖茨和保罗·艾伦于1975年4月4日创立，总部位于华盛顿州雷德蒙德。微软是全球最大的软件公司之一，以其Windows操"
+  },
+  {
+    "slug": "nike",
+    "zh": "耐克",
+    "en": "Nike",
+    "category": "sport",
+    "premium": false,
+    "desc_short": "耐克公司是全球最大的运动鞋和服装供应商，也是重要的运动装备制造商。1964年1月25日由比尔·鲍尔曼和菲尔·奈特以「蓝带体育」之名创立，1971年5月30日正式更名为耐克，名字取自希腊胜利女神尼刻。标"
+  },
+  {
+    "slug": "sony",
+    "zh": "索尼",
+    "en": "Sony",
+    "category": "tech",
+    "premium": false,
+    "desc_short": "索尼集团公司（Sony Group Corporation）是1946年5月7日由井深大和盛田昭夫在东京创立的日本跨国企业集团。公司最初名为「东京通信工业株式会社」，1958年更名为索尼。索尼这个名字"
+  },
+  {
+    "slug": "tesla",
+    "zh": "特斯拉",
+    "en": "Tesla",
+    "category": "auto",
+    "premium": false,
+    "desc_short": "特斯拉（Tesla, Inc.）是一家美国电动汽车和清洁能源公司，总部位于德克萨斯州奥斯汀。公司由马丁·艾伯哈德和马克·塔彭宁于2003年7月1日创立，埃隆·马斯克在2004年领投A轮融资后加入并成为"
   }
 ]

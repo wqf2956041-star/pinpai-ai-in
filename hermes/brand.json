@@ -58,7 +58,7 @@
       "premium": true
     }
   ],
-  "is_premium": true,
+  "is_premium": false,
   "image_url": "",
   "representative_products": [
     "Birkin Bag (铂金包)",

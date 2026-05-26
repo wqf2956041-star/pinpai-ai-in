@@ -1,25 +1,364 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://pinpai.ai.in/</loc><lastmod>2026-05-26</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://pinpai.ai.in/escher/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/hermes/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/bmw/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/sony/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/nike/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/chanel/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/anheuser-busch/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/aesop/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/benetton/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/chaumet/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/a--lange-and-s-hne/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/adidas/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/lego/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/coca-cola/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/ferrari/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/loréal/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/apple/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/microsoft/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/google/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/meta/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pinpai.ai.in/tesla/</loc><lastmod>2026-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pinpai.ai.in/3m/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/3m/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/3m/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/a--lange-and-s-hne/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/a--lange-and-s-hne/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/adidas/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/adidas/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/adidas/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/aesop/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/aesop/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/aesop/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/airbnb/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/airbnb/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/airbnb/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/amazon/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/amazon/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/amazon/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/anheuser-busch/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/anheuser-busch/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/anheuser-busch/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/apple/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/apple/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/apple/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/benetton/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/benetton/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/benetton/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/bmw/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/bmw/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/bmw/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/chanel/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/chanel/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/chanel/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/chaumet/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/chaumet/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/chaumet/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/coca-cola/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/coca-cola/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/coca-cola/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/escher/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/escher/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/escher/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/ferrari/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/ferrari/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/ferrari/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/google/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/google/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/google/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/hermes/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/hermes/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/hermes/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/lego/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/lego/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/lego/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/loréal/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/loréal/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/loréal/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/meta/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/meta/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/meta/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/microsoft/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/microsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/microsoft/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/nike/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/nike/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/nike/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/sony/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/sony/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/sony/"/>
+  </url>
+  <url>
+    <loc>https://pinpai.ai.in/tesla/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pinpai.ai.in/tesla/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pinpai.ai.in/tesla/"/>
+  </url>
 </urlset>
