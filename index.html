@@ -322,7 +322,7 @@ function renderBrands(lang) {
     for (var i = 0; i < brandsData.length; i++) {
         var b = brandsData[i];
         // 按品牌名排序，Escher置顶
-        var nameDisplay = (lang === 'zh-CN') ? b.name_zh : b.name_en;
+        var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
         var catLabel = cats[b.category] || b.category;
         var premiumTag = b.premium ? '<span class="badge-premium">品牌推广</span>' : '';
