@@ -137,7 +137,7 @@ setInterval(function(){
     eqCount = Math.min(eqCount, totalEqs);
     var eqStr = '';
     for(var e=0; e<eqCount; e++) eqStr += '=';
-    for(var s=eqCount; s<totalEqs; s++) eqStr += ' ';
+    // 去掉填充空格, => 更美观
     document.getElementById('progress3').textContent = pct + '%' + eqStr + '>';
     pct++;
     if(pct > 100) pct = 1;
