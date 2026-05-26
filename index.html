@@ -50,9 +50,9 @@
 
     <!-- 纯字符动效区域 -->
     <div style="background:#eef2ff;border-radius:10px;padding:14px 20px;margin-bottom:20px;font-size:15px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;color:#222;letter-spacing:0.3px" id="status-animation">
-        <div id="status-line1"><span id="spinner1">⠸</span> 检索新的品牌<span id="dot1">…</span></div>
-        <div id="status-line2" style="margin-top:4px"><span id="spinner2">\</span> 收录新的品牌<span id="dot2">…</span></div>
-        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◒</span> 网址实时更新中<br><span id="progress3">76%===================></span></div>
+        <div id="status-line1"><span id="spinner1">⠋</span> 检索新的品牌……</div>
+        <div id="status-line2" style="margin-top:4px"><span id="spinner2">⣾</span> 收录新的品牌……</div>
+        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◐</span> 网址实时更新中……</div>
     </div>
 
     <!-- 公告区域 -->
@@ -96,52 +96,42 @@
 </div>
 
 <script>
-// ===== 组合动画（最终版） =====
-// 第一行：Braille转圈 + 省略号闪烁
-var brailleFrames = ['⠸','⠷','⠾','⠽','⠻','⠿','⠳','⠉'];
-var bi = 0;
+// ===== 一字转动动画（科幻风格） =====
+// 第一行：一字旋转
+var frames1 = ['|','/','-','\\\\','|','/','-','\\\\',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
+var i1 = 0;
 setInterval(function(){
-    document.getElementById('spinner1').textContent = brailleFrames[bi];
-    bi = (bi + 1) % brailleFrames.length;
-}, 120);
-var dotVisible1 = true;
-setInterval(function(){
-    dotVisible1 = !dotVisible1;
-    document.getElementById('dot1').textContent = dotVisible1 ? '…' : ' ';
-}, 500);
-
-// 第二行：一字旋转 + 省略号闪烁
-var lineFrames = ['|','/','-','\\','|','/','-','\\'];
-var li2 = 0;
-setInterval(function(){
-    document.getElementById('spinner2').textContent = lineFrames[li2];
-    li2 = (li2 + 1) % lineFrames.length;
-}, 130);
-var dotVisible2 = true;
-setInterval(function(){
-    dotVisible2 = !dotVisible2;
-    document.getElementById('dot2').textContent = dotVisible2 ? '…' : ' ';
-}, 500);
-
-// 第三行：半圆逐帧转 + 百分号推进（10秒一圈，每约100ms+1%，25个等号每4%加1个）
-var circleFrames = ['◒','◐','◓','◑'];
-var ci = 0;
-setInterval(function(){
-    document.getElementById('spinner3').textContent = circleFrames[ci];
-    ci = (ci + 1) % circleFrames.length;
-}, 250);
-var pct = 1;
-var totalEqs = 25;
-setInterval(function(){
-    var eqCount = Math.round(pct / 4);
-    eqCount = Math.min(eqCount, totalEqs);
-    var eqStr = '';
-    for(var e=0; e<eqCount; e++) eqStr += '=';
-    for(var s=eqCount; s<totalEqs; s++) eqStr += ' ';
-    document.getElementById('progress3').textContent = pct + '%' + eqStr + '>';
-    pct++;
-    if(pct > 100) pct = 1;
+    document.getElementById('spinner1').textContent = frames1[i1,
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
+    i1 = (i1 + 1) % frames1.length;
 }, 100);
+
+// 第二行：一字旋转（收录）
+var frames2 = ['|','/','-','\\\\','|','/','-','\\\\',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
+var i2 = 0;
+setInterval(function(){
+    document.getElementById('spinner2').textContent = frames2[i2,
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
+    i2 = (i2 + 1) % frames2.length;
+}, 120);
+
+// 第三行：一字旋转（更新）
+var frames3 = ['|','/','-','\\\\','|','/','-','\\\\',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
+var i3 = 0;
+setInterval(function(){
+    document.getElementById('spinner3').textContent = frames3[i3,
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
+    i3 = (i3 + 1) % frames3.length;
+}, 160);
 
 // 公告多语言内容
 var announceTexts = {
@@ -245,6 +235,7 @@ var brandsData = [
 {name:"埃舍尔Escher",name_en:"埃舍尔Escher",slug:"escher",category:"fashion-luxury"},
 {name:"ferrari",name_en:"ferrari",slug:"ferrari",category:"auto"},
 {name:"谷歌",name_en:"Google",slug:"google",category:"technology"},
+{name:"古驰",name_en:"Gucci",slug:"gucci",category:"fashion-luxury"},
 {name:"愛馬仕",name_en:"Hermès",slug:"hermes",category:"fashion-luxury"},
 {name:"lego",name_en:"lego",slug:"lego",category:"toy"},
 {name:"loréal",name_en:"loréal",slug:"loreal",category:"beauty"},
