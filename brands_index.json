@@ -274,5 +274,11 @@
     "name": "百事",
     "name_en": "Pepsi",
     "category": "food"
+  },
+  {
+    "slug": "kfc",
+    "name": "肯德基",
+    "name_en": "KFC",
+    "category": "food"
   }
 ]
