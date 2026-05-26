@@ -1,0 +1,74 @@
+{
+  "hermes": {
+    "status": "template_ready",
+    "wiki_info": {
+      "name_zh": "愛馬仕",
+      "name_en": "Hermès",
+      "desc_zh": "时装和奢侈品公司",
+      "desc_en": "French luxury goods manufacturer",
+      "founding_year": "1837",
+      "founding_location_zh": "巴黎",
+      "founding_location_en": "Paris",
+      "founders": [
+        "蒂埃里·爱马仕"
+      ],
+      "official_website": "https://www.hermes.com/",
+      "image_url": "Hermes wordmark.svg"
+    }
+  },
+  "bmw": {
+    "status": "template_ready",
+    "wiki_info": {
+      "name_en": "BMW",
+      "desc_zh": "德國汽車製造商",
+      "desc_en": "German automobile manufacturer, and conglomerate",
+      "founding_year": "1916",
+      "official_website": "https://www.bmwgroup.com/",
+      "image_url": "BMW logo (gray).svg"
+    }
+  },
+  "sony": {
+    "status": "template_ready",
+    "wiki_info": {
+      "name_zh": "索尼",
+      "name_en": "Sony Group",
+      "desc_zh": "以製造電子產品為核心的日本跨國綜合企業",
+      "desc_en": "Japanese multinational conglomerate corporation",
+      "founding_year": "1946",
+      "founding_location_zh": "日本橋",
+      "founding_location_en": "Nihonbashi",
+      "founders": [
+        "井深大",
+        "盛田昭夫"
+      ],
+      "official_website": "https://www.sony.com/en/",
+      "image_url": "Sony Group logo.svg"
+    }
+  },
+  "nike": {
+    "status": "template_ready",
+    "wiki_info": {
+      "name_zh": "Nike",
+      "name_en": "Nike",
+      "desc_zh": "维基媒体消歧义页",
+      "desc_en": "Wikimedia disambiguation page"
+    }
+  },
+  "chanel": {
+    "status": "template_ready",
+    "wiki_info": {
+      "name_zh": "香奈儿",
+      "name_en": "chanella",
+      "desc_zh": "法國的知名奢侈品集團",
+      "desc_en": "French fashion house",
+      "founding_year": "1910",
+      "founding_location_zh": "巴黎",
+      "founding_location_en": "Paris",
+      "founders": [
+        "可可·香奈尔"
+      ],
+      "official_website": "https://www.chanel.com",
+      "image_url": "Chanel logo.svg"
+    }
+  }
+}
