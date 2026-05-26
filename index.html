@@ -96,25 +96,25 @@
 </div>
 
 <script>
-// ===== 纯字符跳动动画 =====
-// 第一行：Braille点阵转圈（8帧）
-var frames1 = ['⠋','⠙','⠹','⠸','⠼','⠴','⠦','⠧','⠇','⠏'];
+// ===== 一字转动动画（科幻风格） =====
+// 第一行：一字旋转
+var frames1 = ['|','/','-','\\\\','|','/','-','\\\\'];
 var i1 = 0;
 setInterval(function(){
     document.getElementById('spinner1').textContent = frames1[i1];
     i1 = (i1 + 1) % frames1.length;
 }, 100);
 
-// 第二行：Braille点阵全转圈（12帧，更丰富）
-var frames2 = ['⣾','⣽','⣻','⢿','⡿','⣟','⣯','⣷'];
+// 第二行：一字旋转（收录）
+var frames2 = ['|','/','-','\\\\','|','/','-','\\\\'];
 var i2 = 0;
 setInterval(function(){
     document.getElementById('spinner2').textContent = frames2[i2];
     i2 = (i2 + 1) % frames2.length;
 }, 120);
 
-// 第三行：半圆旋（4帧）
-var frames3 = ['◐','◓','◑','◒'];
+// 第三行：一字旋转（更新）
+var frames3 = ['|','/','-','\\\\','|','/','-','\\\\'];
 var i3 = 0;
 setInterval(function(){
     document.getElementById('spinner3').textContent = frames3[i3];
