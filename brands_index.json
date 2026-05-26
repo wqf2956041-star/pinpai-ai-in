@@ -262,5 +262,11 @@
     "name": "英特尔",
     "name_en": "Intel",
     "category": "technology"
+  },
+  {
+    "slug": "mcdonalds",
+    "name": "麦当劳",
+    "name_en": "McDonald's",
+    "category": "food"
   }
 ]
