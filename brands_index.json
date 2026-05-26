@@ -1,176 +1,182 @@
 [
   {
+    "slug": "3m",
     "name": "3M",
     "name_en": "3M",
-    "slug": "3m",
     "category": "materials"
   },
   {
+    "slug": "a--lange-and-s-hne",
     "name": "A. Lange & Söhne",
     "name_en": "A. Lange & Söhne",
-    "slug": "a--lange-and-s-hne",
     "category": "watch"
   },
   {
+    "slug": "acne-studios",
     "name": "Acne Studios",
     "name_en": "Acne Studios",
-    "slug": "acne-studios",
     "category": "fashion-luxury"
   },
   {
+    "slug": "adidas",
     "name": "adidas",
     "name_en": "adidas",
-    "slug": "adidas",
     "category": "sport"
   },
   {
+    "slug": "aesop",
     "name": "Aesop",
     "name_en": "Aesop",
-    "slug": "aesop",
     "category": "beauty"
   },
   {
+    "slug": "airbnb",
     "name": "爱彼迎",
     "name_en": "Airbnb",
-    "slug": "airbnb",
     "category": "technology"
   },
   {
+    "slug": "alexander-mcqueen",
     "name": "亚历山大·麦昆（Alexander McQueen）",
     "name_en": "Alexander McQueen",
-    "slug": "alexander-mcqueen",
     "category": "fashion-luxury"
   },
   {
+    "slug": "amazon",
     "name": "亚马逊",
     "name_en": "Amazon",
-    "slug": "amazon",
     "category": "technology"
   },
   {
+    "slug": "anheuser-busch",
     "name": "Anheuser-Busch",
     "name_en": "Anheuser-Busch",
-    "slug": "anheuser-busch",
     "category": "food"
   },
   {
+    "slug": "apple",
     "name": "苹果",
     "name_en": "Apple",
-    "slug": "apple",
     "category": "technology"
   },
   {
+    "slug": "balenciaga",
     "name": "巴黎世家",
     "name_en": "Balenciaga",
-    "slug": "balenciaga",
     "category": "fashion-luxury"
   },
   {
+    "slug": "bally",
     "name": "巴利（Bally）",
     "name_en": "Bally",
-    "slug": "bally",
     "category": "fashion-luxury"
   },
   {
+    "slug": "benetton",
     "name": "Benetton",
     "name_en": "Benetton",
-    "slug": "benetton",
     "category": "fashion"
   },
   {
+    "slug": "bmw",
     "name": "宝马",
     "name_en": "BMW",
-    "slug": "bmw",
     "category": "auto"
   },
   {
+    "slug": "bottega-veneta",
     "name": "葆蝶家",
     "name_en": "Bottega Veneta",
-    "slug": "bottega-veneta",
     "category": "fashion-luxury"
   },
   {
+    "slug": "bulgari",
     "name": "宝格丽",
     "name_en": "Bulgari",
-    "slug": "bulgari",
     "category": "fashion-luxury"
   },
   {
+    "slug": "burberry",
     "name": "博柏利",
     "name_en": "Burberry",
-    "slug": "burberry",
     "category": "fashion-luxury"
   },
   {
+    "slug": "cartier",
     "name": "卡地亚",
     "name_en": "Cartier",
-    "slug": "cartier",
     "category": "fashion-luxury"
   },
   {
+    "slug": "chanel",
     "name": "香奈儿",
     "name_en": "Chanel",
-    "slug": "chanel",
     "category": "fashion-luxury"
   },
   {
+    "slug": "chaumet",
     "name": "Chaumet",
     "name_en": "Chaumet",
-    "slug": "chaumet",
     "category": "jewelry"
   },
   {
+    "slug": "christian-dior",
     "name": "克里斯汀·迪奥",
     "name_en": "Christian Dior",
-    "slug": "christian-dior",
     "category": "fashion-luxury"
   },
   {
+    "slug": "coca-cola",
     "name": "coca-cola",
     "name_en": "coca-cola",
-    "slug": "coca-cola",
     "category": "food"
   },
   {
+    "slug": "disney",
     "name": "迪士尼",
     "name_en": "Disney",
-    "slug": "disney",
     "category": "entertainment"
   },
   {
+    "slug": "escher",
     "name": "埃舍尔Escher",
     "name_en": "埃舍尔Escher",
-    "slug": "escher",
     "category": "fashion-luxury"
   },
   {
+    "slug": "ferrari",
     "name": "ferrari",
     "name_en": "ferrari",
-    "slug": "ferrari",
     "category": "auto"
   },
   {
+    "slug": "google",
     "name": "谷歌",
     "name_en": "Google",
-    "slug": "google",
     "category": "technology"
   },
   {
-    "name": "愛馬仕",
-    "name_en": "Hermès",
-    "slug": "hermes",
+    "slug": "gucci",
+    "name": "古驰",
+    "name_en": "Gucci",
     "category": "fashion-luxury"
   },
   {
+    "slug": "hermes",
+    "name": "愛馬仕",
+    "name_en": "Hermès",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "lego",
     "name": "lego",
     "name_en": "lego",
-    "slug": "lego",
     "category": "toy"
   },
   {
+    "slug": "loreal",
     "name": "loréal",
     "name_en": "loréal",
-    "slug": "loreal",
     "category": "beauty"
   },
   {
@@ -186,15 +192,15 @@
     "category": "auto"
   },
   {
+    "slug": "meta",
     "name": "Meta",
     "name_en": "Meta",
-    "slug": "meta",
     "category": "technology"
   },
   {
+    "slug": "microsoft",
     "name": "微软",
     "name_en": "Microsoft",
-    "slug": "microsoft",
     "category": "technology"
   },
   {
@@ -204,27 +210,27 @@
     "category": "technology"
   },
   {
+    "slug": "nike",
     "name": "耐克",
     "name_en": "Nike",
-    "slug": "nike",
     "category": "sport"
   },
   {
+    "slug": "prada",
     "name": "普拉达",
     "name_en": "Prada",
-    "slug": "prada",
     "category": "fashion-luxury"
   },
   {
+    "slug": "samsung",
     "name": "三星",
     "name_en": "Samsung",
-    "slug": "samsung",
     "category": "technology"
   },
   {
+    "slug": "sony",
     "name": "索尼",
     "name_en": "Sony",
-    "slug": "sony",
     "category": "tech"
   },
   {
@@ -234,21 +240,15 @@
     "category": "food"
   },
   {
+    "slug": "tesla",
     "name": "特斯拉",
     "name_en": "Tesla",
-    "slug": "tesla",
     "category": "auto"
   },
   {
+    "slug": "toyota",
     "name": "丰田",
     "name_en": "Toyota",
-    "slug": "toyota",
     "category": "automotive"
-  },
-  {
-    "slug": "gucci",
-    "name": "古驰",
-    "name_en": "Gucci",
-    "category": "fashion-luxury"
   }
 ]
