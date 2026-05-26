@@ -50,9 +50,9 @@
 
     <!-- 纯字符动效区域 -->
     <div style="background:#eef2ff;border-radius:10px;padding:14px 20px;margin-bottom:20px;font-size:15px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;color:#222;letter-spacing:0.3px" id="status-animation">
-        <div id="status-line1"><span id="spinner1">⠋</span> 检索新的品牌<span id="dot1">…</span></div>
-        <div id="status-line2" style="margin-top:4px"><span id="spinner2">⣾</span> 收录新的品牌<span id="dot2">…</span></div>
-        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◐</span> 网址实时更新中<br><span id="progress3">1%=================></span></div>
+        <div id="status-line1"><span id="spinner1">⠸</span> 检索新的品牌<span id="dot1">…</span></div>
+        <div id="status-line2" style="margin-top:4px"><span id="spinner2">\</span> 收录新的品牌<span id="dot2">…</span></div>
+        <div id="status-line3" style="margin-top:4px"><span id="spinner3">◒</span> 网址实时更新中<br><span id="progress3">76%===================></span></div>
     </div>
 
     <!-- 公告区域 -->
@@ -96,14 +96,14 @@
 </div>
 
 <script>
-// ===== 组合动画 =====
-// 第一行：一字旋转 + 省略号闪烁
-var frames1 = ['|','/','-','\\','|','/','-','\\'];
-var i1 = 0;
+// ===== 组合动画（最终版） =====
+// 第一行：Braille转圈 + 省略号闪烁
+var brailleFrames = ['⠸','⠷','⠾','⠽','⠻','⠿','⠳','⠉'];
+var bi = 0;
 setInterval(function(){
-    document.getElementById('spinner1').textContent = frames1[i1];
-    i1 = (i1 + 1) % frames1.length;
-}, 100);
+    document.getElementById('spinner1').textContent = brailleFrames[bi];
+    bi = (bi + 1) % brailleFrames.length;
+}, 120);
 var dotVisible1 = true;
 setInterval(function(){
     dotVisible1 = !dotVisible1;
@@ -111,33 +111,33 @@ setInterval(function(){
 }, 500);
 
 // 第二行：一字旋转 + 省略号闪烁
-var frames2 = ['|','/','-','\\','|','/','-','\\'];
-var i2 = 0;
+var lineFrames = ['|','/','-','\\','|','/','-','\\'];
+var li2 = 0;
 setInterval(function(){
-    document.getElementById('spinner2').textContent = frames2[i2];
-    i2 = (i2 + 1) % frames2.length;
-}, 120);
+    document.getElementById('spinner2').textContent = lineFrames[li2];
+    li2 = (li2 + 1) % lineFrames.length;
+}, 130);
 var dotVisible2 = true;
 setInterval(function(){
     dotVisible2 = !dotVisible2;
     document.getElementById('dot2').textContent = dotVisible2 ? '…' : ' ';
 }, 500);
 
-// 第三行：一字旋转 + 百分号推进
-var frames3 = ['|','/','-','\\','|','/','-','\\'];
-var i3 = 0;
+// 第三行：半圆逐帧转 + 百分号推进（每2秒1%，每4%加1个=，25个等号满）
+var circleFrames = ['◒','◐','◓','◑'];
+var ci = 0;
 setInterval(function(){
-    document.getElementById('spinner3').textContent = frames3[i3];
-    i3 = (i3 + 1) % frames3.length;
-}, 160);
+    document.getElementById('spinner3').textContent = circleFrames[ci];
+    ci = (ci + 1) % circleFrames.length;
+}, 250);
 var pct = 1;
-var eqs = 25;
+var totalEqs = 25;
 setInterval(function(){
     var eqCount = Math.round(pct / 4);
+    eqCount = Math.min(eqCount, totalEqs);
     var eqStr = '';
     for(var e=0; e<eqCount; e++) eqStr += '=';
-    var spaces = '';
-    for(var s=0; s<eqs-eqCount; s++) spaces += ' ';
+    for(var s=eqCount; s<totalEqs; s++) eqStr += ' ';
     document.getElementById('progress3').textContent = pct + '%' + eqStr + '>';
     pct++;
     if(pct > 100) pct = 1;
@@ -248,12 +248,16 @@ var brandsData = [
 {name:"愛馬仕",name_en:"Hermès",slug:"hermes",category:"fashion-luxury"},
 {name:"lego",name_en:"lego",slug:"lego",category:"toy"},
 {name:"loréal",name_en:"loréal",slug:"loreal",category:"beauty"},
+{name:"路易威登",name_en:"Louis Vuitton",slug:"louis-vuitton",category:"fashion-luxury"},
+{name:"梅赛德斯-奔驰",name_en:"Mercedes-Benz",slug:"mercedes-benz",category:"auto"},
 {name:"Meta",name_en:"Meta",slug:"meta",category:"technology"},
 {name:"微软",name_en:"Microsoft",slug:"microsoft",category:"technology"},
+{name:"Netflix",name_en:"Netflix",slug:"netflix",category:"technology"},
 {name:"耐克",name_en:"Nike",slug:"nike",category:"sport"},
 {name:"普拉达",name_en:"Prada",slug:"prada",category:"fashion-luxury"},
 {name:"三星",name_en:"Samsung",slug:"samsung",category:"technology"},
 {name:"索尼",name_en:"Sony",slug:"sony",category:"tech"},
+{name:"星巴克",name_en:"Starbucks",slug:"starbucks",category:"food"},
 {name:"特斯拉",name_en:"Tesla",slug:"tesla",category:"auto"},
 {name:"丰田",name_en:"Toyota",slug:"toyota",category:"automotive"}
 ];
@@ -285,7 +289,9 @@ function switchLang(code) {
     });
 
     // 更新公告
-    var at = announceTexts[code] || announceTexts['zh-CN'];
+    var at = announceTexts[code] || announceTexts['zh-CN',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
     document.getElementById('ann-title').textContent = at.title;
     document.getElementById('ann-line1').textContent = at.line1;
     document.getElementById('ann-line2').textContent = at.line2;
@@ -296,7 +302,9 @@ function switchLang(code) {
 
     // 更新标题
     var titles = {'zh-CN':'全球品牌索引','en':'Global Brand Index','ja':'グローバルブランドインデックス','ko':'글로벌 브랜드 인덱스','fr':'Index Global des Marques','es':'Índice Global de Marcas','de':'Globaler Markenindex','pt':'Índice Global de Marcas','ru':'Глобальный индекс брендов','ar':'فهرس العلامات التجارية العالمي'};
-    document.getElementById('site-title').textContent = titles[code] || titles['zh-CN'];
+    document.getElementById('site-title').textContent = titles[code] || titles['zh-CN',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
     document.getElementById('site-subtitle').textContent = titles[code] + ' · pinpai.ai.in';
 
     // 更新品牌列表
@@ -304,19 +312,27 @@ function switchLang(code) {
 
     // 更新 section title
     var sectionTitles = {'zh-CN':'品牌列表','en':'Brand List','ja':'ブランド一覧','ko':'브랜드 목록','fr':'Liste des Marques','es':'Lista de Marcas','de':'Markenliste','pt':'Lista de Marcas','ru':'Список брендов','ar':'قائمة العلامات التجارية'};
-    document.getElementById('section-title').textContent = sectionTitles[code] || sectionTitles['zh-CN'];
+    document.getElementById('section-title').textContent = sectionTitles[code] || sectionTitles['zh-CN',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
 
     var footerNotes = {'zh-CN':'全球品牌大全 · 10种语言呈现 · 品牌信息持续更新','en':'Global Brand Directory · 10 Languages · Continuously Updated','ja':'世界中のブランド · 10言語対応 · 随時更新','ko':'전 세계 브랜드 · 10개 언어 · 지속적 업데이트','fr':'Répertoire mondial des marques · 10 langues · Mis à jour en continu','es':'Directorio global de marcas · 10 idiomas · Actualización continua','de':'Weltweites Markenverzeichnis · 10 Sprachen · Kontinuierlich aktualisiert','pt':'Diretório global de marcas · 10 idiomas · Atualização contínua','ru':'Глобальный каталог брендов · 10 языков · Постоянное обновление','ar':'دليل العلامات التجارية العالمي · 10 لغات · تحديث مستمر'};
-    document.getElementById('footer-tagline').textContent = footerNotes[code] || footerNotes['zh-CN'];
+    document.getElementById('footer-tagline').textContent = footerNotes[code] || footerNotes['zh-CN',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
 }
 
 function renderBrands(lang) {
     lang = lang || 'zh-CN';
-    var cats = categoryNames[lang] || categoryNames['zh-CN'];
+    var cats = categoryNames[lang] || categoryNames['zh-CN',
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
     var container = document.getElementById('brand-list');
     var html = '';
     for (var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i];
+        var b = brandsData[i,
+  {name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment"}
+];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name_zh : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
