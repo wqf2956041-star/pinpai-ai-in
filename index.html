@@ -162,33 +162,174 @@ var announceTexts = {
 
 // 品牌数据 (从 brands_index.json 生成)
 var brandsData = [
-    {"slug":"escher","name_en":"Escher","name_zh":"埃舍尔","category":"fashion","country":"China","premium":true},
-    {"slug":"3m","name_en":"3M","name_zh":"3M","category":"materials","country":"United States"},
-    {"slug":"airbnb","name_en":"Airbnb","name_zh":"爱彼迎","category":"technology","country":"United States"},
-    {"slug":"amazon","name_en":"Amazon","name_zh":"亚马逊","category":"technology","country":"United States"},
-    {"slug":"hermes","name_en":"Hermès","name_zh":"爱马仕","category":"fashion","country":"France"},
-    {"slug":"bmw","name_en":"BMW","name_zh":"宝马","category":"automotive","country":"Germany"},
-    {"slug":"sony","name_en":"Sony","name_zh":"索尼","category":"electronics","country":"Japan"},
-    {"slug":"nike","name_en":"Nike","name_zh":"耐克","category":"fashion","country":"United States"},
-    {"slug":"chanel","name_en":"Chanel","name_zh":"香奈儿","category":"fashion","country":"France"},
-    {"slug":"anheuser-busch","name_en":"Anheuser-Busch","name_zh":"安海斯-布希","category":"food","country":"Belgium"},
-    {"slug":"aesop","name_en":"Aesop","name_zh":"伊索","category":"beauty","country":"Australia"},
-    {"slug":"benetton","name_en":"Benetton","name_zh":"贝纳通","category":"fashion","country":"Italy"},
-    {"slug":"chaumet","name_en":"Chaumet","name_zh":"尚美巴黎","category":"jewelry","country":"France"},
-    {"slug":"a--lange-and-s-hne","name_en":"A. Lange & Söhne","name_zh":"朗格","category":"watch","country":"Germany"}
+  {
+    slug: "a--lange-and-s-hne",
+    "name_en": "A. Lange & Söhne",
+    "name_zh": "A. Lange & Söhne",
+    "category": "watch",
+    "country": ""
+  },
+  {
+    slug: "adidas",
+    "name_en": "Adidas",
+    "name_zh": "阿迪达斯",
+    "category": "sport",
+    "country": "Germany"
+  },
+  {
+    slug: "aesop",
+    "name_en": "Aesop",
+    "name_zh": "Aesop",
+    "category": "beauty",
+    "country": "澳大利亚"
+  },
+  {
+    slug: "anheuser-busch",
+    "name_en": "Anheuser-Busch",
+    "name_zh": "Anheuser-Busch",
+    "category": "food",
+    "country": "Belgium"
+  },
+  {
+    slug: "balenciaga",
+    "name_en": "Balenciaga",
+    "name_zh": "巴黎世家",
+    "category": "fashion-luxury",
+    "country": ""
+  },
+  {
+    slug: "benetton",
+    "name_en": "Benetton",
+    "name_zh": "Benetton",
+    "category": "fashion",
+    "country": "Italy"
+  },
+  {
+    slug: "bmw",
+    "name_en": "BMW",
+    "name_zh": "宝马",
+    "category": "auto",
+    "country": ""
+  },
+  {
+    slug: "burberry",
+    "name_en": "Burberry",
+    "name_zh": "博柏利",
+    "category": "fashion-luxury",
+    "country": ""
+  },
+  {
+    slug: "cartier",
+    "name_en": "Cartier",
+    "name_zh": "卡地亚",
+    "category": "fashion-luxury",
+    "country": ""
+  },
+  {
+    slug: "chanel",
+    "name_en": "Chanel",
+    "name_zh": "香奈儿",
+    "category": "fashion-luxury",
+    "country": ""
+  },
+  {
+    slug: "chaumet",
+    "name_en": "Chaumet",
+    "name_zh": "Chaumet",
+    "category": "jewelry",
+    "country": ""
+  },
+  {
+    slug: "coca-cola",
+    "name_en": "Coca-Cola",
+    "name_zh": "可口可乐",
+    "category": "food",
+    "country": "United States"
+  },
+  {
+    slug: "escher",
+    "name_en": "埃舍尔Escher",
+    "name_zh": "埃舍尔Escher",
+    "category": "fashion-luxury",
+    "country": "",
+    "premium": true
+  },
+  {
+    slug: "ferrari",
+    "name_en": "Ferrari",
+    "name_zh": "法拉利",
+    "category": "auto",
+    "country": "Italy"
+  },
+  {
+    slug: "hermes",
+    "name_en": "Hermès",
+    "name_zh": "愛馬仕",
+    "category": "fashion-luxury",
+    "country": ""
+  },
+  {
+    slug: "lego",
+    "name_en": "Lego",
+    "name_zh": "乐高",
+    "category": "toy",
+    "country": "Denmark"
+  },
+  {
+    slug: "loréal",
+    "name_en": "L'Oréal",
+    "name_zh": "欧莱雅",
+    "category": "beauty",
+    "country": "France"
+  },
+  {
+    slug: "nike",
+    "name_en": "Nike",
+    "name_zh": "耐克",
+    "category": "sport",
+    "country": ""
+  },
+  {
+    slug: "sony",
+    "name_en": "Sony",
+    "name_zh": "索尼",
+    "category": "tech",
+    "country": ""
+  },
+  {
+    slug: "acne-studios",
+    "name_en": "Acne Studios",
+    "name_zh": "Acne Studios",
+    "category": "fashion-luxury",
+    "country": "Sweden"
+  },
+  {
+    slug: "alexander-mcqueen",
+    "name_en": "Alexander McQueen",
+    "name_zh": "Alexander McQueen",
+    "category": "fashion-luxury",
+    "country": "United Kingdom"
+  },
+  {
+    slug: "bally",
+    "name_en": "Bally",
+    "name_zh": "Bally",
+    "category": "fashion-luxury",
+    "country": "Switzerland"
+  }
 ];
 
 var categoryNames = {
-    "zh-CN":{"fashion":"时尚","automotive":"汽车","electronics":"电子","food":"食品","beauty":"美妆","jewelry":"珠宝","watch":"腕表","technology":"科技","materials":"材料"},
-    "en":{"fashion":"Fashion","automotive":"Automotive","electronics":"Electronics","food":"Food & Beverage","beauty":"Beauty","jewelry":"Jewelry","watch":"Watchmaking","technology":"Technology","materials":"Materials"},
-    "ja":{"fashion":"ファッション","automotive":"自動車","electronics":"電子機器","food":"食品","beauty":"美容","jewelry":"ジュエリー","watch":"時計","technology":"テクノロジー","materials":"素材"},
-    "ko":{"fashion":"패션","automotive":"자동차","electronics":"전자","food":"식품","beauty":"뷰티","jewelry":"주얼리","watch":"시계","technology":"기술","materials":"재료"},
-    "fr":{"fashion":"Mode","automotive":"Automobile","electronics":"Électronique","food":"Alimentation","beauty":"Beauté","jewelry":"Bijouterie","watch":"Horlogerie","technology":"Technologie","materials":"Matériaux"},
-    "es":{"fashion":"Moda","automotive":"Automotriz","electronics":"Electrónica","food":"Alimentos","beauty":"Belleza","jewelry":"Joyería","watch":"Relojería","technology":"Tecnología","materials":"Materiales"},
-    "de":{"fashion":"Mode","automotive":"Automobil","electronics":"Elektronik","food":"Lebensmittel","beauty":"Schönheit","jewelry":"Schmuck","watch":"Uhren","technology":"Technologie","materials":"Werkstoffe"},
-    "pt":{"fashion":"Moda","automotive":"Automotivo","electronics":"Eletrônicos","food":"Alimentos","beauty":"Beleza","jewelry":"Joalheria","watch":"Relojoaria","technology":"Tecnologia","materials":"Materiais"},
-    "ru":{"fashion":"Мода","automotive":"Автомобили","electronics":"Электроника","food":"Продукты","beauty":"Красота","jewelry":"Ювелирные изделия","watch":"Часовое дело","technology":"Технологии","materials":"Материалы"},
-    "ar":{"fashion":"أزياء","automotive":"سيارات","electronics":"إلكترونيات","food":"أطعمة","beauty":"جمال","jewelry":"مجوهرات","watch":"ساعات","technology":"تقنية","materials":"مواد"}
+    "zh-CN":{"fashion":"时尚","automotive":"汽车","electronics":"电子","food":"食品","beauty":"美妆","jewelry":"珠宝","watch":"腕表","technology":"科技","materials":"材料","sport":"运动","toy":"玩具","fashion-luxury":"奢侈品"},
+    "en":{"fashion":"Fashion","automotive":"Automotive","electronics":"Electronics","food":"Food & Beverage","beauty":"Beauty","jewelry":"Jewelry","watch":"Watchmaking","technology":"Technology","materials":"Materials","sport":"Sports","toy":"Toys","fashion-luxury":"Luxury"},
+    "ja":{"fashion":"ファッション","automotive":"自動車","electronics":"電子機器","food":"食品","beauty":"美容","jewelry":"ジュエリー","watch":"時計","technology":"テクノロジー","materials":"素材","sport":"スポーツ","toy":"おもちゃ","fashion-luxury":"ラグジュアリー"},
+    "ko":{"fashion":"패션","automotive":"자동차","electronics":"전자","food":"식품","beauty":"뷰티","jewelry":"주얼리","watch":"시계","technology":"기술","materials":"재료","sport":"스포츠","toy":"장난감","fashion-luxury":"럭셔리"},
+    "fr":{"fashion":"Mode","automotive":"Automobile","electronics":"Électronique","food":"Alimentation","beauty":"Beauté","jewelry":"Bijouterie","watch":"Horlogerie","technology":"Technologie","materials":"Matériaux","sport":"Sport","toy":"Jouets","fashion-luxury":"Luxe"},
+    "es":{"fashion":"Moda","automotive":"Automotriz","electronics":"Electrónica","food":"Alimentos","beauty":"Belleza","jewelry":"Joyería","watch":"Relojería","technology":"Tecnología","materials":"Materiales","sport":"Deportes","toy":"Juguetes","fashion-luxury":"Lujo"},
+    "de":{"fashion":"Mode","automotive":"Automobil","electronics":"Elektronik","food":"Lebensmittel","beauty":"Schönheit","jewelry":"Schmuck","watch":"Uhren","technology":"Technologie","materials":"Werkstoffe","sport":"Sport","toy":"Spielzeug","fashion-luxury":"Luxus"},
+    "pt":{"fashion":"Moda","automotive":"Automotivo","electronics":"Eletrônicos","food":"Alimentos","beauty":"Beleza","jewelry":"Joalheria","watch":"Relojoaria","technology":"Tecnologia","materials":"Materiais","sport":"Esportes","toy":"Brinquedos","fashion-luxury":"Luxo"},
+    "ru":{"fashion":"Мода","automotive":"Автомобили","electronics":"Электроника","food":"Продукты","beauty":"Красота","jewelry":"Ювелирные изделия","watch":"Часовое дело","technology":"Технологии","materials":"Материалы","sport":"Спорт","toy":"Игрушки","fashion-luxury":"Люкс"},
+    "ar":{"fashion":"أزياء","automotive":"سيارات","electronics":"إلكترونيات","food":"أطعمة","beauty":"جمال","jewelry":"مجوهرات","watch":"ساعات","technology":"تقنية","materials":"مواد","sport":"رياضة","toy":"ألعاب","fashion-luxury":"فخامة"},
 };
 
 function getLangLabel(code) {

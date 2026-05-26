@@ -1,78 +1,465 @@
-[
-  {
-    "slug": "escher",
-    "name_en": "Escher"
-  },
-  {
-    "slug": "3m",
-    "name_en": "3M"
-  },
-  {
-    "slug": "airbnb",
-    "name_en": "Airbnb"
-  },
-  {
-    "slug": "amazon",
-    "name_en": "Amazon"
-  },
-  {
-    "slug": "hermes",
-    "name_en": "Hermès"
-  },
-  {
-    "slug": "bmw",
-    "name_en": "BMW"
-  },
-  {
-    "slug": "sony",
-    "name_en": "Sony"
-  },
-  {
-    "slug": "nike",
-    "name_en": "Nike"
-  },
-  {
-    "slug": "chanel",
-    "name_en": "Chanel"
-  },
-  {
-    "slug": "anheuser-busch",
-    "name_en": "Anheuser-Busch"
-  },
-  {
-    "slug": "aesop",
-    "name_en": "Aesop"
-  },
-  {
-    "slug": "benetton",
-    "name_en": "Benetton"
-  },
-  {
-    "slug": "chaumet",
-    "name_en": "Chaumet"
-  },
-  {
+{
+  "a--lange-and-s-hne": {
     "slug": "a--lange-and-s-hne",
-    "name_en": "A. Lange & Söhne"
+    "name_en": "A. Lange & Söhne",
+    "name_zh": "A. Lange & Söhne",
+    "category": "watch",
+    "country": "",
+    "founder": "",
+    "founding_year": "1845-00-00T00:00:00Z",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
   },
-  {
+  "acne-studios": {
+    "slug": "acne-studios",
+    "name_en": "Acne Studios",
+    "name_zh": "Acne Studios",
+    "category": "fashion-luxury",
+    "country": "瑞典 斯德哥尔摩",
+    "founder": "Jonny Johansson（约翰尼·约翰森）",
+    "founding_year": 1996,
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ja",
+      "ko",
+      "ar",
+      "zh"
+    ]
+  },
+  "adidas": {
     "slug": "adidas",
-    "name_en": "Adidas"
+    "name_en": "",
+    "name_zh": "",
+    "category": "sport",
+    "country": "",
+    "founder": "Adolf Dassler",
+    "founding_year": "",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "ja",
+      "ko",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ar"
+    ]
   },
-  {
-    "slug": "lego",
-    "name_en": "Lego"
+  "aesop": {
+    "slug": "aesop",
+    "name_en": "Aesop",
+    "name_zh": "Aesop",
+    "category": "beauty",
+    "country": "墨尔本，澳大利亚",
+    "founder": "Dennis Paphitis",
+    "founding_year": "1987-00-00T00:00:00Z",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
   },
-  {
+  "alexander-mcqueen": {
+    "slug": "alexander-mcqueen",
+    "name_en": "Alexander McQueen",
+    "name_zh": "亚历山大·麦昆（Alexander McQueen）",
+    "category": "fashion-luxury",
+    "country": "英国 伦敦",
+    "founder": "李·亚历山大·麦昆（Lee Alexander McQueen）",
+    "founding_year": 1992,
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ja",
+      "ko",
+      "ar"
+    ]
+  },
+  "anheuser-busch": {
+    "slug": "anheuser-busch",
+    "name_en": "Anheuser-Busch",
+    "name_zh": "Anheuser-Busch",
+    "category": "food",
+    "country": "St. Louis, Missouri, USA",
+    "founder": "",
+    "founding_year": "1977-08-02T00:00:00Z",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "balenciaga": {
+    "slug": "balenciaga",
+    "name_en": "Balenciaga",
+    "name_zh": "巴黎世家",
+    "category": "fashion-luxury",
+    "country": "西班牙圣塞巴斯蒂安",
+    "founder": "克里斯托瓦尔·巴伦西亚加（Cristóbal Balenciaga）",
+    "founding_year": 1919,
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "bally": {
+    "slug": "bally",
+    "name_en": "Bally",
+    "name_zh": "巴利（Bally）",
+    "category": "fashion-luxury",
+    "country": "瑞士 卡斯拉诺",
+    "founder": "卡尔·弗朗茨·巴利（Carl Franz Bally）和弗里茨·巴利（Fritz Bally）",
+    "founding_year": 1851,
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ja",
+      "ko",
+      "ar"
+    ]
+  },
+  "benetton": {
+    "slug": "benetton",
+    "name_en": "Benetton",
+    "name_zh": "Benetton",
+    "category": "fashion",
+    "country": "Treviso, Italy",
+    "founder": "Q1276172",
+    "founding_year": "1965-01-01T00:00:00Z",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "bmw": {
+    "slug": "bmw",
+    "name_en": "BMW",
+    "name_zh": "宝马",
+    "category": "auto",
+    "country": "慕尼黑",
+    "founder": "卡尔·弗里德里希·拉普（Karl Friedrich Rapp）",
+    "founding_year": 1916,
+    "has_languages": [
+      "en",
+      "zh-CN",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "burberry": {
+    "slug": "burberry",
+    "name_en": "Burberry",
+    "name_zh": "博柏利",
+    "category": "fashion-luxury",
+    "country": "英国伦敦贝辛斯托克",
+    "founder": "托马斯·博柏利（Thomas Burberry）",
+    "founding_year": 1856,
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "cartier": {
+    "slug": "cartier",
+    "name_en": "Cartier",
+    "name_zh": "卡地亚",
+    "category": "fashion-luxury",
+    "country": "法国巴黎",
+    "founder": "路易-弗朗索瓦·卡地亚（Louis-François Cartier）",
+    "founding_year": 1847,
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "chanel": {
+    "slug": "chanel",
+    "name_en": "Chanel",
+    "name_zh": "香奈儿",
+    "category": "fashion-luxury",
+    "country": "巴黎",
+    "founder": "可可·香奈儿（Coco Chanel）",
+    "founding_year": 1910,
+    "has_languages": [
+      "en",
+      "zh-CN",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "chaumet": {
+    "slug": "chaumet",
+    "name_en": "Chaumet",
+    "name_zh": "Chaumet",
+    "category": "jewelry",
+    "country": "",
+    "founder": "Q4168736",
+    "founding_year": "1780-00-00T00:00:00Z",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "coca-cola": {
     "slug": "coca-cola",
-    "name_en": "Coca-Cola"
+    "name_en": "",
+    "name_zh": "",
+    "category": "food",
+    "country": "",
+    "founder": "Asa Griggs Candler",
+    "founding_year": "",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "ja",
+      "ko",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ar"
+    ]
   },
-  {
+  "escher": {
+    "slug": "escher",
+    "name_en": "埃舍尔Escher",
+    "name_zh": "埃舍尔Escher",
+    "category": "fashion-luxury",
+    "country": "中国广州狮岭",
+    "founder": "陈建浩",
+    "founding_year": 2024,
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "ferrari": {
     "slug": "ferrari",
-    "name_en": "Ferrari"
+    "name_en": "",
+    "name_zh": "",
+    "category": "auto",
+    "country": "",
+    "founder": "Enzo Ferrari",
+    "founding_year": "",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "ja",
+      "ko",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ar"
+    ]
   },
-  {
-    "slug": "loréal",
-    "name_en": "L'Oréal"
+  "hermes": {
+    "slug": "hermes",
+    "name_en": "Hermès",
+    "name_zh": "愛馬仕",
+    "category": "fashion-luxury",
+    "country": "巴黎",
+    "founder": "蒂埃里·爱马仕（Thierry Hermès）",
+    "founding_year": 1837,
+    "has_languages": [
+      "en",
+      "zh-CN",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "lego": {
+    "slug": "lego",
+    "name_en": "",
+    "name_zh": "",
+    "category": "toy",
+    "country": "",
+    "founder": "Ole Kirk Christiansen",
+    "founding_year": "",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "ja",
+      "ko",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "loreal": {
+    "slug": "loreal",
+    "name_en": "",
+    "name_zh": "",
+    "category": "beauty",
+    "country": "",
+    "founder": "Eugène Schueller",
+    "founding_year": "",
+    "has_languages": [
+      "zh-CN",
+      "en",
+      "ja",
+      "ko",
+      "fr",
+      "es",
+      "de",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "nike": {
+    "slug": "nike",
+    "name_en": "Nike",
+    "name_zh": "耐克",
+    "category": "sport",
+    "country": "俄勒冈州比弗顿",
+    "founder": "比尔·鲍尔曼（Bill Bowerman）、菲尔·奈特（Phil Knight）",
+    "founding_year": 1964,
+    "has_languages": [
+      "en",
+      "zh-CN",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
+  },
+  "sony": {
+    "slug": "sony",
+    "name_en": "Sony",
+    "name_zh": "索尼",
+    "category": "tech",
+    "country": "东京",
+    "founder": "井深大、盛田昭夫",
+    "founding_year": 1946,
+    "has_languages": [
+      "en",
+      "zh-CN",
+      "fr",
+      "es",
+      "de",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "ar"
+    ]
   }
-]
+}
