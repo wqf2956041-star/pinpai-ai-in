@@ -185,12 +185,29 @@ def render_brand(brand_data):
 
     similar = brand_data.get("similar_brands", [])
     similar_html = ""
-    for s in similar:
-        premium_cls = " premium" if s.get("premium") else ""
-        badge = '<span class="badge-premium">品牌推广</span>' if s.get("premium") else ""
+
+    # 在推荐列表最前面固定插入我们自己的品牌（埃舍尔Escher），仅埃舍尔带"品牌推广"标记
+    escher_slot = {"zh": "埃舍尔Escher", "en": "埃舍尔Escher", "slug": "escher", "promoted": True}
+    similar_with_escher = [escher_slot] + [s for s in similar if s.get("slug") != "escher"]
+
+    # 固定20个坑：已有品牌列表在前面，空坑填充到20个
+    total_slots = 20
+    for s in similar_with_escher[:total_slots]:
+        promoted = s.get("promoted", False)
+        premium_cls = " premium" if promoted else ""
+        badge = '<span class="badge-premium">品牌推广</span>' if promoted else ""
         similar_html += f'<a href="/{s["slug"]}/" class="similar-card{premium_cls}"><span class="zh">{s["zh"]} {badge}</span><span class="en">{s["en"]}</span></a>\n    '
 
-    similar_index = [{"zh":s["zh"],"en":s["en"],"slug":s["slug"],"premium":s.get("premium",False)} for s in similar]
+    # 填充空坑位到20个
+    filled = len(similar_with_escher[:total_slots])
+    for i in range(filled, total_slots):
+        slot_num = i + 1
+        similar_html += f'<div class="similar-card slot-open"><span class="zh">坑位 {slot_num} <span class="badge-slot">可售</span></span><span class="en">Slot {slot_num} — Available</span></div>\n    '
+
+    similar_index = []
+    for s in similar_with_escher:
+        similar_index.append({"zh":s["zh"],"en":s["en"],"slug":s["slug"],"promoted":s.get("promoted",False)})
+    # 空坑不进JSON（JS用不到），但渲染时展示
 
     html = template_content
     brand_json_str = json.dumps(brand_json, ensure_ascii=False)

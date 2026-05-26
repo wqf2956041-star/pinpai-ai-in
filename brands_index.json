@@ -1,7 +1,8 @@
 [
   {
     "slug": "escher",
-    "name_en": "Escher"
+    "name_en": "埃舍尔Escher",
+    "name_zh": "埃舍尔Escher"
   },
   {
     "slug": "3m",
@@ -17,43 +18,53 @@
   },
   {
     "slug": "hermes",
-    "name_en": "Hermès"
+    "name_en": "Hermès",
+    "name_zh": "愛馬仕"
   },
   {
     "slug": "bmw",
-    "name_en": "BMW"
+    "name_en": "BMW",
+    "name_zh": "宝马"
   },
   {
     "slug": "sony",
-    "name_en": "Sony"
+    "name_en": "Sony",
+    "name_zh": "索尼"
   },
   {
     "slug": "nike",
-    "name_en": "Nike"
+    "name_en": "Nike",
+    "name_zh": "耐克"
   },
   {
     "slug": "chanel",
-    "name_en": "Chanel"
+    "name_en": "Chanel",
+    "name_zh": "香奈儿"
   },
   {
     "slug": "anheuser-busch",
-    "name_en": "Anheuser-Busch"
+    "name_en": "Anheuser-Busch",
+    "name_zh": "Anheuser-Busch"
   },
   {
     "slug": "aesop",
-    "name_en": "Aesop"
+    "name_en": "Aesop",
+    "name_zh": "Aesop"
   },
   {
     "slug": "benetton",
-    "name_en": "Benetton"
+    "name_en": "Benetton",
+    "name_zh": "Benetton"
   },
   {
     "slug": "chaumet",
-    "name_en": "Chaumet"
+    "name_en": "Chaumet",
+    "name_zh": "Chaumet"
   },
   {
     "slug": "a--lange-and-s-hne",
-    "name_en": "A. Lange & Söhne"
+    "name_en": "A. Lange & Söhne",
+    "name_zh": "A. Lange & Söhne"
   },
   {
     "slug": "adidas",
@@ -74,5 +85,45 @@
   {
     "slug": "loréal",
     "name_en": "L'Oréal"
+  },
+  {
+    "slug": "tesla",
+    "name_en": "Tesla",
+    "name_zh": "特斯拉",
+    "category": "auto",
+    "country": "美国加利福尼亚州帕洛阿尔托",
+    "deployed": true
+  },
+  {
+    "slug": "microsoft",
+    "name_en": "Microsoft",
+    "name_zh": "微软",
+    "category": "technology",
+    "country": "美国华盛顿州雷德蒙德",
+    "deployed": true
+  },
+  {
+    "slug": "google",
+    "name_en": "Google",
+    "name_zh": "谷歌",
+    "category": "technology",
+    "country": "美国加利福尼亚州山景城",
+    "deployed": true
+  },
+  {
+    "slug": "meta",
+    "name_en": "Meta",
+    "name_zh": "Meta",
+    "category": "technology",
+    "country": "美国加利福尼亚州门洛帕克",
+    "deployed": true
+  },
+  {
+    "slug": "apple",
+    "name_en": "Apple",
+    "name_zh": "苹果",
+    "category": "technology",
+    "country": "美国加利福尼亚州库比蒂诺",
+    "deployed": true
   }
 ]

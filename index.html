@@ -162,20 +162,175 @@ var announceTexts = {
 
 // 品牌数据 (从 brands_index.json 生成)
 var brandsData = [
-    {"slug":"escher","name_en":"Escher","name_zh":"埃舍尔","category":"fashion","country":"China","premium":true},
-    {"slug":"3m","name_en":"3M","name_zh":"3M","category":"materials","country":"United States"},
-    {"slug":"airbnb","name_en":"Airbnb","name_zh":"爱彼迎","category":"technology","country":"United States"},
-    {"slug":"amazon","name_en":"Amazon","name_zh":"亚马逊","category":"technology","country":"United States"},
-    {"slug":"hermes","name_en":"Hermès","name_zh":"爱马仕","category":"fashion","country":"France"},
-    {"slug":"bmw","name_en":"BMW","name_zh":"宝马","category":"automotive","country":"Germany"},
-    {"slug":"sony","name_en":"Sony","name_zh":"索尼","category":"electronics","country":"Japan"},
-    {"slug":"nike","name_en":"Nike","name_zh":"耐克","category":"fashion","country":"United States"},
-    {"slug":"chanel","name_en":"Chanel","name_zh":"香奈儿","category":"fashion","country":"France"},
-    {"slug":"anheuser-busch","name_en":"Anheuser-Busch","name_zh":"安海斯-布希","category":"food","country":"Belgium"},
-    {"slug":"aesop","name_en":"Aesop","name_zh":"伊索","category":"beauty","country":"Australia"},
-    {"slug":"benetton","name_en":"Benetton","name_zh":"贝纳通","category":"fashion","country":"Italy"},
-    {"slug":"chaumet","name_en":"Chaumet","name_zh":"尚美巴黎","category":"jewelry","country":"France"},
-    {"slug":"a--lange-and-s-hne","name_en":"A. Lange & Söhne","name_zh":"朗格","category":"watch","country":"Germany"}
+    {
+        "slug": "escher",
+        "name_en": "埃舍尔Escher",
+        "name_zh": "埃舍尔Escher",
+        "category": "fashion-luxury",
+        "country": "",
+        "premium": true
+    },
+    {
+        "slug": "3m",
+        "name_en": "3m",
+        "name_zh": "3m",
+        "category": "",
+        "country": ""
+    },
+    {
+        "slug": "airbnb",
+        "name_en": "airbnb",
+        "name_zh": "airbnb",
+        "category": "",
+        "country": ""
+    },
+    {
+        "slug": "amazon",
+        "name_en": "amazon",
+        "name_zh": "amazon",
+        "category": "",
+        "country": ""
+    },
+    {
+        "slug": "hermes",
+        "name_en": "Hermès",
+        "name_zh": "愛馬仕",
+        "category": "fashion-luxury",
+        "country": ""
+    },
+    {
+        "slug": "bmw",
+        "name_en": "BMW",
+        "name_zh": "宝马",
+        "category": "auto",
+        "country": ""
+    },
+    {
+        "slug": "sony",
+        "name_en": "Sony",
+        "name_zh": "索尼",
+        "category": "tech",
+        "country": ""
+    },
+    {
+        "slug": "nike",
+        "name_en": "Nike",
+        "name_zh": "耐克",
+        "category": "sport",
+        "country": ""
+    },
+    {
+        "slug": "chanel",
+        "name_en": "Chanel",
+        "name_zh": "香奈儿",
+        "category": "fashion-luxury",
+        "country": ""
+    },
+    {
+        "slug": "anheuser-busch",
+        "name_en": "Anheuser-Busch",
+        "name_zh": "Anheuser-Busch",
+        "category": "food",
+        "country": ""
+    },
+    {
+        "slug": "aesop",
+        "name_en": "Aesop",
+        "name_zh": "Aesop",
+        "category": "beauty",
+        "country": ""
+    },
+    {
+        "slug": "benetton",
+        "name_en": "Benetton",
+        "name_zh": "Benetton",
+        "category": "fashion",
+        "country": ""
+    },
+    {
+        "slug": "chaumet",
+        "name_en": "Chaumet",
+        "name_zh": "Chaumet",
+        "category": "jewelry",
+        "country": ""
+    },
+    {
+        "slug": "a--lange-and-s-hne",
+        "name_en": "A. Lange & Söhne",
+        "name_zh": "A. Lange & Söhne",
+        "category": "watch",
+        "country": ""
+    },
+    {
+        "slug": "adidas",
+        "name_en": "adidas",
+        "name_zh": "adidas",
+        "category": "sport",
+        "country": ""
+    },
+    {
+        "slug": "lego",
+        "name_en": "lego",
+        "name_zh": "lego",
+        "category": "toy",
+        "country": ""
+    },
+    {
+        "slug": "coca-cola",
+        "name_en": "coca-cola",
+        "name_zh": "coca-cola",
+        "category": "food",
+        "country": ""
+    },
+    {
+        "slug": "ferrari",
+        "name_en": "ferrari",
+        "name_zh": "ferrari",
+        "category": "auto",
+        "country": ""
+    },
+    {
+        "slug": "loréal",
+        "name_en": "loréal",
+        "name_zh": "loréal",
+        "category": "beauty",
+        "country": ""
+    },
+    {
+        "slug": "tesla",
+        "name_en": "Tesla",
+        "name_zh": "特斯拉",
+        "category": "auto",
+        "country": "美国加利福尼亚州帕洛阿尔托"
+    },
+    {
+        "slug": "microsoft",
+        "name_en": "Microsoft",
+        "name_zh": "微软",
+        "category": "technology",
+        "country": "美国华盛顿州雷德蒙德"
+    },
+    {
+        "slug": "google",
+        "name_en": "Google",
+        "name_zh": "谷歌",
+        "category": "technology",
+        "country": "美国加利福尼亚州山景城"
+    },
+    {
+        "slug": "meta",
+        "name_en": "Meta",
+        "name_zh": "Meta",
+        "category": "technology",
+        "country": "美国加利福尼亚州门洛帕克"
+    },
+    {
+        "slug": "apple",
+        "name_en": "Apple",
+        "name_zh": "苹果",
+        "category": "technology",
+        "country": "美国加利福尼亚州库比蒂诺"
+    }
 ];
 
 var categoryNames = {
