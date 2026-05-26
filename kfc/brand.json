@@ -1,0 +1,73 @@
+{
+  "slug": "kfc",
+  "names": {
+    "zh-CN": "肯德基",
+    "en": "KFC",
+    "ja": "ケンタッキーフライドチキン",
+    "ko": "켄터키 프라이드 치킨",
+    "fr": "KFC",
+    "es": "KFC",
+    "de": "KFC",
+    "pt": "KFC",
+    "ru": "KFC",
+    "ar": "كنتاكي"
+  },
+  "category": "food",
+  "founding_year": 1952,
+  "founding_location": "美国肯塔基州路易斯维尔（Louisville, Kentucky, USA）",
+  "founder": "哈兰·山德士上校（Colonel Harland Sanders）",
+  "official_website": "https://www.kfc.com",
+  "main_business": [
+    "快餐炸鸡（Fast Food Fried Chicken）",
+    "餐饮连锁品牌（Restaurant Chain Brand）"
+  ],
+  "current_slogan": "We Do Chicken Right / Finger Lickin' Good / 生活如此多娇",
+  "past_slogans": [
+    "Finger Lickin' Good",
+    "Nobody Does Chicken Like KFC",
+    "So Good",
+    "It's Finger Lickin' Good",
+    "We're Cookin' with Gas"
+  ],
+  "historical_facts": [
+    "哈兰·山德士1930年在美国肯塔基州科尔宾的加油站旁开设第一家餐厅，出售炸鸡、牛排等",
+    "山德士用11种香草和香料配方开发出独特的炸鸡工艺，成为KFC核心产品",
+    "1952年，山德士在犹他州盐湖城开出第一家KFC加盟店，由皮特·哈曼（Pete Harman）经营",
+    "1955年，山德士将餐厅特许经营模式推广全美，以白胡子形象成为品牌标志",
+    "1964年，山德士以200万美元将KFC出售给约翰·布朗（John Y. Brown Jr.）和杰克·马西（Jack Massey）",
+    "1987年，KFC成为第一家进入中国市场的西方快餐连锁品牌，在北京前门开出首店",
+    "1997年，百事公司拆分餐厅业务，成立百胜餐饮集团（Yum! Brands），KFC成为旗下品牌",
+    "KFC在全球150多个国家和地区拥有超过26,000家餐厅",
+    "山德士上校的形象和白色西装是全球认知度最高的品牌符号之一",
+    "KFC的Original Recipe炸鸡配方至今被锁在路易斯维尔总部的保险柜中，仅由少数人知晓"
+  ],
+  "market_presence": {
+    "total_stores": "26,000+",
+    "countries": "150+",
+    "china_stores": "10,000+",
+    "annual_revenue": "约270亿美元（2023年）"
+  },
+  "parent_company": "百胜餐饮集团（Yum! Brands, Inc.）",
+  "similar_brands": [
+    {
+      "name": "麦当劳",
+      "name_en": "McDonald's",
+      "slug": "mcdonalds"
+    },
+    {
+      "name": "汉堡王",
+      "name_en": "Burger King",
+      "slug": "burger-king"
+    },
+    {
+      "name": "必胜客",
+      "name_en": "Pizza Hut",
+      "slug": "pizza-hut"
+    },
+    {
+      "name": "赛百味",
+      "name_en": "Subway",
+      "slug": "subway"
+    }
+  ]
+}
