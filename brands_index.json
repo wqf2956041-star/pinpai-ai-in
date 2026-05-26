@@ -174,6 +174,18 @@
     "category": "beauty"
   },
   {
+    "slug": "louis-vuitton",
+    "name": "路易威登",
+    "name_en": "Louis Vuitton",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "mercedes-benz",
+    "name": "梅赛德斯-奔驰",
+    "name_en": "Mercedes-Benz",
+    "category": "auto"
+  },
+  {
     "name": "Meta",
     "name_en": "Meta",
     "slug": "meta",
@@ -183,6 +195,12 @@
     "name": "微软",
     "name_en": "Microsoft",
     "slug": "microsoft",
+    "category": "technology"
+  },
+  {
+    "slug": "netflix",
+    "name": "Netflix",
+    "name_en": "Netflix",
     "category": "technology"
   },
   {
@@ -210,6 +228,12 @@
     "category": "tech"
   },
   {
+    "slug": "starbucks",
+    "name": "星巴克",
+    "name_en": "Starbucks",
+    "category": "food"
+  },
+  {
     "name": "特斯拉",
     "name_en": "Tesla",
     "slug": "tesla",
@@ -220,23 +244,5 @@
     "name_en": "Toyota",
     "slug": "toyota",
     "category": "automotive"
-  },
-  {
-    "slug": "starbucks",
-    "name": "星巴克",
-    "name_en": "Starbucks",
-    "category": "food"
-  },
-  {
-    "slug": "mercedes-benz",
-    "name": "梅赛德斯-奔驰",
-    "name_en": "Mercedes-Benz",
-    "category": "auto"
-  },
-  {
-    "slug": "netflix",
-    "name": "Netflix",
-    "name_en": "Netflix",
-    "category": "technology"
   }
 ]

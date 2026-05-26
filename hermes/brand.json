@@ -56,6 +56,12 @@
       "zh": "古驰",
       "en": "Gucci",
       "premium": true
+    },
+    {
+      "slug": "louis-vuitton",
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "premium": false
     }
   ],
   "is_premium": false,

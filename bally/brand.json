@@ -93,6 +93,12 @@
       "en": "Aesop",
       "slug": "aesop",
       "premium": false
+    },
+    {
+      "slug": "louis-vuitton",
+      "zh": "路易威登",
+      "en": "Louis Vuitton",
+      "premium": false
     }
   ]
 }
