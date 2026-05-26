@@ -123,7 +123,7 @@ setInterval(function(){
     document.getElementById('dot2').textContent = dotVisible2 ? '…' : ' ';
 }, 500);
 
-// 第三行：半圆逐帧转 + 百分号推进（每2秒1%，每4%加1个=，25个等号满）
+// 第三行：半圆逐帧转 + 百分号推进（10秒一圈，每约100ms+1%，25个等号每4%加1个）
 var circleFrames = ['◒','◐','◓','◑'];
 var ci = 0;
 setInterval(function(){
@@ -141,7 +141,7 @@ setInterval(function(){
     document.getElementById('progress3').textContent = pct + '%' + eqStr + '>';
     pct++;
     if(pct > 100) pct = 1;
-}, 2000);
+}, 100);
 
 // 公告多语言内容
 var announceTexts = {
