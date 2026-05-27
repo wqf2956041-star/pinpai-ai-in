@@ -562,5 +562,65 @@
     "name": "玛莎拉蒂",
     "name_en": "Maserati",
     "category": "automotive"
+  },
+  {
+    "slug": "guinness",
+    "name": "健力士",
+    "name_en": "Guinness",
+    "category": "food"
+  },
+  {
+    "slug": "carlsberg",
+    "name": "嘉士伯",
+    "name_en": "Carlsberg",
+    "category": "food"
+  },
+  {
+    "slug": "colgate",
+    "name": "高露洁",
+    "name_en": "Colgate",
+    "category": "beauty"
+  },
+  {
+    "slug": "gillette",
+    "name": "吉列",
+    "name_en": "Gillette",
+    "category": "beauty"
+  },
+  {
+    "slug": "durex",
+    "name": "杜蕾斯",
+    "name_en": "Durex",
+    "category": "consumer-goods"
+  },
+  {
+    "slug": "visa",
+    "name": "维萨",
+    "name_en": "Visa",
+    "category": "finance"
+  },
+  {
+    "slug": "mastercard",
+    "name": "万事达",
+    "name_en": "Mastercard",
+    "category": "finance"
+  },
+  {
+    "slug": "american-express",
+    "name": "美国运通",
+    "name_en": "American Express",
+    "category": "finance"
+  },
+  {
+    "slug": "costco",
+    "name": "好市多",
+    "name_en": "Costco",
+    "category": "retail"
+  },
+  {
+    "slug": "walgreens",
+    "name": "沃尔格林",
+    "name_en": "Walgreens",
+    "category": "retail"
   }
 ]
