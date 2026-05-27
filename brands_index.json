@@ -430,5 +430,11 @@
     "name": "开云集团",
     "name_en": "Kering",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "ikea",
+    "name": "宜家",
+    "name_en": "IKEA",
+    "category": "retail"
   }
 ]
