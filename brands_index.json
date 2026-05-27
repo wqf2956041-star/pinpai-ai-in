@@ -742,5 +742,23 @@
     "name": "缪缪",
     "name_en": "Miu Miu",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "ysl",
+    "name": "圣罗兰",
+    "name_en": "Yves Saint Laurent",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "audemars-piguet",
+    "name": "爱彼",
+    "name_en": "Audemars Piguet",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "krispy-kreme",
+    "name": "卡仕奇甜甜圈",
+    "name_en": "Krispy Kreme",
+    "category": "food"
   }
 ]
