@@ -2062,5 +2062,65 @@
     "name": "Caterpillar Inc.",
     "name_en": "Caterpillar Inc.",
     "category": "general"
+  },
+  {
+    "slug": "7-brew",
+    "name": "7 Brew",
+    "name_en": "7 Brew",
+    "category": "food"
+  },
+  {
+    "slug": "an-giang-coffee",
+    "name": "An Giang Coffee",
+    "name_en": "An Giang Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "angel-in-us",
+    "name": "Angel-in-us",
+    "name_en": "Angel-in-us",
+    "category": "food"
+  },
+  {
+    "slug": "arabica",
+    "name": "% Arabica",
+    "name_en": "% Arabica",
+    "category": "food"
+  },
+  {
+    "slug": "bacha-coffee",
+    "name": "Bacha Coffee",
+    "name_en": "Bacha Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "barcaffe",
+    "name": "Barcaffe",
+    "name_en": "Barcaffe",
+    "category": "food"
+  },
+  {
+    "slug": "bewleys",
+    "name": "Bewley's",
+    "name_en": "Bewley's",
+    "category": "food"
+  },
+  {
+    "slug": "bigface",
+    "name": "Bigface",
+    "name_en": "Bigface",
+    "category": "food"
+  },
+  {
+    "slug": "black-ivory-coffee",
+    "name": "Black Ivory Coffee",
+    "name_en": "Black Ivory Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "black-rifle-coffee-company",
+    "name": "Black Rifle Coffee Company",
+    "name_en": "Black Rifle Coffee Company",
+    "category": "food"
   }
 ]
