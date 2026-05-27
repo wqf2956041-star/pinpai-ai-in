@@ -682,5 +682,65 @@
     "name": "雪铁龙",
     "name_en": "Citroën",
     "category": "auto"
+  },
+  {
+    "slug": "tesla-motors",
+    "name": "特斯拉汽车",
+    "name_en": "Tesla Motors",
+    "category": "auto"
+  },
+  {
+    "slug": "mazda",
+    "name": "马自达",
+    "name_en": "Mazda",
+    "category": "auto"
+  },
+  {
+    "slug": "subaru",
+    "name": "斯巴鲁",
+    "name_en": "Subaru",
+    "category": "auto"
+  },
+  {
+    "slug": "mitsubishi-motors",
+    "name": "三菱汽车",
+    "name_en": "Mitsubishi Motors",
+    "category": "auto"
+  },
+  {
+    "slug": "nissan",
+    "name": "日产",
+    "name_en": "Nissan",
+    "category": "auto"
+  },
+  {
+    "slug": "givenchy",
+    "name": "纪梵希",
+    "name_en": "Givenchy",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "fendi",
+    "name": "芬迪",
+    "name_en": "Fendi",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "loewe",
+    "name": "罗意威",
+    "name_en": "Loewe",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "celine",
+    "name": "赛琳",
+    "name_en": "Celine",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "miu-miu",
+    "name": "缪缪",
+    "name_en": "Miu Miu",
+    "category": "fashion-luxury"
   }
 ]
