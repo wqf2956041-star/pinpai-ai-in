@@ -1,0 +1,63 @@
+{
+  "slug": "versace",
+  "names": {
+    "zh-CN": "范思哲",
+    "en": "Versace",
+    "ja": "ヴェルサーチ",
+    "ko": "베르사체",
+    "fr": "Versace",
+    "es": "Versace",
+    "de": "Versace",
+    "pt": "Versace",
+    "ru": "Versace",
+    "ar": "فيرساتشي"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1978,
+  "founding_location": "意大利米兰",
+  "founder": "詹尼·范思哲（Gianni Versace）",
+  "official_website": "https://www.versace.com",
+  "main_business": [
+    "时装",
+    "皮具",
+    "配饰",
+    "香水",
+    "眼镜",
+    "家居用品"
+  ],
+  "current_slogan": "Versace — 奢华与大胆的完美融合",
+  "historical_facts": [
+    "1978年由詹尼·范思哲在米兰创立，同年推出首个女装成衣系列",
+    "1982年推出副线品牌Versus",
+    "1989年进军高级定制时装，在巴黎开设Atelier Versace",
+    "1997年詹尼·范思哲在迈阿密海滩遇刺身亡，其妹多纳泰拉接任创意总监",
+    "2000年被Capri Holdings以21亿美元收购"
+  ],
+  "market_presence": {
+    "total_stores": "200+",
+    "countries": "50+"
+  },
+  "parent_company": "Capri Holdings Limited",
+  "similar_brands": [
+    {
+      "name": "古驰",
+      "name_en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "name": "普拉达",
+      "name_en": "Prada",
+      "slug": "prada"
+    },
+    {
+      "name": "阿玛尼",
+      "name_en": "Armani",
+      "slug": "armani"
+    },
+    {
+      "name": "迪奥",
+      "name_en": "Dior",
+      "slug": "dior"
+    }
+  ]
+}
