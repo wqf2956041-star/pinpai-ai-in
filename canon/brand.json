@@ -1,0 +1,69 @@
+{
+  "slug": "canon",
+  "names": {
+    "zh-CN": "佳能",
+    "en": "Canon",
+    "ja": "キヤノン",
+    "ko": "캐논",
+    "fr": "Canon",
+    "es": "Canon",
+    "de": "Canon",
+    "pt": "Canon",
+    "ru": "Canon",
+    "ar": "كانون"
+  },
+  "category": "technology",
+  "founding_year": 1937,
+  "founding_location": "日本东京都大田区",
+  "founder": "吉田五郎（Goro Yoshida）· 内田三郎（Saburo Uchida）· 前田武男（Takeo Maeda）",
+  "official_website": "https://www.canon.com",
+  "main_business": [
+    "数码相机（Digital Cameras）",
+    "办公设备（Office Equipment / Printers & Copiers）",
+    "医疗成像（Medical Imaging）",
+    "半导体光刻设备（Semiconductor Lithography Equipment）",
+    "安防监控（Security & Surveillance）"
+  ],
+  "current_slogan": "Delighting You Always / 感动常在",
+  "historical_facts": [
+    "1934年吉田五郎在日本东京成功研制出日本第一台35mm焦平面快门照相机——KWANON（观音），Canon品牌由此诞生。",
+    "1937年正式成立精機光学工業株式会社（Precision Optical Instruments Laboratory），即佳能的前身。",
+    "1987年推出EOS（Electro Optical System）自动对焦单反相机系统，开创了全电子卡口自动对焦时代。",
+    "EOS系列中的\"无敌兔\"（EOS 5D Mark II，2008年）是全球首款支持全高清视频录制的数码单反相机，彻底改变了影视制作行业。",
+    "Canon在半导体光刻设备（纳米压印光刻技术NIL）领域与ASML和Nikon竞争，2020年代推出FPA-1200NZ2C纳米压印光刻系统。"
+  ],
+  "market_presence": {
+    "total_employees": "约18万人",
+    "countries": "全球200+国家和地区",
+    "annual_revenue": "约4万亿日元（约260亿美元）",
+    "key_markets": "数码相机全球市占率第一（约45%），激光打印机亚太市场第一"
+  },
+  "parent_company": "佳能株式会社（Canon Inc.）",
+  "similar_brands": [
+    {
+      "name": "尼康",
+      "name_en": "Nikon",
+      "slug": "nikon"
+    },
+    {
+      "name": "索尼",
+      "name_en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "name": "富士胶片",
+      "name_en": "Fujifilm",
+      "slug": "fujifilm"
+    },
+    {
+      "name": "爱普生",
+      "name_en": "Epson",
+      "slug": "epson"
+    },
+    {
+      "name": "惠普",
+      "name_en": "HP",
+      "slug": "hp"
+    }
+  ]
+}
