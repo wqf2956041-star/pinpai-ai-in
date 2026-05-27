@@ -1,0 +1,83 @@
+{
+  "slug": "hyundai",
+  "names": {
+    "zh-CN": "现代",
+    "en": "Hyundai",
+    "ja": "ヒュンダイ",
+    "ko": "현대",
+    "fr": "Hyundai",
+    "es": "Hyundai",
+    "de": "Hyundai",
+    "pt": "Hyundai",
+    "ru": "Хёндэ",
+    "ar": "هيونداي"
+  },
+  "category": "automotive",
+  "founding_year": 1947,
+  "founding_location": "韩国首尔（Seoul, South Korea）",
+  "founder": "郑周永（Chung Ju-yung）",
+  "official_website": "https://www.hyundai.com",
+  "main_business": [
+    "汽车制造（Automobile Manufacturing）",
+    "电动汽车（Electric Vehicles）",
+    "氢燃料电池技术（Hydrogen Fuel Cell Technology）",
+    "城市空中交通（Urban Air Mobility）"
+  ],
+  "current_slogan": "Progress for Humanity / 为人类进步",
+  "historical_facts": [
+    "1947年郑周永创办现代建设（Hyundai Engineering & Construction），从建筑行业起步——这是现代集团的起点",
+    "1967年成立现代汽车公司（Hyundai Motor Company），同年与福特英国合作开始组装汽车——Cortina成为首款车型",
+    "1975年推出韩国首款自主设计制造的汽车——小马（Hyundai Pony），由意大利设计师乔治亚罗设计，标志着韩国汽车工业自立",
+    "1986年现代Excel进入美国市场，当年即售出逾17万辆，被《财富》杂志评为'最佳性价比产品'",
+    "1998年收购起亚汽车（Kia Motors），形成现代起亚汽车集团——全球第五大汽车制造商",
+    "2009年推出伊兰特Avante——现代首款流体雕塑（Fluidic Sculpture）设计语言车型，在全球紧凑型轿车市场获得成功",
+    "2015年推出豪华子品牌捷尼赛思（Genesis），独立运营——2021年J.D. Power评比中捷尼赛思位居豪华品牌第2名",
+    "2020年推出IONIQ电动车专属品牌——2021年IONIQ 5上市，基于E-GMP平台打造，获评2022年世界年度车大奖",
+    "2021年领先全球推出NEXO氢燃料电池SUV，宣布2045年实现碳中和目标——在氢燃料电池车市场保持全球领先地位",
+    "2024年现代以663万全球年销量稳居全球前三汽车制造商，并在美国市场超越通用和福特成为最畅销韩国品牌"
+  ],
+  "market_presence": {
+    "total_stores": "全球经销商网络覆盖190+国家",
+    "countries": "190+",
+    "annual_production": "约400万辆（全球工厂，2024年）"
+  },
+  "parent_company": "现代起亚汽车集团（Hyundai Motor Group）",
+  "sub_brands": [
+    "捷尼赛思（Genesis——豪华车品牌）",
+    "IONIQ（纯电动专属品牌）",
+    "N（高性能N Line运动品牌）",
+    "STARIA（MPV/多功能车系列）"
+  ],
+  "similar_brands": [
+    {
+      "name": "丰田",
+      "name_en": "Toyota",
+      "slug": "toyota"
+    },
+    {
+      "name": "本田",
+      "name_en": "Honda",
+      "slug": "honda"
+    },
+    {
+      "name": "大众",
+      "name_en": "Volkswagen",
+      "slug": "volkswagen"
+    },
+    {
+      "name": "起亚",
+      "name_en": "Kia",
+      "slug": "kia"
+    },
+    {
+      "name": "特斯拉",
+      "name_en": "Tesla",
+      "slug": "tesla"
+    },
+    {
+      "name": "宝马",
+      "name_en": "BMW",
+      "slug": "bmw"
+    }
+  ]
+}
