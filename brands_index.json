@@ -1342,5 +1342,65 @@
     "name": "沃达丰",
     "name_en": "Vodafone",
     "category": "telecom"
+  },
+  {
+    "slug": "healthpost",
+    "name": "HealthPost",
+    "name_en": "HealthPost",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "jgb-company",
+    "name": "JGB (company)",
+    "name_en": "JGB (company)",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "anthony-thomas-candy-company",
+    "name": "Anthony Thomas Candy Company",
+    "name_en": "Anthony Thomas Candy Company",
+    "category": "food"
+  },
+  {
+    "slug": "barambo",
+    "name": "Barambo",
+    "name_en": "Barambo",
+    "category": "food"
+  },
+  {
+    "slug": "beauty-lacchi-and-faluda",
+    "name": "Beauty Lacchi and Faluda",
+    "name_en": "Beauty Lacchi and Faluda",
+    "category": "food"
+  },
+  {
+    "slug": "canels",
+    "name": "Canel's",
+    "name_en": "Canel's",
+    "category": "food"
+  },
+  {
+    "slug": "carambar-co",
+    "name": "Carambar & Co",
+    "name_en": "Carambar & Co",
+    "category": "food"
+  },
+  {
+    "slug": "chupa-chups",
+    "name": "Chupa Chups",
+    "name_en": "Chupa Chups",
+    "category": "food"
+  },
+  {
+    "slug": "daintee",
+    "name": "Daintee",
+    "name_en": "Daintee",
+    "category": "food"
+  },
+  {
+    "slug": "dulces-miguelito",
+    "name": "Dulces Miguelito",
+    "name_en": "Dulces Miguelito",
+    "category": "food"
   }
 ]
