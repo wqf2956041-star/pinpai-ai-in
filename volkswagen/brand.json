@@ -1,0 +1,80 @@
+{
+  "slug": "volkswagen",
+  "names": {
+    "zh-CN": "大众",
+    "en": "Volkswagen",
+    "ja": "フォルクスワーゲン",
+    "ko": "폭스바겐",
+    "fr": "Volkswagen",
+    "es": "Volkswagen",
+    "de": "Volkswagen",
+    "pt": "Volkswagen",
+    "ru": "Фольксваген",
+    "ar": "فولكسفاغن"
+  },
+  "category": "automotive",
+  "founding_year": 1937,
+  "founding_location": "德国沃尔夫斯堡（Wolfsburg, Germany）",
+  "founder": "德国劳工阵线（German Labour Front）",
+  "official_website": "https://www.volkswagen.com",
+  "main_business": [
+    "汽车制造（Automobile Manufacturing）"
+  ],
+  "current_slogan": "Das Auto / 车之道 唯大众",
+  "historical_facts": [
+    "1937年由德国劳工阵线在纳粹德国时期成立，最初目标是生产大众买得起的「人民汽车」（Volkswagen）",
+    "1938年甲壳虫（Beetle）诞生——由费迪南德·保时捷设计，成为全球最畅销的单一车型纪录保持者（超2300万辆）",
+    "战后1945年在英国占领军管理下恢复生产，甲壳虫成为德国经济奇迹的象征",
+    "1974年推出高尔夫（Golf）——取代甲壳虫成为大众新一代核心车型，至今已推出八代",
+    "2015年爆发「柴油门」（Dieselgate）排放丑闻——大众承认在全球1100万辆柴油车上安装作弊软件，赔偿超300亿欧元",
+    "2020年代加速电动化转型，推出ID.系列纯电动车，目标是2030年前成为全球电动车领导者"
+  ],
+  "market_presence": {
+    "total_stores": "全球生产工厂约100+",
+    "countries": "150+",
+    "annual_production": "约900万辆（大众集团合计）"
+  },
+  "parent_company": "大众集团（Volkswagen AG）",
+  "sub_brands": [
+    "大众汽车",
+    "奥迪（Audi）",
+    "保时捷（Porsche）",
+    "斯柯达（Škoda）",
+    "西雅特（SEAT）",
+    "宾利（Bentley）",
+    "兰博基尼（Lamborghini）",
+    "布加迪（Bugatti）"
+  ],
+  "similar_brands": [
+    {
+      "name": "丰田",
+      "name_en": "Toyota",
+      "slug": "toyota"
+    },
+    {
+      "name": "本田",
+      "name_en": "Honda",
+      "slug": "honda"
+    },
+    {
+      "name": "宝马",
+      "name_en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "name": "梅赛德斯-奔驰",
+      "name_en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "name": "福特",
+      "name_en": "Ford",
+      "slug": "ford"
+    },
+    {
+      "name": "现代",
+      "name_en": "Hyundai",
+      "slug": "hyundai"
+    }
+  ]
+}

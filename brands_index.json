@@ -304,5 +304,11 @@
     "name": "丰田",
     "name_en": "Toyota",
     "category": "automotive"
+  },
+  {
+    "slug": "volkswagen",
+    "name": "大众",
+    "name_en": "Volkswagen",
+    "category": "automotive"
   }
 ]
