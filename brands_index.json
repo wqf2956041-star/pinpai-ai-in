@@ -1114,5 +1114,53 @@
     "name": "巴塔哥尼亚",
     "name_en": "Patagonia",
     "category": "sportswear"
+  },
+  {
+    "slug": "estee-lauder",
+    "name": "雅诗兰黛",
+    "name_en": "Estée Lauder",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "chanel-beauty",
+    "name": "香奈儿美妆",
+    "name_en": "Chanel Beauty",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "dior-beauty",
+    "name": "迪奥美妆",
+    "name_en": "Dior Beauty",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "lancome",
+    "name": "兰蔻",
+    "name_en": "Lancôme",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "clinique",
+    "name": "倩碧",
+    "name_en": "Clinique",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "mac-cosmetics",
+    "name": "M·A·C",
+    "name_en": "M·A·C Cosmetics",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "aveda",
+    "name": "艾梵达",
+    "name_en": "Aveda",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "kiehls",
+    "name": "契尔氏",
+    "name_en": "Kiehl's",
+    "category": "cosmetics"
   }
 ]
