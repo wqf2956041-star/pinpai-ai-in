@@ -1162,5 +1162,59 @@
     "name": "契尔氏",
     "name_en": "Kiehl's",
     "category": "cosmetics"
+  },
+  {
+    "slug": "jpmorgan",
+    "name": "摩根大通",
+    "name_en": "JPMorgan Chase",
+    "category": "finance"
+  },
+  {
+    "slug": "goldman-sachs",
+    "name": "高盛",
+    "name_en": "Goldman Sachs",
+    "category": "finance"
+  },
+  {
+    "slug": "bank-of-america",
+    "name": "美国银行",
+    "name_en": "Bank of America",
+    "category": "finance"
+  },
+  {
+    "slug": "citigroup",
+    "name": "花旗集团",
+    "name_en": "Citigroup",
+    "category": "finance"
+  },
+  {
+    "slug": "wells-fargo",
+    "name": "富国银行",
+    "name_en": "Wells Fargo",
+    "category": "finance"
+  },
+  {
+    "slug": "hsbc",
+    "name": "汇丰",
+    "name_en": "HSBC",
+    "category": "finance"
+  },
+  {
+    "slug": "ubs",
+    "name": "瑞银集团",
+    "name_en": "UBS",
+    "category": "finance"
+  },
+  {
+    "slug": "icbc",
+    "name": "工商银行",
+    "name_en": "ICBC",
+    "category": "finance"
+  },
+  {
+    "slug": "nestle",
+    "name": "雀巢",
+    "name_en": "Nestlé",
+    "category": "food"
   }
 ]

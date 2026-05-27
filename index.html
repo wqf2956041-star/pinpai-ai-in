@@ -413,7 +413,16 @@ var brandsData = [
 {name:"M·A·C",name_en:"M·A·C Cosmetics",slug:"mac-cosmetics",category:"cosmetics",t:1}
 {name:"艾梵达",name_en:"Aveda",slug:"aveda",category:"cosmetics",t:1}
 {name:"契尔氏",name_en:"Kiehl's",slug:"kiehls",category:"cosmetics",t:1}
- || sectionTitles['zh-CN'];
+{name:"摩根大通",name_en:"JPMorgan Chase",slug:"jpmorgan",category:"finance",t:1}
+{name:"高盛",name_en:"Goldman Sachs",slug:"goldman-sachs",category:"finance",t:1}
+{name:"美国银行",name_en:"Bank of America",slug:"bank-of-america",category:"finance",t:1}
+{name:"花旗集团",name_en:"Citigroup",slug:"citigroup",category:"finance",t:1}
+{name:"富国银行",name_en:"Wells Fargo",slug:"wells-fargo",category:"finance",t:1}
+{name:"汇丰",name_en:"HSBC",slug:"hsbc",category:"finance",t:1}
+{name:"瑞银集团",name_en:"UBS",slug:"ubs",category:"finance",t:1}
+{name:"工商银行",name_en:"ICBC",slug:"icbc",category:"finance",t:1}
+{name:"雀巢",name_en:"Nestlé",slug:"nestle",category:"food",t:1}
+;
 
     var footerNotes = {'zh-CN':'全球品牌大全 · 10种语言呈现 · 品牌信息持续更新','en':'Global Brand Directory · 10 Languages · Continuously Updated','ja':'世界中のブランド · 10言語対応 · 随時更新','ko':'전 세계 브랜드 · 10개 언어 · 지속적 업데이트','fr':'Répertoire mondial des marques · 10 langues · Mis à jour en continu','es':'Directorio global de marcas · 10 idiomas · Actualización continua','de':'Weltweites Markenverzeichnis · 10 Sprachen · Kontinuierlich aktualisiert','pt':'Diretório global de marcas · 10 idiomas · Atualização contínua','ru':'Глобальный каталог брендов · 10 языков · Постоянное обновление','ar':'دليل العلامات التجارية العالمي · 10 لغات · تحديث مستمر'};
     document.getElementById('footer-tagline').textContent = footerNotes[code] || footerNotes['zh-CN'];
@@ -523,7 +532,16 @@ function renderBrands(lang) {
 {name:"倩碧",name_en:"Clinique",slug:"clinique",category:"cosmetics",t:2},
 {name:"M·A·C",name_en:"M·A·C Cosmetics",slug:"mac-cosmetics",category:"cosmetics",t:2},
 {name:"艾梵达",name_en:"Aveda",slug:"aveda",category:"cosmetics",t:2},
-{name:"契尔氏",name_en:"Kiehl's",slug:"kiehls",category:"cosmetics",t:2},];
+{name:"契尔氏",name_en:"Kiehl's",slug:"kiehls",category:"cosmetics",t:2},
+{name:"摩根大通",name_en:"JPMorgan Chase",slug:"jpmorgan",category:"finance",t:2},
+{name:"高盛",name_en:"Goldman Sachs",slug:"goldman-sachs",category:"finance",t:2},
+{name:"美国银行",name_en:"Bank of America",slug:"bank-of-america",category:"finance",t:2},
+{name:"花旗集团",name_en:"Citigroup",slug:"citigroup",category:"finance",t:2},
+{name:"富国银行",name_en:"Wells Fargo",slug:"wells-fargo",category:"finance",t:2},
+{name:"汇丰",name_en:"HSBC",slug:"hsbc",category:"finance",t:2},
+{name:"瑞银集团",name_en:"UBS",slug:"ubs",category:"finance",t:2},
+{name:"工商银行",name_en:"ICBC",slug:"icbc",category:"finance",t:2},
+{name:"雀巢",name_en:"Nestlé",slug:"nestle",category:"food",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
