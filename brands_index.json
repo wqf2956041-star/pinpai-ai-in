@@ -2422,5 +2422,65 @@
     "name": "BMC Switzerland",
     "name_en": "BMC Switzerland",
     "category": "general"
+  },
+  {
+    "slug": "aurora-chain",
+    "name": "Aurora (chain)",
+    "name_en": "Aurora (chain)",
+    "category": "retail"
+  },
+  {
+    "slug": "99-sushi-bar",
+    "name": "99 Sushi Bar",
+    "name_en": "99 Sushi Bar",
+    "category": "food"
+  },
+  {
+    "slug": "the-alley-company",
+    "name": "The Alley (company)",
+    "name_en": "The Alley (company)",
+    "category": "food"
+  },
+  {
+    "slug": "artichoke-basilles-pizza",
+    "name": "Artichoke Basille's Pizza",
+    "name_en": "Artichoke Basille's Pizza",
+    "category": "food"
+  },
+  {
+    "slug": "bajeko-sekuwa",
+    "name": "Bajeko Sekuwa",
+    "name_en": "Bajeko Sekuwa",
+    "category": "food"
+  },
+  {
+    "slug": "burger-21",
+    "name": "Burger 21",
+    "name_en": "Burger 21",
+    "category": "food"
+  },
+  {
+    "slug": "dcost",
+    "name": "D'Cost",
+    "name_en": "D'Cost",
+    "category": "food"
+  },
+  {
+    "slug": "ding-tea",
+    "name": "Ding Tea",
+    "name_en": "Ding Tea",
+    "category": "food"
+  },
+  {
+    "slug": "domin-chile",
+    "name": "Dominó (Chile)",
+    "name_en": "Dominó (Chile)",
+    "category": "food"
+  },
+  {
+    "slug": "elephant-castle-restaurant",
+    "name": "Elephant & Castle (restaurant)",
+    "name_en": "Elephant & Castle (restaurant)",
+    "category": "food"
   }
 ]
