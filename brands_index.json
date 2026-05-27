@@ -376,5 +376,11 @@
     "name": "迪奥",
     "name_en": "Dior",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "yves-saint-laurent",
+    "name": "圣罗兰",
+    "name_en": "Yves Saint Laurent",
+    "category": "fashion-luxury"
   }
 ]

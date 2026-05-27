@@ -1,0 +1,66 @@
+{
+  "slug": "yves-saint-laurent",
+  "names": {
+    "zh-CN": "圣罗兰",
+    "en": "Yves Saint Laurent",
+    "ja": "イヴ・サン＝ローラン",
+    "ko": "이브 생 로랑",
+    "fr": "Yves Saint Laurent",
+    "es": "Yves Saint Laurent",
+    "de": "Yves Saint Laurent",
+    "pt": "Yves Saint Laurent",
+    "ru": "Ив Сен-Лоран",
+    "ar": "إيف سان لوران"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1961,
+  "founding_location": "法国巴黎",
+  "founder": "伊夫·圣·罗兰（Yves Saint Laurent）与皮埃尔·贝尔热（Pierre Bergé）",
+  "official_website": "https://www.ysl.com",
+  "main_business": [
+    "高级定制时装",
+    "成衣",
+    "皮具",
+    "配饰",
+    "香水",
+    "彩妆",
+    "护肤品"
+  ],
+  "current_slogan": "Yves Saint Laurent — 解放女性的力量",
+  "historical_facts": [
+    "1961年由伊夫·圣·罗兰与皮埃尔·贝尔热在巴黎创立",
+    "1966年推出女性吸烟装（Le Smoking），开创女性穿裤装礼服先河",
+    "1971年成为首位使用非白种人模特拍摄时尚广告的设计师",
+    "1978年推出标志性香水Opium（鸦片），引发文化争议与巨大成功",
+    "2002年伊夫·圣·罗兰宣布退休，品牌进入新阶段",
+    "2008年被古驰集团（Kering）以约11.5亿欧元收购",
+    "2012年伊夫·圣·罗兰去世，享年71岁"
+  ],
+  "market_presence": {
+    "total_stores": "150+",
+    "countries": "60+"
+  },
+  "parent_company": "开云集团（Kering）",
+  "similar_brands": [
+    {
+      "name": "迪奥",
+      "name_en": "Dior",
+      "slug": "dior"
+    },
+    {
+      "name": "香奈儿",
+      "name_en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "name": "古驰",
+      "name_en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "name": "巴黎世家",
+      "name_en": "Balenciaga",
+      "slug": "balenciaga"
+    }
+  ]
+}
