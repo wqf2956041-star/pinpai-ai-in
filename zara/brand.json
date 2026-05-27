@@ -1,0 +1,34 @@
+{
+  "slug": "zara",
+  "names": {
+    "zh-CN": "飒拉",
+    "en": "Zara"
+  },
+  "category": "fashion",
+  "founding_year": 1975,
+  "founding_location": "西班牙拉科鲁尼亚（A Coruña, Spain）",
+  "founder": "阿曼西奥·奥尔特加（Amancio Ortega）",
+  "official_website": "https://www.zara.com/",
+  "main_business": [
+    "服装零售",
+    "快时尚"
+  ],
+  "current_slogan": "Zara — 时尚触手可及",
+  "past_slogans": [],
+  "representative_products": [],
+  "key_events": [],
+  "philanthropy": [],
+  "exhibitions": [],
+  "description_zh": "Zara是全球最大的快时尚品牌之一，隶属于西班牙Inditex集团。1975年，阿曼西奥·奥尔特加在西班牙拉科鲁尼亚开设了第一家Zara门店。品牌以其独特的商业模式著称：不追求广告，而是将资金投入黄金地段的高端门店。Zara的供应链速度在时尚行业堪称革命性——从设计到门店上架最快仅需2周，而行业平均为6-9个月。品牌每年推出超过12,000款新设计，远超过竞争对手。Zara采取垂直整合模式，60%以上的生产在西班牙、葡萄牙、摩洛哥和土耳其等邻近国家完成，确保快速补货。门店每周两次从总部收到新品。Zara并不刻意追求服装的耐用性，而是鼓励消费者频繁购买最新款式。2006年，Zara在中国开设首家门店。截至2025年，Zara在全球96个国家拥有超过2,200家门店，是Inditex集团收入的最大贡献者（约占集团总收入的70%）。品牌旗下还设有Zara Home家居系列。Zara的成功被哈佛商学院、IESE等著名商学院作为案例研究。2024年，Zara推出环保系列Join Life，使用更可持续的材料和生产工艺。Zara以其「少量多款」（scarcity and variety）的策略驱动消费者快速决策——每款服装的库存有限，错过可能不再补货。",
+  "languages": {
+    "en": "Zara is the world's largest fast-fashion brand, flagship of Spanish Inditex Group. Founded in 1975 by Amancio Ortega in A Coruña, Spain. Known for revolutionary supply chain speed—design to store in as little as 2 weeks vs. 6-9 months industry average. Over 12,000 new designs annually. As of 2025, operates 2,200+ stores across 96 countries. Zara rarely advertises, instead investing in premium store locations. Its vertical integration model keeps 60%+ production in nearby countries (Spain, Portugal, Morocco, Turkey). Stores receive new shipments twice weekly. The 'scarcity and variety' strategy drives rapid consumer decisions—limited stock means items may not be restocked.",
+    "es": "Zara es la marca de moda rápida más grande del mundo, insignia del grupo español Inditex. Fundada en 1975 por Amancio Ortega en A Coruña. Conocida por su velocidad de suministro revolucionaria—del diseño a la tienda en solo 2 semanas. Más de 12.000 diseños nuevos al año. En 2025, opera más de 2.200 tiendas en 96 países.",
+    "fr": "Zara est la plus grande marque de mode rapide au monde, fleuron du groupe espagnol Inditex. Fondée en 1975 par Amancio Ortega à La Corogne. Connue pour sa vitesse d'approvisionnement révolutionnaire—de la conception au magasin en seulement 2 semaines. Plus de 12.000 nouveaux designs par an.",
+    "ja": "ZaraはスペインのInditexグループが所有する世界最大のファストファッションブランド。1975年にアマンシオ・オルテガがラ・コルーニャで創業。業界平均6〜9ヶ月に対し、Zaraはデザインから店舗まで最短2週間という革命的サプライチェーン速度を誇る。年間12,000以上の新デザインを展開。2025年現在、96カ国2,200店舗以上を展開。",
+    "ko": "Zara는 스페인 Inditex 그룹의 대표 패스트패션 브랜드다. 1975년 아만시오 오르테가가 라 코루냐에서 창업했다. 업계 평균 6~9개월 대비 디자인에서 매장까지 단 2주의 혁신적인 공급망 속도로 유명하다. 연간 12,000개 이상의 신규 디자인을 출시한다. 2025년 기준 96개국 2,200개 이상 매장 운영.",
+    "pt": "Zara é a maior marca de moda rápida do mundo, principal bandeira do grupo espanhol Inditex. Fundada em 1975 por Amancio Ortega na Corunha. Conhecida pela velocidade revolucionária da cadeia de suprimentos—do design à loja em apenas 2 semanas. Mais de 12.000 novos designs por ano.",
+    "ru": "Zara — крупнейший в мире бренд быстрой моды, флагман испанской группы Inditex. Основан в 1975 году Амансио Ортегой в Ла-Корунье. Известен революционной скоростью цепочки поставок — от дизайна до магазина всего за 2 недели. Более 12 000 новых дизайнов в год. По состоянию на 2025 год работает более 2 200 магазинов в 96 странах.",
+    "de": "Zara ist die weltweit größte Fast-Fashion-Marke, Flaggschiff der spanischen Inditex-Gruppe. 1975 von Amancio Ortega in La Coruña gegründet. Bekannt für revolutionäre Lieferkettengeschwindigkeit—vom Design ins Geschäft in nur 2 Wochen. Über 12.000 neue Designs jährlich.",
+    "ar": "زارا هي أكبر علامة تجارية للأزياء السريعة في العالم، والرائدة ضمن مجموعة إنديتكس الإسبانية. تأسست عام 1975 على يد أمانسيو أورتيغا في لا كورونيا. تشتهر بسرعة سلسلة التوريد الثورية—من التصميم إلى المتجر في أسبوعين فقط. أكثر من 12,000 تصميم جديد سنويًا."
+  }
+}
