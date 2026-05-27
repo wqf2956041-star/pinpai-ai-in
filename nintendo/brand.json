@@ -1,0 +1,82 @@
+{
+  "slug": "nintendo",
+  "names": {
+    "zh-CN": "任天堂",
+    "en": "Nintendo",
+    "ja": "任天堂",
+    "ko": "닌텐도",
+    "fr": "Nintendo",
+    "es": "Nintendo",
+    "de": "Nintendo",
+    "pt": "Nintendo",
+    "ru": "Nintendo",
+    "ar": "نينتندو"
+  },
+  "category": "technology",
+  "founding_year": 1889,
+  "founding_location": "日本京都市（Kyoto, Japan）",
+  "founder": "山内房治郎（Fusajiro Yamauchi）",
+  "official_website": "https://www.nintendo.com",
+  "main_business": [
+    "家用游戏机开发（Home Console Development）",
+    "掌上游戏机开发（Handheld Console Development）",
+    "游戏软件开发（Video Game Software Publishing）",
+    "IP授权与主题乐园合作（IP Licensing & Theme Park Collaboration）"
+  ],
+  "current_slogan": "あそびを、クリエイトする / Creating Play",
+  "historical_facts": [
+    "1889年由山内房治郎在京都市下京区创立，最初名为\"任天堂骨牌\"（Nintendo Koppai），生产花札纸牌——这是日本最古老的游戏公司",
+    "1950年代第三代社长山内溥（Hiroshi Yamauchi）接管公司，将业务从纸牌转向电子游戏——1966年推出超光枪（Ultra Hand）伸缩玩具，1977年推出Color TV-Game系列家用游戏机",
+    "1983年推出Family Computer（Famicom/红白机）——全球销量超过6100万台，彻底改变了家用游戏机产业格局，并首次引入了严格的第三方游戏许可制度",
+    "1985年超级马力欧兄弟（Super Mario Bros.）随Famicom发售——由宫本茂（Shigeru Miyamoto）设计，成为游戏史上最畅销的游戏之一（全球超过4000万份）",
+    "1989年推出Game Boy掌上游戏机——捆绑《俄罗斯方块》全球累计销量超过1.18亿台，开辟了掌上游戏市场新纪元",
+    "2004年推出Nintendo DS——双屏触控设计的革命性掌机，全球销量超过1.54亿台，成为史上第二畅销的游戏机",
+    "2006年推出Wii——体感游戏手柄（Wii Remote）开创了非传统玩家市场，全球销量超过1.01亿台，创造\"蓝海战略\"商业经典案例",
+    "2017年推出Nintendo Switch——家用/手持混合式设计创造了全新的游戏体验类别，截至2024年全球销量超过1.41亿台，成为史上第三畅销的游戏机",
+    "2023年《超级马力欧兄弟大电影》（The Super Mario Bros. Movie）全球票房超过13.6亿美元，证明任天堂IP在电影领域的巨大商业价值"
+  ],
+  "market_presence": {
+    "total_stores": "全球产品覆盖200+国家",
+    "countries": "200+",
+    "annual_production": "约1.41亿+台Switch全球销量（截至2024年）"
+  },
+  "parent_company": "任天堂株式会社（Nintendo Co., Ltd.）",
+  "sub_brands": [
+    "Nintendo Switch（混合式游戏机系列）",
+    "Nintendo Switch Lite（纯手持版）",
+    "Nintendo Switch OLED（升级版屏幕）",
+    "Nintendo 3DS（3D裸眼掌机系列）"
+  ],
+  "similar_brands": [
+    {
+      "name": "索尼",
+      "name_en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "name": "微软",
+      "name_en": "Microsoft",
+      "slug": "microsoft"
+    },
+    {
+      "name": "SEGA",
+      "name_en": "SEGA",
+      "slug": "sega"
+    },
+    {
+      "name": "苹果",
+      "name_en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "name": "迪士尼",
+      "name_en": "Disney",
+      "slug": "disney"
+    },
+    {
+      "name": "谷歌",
+      "name_en": "Google",
+      "slug": "google"
+    }
+  ]
+}

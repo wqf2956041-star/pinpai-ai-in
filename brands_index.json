@@ -346,5 +346,11 @@
     "name": "佳能",
     "name_en": "Canon",
     "category": "technology"
+  },
+  {
+    "slug": "nintendo",
+    "name": "任天堂",
+    "name_en": "Nintendo",
+    "category": "technology"
   }
 ]
