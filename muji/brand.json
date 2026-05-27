@@ -1,0 +1,66 @@
+{
+  "slug": "muji",
+  "names": {
+    "zh-CN": "无印良品",
+    "en": "Muji",
+    "ja": "無印良品",
+    "ko": "무인양품",
+    "th": "มูจิ",
+    "es": "Muji",
+    "fr": "Muji",
+    "de": "Muji",
+    "it": "Muji",
+    "pt": "Muji"
+  },
+  "category": "fashion",
+  "founding_year": 1980,
+  "founding_location": "日本东京都",
+  "founder": "木内正夫（Masao Kiuchi）／西友百货",
+  "official_website": "https://www.muji.com",
+  "main_business": [
+    "日用杂货零售（Daily Goods Retail）",
+    "生活用品、服装、食品"
+  ],
+  "current_slogan": "これでいい。— 这样就好。",
+  "historical_facts": [
+    "1980年，西友百货创始人堤清二在日本东京推出了\"无印良品\"（Muji）品牌，意为\"没有品牌的好产品\"。",
+    "1983年，无印良品在东京青山开设了第一家独立门店，正式从西友百货的店中店模式独立运营。",
+    "1989年，良品计划株式会社（Ryohin Keikaku Co., Ltd.）正式成立，作为无印良品的运营主体。",
+    "1991年，无印良品在伦敦开设第一家海外门店，开始国际化布局。",
+    "2000年代初，无印良品经历了首次扩张危机——过度扩张导致库存积压、利润下滑。",
+    "2001年，公司进行了大规模的结构改革，收缩门店网络，回归\"简约实用\"的核心品牌理念。",
+    "2008年全球金融危机期间，无印良品凭借其\"低价优质\"的定位逆势增长，在日本和海外市场均取得了显著业绩。",
+    "2010年，无印良品在中国上海开设首家门店，快速扩展中国市场。",
+    "2018年，无印良品在中国市场推出\"MUJI INFILL\"家装服务，拓展生活方式全品类。",
+    "2020年起，无印良品进行了多次价格下调，以更亲民的价格策略适应后疫情时代的消费趋势。",
+    "截至2025年，无印良品在全球约30个国家和地区拥有超过1,000家门店。",
+    "无印良品的设计理念影响深远，其极简主义美学被广泛认为是现代日本设计的代表之一。"
+  ],
+  "market_presence": {
+    "total_stores": "1,000+",
+    "countries": "30"
+  },
+  "parent_company": "良品计划株式会社（Ryohin Keikaku Co., Ltd.）",
+  "similar_brands": [
+    {
+      "name": "优衣库",
+      "name_en": "Uniqlo",
+      "slug": "uniqlo"
+    },
+    {
+      "name": "IKEA",
+      "name_en": "IKEA",
+      "slug": "ikea"
+    },
+    {
+      "name": "Daiso",
+      "name_en": "Daiso",
+      "slug": "daiso"
+    },
+    {
+      "name": "无印良品",
+      "name_en": "Muji",
+      "slug": "muji"
+    }
+  ]
+}
