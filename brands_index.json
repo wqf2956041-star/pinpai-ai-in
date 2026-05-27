@@ -940,5 +940,65 @@
     "name": "BBC",
     "name_en": "BBC",
     "category": "media"
+  },
+  {
+    "slug": "hilton",
+    "name": "希尔顿",
+    "name_en": "Hilton",
+    "category": "hotel"
+  },
+  {
+    "slug": "hyatt",
+    "name": "凯悦",
+    "name_en": "Hyatt",
+    "category": "hotel"
+  },
+  {
+    "slug": "ihg",
+    "name": "洲际酒店",
+    "name_en": "IHG",
+    "category": "hotel"
+  },
+  {
+    "slug": "accor",
+    "name": "雅高",
+    "name_en": "Accor",
+    "category": "hotel"
+  },
+  {
+    "slug": "four-seasons",
+    "name": "四季酒店",
+    "name_en": "Four Seasons",
+    "category": "hotel"
+  },
+  {
+    "slug": "shangri-la",
+    "name": "香格里拉",
+    "name_en": "Shangri-La Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "mandarin-oriental",
+    "name": "文华东方",
+    "name_en": "Mandarin Oriental",
+    "category": "hotel"
+  },
+  {
+    "slug": "ritz-carlton",
+    "name": "丽思卡尔顿",
+    "name_en": "Ritz-Carlton",
+    "category": "hotel"
+  },
+  {
+    "slug": "wyndham",
+    "name": "温德姆",
+    "name_en": "Wyndham",
+    "category": "hotel"
+  },
+  {
+    "slug": "emirates",
+    "name": "阿联酋航空",
+    "name_en": "Emirates",
+    "category": "airline"
   }
 ]
