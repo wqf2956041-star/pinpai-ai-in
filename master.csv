@@ -63,7 +63,7 @@ handm,H&M,H&M,fashion,Sweden,true
 ikea,IKEA,宜家,retail,Sweden,true
 lvmh,LVMH,路威酩轩,fashion-luxury,France,true
 kering,Kering,开云,fashion-luxury,France,true
-lacoste,true,鳄鱼,fashion,France,true
+lacoste,Lacoste,鳄鱼,fashion,France,true
 ralph-lauren,Ralph Lauren,拉夫·劳伦,fashion,United States,true
 calvin-klein,Calvin Klein,卡尔文·克莱因,fashion,United States,true
 tom-ford,Tom Ford,汤姆·福特,fashion-luxury,United States,true
@@ -81,3 +81,6 @@ lancme,Lancôme,兰蔻,beauty,France,true
 bottega-veneta,Bottega Veneta,Bottega Veneta,fashion-luxury,Italy,true
 bulgari,Bulgari,Bulgari,fashion-luxury,Italy,true
 christian-dior,Christian Dior,Christian Dior,fashion-luxury,France,true
+marriott,Marriott,万豪酒店,hotel,United States,true
+hennessy,Hennessy,轩尼诗,liquor,France,true
+moet-chandon,Moët & Chandon,酩悦香槟,liquor,France,true

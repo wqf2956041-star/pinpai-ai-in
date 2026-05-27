@@ -311,36 +311,40 @@
    311|{name:"红牛",name_en:"Red Bull",slug:"red-bull",category:"food",t:2},
    312|{name:"怪兽",name_en:"Monster Energy",slug:"monster-energy",category:"food",t:2},
    313|{name:"欧莱雅",name_en:"L'Oréal",slug:"loral",category:"beauty",t:2},
-   314|{name:"雅诗兰黛",name_en:"Estée Lauder",slug:"este-lauder",category:"beauty",t:2},
-   315|{name:"资生堂",name_en:"Shiseido",slug:"shiseido",category:"beauty",t:2},
-   316|{name:"兰蔻",name_en:"Lancôme",slug:"lancme",category:"beauty",t:2}
-   317|];
-   318|
-   319|var categoryNames = {
-   320|    "zh-CN":{"fashion":"时尚","automotive":"汽车","electronics":"电子","food":"食品","beauty":"美妆","jewelry":"珠宝","watch":"腕表","technology":"科技","materials":"材料","sport":"运动","toy":"玩具","fashion-luxury":"奢侈品"},
-   321|    "en":{"fashion":"Fashion","automotive":"Automotive","electronics":"Electronics","food":"Food & Beverage","beauty":"Beauty","jewelry":"Jewelry","watch":"Watchmaking","technology":"Technology","materials":"Materials","sport":"Sports","toy":"Toys","fashion-luxury":"Luxury"},
-   322|    "ja":{"fashion":"ファッション","automotive":"自動車","electronics":"電子機器","food":"食品","beauty":"美容","jewelry":"ジュエリー","watch":"時計","technology":"テクノロジー","materials":"素材","sport":"スポーツ","toy":"おもちゃ","fashion-luxury":"ラグジュアリー"},
-   323|    "ko":{"fashion":"패션","automotive":"자동차","electronics":"전자","food":"식품","beauty":"뷰티","jewelry":"주얼리","watch":"시계","technology":"기술","materials":"재료","sport":"스포츠","toy":"장난감","fashion-luxury":"럭셔리"},
-   324|    "fr":{"fashion":"Mode","automotive":"Automobile","electronics":"Électronique","food":"Alimentation","beauty":"Beauté","jewelry":"Bijouterie","watch":"Horlogerie","technology":"Technologie","materials":"Matériaux","sport":"Sport","toy":"Jouets","fashion-luxury":"Luxe"},
-   325|    "es":{"fashion":"Moda","automotive":"Automotriz","electronics":"Electrónica","food":"Alimentos","beauty":"Belleza","jewelry":"Joyería","watch":"Relojería","technology":"Tecnología","materials":"Materiales","sport":"Deportes","toy":"Juguetes","fashion-luxury":"Lujo"},
-   326|    "de":{"fashion":"Mode","automotive":"Automobil","electronics":"Elektronik","food":"Lebensmittel","beauty":"Schönheit","jewelry":"Schmuck","watch":"Uhren","technology":"Technologie","materials":"Werkstoffe","sport":"Sport","toy":"Spielzeug","fashion-luxury":"Luxus"},
-   327|    "pt":{"fashion":"Moda","automotive":"Automotivo","electronics":"Eletrônicos","food":"Alimentos","beauty":"Beleza","jewelry":"Joalheria","watch":"Relojoaria","technology":"Tecnologia","materials":"Materiais","sport":"Esportes","toy":"Brinquedos","fashion-luxury":"Luxo"},
-   328|    "ru":{"fashion":"Мода","automotive":"Автомобили","electronics":"Электроника","food":"Продукты","beauty":"Красота","jewelry":"Ювелирные изделия","watch":"Часовое дело","technology":"Технологии","materials":"Материалы","sport":"Спорт","toy":"Игрушки","fashion-luxury":"Люкс"},
-   329|    "ar":{"fashion":"أزياء","automotive":"سيارات","electronics":"إلكترونيات","food":"أطعمة","beauty":"جمال","jewelry":"مجوهرات","watch":"ساعات","technology":"تقنية","materials":"مواد","sport":"رياضة","toy":"ألعاب","fashion-luxury":"فخامة"},
-   330|};
-   331|
-   332|function getLangLabel(code) {
-   333|    var labels = {'zh-CN':'中文','en':'English','ja':'日本語','ko':'한국어','fr':'Français','es':'Español','de':'Deutsch','pt':'Português','ru':'Русский','ar':'العربية'};
-   334|    return labels[code] || code;
-   335|}
-   336|
-   337|function switchLang(code) {
-   338|    // 更新标签页
-   339|    var tabs = document.querySelectorAll('.lang-tab');
-   340|    tabs.forEach(function(t) { t.classList.remove('active'); });
-   341|    tabs.forEach(function(t) {
-   342|        if(t.textContent.trim() === getLangLabel(code)) t.classList.add('active');
-   343|    });
+{name:"雅诗兰黛",name_en:"Estée Lauder",slug:"este-lauder",category:"beauty",t:2},
+{name:"资生堂",name_en:"Shiseido",slug:"shiseido",category:"beauty",t:2},
+{name:"兰蔻",name_en:"Lancôme",slug:"lancme",category:"beauty",t:2},
+{name:"万豪酒店",name_en:"Marriott International",slug:"marriott",category:"hotel",t:2},
+{name:"轩尼诗",name_en:"Hennessy",slug:"hennessy",category:"liquor",t:2},
+{name:"酩悦香槟",name_en:"Moët & Chandon",slug:"moet-chandon",category:"liquor",t:2}
+];
+
+var categoryNames = {
+    "zh-CN":{"fashion":"时尚","automotive":"汽车","electronics":"电子","food":"食品","beauty":"美妆","jewelry":"珠宝","watch":"腕表","technology":"科技","materials":"材料","sport":"运动","toy":"玩具","fashion-luxury":"奢侈品","hotel":"酒店","liquor":"酒类"},
+    "en":{"fashion":"Fashion","automotive":"Automotive","electronics":"Electronics","food":"Food &amp; Beverage","beauty":"Beauty","jewelry":"Jewelry","watch":"Watchmaking","technology":"Technology","materials":"Materials","sport":"Sports","toy":"Toys","fashion-luxury":"Luxury","hotel":"Hotel","liquor":"Liquor"},
+    "ja":{"fashion":"ファッション","automotive":"自動車","electronics":"電子機器","food":"食品","beauty":"美容","jewelry":"ジュエリー","watch":"時計","technology":"テクノロジー","materials":"素材","sport":"スポーツ","toy":"おもちゃ","fashion-luxury":"ラグジュアリー","hotel":"ホテル","liquor":"酒類"},
+    "ko":{"fashion":"패션","automotive":"자동차","electronics":"전자","food":"식품","beauty":"뷰티","jewelry":"주얼리","watch":"시계","technology":"기술","materials":"재료","sport":"스포츠","toy":"장난감","fashion-luxury":"럭셔리","hotel":"호텔","liquor":"주류"},
+    "fr":{"fashion":"Mode","automotive":"Automobile","electronics":"Électronique","food":"Alimentation","beauty":"Beauté","jewelry":"Bijouterie","watch":"Horlogerie","technology":"Technologie","materials":"Matériaux","sport":"Sport","toy":"Jouets","fashion-luxury":"Luxe","hotel":"Hôtel","liquor":"Alcools"},
+    "es":{"fashion":"Moda","automotive":"Automotriz","electronics":"Electrónica","food":"Alimentos","beauty":"Belleza","jewelry":"Joyería","watch":"Relojería","technology":"Tecnología","materials":"Materiales","sport":"Deportes","toy":"Juguetes","fashion-luxury":"Lujo","hotel":"Hotel","liquor":"Licores"},
+    "de":{"fashion":"Mode","automotive":"Automobil","electronics":"Elektronik","food":"Lebensmittel","beauty":"Schönheit","jewelry":"Schmuck","watch":"Uhren","technology":"Technologie","materials":"Werkstoffe","sport":"Sport","toy":"Spielzeug","fashion-luxury":"Luxus","hotel":"Hotel","liquor":"Spirituosen"},
+    "pt":{"fashion":"Moda","automotive":"Automotivo","electronics":"Eletrônicos","food":"Alimentos","beauty":"Beleza","jewelry":"Joalheria","watch":"Relojoaria","technology":"Tecnologia","materials":"Materiais","sport":"Esportes","toy":"Brinquedos","fashion-luxury":"Luxo","hotel":"Hotel","liquor":"Bebidas Alcoólicas"},
+    "ru":{"fashion":"Мода","automotive":"Автомобили","electronics":"Электроника","food":"Продукты","beauty":"Красота","jewelry":"Ювелирные изделия","watch":"Часовое дело","technology":"Технологии","materials":"Материалы","sport":"Спорт","toy":"Игрушки","fashion-luxury":"Люкс","hotel":"Отель","liquor":"Алкоголь"},
+    "ar":{"fashion":"أزياء","automotive":"سيارات","electronics":"إلكترونيات","food":"أطعمة","beauty":"جمال","jewelry":"مجوهرات","watch":"ساعات","technology":"تقنية","materials":"مواد","sport":"رياضة","toy":"ألعاب","fashion-luxury":"فخامة","hotel":"فنادق","liquor":"مشروبات كحولية"}
+};
+
+function getLangLabel(code) {
+    var labels = {'zh-CN':'中文','en':'English','ja':'日本語','ko':'한국어','fr':'Français','es':'Español','de':'Deutsch','pt':'Português','ru':'Русский','ar':'العربية'};
+    return labels[code] || code;
+}
+
+function switchLang(code) {
+    // 更新标签页
+    var tabs = document.querySelectorAll('.lang-tab');
+    tabs.forEach(function(t) { t.classList.remove('active'); });
+    tabs.forEach(function(t) {
+        if(t.textContent.trim() === getLangLabel(code)) t.classList.add('active');
+    });
+
    344|
    345|    // 更新公告
    346|    var at = announceTexts[code] || announceTexts['zh-CN'];
