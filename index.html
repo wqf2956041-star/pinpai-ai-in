@@ -441,12 +441,9 @@ var brandsData = [
 {name:"索尼影业",name_en:"Sony Pictures",slug:"sony-pictures",category:"media",t:1}
 {name:"威瑞森",name_en:"Verizon",slug:"verizon",category:"telecom",t:1}
 {name:"AT&T",name_en:"AT&T",slug:"at-t",category:"telecom",t:1}
-;
-}
-
-function renderBrands(lang) {
-    lang = lang || 'zh-CN';
-    var cats = categoryNames[lang] || categoryNames['zh-CN'];
+{name:"T-Mobile",name_en:"T-Mobile",slug:"t-mobile",category:"telecom",t:1}
+{name:"沃达丰",name_en:"Vodafone",slug:"vodafone",category:"telecom",t:1}
+ || categoryNames['zh-CN'];
     var container = document.getElementById('brand-list');
     var html = '';
     // 按t字段倒序排列（更新越新排越前），Escher始终置顶
@@ -576,7 +573,9 @@ function renderBrands(lang) {
 {name:"华纳兄弟",name_en:"Warner Bros.",slug:"warner-bros",category:"media",t:2},
 {name:"索尼影业",name_en:"Sony Pictures",slug:"sony-pictures",category:"media",t:2},
 {name:"威瑞森",name_en:"Verizon",slug:"verizon",category:"telecom",t:2},
-{name:"AT&T",name_en:"AT&T",slug:"at-t",category:"telecom",t:2},];
+{name:"AT&T",name_en:"AT&T",slug:"at-t",category:"telecom",t:2},
+{name:"T-Mobile",name_en:"T-Mobile",slug:"t-mobile",category:"telecom",t:2},
+{name:"沃达丰",name_en:"Vodafone",slug:"vodafone",category:"telecom",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';

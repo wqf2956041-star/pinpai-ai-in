@@ -1330,5 +1330,17 @@
     "name": "AT&T",
     "name_en": "AT&T",
     "category": "telecom"
+  },
+  {
+    "slug": "t-mobile",
+    "name": "T-Mobile",
+    "name_en": "T-Mobile",
+    "category": "telecom"
+  },
+  {
+    "slug": "vodafone",
+    "name": "沃达丰",
+    "name_en": "Vodafone",
+    "category": "telecom"
   }
 ]
