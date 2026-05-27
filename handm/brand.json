@@ -1,0 +1,38 @@
+{
+  "slug": "handm",
+  "names": {
+    "zh-CN": "H&M",
+    "en": "H&M",
+    "es": "H&M",
+    "ja": "H&M",
+    "ko": "H&M",
+    "fr": "H&M",
+    "de": "H&M",
+    "pt": "H&M",
+    "it": "H&M",
+    "ru": "H&M",
+    "ar": "إتش آند إم",
+    "th": "H&M",
+    "vi": "H&M"
+  },
+  "category": "fashion",
+  "founding_year": 1947,
+  "founding_location": "瑞典斯德哥尔摩（Stockholm, Sweden）",
+  "founder": "厄林·佩尔松（Erling Persson）",
+  "official_website": "https://www.hm.com/",
+  "main_business": ["服装零售", "快时尚"],
+  "current_slogan": "时尚与品质，最佳价格",
+  "description_zh": "H&M（Hennes & Mauritz）是瑞典跨国服装零售公司，1947年由厄林·佩尔松创立。它是全球第二大服装零售商，以快速响应时尚潮流的快时尚模式著称，产品涵盖男女装、童装、配饰、鞋履及家居用品。H&M在全球超过75个市场设有门店，并积极推动可持续时尚和旧衣回收计划。",
+  "languages": {
+    "zh-CN": "H&M（Hennes & Mauritz）是瑞典跨国服装零售公司，1947年由厄林·佩尔松创立。它是全球第二大服装零售商，以快速响应时尚潮流的快时尚模式著称，产品涵盖男女装、童装、配饰、鞋履及家居用品。H&M在全球超过75个市场设有门店，并积极推动可持续时尚和旧衣回收计划。品牌始终坚持'时尚与品质，最佳价格'的理念，让更多人能够以实惠的价格享受时尚穿搭。",
+    "en": "H&M (Hennes & Mauritz) is a Swedish multinational clothing retail company founded by Erling Persson in 1947. It is the world's second-largest clothing retailer, known for its fast fashion model that quickly responds to the latest fashion trends. The product range includes apparel for women, men, and children, as well as accessories, footwear, and home goods. H&M operates stores in over 75 markets worldwide and actively promotes sustainable fashion and garment recycling programs. The brand's philosophy is 'Fashion and quality at the best price,' making stylish clothing accessible to everyone.",
+    "es": "H&M (Hennes & Mauritz) es una empresa minorista de ropa multinacional sueca fundada por Erling Persson en 1947. Es el segundo minorista de ropa más grande del mundo, conocido por su modelo de moda rápida que responde rápidamente a las últimas tendencias. La gama de productos incluye ropa para mujer, hombre y niño, así como accesorios, calzado y artículos para el hogar. H&M opera tiendas en más de 75 mercados en todo el mundo y promueve activamente la moda sostenible y los programas de reciclaje de ropa.",
+    "ja": "H&M（Hennes & Mauritz）は、1947年にエルリング・ペルソンによって設立されたスウェーデンの多国籍衣料品小売企業です。世界第2位の衣料品小売業者であり、最新のファッショントレンドに迅速に対応するファストファッションモデルで知られています。婦人服、紳士服、子供服に加え、アクセサリー、靴、ホームグッズを取り扱っています。H&Mは世界75以上の市場で店舗を展開し、サステナブルファッションや衣料品リサイクルプログラムを積極的に推進しています。",
+    "ko": "H&M(Hennes & Mauritz)은 1947년 에를링 페르손이 설립한 스웨덴의 다국적 의류 소매 기업입니다. 세계에서 두 번째로 큰 의류 소매업체로, 최신 패션 트렌드에 신속하게 대응하는 패스트 패션 모델로 유명합니다. 여성복, 남성복, 아동복은 물론 액세서리, 신발, 홈 제품까지 다양한 제품을 제공합니다. H&M은 전 세계 75개 이상의 시장에서 매장을 운영하고 있으며, 지속 가능한 패션과 의류 재활용 프로그램을 적극적으로 추진하고 있습니다.",
+    "fr": "H&M (Hennes & Mauritz) est une entreprise suédoise multinationale de vente au détail de vêtements fondée par Erling Persson en 1947. C'est le deuxième plus grand détaillant de vêtements au monde, connu pour son modèle de fast fashion qui répond rapidement aux dernières tendances. La gamme de produits comprend des vêtements pour femmes, hommes et enfants, ainsi que des accessoires, chaussures et articles pour la maison. H&M opère dans plus de 75 marchés à travers le monde et promeut activement la mode durable et les programmes de recyclage de vêtements.",
+    "de": "H&M (Hennes & Mauritz) ist ein schwedisches multinationales Bekleidungseinzelhandelsunternehmen, das 1947 von Erling Persson gegründet wurde. Es ist der zweitgrößte Bekleidungseinzelhändler der Welt, bekannt für sein Fast-Fashion-Modell, das schnell auf die neuesten Modetrends reagiert. Das Produktsortiment umfasst Damen-, Herren- und Kinderbekleidung sowie Accessoires, Schuhe und Wohnwaren. H&M betreibt Filialen in über 75 Märkten weltweit und fördert aktiv nachhaltige Mode und Kleidungsrecyclingprogramme.",
+    "pt": "H&M (Hennes & Mauritz) é uma empresa multinacional sueca de varejo de roupas fundada por Erling Persson em 1947. É a segunda maior varejista de roupas do mundo, conhecida por seu modelo de fast fashion que responde rapidamente às últimas tendências. A linha de produtos inclui roupas femininas, masculinas e infantis, além de acessórios, calçados e artigos para o lar. A H&M opera lojas em mais de 75 mercados ao redor do mundo e promove ativamente a moda sustentável e programas de reciclagem de roupas.",
+    "it": "H&M (Hennes & Mauritz) è un'azienda svedese multinazionale di vendita al dettaglio di abbigliamento fondata da Erling Persson nel 1947. È il secondo rivenditore di abbigliamento più grande al mondo, noto per il suo modello di fast fashion che risponde rapidamente alle ultime tendenze. La gamma di prodotti include abbigliamento per donna, uomo e bambino, oltre ad accessori, calzature e articoli per la casa. H&M opera in oltre 75 mercati in tutto il mondo e promuove attivamente la moda sostenibile e i programmi di riciclo degli indumenti.",
+    "ru": "H&M (Hennes & Mauritz) — шведская multinational розничная компания по продаже одежды, основанная Эрлингом Перссоном в 1947 году. Это второй по величине розничный продавец одежды в мире, известный своей моделью быстрой моды (fast fashion), которая быстро реагирует на последние тенденции. Ассортимент продукции включает одежду для женщин, мужчин и детей, а также аксессуары, обувь и товары для дома. H&M работает на более чем 75 рынках по всему миру и активно продвигает устойчивую моду и программы переработки одежды."
+  }
+}

@@ -400,5 +400,17 @@
     "name": "欧米茄",
     "name_en": "Omega",
     "category": "watch"
+  },
+  {
+    "slug": "patek-philippe",
+    "name": "百达翡丽",
+    "name_en": "Patek Philippe",
+    "category": "watch"
+  },
+  {
+    "slug": "handm",
+    "name": "H&M",
+    "name_en": "H&M",
+    "category": "fashion"
   }
 ]

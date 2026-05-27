@@ -57,9 +57,9 @@ cartier,Cartier,卡地亚,jewelry,France,true
 tiffany-and-co,Tiffany & Co.,蒂芙尼,jewelry,United States,true
 rolex,Rolex,劳力士,watch,Switzerland,true
 omega,Omega,欧米茄,watch,Switzerland,true
-patek-philippe,Patek Philippe,百达翡丽,watch,Switzerland,false
+patek-philippe,Patek Philippe,百达翡丽,watch,Switzerland,true
 zara,Zara,飒拉,fashion,Spain,false
-handm,H&M,H&M,fashion,Sweden,false
+handm,H&M,H&M,fashion,Sweden,true
 ikea,IKEA,宜家,retail,Sweden,false
 lvmh,LVMH,路威酩轩,fashion-luxury,France,false
 kering,Kering,开云,fashion-luxury,France,false
