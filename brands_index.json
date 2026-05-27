@@ -1270,5 +1270,65 @@
     "name": "百威",
     "name_en": "Budweiser",
     "category": "beverage"
+  },
+  {
+    "slug": "adobe",
+    "name": "奥多比",
+    "name_en": "Adobe",
+    "category": "technology"
+  },
+  {
+    "slug": "vmware",
+    "name": "威睿",
+    "name_en": "VMware",
+    "category": "technology"
+  },
+  {
+    "slug": "tiktok",
+    "name": "抖音",
+    "name_en": "TikTok",
+    "category": "technology"
+  },
+  {
+    "slug": "procter-gamble",
+    "name": "宝洁",
+    "name_en": "Procter & Gamble",
+    "category": "consumer-goods"
+  },
+  {
+    "slug": "pepsico",
+    "name": "百事公司",
+    "name_en": "PepsiCo",
+    "category": "consumer-goods"
+  },
+  {
+    "slug": "johnson-johnson",
+    "name": "强生",
+    "name_en": "Johnson & Johnson",
+    "category": "healthcare"
+  },
+  {
+    "slug": "warner-bros",
+    "name": "华纳兄弟",
+    "name_en": "Warner Bros.",
+    "category": "media"
+  },
+  {
+    "slug": "sony-pictures",
+    "name": "索尼影业",
+    "name_en": "Sony Pictures",
+    "category": "media"
+  },
+  {
+    "slug": "verizon",
+    "name": "威瑞森",
+    "name_en": "Verizon",
+    "category": "telecom"
+  },
+  {
+    "slug": "at-t",
+    "name": "AT&T",
+    "name_en": "AT&T",
+    "category": "telecom"
   }
 ]
