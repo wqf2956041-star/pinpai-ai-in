@@ -1762,5 +1762,65 @@
     "name": "Bier Hoi Brewing Company",
     "name_en": "Bier Hoi Brewing Company",
     "category": "beverage"
+  },
+  {
+    "slug": "birra-kaon",
+    "name": "Birra Kaon",
+    "name_en": "Birra Kaon",
+    "category": "beverage"
+  },
+  {
+    "slug": "birra-kora",
+    "name": "Birra Korça",
+    "name_en": "Birra Korça",
+    "category": "beverage"
+  },
+  {
+    "slug": "birra-stela",
+    "name": "Birra Stela",
+    "name_en": "Birra Stela",
+    "category": "beverage"
+  },
+  {
+    "slug": "birra-tirana",
+    "name": "Birra Tirana",
+    "name_en": "Birra Tirana",
+    "category": "beverage"
+  },
+  {
+    "slug": "birzeit-brewery",
+    "name": "Birzeit Brewery",
+    "name_en": "Birzeit Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "boon-rawd-brewery",
+    "name": "Boon Rawd Brewery",
+    "name_en": "Boon Rawd Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "brasserie-dachouffe",
+    "name": "Brasserie d'Achouffe",
+    "name_en": "Brasserie d'Achouffe",
+    "category": "beverage"
+  },
+  {
+    "slug": "brasseries-de-bourbon",
+    "name": "Brasseries de Bourbon",
+    "name_en": "Brasseries de Bourbon",
+    "category": "beverage"
+  },
+  {
+    "slug": "brewery-puntigam",
+    "name": "Brewery Puntigam",
+    "name_en": "Brewery Puntigam",
+    "category": "beverage"
+  },
+  {
+    "slug": "brooklyn-brewery",
+    "name": "Brooklyn Brewery",
+    "name_en": "Brooklyn Brewery",
+    "category": "beverage"
   }
 ]
