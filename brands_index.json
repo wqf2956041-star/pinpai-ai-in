@@ -382,5 +382,11 @@
     "name": "圣罗兰",
     "name_en": "Yves Saint Laurent",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "tiffany-and-co",
+    "name": "蒂芙尼",
+    "name_en": "Tiffany & Co.",
+    "category": "jewelry"
   }
 ]
