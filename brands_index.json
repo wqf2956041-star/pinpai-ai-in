@@ -352,5 +352,11 @@
     "name": "任天堂",
     "name_en": "Nintendo",
     "category": "technology"
+  },
+  {
+    "slug": "uniqlo",
+    "name": "优衣库",
+    "name_en": "Uniqlo",
+    "category": "fashion"
   }
 ]
