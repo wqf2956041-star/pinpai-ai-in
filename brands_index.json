@@ -2242,5 +2242,65 @@
     "name": "Alor (company)",
     "name_en": "Alor (company)",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "altagamma",
+    "name": "Altagamma",
+    "name_en": "Altagamma",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "aman-resorts",
+    "name": "Aman Resorts",
+    "name_en": "Aman Resorts",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ami-paris",
+    "name": "AMI Paris",
+    "name_en": "AMI Paris",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "amouage",
+    "name": "Amouage",
+    "name_en": "Amouage",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "andre-garcia-brand",
+    "name": "Andre Garcia (brand)",
+    "name_en": "Andre Garcia (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "anonimo",
+    "name": "Anonimo",
+    "name_en": "Anonimo",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "arcadia-watches",
+    "name": "Arcadia Watches",
+    "name_en": "Arcadia Watches",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "armand-nicolet",
+    "name": "Armand Nicolet",
+    "name_en": "Armand Nicolet",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "arriva-max",
+    "name": "Arriva Max",
+    "name_en": "Arriva Max",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "arriva-sapphire",
+    "name": "Arriva Sapphire",
+    "name_en": "Arriva Sapphire",
+    "category": "fashion-luxury"
   }
 ]
