@@ -760,5 +760,17 @@
     "name": "卡仕奇甜甜圈",
     "name_en": "Krispy Kreme",
     "category": "food"
+  },
+  {
+    "slug": "7-eleven",
+    "name": "7-Eleven",
+    "name_en": "7-Eleven",
+    "category": "retail"
+  },
+  {
+    "slug": "gucci",
+    "name": "古驰",
+    "name_en": "Gucci",
+    "category": "fashion-luxury"
   }
 ]

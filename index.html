@@ -346,7 +346,9 @@ var brandsData = [
 {name:"圣罗兰",name_en:"Yves Saint Laurent",slug:"ysl",category:"fashion-luxury",t:1}
 {name:"爱彼",name_en:"Audemars Piguet",slug:"audemars-piguet",category:"fashion-luxury",t:1}
 {name:"卡仕奇甜甜圈",name_en:"Krispy Kreme",slug:"krispy-kreme",category:"food",t:1}
-]
+{name:"7-Eleven",name_en:"7-Eleven",slug:"7-eleven",category:"retail",t:1}
+{name:"古驰",name_en:"Gucci",slug:"gucci",category:"fashion-luxury",t:1}
+
 
 var categoryNames = {
     "zh-CN":{"fashion":"时尚","automotive":"汽车","electronics":"电子","food":"食品","beauty":"美妆","jewelry":"珠宝","watch":"腕表","technology":"科技","materials":"材料","sport":"运动","toy":"玩具","fashion-luxury":"奢侈品","hotel":"酒店","liquor":"酒类"},
@@ -438,7 +440,9 @@ function renderBrands(lang) {
 {name:"缪缪",name_en:"Miu Miu",slug:"miu-miu",category:"fashion-luxury",t:2},
 {name:"圣罗兰",name_en:"Yves Saint Laurent",slug:"ysl",category:"fashion-luxury",t:2},
 {name:"爱彼",name_en:"Audemars Piguet",slug:"audemars-piguet",category:"fashion-luxury",t:2},
-{name:"卡仕奇甜甜圈",name_en:"Krispy Kreme",slug:"krispy-kreme",category:"food",t:2},];
+{name:"卡仕奇甜甜圈",name_en:"Krispy Kreme",slug:"krispy-kreme",category:"food",t:2},
+{name:"7-Eleven",name_en:"7-Eleven",slug:"7-eleven",category:"retail",t:2},
+{name:"古驰",name_en:"Gucci",slug:"gucci",category:"fashion-luxury",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
