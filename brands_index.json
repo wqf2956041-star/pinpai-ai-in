@@ -1522,5 +1522,65 @@
     "name": "Agip",
     "name_en": "Agip",
     "category": "general"
+  },
+  {
+    "slug": "agnesi-company",
+    "name": "Agnesi (company)",
+    "name_en": "Agnesi (company)",
+    "category": "general"
+  },
+  {
+    "slug": "agusta",
+    "name": "Agusta",
+    "name_en": "Agusta",
+    "category": "general"
+  },
+  {
+    "slug": "agv-helmet-manufacturer",
+    "name": "AGV (helmet manufacturer)",
+    "name_en": "AGV (helmet manufacturer)",
+    "category": "general"
+  },
+  {
+    "slug": "aiazzone",
+    "name": "Aiazzone",
+    "name_en": "Aiazzone",
+    "category": "general"
+  },
+  {
+    "slug": "air-italy-20182020",
+    "name": "Air Italy (2018–2020)",
+    "name_en": "Air Italy (2018–2020)",
+    "category": "general"
+  },
+  {
+    "slug": "alan",
+    "name": "ALAN",
+    "name_en": "ALAN",
+    "category": "general"
+  },
+  {
+    "slug": "alenia-aermacchi",
+    "name": "Alenia Aermacchi",
+    "name_en": "Alenia Aermacchi",
+    "category": "general"
+  },
+  {
+    "slug": "alenia-aeronautica",
+    "name": "Alenia Aeronautica",
+    "name_en": "Alenia Aeronautica",
+    "category": "general"
+  },
+  {
+    "slug": "alessi-italian-company",
+    "name": "Alessi (Italian company)",
+    "name_en": "Alessi (Italian company)",
+    "category": "general"
+  },
+  {
+    "slug": "alfa-romeo",
+    "name": "Alfa Romeo",
+    "name_en": "Alfa Romeo",
+    "category": "general"
   }
 ]
