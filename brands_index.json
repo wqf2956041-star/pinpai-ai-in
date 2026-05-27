@@ -1642,5 +1642,65 @@
     "name": "C-Band Alliance",
     "name_en": "C-Band Alliance",
     "category": "telecom"
+  },
+  {
+    "slug": "call-through-telecom",
+    "name": "Call-through telecom",
+    "name_en": "Call-through telecom",
+    "category": "telecom"
+  },
+  {
+    "slug": "electronic-beats",
+    "name": "Electronic Beats",
+    "name_en": "Electronic Beats",
+    "category": "telecom"
+  },
+  {
+    "slug": "freedomfi",
+    "name": "FreedomFi",
+    "name_en": "FreedomFi",
+    "category": "telecom"
+  },
+  {
+    "slug": "interexchange-carrier",
+    "name": "Interexchange carrier",
+    "name_en": "Interexchange carrier",
+    "category": "telecom"
+  },
+  {
+    "slug": "iq-group",
+    "name": "IQ Group",
+    "name_en": "IQ Group",
+    "category": "telecom"
+  },
+  {
+    "slug": "lotusflare",
+    "name": "LotusFlare",
+    "name_en": "LotusFlare",
+    "category": "telecom"
+  },
+  {
+    "slug": "network-service-provider",
+    "name": "Network service provider",
+    "name_en": "Network service provider",
+    "category": "telecom"
+  },
+  {
+    "slug": "onem2m",
+    "name": "OneM2M",
+    "name_en": "OneM2M",
+    "category": "telecom"
+  },
+  {
+    "slug": "really-wireless",
+    "name": "Really Wireless",
+    "name_en": "Really Wireless",
+    "category": "telecom"
+  },
+  {
+    "slug": "vodafone-ukraine",
+    "name": "Vodafone Ukraine",
+    "name_en": "Vodafone Ukraine",
+    "category": "telecom"
   }
 ]
