@@ -2122,5 +2122,65 @@
     "name": "Black Rifle Coffee Company",
     "name_en": "Black Rifle Coffee Company",
     "category": "food"
+  },
+  {
+    "slug": "bluestone-lane",
+    "name": "Bluestone Lane",
+    "name_en": "Bluestone Lane",
+    "category": "food"
+  },
+  {
+    "slug": "bokar-coffee",
+    "name": "Bokar Coffee",
+    "name_en": "Bokar Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "boss-coffee",
+    "name": "Boss Coffee",
+    "name_en": "Boss Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "bridgehead-coffee",
+    "name": "Bridgehead Coffee",
+    "name_en": "Bridgehead Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "brown-coffee",
+    "name": "Brown Coffee",
+    "name_en": "Brown Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "bushells",
+    "name": "Bushells",
+    "name_en": "Bushells",
+    "category": "food"
+  },
+  {
+    "slug": "caf-amazon",
+    "name": "Café Amazon",
+    "name_en": "Café Amazon",
+    "category": "food"
+  },
+  {
+    "slug": "caf-britt",
+    "name": "Café Britt",
+    "name_en": "Café Britt",
+    "category": "food"
+  },
+  {
+    "slug": "caf-bustelo",
+    "name": "Café Bustelo",
+    "name_en": "Café Bustelo",
+    "category": "food"
+  },
+  {
+    "slug": "caf-coffee-day",
+    "name": "Café Coffee Day",
+    "name_en": "Café Coffee Day",
+    "category": "food"
   }
 ]
