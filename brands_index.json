@@ -1942,5 +1942,65 @@
     "name": "Alvaria",
     "name_en": "Alvaria",
     "category": "general"
+  },
+  {
+    "slug": "amazon-company",
+    "name": "Amazon (company)",
+    "name_en": "Amazon (company)",
+    "category": "general"
+  },
+  {
+    "slug": "amelia-company",
+    "name": "Amelia (company)",
+    "name_en": "Amelia (company)",
+    "category": "general"
+  },
+  {
+    "slug": "american-sugar-refining",
+    "name": "American Sugar Refining",
+    "name_en": "American Sugar Refining",
+    "category": "general"
+  },
+  {
+    "slug": "amgen",
+    "name": "Amgen",
+    "name_en": "Amgen",
+    "category": "general"
+  },
+  {
+    "slug": "apple-inc",
+    "name": "Apple Inc.",
+    "name_en": "Apple Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "applied-spectral-imaging",
+    "name": "Applied Spectral Imaging",
+    "name_en": "Applied Spectral Imaging",
+    "category": "general"
+  },
+  {
+    "slug": "aramark",
+    "name": "Aramark",
+    "name_en": "Aramark",
+    "category": "general"
+  },
+  {
+    "slug": "associated-oil-company",
+    "name": "Associated Oil Company",
+    "name_en": "Associated Oil Company",
+    "category": "general"
+  },
+  {
+    "slug": "att",
+    "name": "AT&T",
+    "name_en": "AT&T",
+    "category": "general"
+  },
+  {
+    "slug": "avaya",
+    "name": "Avaya",
+    "name_en": "Avaya",
+    "category": "general"
   }
 ]
