@@ -394,5 +394,11 @@
     "name": "劳力士",
     "name_en": "Rolex",
     "category": "watch"
+  },
+  {
+    "slug": "omega",
+    "name": "欧米茄",
+    "name_en": "Omega",
+    "category": "watch"
   }
 ]
