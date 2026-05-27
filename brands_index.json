@@ -436,5 +436,11 @@
     "name": "宜家",
     "name_en": "IKEA",
     "category": "retail"
+  },
+  {
+    "slug": "lacoste",
+    "name": "鳄鱼",
+    "name_en": "Lacoste",
+    "category": "fashion"
   }
 ]
