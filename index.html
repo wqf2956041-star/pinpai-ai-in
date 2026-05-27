@@ -395,8 +395,17 @@ var brandsData = [
 {name:"英国航空",name_en:"British Airways",slug:"british-airways",category:"airline",t:1}
 {name:"澳洲航空",name_en:"Qantas",slug:"qantas",category:"airline",t:1}
 {name:"法国航空",name_en:"Air France",slug:"air-france",category:"airline",t:1}
-;
-    document.getElementById('site-subtitle').textContent = titles[code] + ' · pinpai.ai.in';
+{name:"彪马",name_en:"Puma",slug:"puma",category:"sportswear",t:1}
+{name:"安德玛",name_en:"Under Armour",slug:"under-armour",category:"sportswear",t:1}
+{name:"新百伦",name_en:"New Balance",slug:"new-balance",category:"sportswear",t:1}
+{name:"亚瑟士",name_en:"ASICS",slug:"asics",category:"sportswear",t:1}
+{name:"匡威",name_en:"Converse",slug:"converse",category:"sportswear",t:1}
+{name:"范斯",name_en:"Vans",slug:"vans",category:"sportswear",t:1}
+{name:"锐步",name_en:"Reebok",slug:"reebok",category:"sportswear",t:1}
+{name:"北面",name_en:"The North Face",slug:"north-face",category:"sportswear",t:1}
+{name:"哥伦比亚",name_en:"Columbia Sportswear",slug:"columbia",category:"sportswear",t:1}
+{name:"巴塔哥尼亚",name_en:"Patagonia",slug:"patagonia",category:"sportswear",t:1}
+ + ' · pinpai.ai.in';
 
     // 更新品牌列表
     renderBrands(code);
@@ -495,7 +504,17 @@ function renderBrands(lang) {
 {name:"汉莎航空",name_en:"Lufthansa",slug:"lufthansa",category:"airline",t:2},
 {name:"英国航空",name_en:"British Airways",slug:"british-airways",category:"airline",t:2},
 {name:"澳洲航空",name_en:"Qantas",slug:"qantas",category:"airline",t:2},
-{name:"法国航空",name_en:"Air France",slug:"air-france",category:"airline",t:2},];
+{name:"法国航空",name_en:"Air France",slug:"air-france",category:"airline",t:2},
+{name:"彪马",name_en:"Puma",slug:"puma",category:"sportswear",t:2},
+{name:"安德玛",name_en:"Under Armour",slug:"under-armour",category:"sportswear",t:2},
+{name:"新百伦",name_en:"New Balance",slug:"new-balance",category:"sportswear",t:2},
+{name:"亚瑟士",name_en:"ASICS",slug:"asics",category:"sportswear",t:2},
+{name:"匡威",name_en:"Converse",slug:"converse",category:"sportswear",t:2},
+{name:"范斯",name_en:"Vans",slug:"vans",category:"sportswear",t:2},
+{name:"锐步",name_en:"Reebok",slug:"reebok",category:"sportswear",t:2},
+{name:"北面",name_en:"The North Face",slug:"north-face",category:"sportswear",t:2},
+{name:"哥伦比亚",name_en:"Columbia Sportswear",slug:"columbia",category:"sportswear",t:2},
+{name:"巴塔哥尼亚",name_en:"Patagonia",slug:"patagonia",category:"sportswear",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';

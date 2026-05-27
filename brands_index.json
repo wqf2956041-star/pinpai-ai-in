@@ -1054,5 +1054,65 @@
     "name": "法国航空",
     "name_en": "Air France",
     "category": "airline"
+  },
+  {
+    "slug": "puma",
+    "name": "彪马",
+    "name_en": "Puma",
+    "category": "sportswear"
+  },
+  {
+    "slug": "under-armour",
+    "name": "安德玛",
+    "name_en": "Under Armour",
+    "category": "sportswear"
+  },
+  {
+    "slug": "new-balance",
+    "name": "新百伦",
+    "name_en": "New Balance",
+    "category": "sportswear"
+  },
+  {
+    "slug": "asics",
+    "name": "亚瑟士",
+    "name_en": "ASICS",
+    "category": "sportswear"
+  },
+  {
+    "slug": "converse",
+    "name": "匡威",
+    "name_en": "Converse",
+    "category": "sportswear"
+  },
+  {
+    "slug": "vans",
+    "name": "范斯",
+    "name_en": "Vans",
+    "category": "sportswear"
+  },
+  {
+    "slug": "reebok",
+    "name": "锐步",
+    "name_en": "Reebok",
+    "category": "sportswear"
+  },
+  {
+    "slug": "north-face",
+    "name": "北面",
+    "name_en": "The North Face",
+    "category": "sportswear"
+  },
+  {
+    "slug": "columbia",
+    "name": "哥伦比亚",
+    "name_en": "Columbia Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "patagonia",
+    "name": "巴塔哥尼亚",
+    "name_en": "Patagonia",
+    "category": "sportswear"
   }
 ]
