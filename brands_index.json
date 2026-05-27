@@ -328,5 +328,11 @@
     "name": "现代",
     "name_en": "Hyundai",
     "category": "automotive"
+  },
+  {
+    "slug": "kia",
+    "name": "起亚",
+    "name_en": "Kia",
+    "category": "automotive"
   }
 ]

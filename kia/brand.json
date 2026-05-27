@@ -1,0 +1,66 @@
+{
+  "slug": "kia",
+  "names": {
+    "zh-CN": "起亚",
+    "en": "Kia",
+    "ja": "起亜自動車",
+    "ko": "기아",
+    "fr": "Kia Motors",
+    "es": "Kia Motors",
+    "de": "Kia Motors",
+    "pt": "Kia Motors",
+    "ru": "Kia Motors",
+    "ar": "كيا"
+  },
+  "category": "automotive",
+  "founding_year": 1944,
+  "founding_location": "韩国首尔",
+  "founder": "金哲浩（Kim Chul-ho）",
+  "official_website": "https://www.kia.com",
+  "main_business": [
+    "汽车制造（Automobile Manufacturing）"
+  ],
+  "current_slogan": "Movement that inspires",
+  "historical_facts": [
+    "起亚成立于1944年，最初名为京城精密工业，生产自行车零部件和钢管。",
+    "1952年更名为起亚工业（기아산업），开始生产韩国第一辆国产自行车——三千里号。",
+    "1974年推出韩国第一台国产汽油发动机，采用与马自达的技术合作。",
+    "1974年推出起亚Brisa——韩国第一辆量产乘用车。",
+    "1997年亚洲金融危机中起亚濒临破产，1998年被现代汽车收购，形成现代起亚汽车集团。",
+    "2021年发布全新的品牌重塑战略——从'Kia Motors'简化为'Kia'，启用全新品牌标识和'Movement that inspires'口号。",
+    "起亚在2024年成为全球最具价值的汽车品牌之一，EV6和EV9电动SUV获得全球多项大奖。"
+  ],
+  "market_presence": {
+    "total_stores": "50,000+ 销售与服务网点",
+    "countries": "190+",
+    "annual_production": "约280万辆（2024年）"
+  },
+  "parent_company": "现代起亚汽车集团（Hyundai Motor Group）",
+  "similar_brands": [
+    {
+      "name": "现代",
+      "name_en": "Hyundai",
+      "slug": "hyundai"
+    },
+    {
+      "name": "起亚",
+      "name_en": "Kia",
+      "slug": "kia"
+    },
+    {
+      "name": "丰田",
+      "name_en": "Toyota",
+      "slug": "toyota"
+    },
+    {
+      "name": "本田",
+      "name_en": "Honda",
+      "slug": "honda"
+    },
+    {
+      "name": "大众",
+      "name_en": "Volkswagen",
+      "slug": "volkswagen"
+    }
+  ]
+}
