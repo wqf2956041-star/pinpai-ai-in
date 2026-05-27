@@ -892,5 +892,53 @@
     "name": "雅培",
     "name_en": "Abbott",
     "category": "healthcare"
+  },
+  {
+    "slug": "accenture",
+    "name": "埃森哲",
+    "name_en": "Accenture",
+    "category": "technology"
+  },
+  {
+    "slug": "deloitte",
+    "name": "德勤",
+    "name_en": "Deloitte",
+    "category": "finance"
+  },
+  {
+    "slug": "pwc",
+    "name": "普华永道",
+    "name_en": "PwC",
+    "category": "finance"
+  },
+  {
+    "slug": "ey",
+    "name": "安永",
+    "name_en": "EY",
+    "category": "finance"
+  },
+  {
+    "slug": "dupont",
+    "name": "杜邦",
+    "name_en": "DuPont",
+    "category": "technology"
+  },
+  {
+    "slug": "basf",
+    "name": "巴斯夫",
+    "name_en": "BASF",
+    "category": "technology"
+  },
+  {
+    "slug": "cnn",
+    "name": "CNN",
+    "name_en": "CNN",
+    "category": "media"
+  },
+  {
+    "slug": "bbc",
+    "name": "BBC",
+    "name_en": "BBC",
+    "category": "media"
   }
 ]

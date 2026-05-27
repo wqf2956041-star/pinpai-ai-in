@@ -368,7 +368,15 @@ var brandsData = [
 {name:"默克",name_en:"Merck",slug:"merck",category:"healthcare",t:1}
 {name:"拜耳",name_en:"Bayer",slug:"bayer",category:"healthcare",t:1}
 {name:"雅培",name_en:"Abbott",slug:"abbott",category:"healthcare",t:1}
- || announceTexts['zh-CN'];
+{name:"埃森哲",name_en:"Accenture",slug:"accenture",category:"technology",t:1}
+{name:"德勤",name_en:"Deloitte",slug:"deloitte",category:"finance",t:1}
+{name:"普华永道",name_en:"PwC",slug:"pwc",category:"finance",t:1}
+{name:"安永",name_en:"EY",slug:"ey",category:"finance",t:1}
+{name:"杜邦",name_en:"DuPont",slug:"dupont",category:"technology",t:1}
+{name:"巴斯夫",name_en:"BASF",slug:"basf",category:"technology",t:1}
+{name:"CNN",name_en:"CNN",slug:"cnn",category:"media",t:1}
+{name:"BBC",name_en:"BBC",slug:"bbc",category:"media",t:1}
+;
     document.getElementById('ann-title').textContent = at.title;
     document.getElementById('ann-line1').textContent = at.line1;
     document.getElementById('ann-line2').textContent = at.line2;
@@ -452,7 +460,15 @@ function renderBrands(lang) {
 {name:"强生",name_en:"Johnson & Johnson",slug:"johnson-and-johnson",category:"healthcare",t:2},
 {name:"默克",name_en:"Merck",slug:"merck",category:"healthcare",t:2},
 {name:"拜耳",name_en:"Bayer",slug:"bayer",category:"healthcare",t:2},
-{name:"雅培",name_en:"Abbott",slug:"abbott",category:"healthcare",t:2},];
+{name:"雅培",name_en:"Abbott",slug:"abbott",category:"healthcare",t:2},
+{name:"埃森哲",name_en:"Accenture",slug:"accenture",category:"technology",t:2},
+{name:"德勤",name_en:"Deloitte",slug:"deloitte",category:"finance",t:2},
+{name:"普华永道",name_en:"PwC",slug:"pwc",category:"finance",t:2},
+{name:"安永",name_en:"EY",slug:"ey",category:"finance",t:2},
+{name:"杜邦",name_en:"DuPont",slug:"dupont",category:"technology",t:2},
+{name:"巴斯夫",name_en:"BASF",slug:"basf",category:"technology",t:2},
+{name:"CNN",name_en:"CNN",slug:"cnn",category:"media",t:2},
+{name:"BBC",name_en:"BBC",slug:"bbc",category:"media",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
