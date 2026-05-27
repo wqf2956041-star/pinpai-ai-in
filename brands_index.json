@@ -322,5 +322,11 @@
     "name": "LG",
     "name_en": "LG",
     "category": "technology"
+  },
+  {
+    "slug": "hyundai",
+    "name": "现代",
+    "name_en": "Hyundai",
+    "category": "automotive"
   }
 ]
