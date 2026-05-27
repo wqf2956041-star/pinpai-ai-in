@@ -1,0 +1,73 @@
+{
+  "slug": "panasonic",
+  "names": {
+    "zh-CN": "松下",
+    "en": "Panasonic",
+    "ja": "パナソニック",
+    "ko": "파나소닉",
+    "fr": "Panasonic",
+    "es": "Panasonic",
+    "de": "Panasonic",
+    "pt": "Panasonic",
+    "ru": "Panasonic",
+    "ar": "باناسونيك"
+  },
+  "category": "technology",
+  "founding_year": 1918,
+  "founding_location": "日本大阪市",
+  "founder": "松下幸之助（Konosuke Matsushita）",
+  "official_website": "https://www.panasonic.com",
+  "main_business": [
+    "消费电子产品（Consumer Electronics）",
+    "家电（Home Appliances）",
+    "电池和能源方案（Batteries & Energy Solutions）",
+    "B2B解决方案（企业级安防、照明、电材）"
+  ],
+  "current_slogan": "A Better Life, A Better World / 更好生活，更好世界",
+  "historical_facts": [
+    "1918年由松下幸之助在大阪创立，最初生产双灯泡插座——其改良设计使灯泡插座的制造成本降低了约60%，迅速在日本市场获得成功",
+    "1923年推出松下首个自有品牌产品——National品牌的自行车灯（炮弹型电池灯），电池续航达传统产品的3倍，奠定了松下以技术创新和高质量著称的起点",
+    "1935年正式改组为松下电器产业株式会社（Matsushita Electric Industrial Co., Ltd.），建立事业部制管理体系——这一制度后来成为日本企业管理的经典范式",
+    "1950年代松下幸之助提出PHP（和平·幸福·繁荣）经营理念，同时松下开始大规模家电化生产——日本第一台洗衣机、电视、冰箱等产品陆续问世",
+    "1961年松下幸之助访美后决定全面进军国际市场，1962年在美国纽约设立销售公司，1970年代松下以Panasonic、National、Technics三大品牌覆盖全球消费电子市场",
+    "1979年松下推出Technics SL-1200系列黑胶唱盘——成为DJ文化史上最具标志性的设备，产量超过300万台，至今仍是专业DJ的行业标准设备",
+    "1987年松下与英特尔合资成立VM Labs，同年推出全球首台便携式CD播放器（SL-P10），1990年代松下通过VHS录像机技术和松下数码相机成为全球消费电子霸主之一",
+    "2008年松下收购三洋电机（Sanyo Electric）成为控股子公司，2012年松下正式更名为Panasonic Corporation，全面统一全球品牌——这是松下幸之助创立公司94年后的重大品牌战略转型",
+    "2010年代松下在北美与特斯拉合作建设超级电池工厂Gigafactory 1（内华达州），成为特斯拉电动汽车电池的核心供应商之一",
+    "2020年代松下推进结构改革，将业务重组为八大事业公司体制，聚焦B2B领域——包括汽车电池、航空娱乐系统、冷链物流、住宅能源等企业级解决方案"
+  ],
+  "market_presence": {
+    "total_stores": "全球约580家关联公司",
+    "countries": "120+",
+    "annual_production": "约52,000亿日元（约340亿美元）年营收（2024年）"
+  },
+  "parent_company": "Panasonic Holdings Corporation（松下控股株式会社）",
+  "sub_brands": [
+    "Technics（高端音响和专业DJ设备）",
+    "Panasonic LUMIX（数码相机和无反相机系列）",
+    "Panasonic TOUGHBOOK（坚固型笔记本电脑）",
+    "Panasonic VIERA（电视品牌，在日本以外的市场使用）"
+  ],
+  "similar_brands": [
+    {
+      "name": "索尼",
+      "name_en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "name": "三星",
+      "name_en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "name": "LG",
+      "name_en": "LG",
+      "slug": "lg"
+    },
+    {
+      "name": "西门子",
+      "name_en": "Siemens",
+      "slug": "siemens"
+    }
+  ]
+}
