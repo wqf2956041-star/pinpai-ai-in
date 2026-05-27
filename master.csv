@@ -36,7 +36,7 @@ burger-king,Burger King,汉堡王,food,United States,true
 subway,Subway,赛百味,food,United States,true
 honda,Honda,本田,automotive,Japan,true
 volkswagen,Volkswagen,大众,automotive,Germany,true
-audi,Audi,奥迪,automotive,Germany,false
+audi,Audi,奥迪,automotive,Germany,true
 porsche,Porsche,保时捷,automotive,Germany,false
 lg,LG,LG,technology,South Korea,false
 hyundai,Hyundai,现代,automotive,South Korea,false
