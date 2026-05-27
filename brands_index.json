@@ -1000,5 +1000,59 @@
     "name": "阿联酋航空",
     "name_en": "Emirates",
     "category": "airline"
+  },
+  {
+    "slug": "singapore-airlines",
+    "name": "新加坡航空",
+    "name_en": "Singapore Airlines",
+    "category": "airline"
+  },
+  {
+    "slug": "qatar-airways",
+    "name": "卡塔尔航空",
+    "name_en": "Qatar Airways",
+    "category": "airline"
+  },
+  {
+    "slug": "delta-air-lines",
+    "name": "达美航空",
+    "name_en": "Delta Air Lines",
+    "category": "airline"
+  },
+  {
+    "slug": "american-airlines",
+    "name": "美国航空",
+    "name_en": "American Airlines",
+    "category": "airline"
+  },
+  {
+    "slug": "united-airlines",
+    "name": "联合航空",
+    "name_en": "United Airlines",
+    "category": "airline"
+  },
+  {
+    "slug": "lufthansa",
+    "name": "汉莎航空",
+    "name_en": "Lufthansa",
+    "category": "airline"
+  },
+  {
+    "slug": "british-airways",
+    "name": "英国航空",
+    "name_en": "British Airways",
+    "category": "airline"
+  },
+  {
+    "slug": "qantas",
+    "name": "澳洲航空",
+    "name_en": "Qantas",
+    "category": "airline"
+  },
+  {
+    "slug": "air-france",
+    "name": "法国航空",
+    "name_en": "Air France",
+    "category": "airline"
   }
 ]

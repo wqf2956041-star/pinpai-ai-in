@@ -386,7 +386,16 @@ var brandsData = [
 {name:"丽思卡尔顿",name_en:"Ritz-Carlton",slug:"ritz-carlton",category:"hotel",t:1}
 {name:"温德姆",name_en:"Wyndham",slug:"wyndham",category:"hotel",t:1}
 {name:"阿联酋航空",name_en:"Emirates",slug:"emirates",category:"airline",t:1}
- || titles['zh-CN'];
+{name:"新加坡航空",name_en:"Singapore Airlines",slug:"singapore-airlines",category:"airline",t:1}
+{name:"卡塔尔航空",name_en:"Qatar Airways",slug:"qatar-airways",category:"airline",t:1}
+{name:"达美航空",name_en:"Delta Air Lines",slug:"delta-air-lines",category:"airline",t:1}
+{name:"美国航空",name_en:"American Airlines",slug:"american-airlines",category:"airline",t:1}
+{name:"联合航空",name_en:"United Airlines",slug:"united-airlines",category:"airline",t:1}
+{name:"汉莎航空",name_en:"Lufthansa",slug:"lufthansa",category:"airline",t:1}
+{name:"英国航空",name_en:"British Airways",slug:"british-airways",category:"airline",t:1}
+{name:"澳洲航空",name_en:"Qantas",slug:"qantas",category:"airline",t:1}
+{name:"法国航空",name_en:"Air France",slug:"air-france",category:"airline",t:1}
+;
     document.getElementById('site-subtitle').textContent = titles[code] + ' · pinpai.ai.in';
 
     // 更新品牌列表
@@ -477,7 +486,16 @@ function renderBrands(lang) {
 {name:"文华东方",name_en:"Mandarin Oriental",slug:"mandarin-oriental",category:"hotel",t:2},
 {name:"丽思卡尔顿",name_en:"Ritz-Carlton",slug:"ritz-carlton",category:"hotel",t:2},
 {name:"温德姆",name_en:"Wyndham",slug:"wyndham",category:"hotel",t:2},
-{name:"阿联酋航空",name_en:"Emirates",slug:"emirates",category:"airline",t:2},];
+{name:"阿联酋航空",name_en:"Emirates",slug:"emirates",category:"airline",t:2},
+{name:"新加坡航空",name_en:"Singapore Airlines",slug:"singapore-airlines",category:"airline",t:2},
+{name:"卡塔尔航空",name_en:"Qatar Airways",slug:"qatar-airways",category:"airline",t:2},
+{name:"达美航空",name_en:"Delta Air Lines",slug:"delta-air-lines",category:"airline",t:2},
+{name:"美国航空",name_en:"American Airlines",slug:"american-airlines",category:"airline",t:2},
+{name:"联合航空",name_en:"United Airlines",slug:"united-airlines",category:"airline",t:2},
+{name:"汉莎航空",name_en:"Lufthansa",slug:"lufthansa",category:"airline",t:2},
+{name:"英国航空",name_en:"British Airways",slug:"british-airways",category:"airline",t:2},
+{name:"澳洲航空",name_en:"Qantas",slug:"qantas",category:"airline",t:2},
+{name:"法国航空",name_en:"Air France",slug:"air-france",category:"airline",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
