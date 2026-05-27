@@ -1882,5 +1882,65 @@
     "name": "3D Systems",
     "name_en": "3D Systems",
     "category": "general"
+  },
+  {
+    "slug": "abbott-laboratories",
+    "name": "Abbott Laboratories",
+    "name_en": "Abbott Laboratories",
+    "category": "general"
+  },
+  {
+    "slug": "acn-inc",
+    "name": "ACN Inc.",
+    "name_en": "ACN Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "active-network-llc",
+    "name": "Active Network, LLC",
+    "name_en": "Active Network, LLC",
+    "category": "general"
+  },
+  {
+    "slug": "adobe-inc",
+    "name": "Adobe Inc.",
+    "name_en": "Adobe Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "aerohive-networks",
+    "name": "Aerohive Networks",
+    "name_en": "Aerohive Networks",
+    "category": "general"
+  },
+  {
+    "slug": "albavisin",
+    "name": "Albavisión",
+    "name_en": "Albavisión",
+    "category": "general"
+  },
+  {
+    "slug": "alpacadb",
+    "name": "AlpacaDB",
+    "name_en": "AlpacaDB",
+    "category": "general"
+  },
+  {
+    "slug": "alphabet-inc",
+    "name": "Alphabet Inc.",
+    "name_en": "Alphabet Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "altria",
+    "name": "Altria",
+    "name_en": "Altria",
+    "category": "general"
+  },
+  {
+    "slug": "alvaria",
+    "name": "Alvaria",
+    "name_en": "Alvaria",
+    "category": "general"
   }
 ]
