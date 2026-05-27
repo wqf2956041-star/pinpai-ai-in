@@ -2302,5 +2302,65 @@
     "name": "Arriva Sapphire",
     "name_en": "Arriva Sapphire",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "aar-busbahn",
+    "name": "AAR bus+bahn",
+    "name_en": "AAR bus+bahn",
+    "category": "general"
+  },
+  {
+    "slug": "abb",
+    "name": "ABB",
+    "name_en": "ABB",
+    "category": "general"
+  },
+  {
+    "slug": "actelion",
+    "name": "Actelion",
+    "name_en": "Actelion",
+    "category": "general"
+  },
+  {
+    "slug": "aebi",
+    "name": "AEBI",
+    "name_en": "AEBI",
+    "category": "general"
+  },
+  {
+    "slug": "aldi-talk",
+    "name": "Aldi Talk",
+    "name_en": "Aldi Talk",
+    "category": "general"
+  },
+  {
+    "slug": "alpa",
+    "name": "Alpa",
+    "name_en": "Alpa",
+    "category": "general"
+  },
+  {
+    "slug": "alprose",
+    "name": "Alprose",
+    "name_en": "Alprose",
+    "category": "general"
+  },
+  {
+    "slug": "ammann-group",
+    "name": "Ammann Group",
+    "name_en": "Ammann Group",
+    "category": "general"
+  },
+  {
+    "slug": "arctic-gmbh",
+    "name": "Arctic GmbH",
+    "name_en": "Arctic GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "au-bijou",
+    "name": "Au Bijou",
+    "name_en": "Au Bijou",
+    "category": "general"
   }
 ]
