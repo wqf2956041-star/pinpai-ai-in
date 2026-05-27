@@ -1582,5 +1582,65 @@
     "name": "Alfa Romeo",
     "name_en": "Alfa Romeo",
     "category": "general"
+  },
+  {
+    "slug": "lists-of-video-game-companies",
+    "name": "Lists of video game companies",
+    "name_en": "Lists of video game companies",
+    "category": "technology"
+  },
+  {
+    "slug": "african-risk-capacity",
+    "name": "African Risk Capacity",
+    "name_en": "African Risk Capacity",
+    "category": "finance"
+  },
+  {
+    "slug": "ageas-federal-life-insurance",
+    "name": "Ageas Federal Life Insurance",
+    "name_en": "Ageas Federal Life Insurance",
+    "category": "finance"
+  },
+  {
+    "slug": "banco-de-seguros-del-estado",
+    "name": "Banco de Seguros del Estado",
+    "name_en": "Banco de Seguros del Estado",
+    "category": "finance"
+  },
+  {
+    "slug": "friendly-society",
+    "name": "Friendly society",
+    "name_en": "Friendly society",
+    "category": "finance"
+  },
+  {
+    "slug": "lion-insurance-company",
+    "name": "Lion Insurance Company",
+    "name_en": "Lion Insurance Company",
+    "category": "finance"
+  },
+  {
+    "slug": "sanitas-health-insurance",
+    "name": "Sanitas (health insurance)",
+    "name_en": "Sanitas (health insurance)",
+    "category": "finance"
+  },
+  {
+    "slug": "westfield-insurance",
+    "name": "Westfield Insurance",
+    "name_en": "Westfield Insurance",
+    "category": "finance"
+  },
+  {
+    "slug": "telecommunications-company",
+    "name": "Telecommunications company",
+    "name_en": "Telecommunications company",
+    "category": "telecom"
+  },
+  {
+    "slug": "c-band-alliance",
+    "name": "C-Band Alliance",
+    "name_en": "C-Band Alliance",
+    "category": "telecom"
   }
 ]
