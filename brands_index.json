@@ -316,5 +316,11 @@
     "name": "保时捷",
     "name_en": "Porsche",
     "category": "automotive"
+  },
+  {
+    "slug": "lg",
+    "name": "LG",
+    "name_en": "LG",
+    "category": "technology"
   }
 ]

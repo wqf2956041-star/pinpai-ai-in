@@ -1,0 +1,80 @@
+{
+  "slug": "lg",
+  "names": {
+    "zh-CN": "LG",
+    "en": "LG",
+    "ja": "LG",
+    "ko": "LG",
+    "fr": "LG",
+    "es": "LG",
+    "de": "LG",
+    "pt": "LG",
+    "ru": "LG",
+    "ar": "إل جي"
+  },
+  "category": "technology",
+  "founding_year": 1947,
+  "founding_location": "韩国首尔（Seoul, South Korea）",
+  "founder": "具仁会（Koo In-hwoi）",
+  "official_website": "https://www.lg.com",
+  "main_business": [
+    "消费电子产品（Consumer Electronics）",
+    "家用电器（Home Appliances）",
+    "显示面板制造（Display Panel Manufacturing）",
+    "电动汽车电池（EV Battery Production）"
+  ],
+  "current_slogan": "Life's Good / 美好生活",
+  "historical_facts": [
+    "1947年由具仁会在首尔创立，原名Lucky（乐喜），最初生产化妆品和塑料制品——是韩国首家进入塑料行业的公司",
+    "1958年成立GoldStar（金星）电子部门——韩国首家电子公司，生产了韩国第一台收音机（1959年）和第一台电视机（1966年）",
+    "1995年正式更名为LG集团——Lucky（乐喜）和GoldStar（金星）的结合，同时推出‘Life's Good’品牌口号",
+    "2000年代通过收购Zenith（美国电视品牌）和建立大规模LCD面板工厂（坡州P8工厂），成为全球显示面板领导者",
+    "2013年推出曲面OLED电视——世界上首款曲面OLED电视，确立了LG在高端电视市场技术领先地位",
+    "2010年代至今通过LG Energy Solution（LG能源解决方案）成为全球最大的电动汽车电池制造商之一",
+    "2020年代通过推出OLED evo系列和无线电视（LG OLED M系列）继续引领电视技术创新",
+    "LG证券、LG化学等子公司已从LG集团分拆独立，LG集团目前以LG电子为核心、LG Display、LG Energy Solution为主体的科技企业集团"
+  ],
+  "market_presence": {
+    "total_stores": "全球经销商网络覆盖140+国家",
+    "countries": "140+",
+    "annual_production": "约4000万台家电和电子设备（2024年）"
+  },
+  "parent_company": "LG集团（LG Corporation）",
+  "sub_brands": [
+    "LG SIGNATURE（高端家电系列）",
+    "LG UltraGear（电竞显示器）",
+    "LG ThinQ（AI智能家居平台）"
+  ],
+  "similar_brands": [
+    {
+      "name": "三星",
+      "name_en": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "name": "索尼",
+      "name_en": "Sony",
+      "slug": "sony"
+    },
+    {
+      "name": "Panasonic",
+      "name_en": "Panasonic",
+      "slug": "panasonic"
+    },
+    {
+      "name": "英特尔",
+      "name_en": "Intel",
+      "slug": "intel"
+    },
+    {
+      "name": "苹果",
+      "name_en": "Apple",
+      "slug": "apple"
+    },
+    {
+      "name": "微软",
+      "name_en": "Microsoft",
+      "slug": "microsoft"
+    }
+  ]
+}
