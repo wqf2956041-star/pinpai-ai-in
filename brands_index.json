@@ -1402,5 +1402,65 @@
     "name": "Dulces Miguelito",
     "name_en": "Dulces Miguelito",
     "category": "food"
+  },
+  {
+    "slug": "fini-company",
+    "name": "Fini (company)",
+    "name_en": "Fini (company)",
+    "category": "food"
+  },
+  {
+    "slug": "france-pastry",
+    "name": "France Pastry",
+    "name_en": "France Pastry",
+    "category": "food"
+  },
+  {
+    "slug": "galletas-gulln",
+    "name": "Galletas Gullón",
+    "name_en": "Galletas Gullón",
+    "category": "food"
+  },
+  {
+    "slug": "hai-ha-confectionery",
+    "name": "Hai Ha Confectionery",
+    "name_en": "Hai Ha Confectionery",
+    "category": "food"
+  },
+  {
+    "slug": "kc-confectionery-limited",
+    "name": "K.C. Confectionery Limited",
+    "name_en": "K.C. Confectionery Limited",
+    "category": "food"
+  },
+  {
+    "slug": "leaf-candy-company",
+    "name": "Leaf Candy Company",
+    "name_en": "Leaf Candy Company",
+    "category": "food"
+  },
+  {
+    "slug": "matri-bhandar",
+    "name": "Matri Bhandar",
+    "name_en": "Matri Bhandar",
+    "category": "food"
+  },
+  {
+    "slug": "morozoff-ltd",
+    "name": "Morozoff Ltd.",
+    "name_en": "Morozoff Ltd.",
+    "category": "food"
+  },
+  {
+    "slug": "mynthon",
+    "name": "Mynthon",
+    "name_en": "Mynthon",
+    "category": "food"
+  },
+  {
+    "slug": "nestl-rossiya",
+    "name": "Nestlé Rossiya",
+    "name_en": "Nestlé Rossiya",
+    "category": "food"
   }
 ]
