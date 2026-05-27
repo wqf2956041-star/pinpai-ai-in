@@ -340,5 +340,11 @@
     "name": "松下",
     "name_en": "Panasonic",
     "category": "technology"
+  },
+  {
+    "slug": "canon",
+    "name": "佳能",
+    "name_en": "Canon",
+    "category": "technology"
   }
 ]
