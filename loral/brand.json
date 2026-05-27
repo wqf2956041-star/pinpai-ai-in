@@ -1,0 +1,67 @@
+{
+  "slug": "loral",
+  "names": {
+    "zh-CN": "欧莱雅",
+    "en": "L'Oréal",
+    "ja": "ロレアル",
+    "ko": "로레알",
+    "th": "ลอรีอัล",
+    "es": "L'Oréal",
+    "fr": "L'Oréal",
+    "de": "L'Oréal",
+    "it": "L'Oréal",
+    "pt": "L'Oréal"
+  },
+  "category": "beauty",
+  "founding_year": 1909,
+  "founding_location": "法国巴黎（Paris, France）",
+  "founder": "欧仁·舒莱尔（Eugène Schueller）",
+  "official_website": "https://www.loreal.com",
+  "main_business": [
+    "大众化妆品（Consumer Products）",
+    "高档化妆品（Luxury Products）",
+    "专业美发产品（Professional Products）",
+    "活性健康化妆品（Active Cosmetics / Dermatological Beauty）"
+  ],
+  "current_slogan": "因为值得（Because you're worth it / 你值得拥有）",
+  "historical_facts": [
+    "1909年，法国化学家欧仁·舒莱尔在巴黎创办法国无害染发剂公司（Société Française de Teintures Inoffensives pour Cheveux），即欧莱雅前身，推出首款合成染发剂",
+    "1920年代，欧莱雅扩展至法国以外的市场，先后进军意大利、奥地利和荷兰等欧洲国家",
+    "1934年，欧莱雅推出Dop洗发水品牌，进入大众洗护发市场",
+    "1953年，欧莱雅与Cory在美国成立合资公司Cosmair Inc.，正式进入美国市场",
+    "1963年，欧莱雅在巴黎证券交易所上市，随后开启大规模品牌收购战略",
+    "1970年，欧莱雅收购卡尼尔（Garnier）实验室，拓展天然成分护肤与护发产品线",
+    "1985年，欧莱雅收购美宝莲（Maybelline），奠定在大众彩妆市场的全球领导者地位",
+    "1996年，欧莱雅收购美国专业彩妆品牌美宝莲母公司后，又以约7.58亿美元收购美体小铺（The Body Shop），进一步扩充品牌矩阵",
+    "2009年，欧莱雅庆祝百年华诞，成为全球最大的化妆品集团，年销售额超170亿欧元",
+    "2023年，欧莱雅集团成为首个年销售额超过400亿欧元的纯美妆公司，涵盖36个国际品牌"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（品牌组合零售模式）",
+    "countries": "150+",
+    "annual_revenue": "约420亿欧元（2023年）"
+  },
+  "parent_company": "L'Oréal S.A.",
+  "similar_brands": [
+    {
+      "name": "雅诗兰黛",
+      "name_en": "Estée Lauder",
+      "slug": "este-lauder"
+    },
+    {
+      "name": "资生堂",
+      "name_en": "Shiseido",
+      "slug": "shiseido"
+    },
+    {
+      "name": "兰蔻",
+      "name_en": "Lancôme",
+      "slug": "lancme"
+    },
+    {
+      "name": "宝洁美容",
+      "name_en": "P&G Beauty",
+      "slug": "pandg"
+    }
+  ]
+}

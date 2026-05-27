@@ -448,5 +448,119 @@
     "name": "拉夫·劳伦",
     "name_en": "Ralph Lauren",
     "category": "fashion"
+  },
+  {
+    "slug": "calvin-klein",
+    "name": "卡尔文·克莱因",
+    "name_en": "Calvin Klein",
+    "category": "fashion"
+  },
+  {
+    "slug": "tom-ford",
+    "name": "汤姆·福特",
+    "name_en": "Tom Ford",
+    "category": "fashion"
+  },
+  {
+    "slug": "nestl",
+    "name": "雀巢",
+    "name_en": "Nestlé",
+    "category": "food"
+  },
+  {
+    "slug": "unilever",
+    "name": "联合利华",
+    "name_en": "Unilever",
+    "category": "food"
+  },
+  {
+    "slug": "pandg",
+    "name": "宝洁",
+    "name_en": "P&G",
+    "category": "food"
+  },
+  {
+    "slug": "red-bull",
+    "name": "红牛",
+    "name_en": "Red Bull",
+    "category": "food"
+  },
+  {
+    "slug": "monster-energy",
+    "name": "怪兽",
+    "name_en": "Monster Energy",
+    "category": "food"
+  },
+  {
+    "slug": "loral",
+    "name": "欧莱雅",
+    "name_en": "L'Oréal",
+    "category": "beauty"
+  },
+  {
+    "slug": "este-lauder",
+    "name": "雅诗兰黛",
+    "name_en": "Estée Lauder",
+    "category": "beauty"
+  },
+  {
+    "slug": "shiseido",
+    "name": "资生堂",
+    "name_en": "Shiseido",
+    "category": "beauty"
+  },
+  {
+    "slug": "lancme",
+    "name": "兰蔻",
+    "name_en": "Lancôme",
+    "category": "beauty"
+  },
+  {
+    "slug": "marriott",
+    "name": "万豪酒店",
+    "name_en": "Marriott International",
+    "category": "hotel"
+  },
+  {
+    "slug": "hennessy",
+    "name": "轩尼诗",
+    "name_en": "Hennessy",
+    "category": "liquor"
+  },
+  {
+    "slug": "moet-chandon",
+    "name": "酩悦香槟",
+    "name_en": "Moët & Chandon",
+    "category": "liquor"
+  },
+  {
+    "slug": "rolls-royce",
+    "name": "劳斯莱斯",
+    "name_en": "Rolls-Royce",
+    "category": "automotive"
+  },
+  {
+    "slug": "bentley",
+    "name": "宾利",
+    "name_en": "Bentley",
+    "category": "automotive"
+  },
+  {
+    "slug": "lamborghini",
+    "name": "兰博基尼",
+    "name_en": "Lamborghini",
+    "category": "automotive"
+  },
+  {
+    "slug": "aston-martin",
+    "name": "阿斯顿·马丁",
+    "name_en": "Aston Martin",
+    "category": "automotive"
+  },
+  {
+    "slug": "maserati",
+    "name": "玛莎拉蒂",
+    "name_en": "Maserati",
+    "category": "automotive"
   }
 ]

@@ -63,21 +63,29 @@ handm,H&M,H&M,fashion,Sweden,true
 ikea,IKEA,宜家,retail,Sweden,true
 lvmh,LVMH,路威酩轩,fashion-luxury,France,true
 kering,Kering,开云,fashion-luxury,France,true
-lacoste,true,鳄鱼,fashion,France,true
+lacoste,Lacoste,鳄鱼,fashion,France,true
 ralph-lauren,Ralph Lauren,拉夫·劳伦,fashion,United States,true
-calvin-klein,Calvin Klein,卡尔文·克莱因,fashion,United States,false
-tom-ford,Tom Ford,汤姆·福特,fashion-luxury,United States,false
+calvin-klein,Calvin Klein,卡尔文·克莱因,fashion,United States,true
+tom-ford,Tom Ford,汤姆·福特,fashion-luxury,United States,true
 burberry,Burberry,博柏利,fashion-luxury,United Kingdom,true
 alexander-mcqueen,Alexander McQueen,亚历山大·麦昆,fashion-luxury,United Kingdom,true
-nestl,Nestlé,雀巢,food,Switzerland,false
-unilever,Unilever,联合利华,food,United Kingdom,false
-pandg,P&G,宝洁,food,United States,false
-red-bull,Red Bull,红牛,food,Austria,false
-monster-energy,Monster Energy,怪兽,food,United States,false
-loral,L'Oréal,欧莱雅,beauty,France,false
-este-lauder,Estée Lauder,雅诗兰黛,beauty,United States,false
-shiseido,Shiseido,资生堂,beauty,Japan,false
-lancme,Lancôme,兰蔻,beauty,France,false
+nestl,Nestlé,雀巢,food,Switzerland,true
+unilever,Unilever,联合利华,food,United Kingdom,true
+pandg,P&G,宝洁,food,United States,true
+red-bull,Red Bull,红牛,food,Austria,true
+monster-energy,Monster Energy,怪兽,food,United States,true
+loral,L'Oréal,欧莱雅,beauty,France,true
+este-lauder,Estée Lauder,雅诗兰黛,beauty,United States,true
+shiseido,Shiseido,资生堂,beauty,Japan,true
+lancme,Lancôme,兰蔻,beauty,France,true
 bottega-veneta,Bottega Veneta,Bottega Veneta,fashion-luxury,Italy,true
 bulgari,Bulgari,Bulgari,fashion-luxury,Italy,true
 christian-dior,Christian Dior,Christian Dior,fashion-luxury,France,true
+marriott,Marriott,万豪酒店,hotel,United States,true
+hennessy,Hennessy,轩尼诗,liquor,France,true
+moet-chandon,Moët & Chandon,酩悦香槟,liquor,France,true
+rolls-royce,Rolls-Royce,劳斯莱斯,automotive,UK,true
+bentley,Bentley,宾利,automotive,UK,true
+lamborghini,Lamborghini,兰博基尼,automotive,Italy,true
+aston-martin,Aston Martin,阿斯顿·马丁,automotive,UK,true
+maserati,Maserati,玛莎拉蒂,automotive,Italy,true

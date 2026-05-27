@@ -1,0 +1,25 @@
+{
+  "slug": "moet-chandon",
+  "name_en": "Moët & Chandon",
+  "name_zh": "酩悦香槟",
+  "category": "liquor",
+  "country": "France",
+  "founder": "Claude Moët",
+  "year": 1743,
+  "website": "https://www.moet.com/",
+  "wikidata_id": "Q273196",
+  "description_en": "Moët & Chandon is one of the world's largest and most prestigious champagne houses, founded in 1743 by Claude Moët in Épernay, France. A flagship brand of Moët Hennessy (LVMH), it produces over 30 million bottles annually.",
+  "description_zh": "酩悦香槟（Moët & Chandon）是法国最著名、全球销量最大的香槟品牌之一，由克劳德·酩悦于1743年在香槟地区的埃佩尔奈创立，是LVMH集团酩悦·轩尼诗部门的旗舰品牌。",
+  "languages": {
+    "zh-CN": "酩悦香槟（Moët & Chandon）是法国最著名、全球销量最大的香槟品牌之一，由克劳德·酩悦（Claude Moët）于1743年在香槟地区的埃佩尔奈（Épernay）创立。如今隶属于LVMH集团旗下的酩悦·轩尼诗（Moët Hennessy）部门，每年生产超过3000万瓶香槟，畅销全球150多个国家和地区。招牌产品酩悦帝国香槟（Moët Impérial）由超过100种基酒调配。让-雷米·酩悦与拿破仑·波拿巴建立了深厚友谊，拿破仑多次访问酩悦酒庄。品牌旗下还包括Dom Pérignon（唐培里侬）顶级香槟系列。酩悦是F1赛车的官方香槟，1950年代以来颁奖台上的香槟喷洒已成为赛车文化的经典画面。品牌口号 'Celebrate Life'（欢庆人生）传达其核心价值。",
+    "en": "Moët & Chandon is one of the world's largest champagne houses, founded in 1743 by Claude Moët in Épernay, France. A flagship brand of Moët Hennessy (LVMH), producing over 30 million bottles annually. The signature Moët Impérial blends 100+ base wines. Jean-Rémy Moët befriended Napoleon Bonaparte. The portfolio includes Dom Pérignon prestige cuvée. Moët is the official champagne of Formula 1 since the 1950s, with the iconic podium spray. Also featured in countless hip-hop songs. Slogan: 'Celebrate Life'.",
+    "ja": "モエ・エ・シャンドンは世界最大級のシャンパーニュメゾンで、1743年にクロード・モエがエペルネーで創業。LVMHグループのモエ・ヘネシー部門の旗艦ブランド。年間3000万本以上生産。看板キュヴェのモエ・アンペリアルは100種類以上のベースワインをブレンド。ナポレオン・ボナパルトとの深い友好関係で知られる。ドン・ペリニヨンも傘下。F1の公式シャンパーニュ。",
+    "ko": "모에 & 샹동은 세계 최대 규모의 샴페인 하우스로, 1743년 클로드 모에가 에페르네에서 설립했습니다. LVMH 그룹 모에 헤네시 부문의 대표 브랜드입니다. 연간 3,000만 병 이상 생산. 대표 제품 모에 앙페리알은 100종 이상의 베이스 와인 블렌드입니다. 나폴레옹 보나파르트와의 친분으로 유명하며, 돔 페리뇽도旗下 브랜드입니다. F1의 공식 샴페인입니다.",
+    "fr": "Moët & Chandon est l'une des plus grandes maisons de champagne au monde, fondée en 1743 par Claude Moët à Épernay. Marque phare de Moët Hennessy (LVMH), produisant plus de 30 millions de bouteilles par an. Le Moët Impérial assemble plus de 100 vins de base. Jean-Rémy Moët était ami avec Napoléon Bonaparte. Le portfolio inclut Dom Pérignon. Moët est le champagne officiel de la Formule 1.",
+    "es": "Moët & Chandon es una de las casas de champán más grandes del mundo, fundada en 1743 por Claude Moët en Épernay. Marca insignia de Moët Hennessy (LVMH), produce más de 30 millones de botellas al año. Moët Impérial mezcla más de 100 vinos base. Jean-Rémy Moët fue amigo de Napoleón Bonaparte. Portfolio incluye Dom Pérignon. Champán oficial de la F1.",
+    "de": "Moët & Chandon ist eines der größten Champagnerhäuser der Welt, gegründet 1743 von Claude Moët in Épernay. Flaggschiffmarke von Moët Hennessy (LVMH), produziert jährlich über 30 Millionen Flaschen. Moët Impérial vereint über 100 Basisweine. Jean-Rémy Moët war mit Napoleon Bonaparte befreundet. Portfolio umfasst Dom Pérignon. Offizieller Champagner der Formel 1.",
+    "pt": "Moët & Chandon é uma das maiores casas de champanhe do mundo, fundada em 1743 por Claude Moët em Épernay. Marca emblemática da Moët Hennessy (LVMH), produz mais de 30 milhões de garrafas por ano. Moët Impérial combina mais de 100 vinhos base. Jean-Rémy Moët foi amigo de Napoleão Bonaparte. Portfolio inclui Dom Pérignon. Champanhe oficial da F1.",
+    "ru": "Moët & Chandon — один из крупнейших домов шампанского в мире, основанный Клодом Моэ в 1743 году в Эперне. Флагманский бренд Moët Hennessy (LVMH), производящий более 30 млн бутылок ежегодно. Moët Impérial — ассамбляж более 100 базовых вин. Жан-Реми Моэ дружил с Наполеоном. В портфель входит Dom Pérignon. Официальное шампанское Формулы-1.",
+    "ar": "مويت آي شاندون هي واحدة من أكبر بيوت الشمبانيا في العالم، أسسها كلود مويت عام 1743 في إيبيرناي. علامة رائدة ضمن مويت هينيسي (LVMH)، تنتج أكثر من 30 مليون زجاجة سنوياً. مويت إمبيريال يمزج أكثر من 100 نبيذ أساسي. جان-ريمي مويت كان صديقاً لنابليون بونابرت. تشمل المحفظة دوم بيرينيون. الشمبانيا الرسمية للفورمولا 1."
+  }
+}

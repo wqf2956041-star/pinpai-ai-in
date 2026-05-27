@@ -1,0 +1,67 @@
+{
+  "slug": "lancme",
+  "names": {
+    "zh-CN": "兰蔻",
+    "en": "Lancôme",
+    "ja": "ランコム",
+    "ko": "랑콤",
+    "th": "ลังโคม",
+    "es": "Lancôme",
+    "fr": "Lancôme",
+    "de": "Lancôme",
+    "it": "Lancôme",
+    "pt": "Lancôme"
+  },
+  "category": "beauty",
+  "founding_year": 1935,
+  "founding_location": "法国巴黎（Paris, France）",
+  "founder": "阿芒·珀蒂让（Armand Petitjean）",
+  "official_website": "https://www.lancome.com",
+  "main_business": [
+    "高端护肤（Premium Skincare）",
+    "奢华彩妆（Luxury Makeup）",
+    "奢华香氛（Luxury Fragrances）",
+    "男士护肤与香水（Men's Skincare & Fragrances）"
+  ],
+  "current_slogan": "兰蔻，法国优雅之美",
+  "historical_facts": [
+    "1935年，法国香水制造商阿芒·珀蒂让在巴黎创立兰蔻，以法国中部Lancôme城堡命名，同年推出5款标志性香水（Tropiques, Conquête等），在布鲁塞尔世博会上引起轰动",
+    "1940年代，兰蔻全面拓展至护肤和彩妆领域，推出Nutrix营养霜等经典产品",
+    "1950年代，兰蔻推出首款睫毛膏，奠定其在眼部彩妆领域的专业地位",
+    "1964年，兰蔻被欧莱雅集团收购，获得集团强大的研发和分销支持",
+    "1985年，兰蔻推出保湿明星产品Hydra Zen（水份缘舒缓系列），畅销至今",
+    "2005年，兰蔻推出Genifique（小黑瓶精华肌底液），开创肌底液新品类，成为全球最畅销的精华产品之一",
+    "2009年，兰蔻签约朱丽亚·罗伯茨（Julia Roberts）为全球品牌大使，强化高端女性形象",
+    "2012年，兰蔻推出Visionnaire（美肤焕采系列）多功能护肤精华，进一步巩固研发实力",
+    "兰蔻全球销售额突破30亿欧元，是欧莱雅集团高档化妆品部核心品牌",
+    "兰蔻以其玫瑰标志和法国奢侈美容传统闻名，在全球150多个国家销售，拥有超过2万家专柜和门店"
+  ],
+  "market_presence": {
+    "total_stores": "20,000+（专柜及门店）",
+    "countries": "150+",
+    "annual_revenue": "约35亿欧元（2023年估算）"
+  },
+  "parent_company": "欧莱雅集团（L'Oréal S.A.）",
+  "similar_brands": [
+    {
+      "name": "雅诗兰黛",
+      "name_en": "Estée Lauder",
+      "slug": "este-lauder"
+    },
+    {
+      "name": "资生堂",
+      "name_en": "Shiseido",
+      "slug": "shiseido"
+    },
+    {
+      "name": "欧莱雅",
+      "name_en": "L'Oréal",
+      "slug": "loral"
+    },
+    {
+      "name": "迪奥",
+      "name_en": "Christian Dior",
+      "slug": "dior"
+    }
+  ]
+}

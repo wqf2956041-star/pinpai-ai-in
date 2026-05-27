@@ -1,0 +1,67 @@
+{
+  "slug": "red-bull",
+  "names": {
+    "zh-CN": "红牛",
+    "en": "Red Bull",
+    "ja": "レッドブル",
+    "ko": "레드불",
+    "th": "เรดบูล",
+    "es": "Red Bull",
+    "fr": "Red Bull",
+    "de": "Red Bull",
+    "it": "Red Bull",
+    "pt": "Red Bull"
+  },
+  "category": "food",
+  "founding_year": 1987,
+  "founding_location": "奥地利萨尔茨堡湖畔富施尔（Fuschl am See, Austria）",
+  "founder": "迪特里希·马特希茨（Dietrich Mateschitz）",
+  "official_website": "https://www.redbull.com",
+  "main_business": [
+    "能量饮料（Energy Drinks）",
+    "极限运动与体育营销（Extreme Sports & Event Marketing）",
+    "媒体与内容制作（Red Bull Media House）",
+    "车队与竞技体育管理（Formula 1 Teams & Sports Management）"
+  ],
+  "current_slogan": "Red Bull gives you wings",
+  "historical_facts": [
+    "1987年，奥地利企业家迪特里希·马特希茨在泰国旅行时发现当地能量饮料Krating Daeng，与泰国华裔商人许书标合作，改良配方后创办Red Bull GmbH",
+    "1987年4月1日，红牛在奥地利以Beta-Version形式首次发售，开创了全球能量饮料新品类",
+    "红牛的配方源自泰国Krating Daeng，但马特希茨调整了口味和碳酸化程度，使其更符合西方消费者喜好",
+    "1997年红牛进入美国市场，通过校园营销和免费试喝策略迅速建立品牌认知",
+    "红牛以'发放翅膀'（Red Bull gives you wings）为口号，开创极限运动营销的先河——赞助翼装飞行、红牛坠山赛（Rampage）、悬崖跳水等极限赛事",
+    "2004年，红牛收购美洲虎车队（Jaguar Racing）并更名为红牛车队（Red Bull Racing），随后四度夺得F1车队总冠军（2010-2013）",
+    "2007年，红牛创立红牛媒体之家（Red Bull Media House），制作极限运动、音乐和文化内容，实现品牌内容化",
+    "2012年，菲利克斯·鲍姆加特纳（Felix Baumgartner）在红牛赞助的'斯特拉托斯'（Red Bull Stratos）任务中从3.9万米高空跳伞，打破音障",
+    "红牛迄今已售出超过1000亿罐，全球市场份额长期领先，垄断能量饮料市场约40%份额",
+    "红牛坚持'非单品牌延伸'策略，仅极少数口味变体（如无糖版、夏日版）推出，品牌聚焦度极高"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（零售渠道分销模式）",
+    "countries": "175+",
+    "annual_revenue": "约110亿欧元（2023年）"
+  },
+  "parent_company": "Red Bull GmbH",
+  "similar_brands": [
+    {
+      "name": "怪兽能量",
+      "name_en": "Monster Energy",
+      "slug": "monster-energy"
+    },
+    {
+      "name": "魔爪",
+      "name_en": "Monster Beverage Corporation",
+      "slug": "monster-energy"
+    },
+    {
+      "name": "可口可乐",
+      "name_en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "name": "百事公司",
+      "name_en": "PepsiCo",
+      "slug": "pepsico"
+    }
+  ]
+}

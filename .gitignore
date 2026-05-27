@@ -43,3 +43,4 @@ write_netflix*.py
 expand_netflix.py
 check_*.py
 .brand_worker.lock
+.brand_worker.lock

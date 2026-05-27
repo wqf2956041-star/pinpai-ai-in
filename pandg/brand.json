@@ -1,0 +1,67 @@
+{
+  "slug": "pandg",
+  "names": {
+    "zh-CN": "宝洁",
+    "en": "Procter & Gamble",
+    "ja": "プロクター・アンド・ギャンブル",
+    "ko": "프록터 앤드 갬블",
+    "th": "พรอคเตอร์ แอนด์ แกมเบิล",
+    "es": "Procter & Gamble",
+    "fr": "Procter & Gamble",
+    "de": "Procter & Gamble",
+    "it": "Procter & Gamble",
+    "pt": "Procter & Gamble"
+  },
+  "category": "food",
+  "founding_year": 1837,
+  "founding_location": "美国俄亥俄州辛辛那提（Cincinnati, Ohio, USA）",
+  "founder": "威廉·普罗克特（William Procter）与詹姆斯·甘布尔（James Gamble）",
+  "official_website": "https://www.pg.com",
+  "main_business": [
+    "织物与家居护理（Fabric & Home Care）",
+    "婴幼儿与女性护理（Baby & Feminine Care）",
+    "美容与个人护理（Beauty & Personal Care）",
+    "健康护理与口腔护理（Health & Oral Care）"
+  ],
+  "current_slogan": "亲近生活，美化生活（Touching Lives, Improving Life）",
+  "historical_facts": [
+    "1837年，威廉·普罗克特（蜡烛制造商）与詹姆斯·甘布尔（肥皂制造商）在辛辛那提合伙成立宝洁公司",
+    "1879年，宝洁推出象牙皂（Ivory Soap），以'能漂浮'和'纯度99.44%'的卖点成为美国第一款全国性品牌",
+    "1915年，宝洁在加拿大设立首家海外工厂，开启国际化进程",
+    "1946年，宝洁推出汰渍（Tide），采用合成洗涤剂技术，革命性地替代了传统肥皂洗衣方式",
+    "1961年，宝洁推出帮宝适（Pampers）一次性纸尿裤，开创全球婴儿护理新品类",
+    "1983年，宝洁推出护发护肤品牌海飞丝（与Pantene整合后成为全球领先护发系列），通过'去屑'定位占据市场",
+    "1985年，宝洁以约15亿美元收购Richardson-Vicks，获得玉兰油（Olay）和Vicks品牌",
+    "2005年，宝洁以570亿美元收购吉列（Gillette）公司，将男仕剃须业务纳入版图",
+    "1989年，宝洁推出首款Febreze（纺必适）织物清新剂，开辟家居清洁新品类",
+    "宝洁在全球约180个国家开展业务，旗下拥有65个品牌，年营收超过800亿美元，是全球最大的日用消费品公司之一"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（不适用零售门店模式）",
+    "countries": "180+",
+    "annual_revenue": "约840亿美元（2024财年）"
+  },
+  "parent_company": "The Procter & Gamble Company",
+  "similar_brands": [
+    {
+      "name": "联合利华",
+      "name_en": "Unilever",
+      "slug": "unilever"
+    },
+    {
+      "name": "汉高",
+      "name_en": "Henkel",
+      "slug": "henkel"
+    },
+    {
+      "name": "雀巢",
+      "name_en": "Nestlé",
+      "slug": "nestl"
+    },
+    {
+      "name": "金佰利",
+      "name_en": "Kimberly-Clark",
+      "slug": "kimberly-clark"
+    }
+  ]
+}

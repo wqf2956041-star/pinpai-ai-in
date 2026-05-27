@@ -1,0 +1,25 @@
+{
+  "slug": "hennessy",
+  "name_en": "Hennessy",
+  "name_zh": "轩尼诗",
+  "category": "liquor",
+  "country": "France",
+  "founder": "Richard Hennessy",
+  "year": 1765,
+  "website": "https://www.hennessy.com/",
+  "wikidata_id": "Q1605554",
+  "description_en": "Hennessy is the world's best-selling cognac, founded by Irish-born Richard Hennessy in 1765 in the Cognac region of France. A flagship brand of the Moët Hennessy division of LVMH, it sells over 100 million bottles annually.",
+  "description_zh": "轩尼诗（Hennessy）是世界上最畅销的干邑白兰地品牌，由爱尔兰裔军人理查德·轩尼诗于1765年在法国干邑地区创立，是LVMH集团酩悦·轩尼诗部门的核心品牌。",
+  "languages": {
+    "zh-CN": "轩尼诗（Hennessy）是世界上最畅销的干邑白兰地品牌，由爱尔兰裔军人理查德·轩尼诗（Richard Hennessy）于1765年在法国干邑地区创立。轩尼诗是LVMH集团旗下酩悦·轩尼诗（Moët Hennessy）部门的核心品牌之一，年销量超过1亿瓶，占据全球干邑市场约40%的份额。核心产品包括轩尼诗VS、VSOP、XO、Paradis（百乐廷）和Richard Hennessy。1817年，英国国王乔治四世委托轩尼诗生产VSOP干邑，使VSOP成为全球干邑等级标准。1865年，莫里斯·轩尼诗发明了星级评定体系。轩尼诗拥有干邑地区最大的陈年酒窖，超过45万桶的窖藏量，包括超过200年历史的珍贵生命之水。轩尼诗于1813年首次进入中国市场，是最早进入中国的西方洋酒品牌之一。品牌与中国高端餐饮文化深度融合，\"愈欣赏，愈懂欣赏\"的广告语深入人心。轩尼诗长期支持当代艺术和音乐文化，与NBA、F1等赛事保持合作，并深深嵌入全球嘻哈文化之中。",
+    "en": "Hennessy is the world's best-selling cognac, produced by Jas Hennessy & Cie, founded by Irish-born Richard Hennessy in 1765 in the Cognac region of France. Part of Moët Hennessy (LVMH), Hennessy sells over 100 million bottles annually, accounting for ~40% of the global cognac market. Core products: VS (Very Special), VSOP (Very Superior Old Pale, created in 1817 for King George IV), XO (Extra Old, blended from 100+ eaux-de-vie aged 10+ years), Paradis, and Richard Hennessy. Hennessy owns the largest aging cellars in Cognac with over 450,000 barrels. The brand entered China in 1813, becoming one of the first Western spirits in the market. Hennessy is deeply embedded in hip-hop culture with countless music references, and sponsors NBA and the Kentucky Derby. The family motto 'Gloria Optima Sit' (To the highest glory) remains the brand's guiding principle.",
+    "ja": "ヘネシー（Hennessy）は、世界で最も売れているコニャックブランドです。1765年にアイルランド出身のリチャード・ヘネシーがフランスのコニャック地方で創業。現在はLVMHグループのモエ・ヘネシー部門に属しています。年間1億本以上を販売し、世界のコニャック市場の約40%を占めています。製品ライン：VS、VSOP、XO（100種類以上のオー・ド・ヴィをブレンド、最低10年熟成）、パラディ、リチャード・ヘネシー。1817年にイギリス国王ジョージ4世の依頼で誕生したVSOPは、現在も世界的なコニャック等級の基準となっています。ヘネシーはヒップホップ文化との深い結びつきでも知られ、NBAやケンタッキーダービーのスポンサーも務めています。",
+    "ko": "헤네시(Hennessy)는 세계에서 가장 많이 판매되는 코냑 브랜드로, 1765년 아일랜드 출신 리처드 헤네시가 프랑스 코냑 지방에서 설립했습니다. LVMH 그룹의 모에 헤네시 부문에 속해 있으며, 연간 1억 병 이상을 판매합니다. 주요 제품: VS, VSOP(1817년 영국 조지 4세를 위해 탄생), XO(100종 이상 오드비 블렌딩, 10년 이상 숙성), 파라디, 리처드 헤네시. 헤네시는 힙합 문화와 깊은 연관이 있으며, NBA의 공식 후원사입니다.",
+    "fr": "Hennessy est la marque de cognac la plus vendue au monde, fondée par l'Irlandais Richard Hennessy en 1765 dans la région de Cognac. Faisant partie de Moët Hennessy (LVMH), Hennessy vend plus de 100 millions de bouteilles par an. Gamme : VS, VSOP (créé en 1817 pour le roi George IV), XO (assemblage de plus de 100 eaux-de-vie vieillies 10 ans minimum), Paradis, Richard Hennessy. Hennessy possède les plus grandes caves de Cognac avec plus de 450 000 barriques. La devise 'Gloria Optima Sit' guide la maison depuis 250 ans.",
+    "es": "Hennessy es la marca de coñac más vendida del mundo, fundada por el irlandés Richard Hennessy en 1765 en la región de Coñac, Francia. Parte de Moët Hennessy (LVMH), vende más de 100 millones de botellas al año. Productos: VS, VSOP (creado en 1817 para el Rey Jorge IV), XO (mezcla de más de 100 eaux-de-vie añejadas 10+ años), Paradis y Richard Hennessy. Hennessy está profundamente ligada a la cultura hip-hop y patrocina la NBA.",
+    "de": "Hennessy ist die weltweit meistverkaufte Cognac-Marke, gegründet 1765 von dem Iren Richard Hennessy in der Cognac-Region Frankreichs. Teil von Moët Hennessy (LVMH), verkauft jährlich über 100 Millionen Flaschen. Produkte: VS, VSOP (1817 für König George IV. kreiert), XO (Mischung aus über 100 Eaux-de-Vie), Paradis, Richard Hennessy. Hennessy besitzt die größten Reifekeller mit über 450.000 Fässern.",
+    "pt": "Hennessy é a marca de conhaque mais vendida do mundo, fundada pelo irlandês Richard Hennessy em 1765 na região de Cognac, França. Parte da Moët Hennessy (LVMH), vende mais de 100 milhões de garrafas por ano. Produtos: VS, VSOP, XO (mistura de mais de 100 eaux-de-vie), Paradis e Richard Hennessy. Possui os maiores armazéns de envelhecimento de Cognac com mais de 450.000 barris.",
+    "ru": "Hennessy — самый продаваемый в мире бренд коньяка, основанный ирландцем Ричардом Хеннесси в 1765 году в регионе Коньяк, Франция. Часть Moët Hennessy (LVMH). Продаёт более 100 миллионов бутылок ежегодно. Продукция: VS, VSOP (создан в 1817 году для короля Георга IV), XO (купаж из более 100 спиртов), Paradis, Richard Hennessy. Владеет крупнейшими погребами выдержки с более чем 450 000 бочек.",
+    "ar": "هينيسي (Hennessy) هي العلامة التجارية الأكثر مبيعاً للكونياك في العالم، أسسها الأيرلندي ريتشارد هينيسي في عام 1765 في منطقة كونياك بفرنسا. وهي جزء من مويت هينيسي (LVMH)، وتبيع أكثر من 100 مليون زجاجة سنوياً. المنتجات: VS، VSOP (تم إنشاؤه عام 1817 للملك جورج الرابع)، XO (مزيج من أكثر من 100 نوع من أو دو في)، باراديس، ريتشارد هينيسي. تمتلك أكبر أقبية تعتيق في كونياك مع أكثر من 450,000 برميل."
+  }
+}
