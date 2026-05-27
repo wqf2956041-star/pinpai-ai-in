@@ -334,5 +334,11 @@
     "name": "起亚",
     "name_en": "Kia",
     "category": "automotive"
+  },
+  {
+    "slug": "panasonic",
+    "name": "松下",
+    "name_en": "Panasonic",
+    "category": "technology"
   }
 ]
