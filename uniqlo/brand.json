@@ -1,0 +1,64 @@
+{
+  "slug": "uniqlo",
+  "names": {
+    "zh-CN": "优衣库",
+    "en": "Uniqlo",
+    "ja": "ユニクロ",
+    "ko": "유니클로",
+    "th": "ยูนิโคล่",
+    "es": "Uniqlo",
+    "fr": "Uniqlo",
+    "de": "Uniqlo",
+    "it": "Uniqlo",
+    "pt": "Uniqlo"
+  },
+  "category": "fashion",
+  "founding_year": 1949,
+  "founding_location": "日本山口县宇部市",
+  "founder": "柳井正（Tadashi Yanai）父辈创业，柳井正于1984年接手后创立Uniqlo品牌",
+  "official_website": "https://www.uniqlo.com",
+  "main_business": [
+    "休闲服装零售（Casual Clothing Retail）"
+  ],
+  "current_slogan": "LifeWear — 服适人生",
+  "historical_facts": [
+    "1949年，柳井正的父亲柳井等在山口县宇部市开设了一家名为\"小郡商事\"的男士服装店。",
+    "1984年，柳井正接手家族生意，在广岛市中区袋町开设了第一家Uniqlo门店。",
+    "1991年，公司正式更名为\"株式会社迅销\"（Fast Retailing），并开始向休闲服装连锁转型。",
+    "1998年，Uniqlo推出标志性的摇粒绒（Fleece）外套，以1900日元的低价引爆日本市场。",
+    "2001年，Uniqlo在伦敦开设第一家海外门店，开启全球化扩张。",
+    "2002年，Uniqlo进入中国市场，在上海开设第一家门店。",
+    "2004年，柳井正与著名设计师吉田麻美合作的UT（Uniqlo T-shirt）系列启动。",
+    "2006年起，Uniqlo陆续与多位国际知名设计师合作，包括Jil Sander（+J系列）和Christophe Lemaire（U系列）。",
+    "2013年，柳井正提出\"LifeWear\"（服适人生）理念，重新定义品牌哲学。",
+    "2020年，Uniqlo在疫情期间逆势增长，成为迅销集团全球扩张最快的品牌之一。",
+    "截至2024年，Uniqlo在全球超过25个国家和地区拥有超过2,400家门店。"
+  ],
+  "market_presence": {
+    "total_stores": "2,400+",
+    "countries": "25+"
+  },
+  "parent_company": "迅销集团（Fast Retailing Co., Ltd.）",
+  "similar_brands": [
+    {
+      "name": "Zara",
+      "name_en": "Zara",
+      "slug": "zara"
+    },
+    {
+      "name": "H&M",
+      "name_en": "H&M",
+      "slug": "handm"
+    },
+    {
+      "name": "Gap",
+      "name_en": "Gap",
+      "slug": "gap"
+    },
+    {
+      "name": "Muji",
+      "name_en": "Muji",
+      "slug": "muji"
+    }
+  ]
+}
