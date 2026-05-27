@@ -1,0 +1,73 @@
+{
+  "slug": "porsche",
+  "names": {
+    "zh-CN": "保时捷",
+    "en": "Porsche",
+    "ja": "ポルシェ",
+    "ko": "포르쉐",
+    "fr": "Porsche",
+    "es": "Porsche",
+    "de": "Porsche",
+    "pt": "Porsche",
+    "ru": "Порше",
+    "ar": "بورشه"
+  },
+  "category": "automotive",
+  "founding_year": 1931,
+  "founding_location": "德国斯图加特（Stuttgart, Germany）",
+  "founder": "费迪南德·保时捷（Ferdinand Porsche）",
+  "official_website": "https://www.porsche.com",
+  "main_business": [
+    "豪华跑车制造（Luxury Sports Car Manufacturing）"
+  ],
+  "current_slogan": "There is no substitute / 保时捷，无替代",
+  "historical_facts": [
+    "1931年由费迪南德·保时捷在斯图加特创立，最初提供汽车工程咨询和设计服务，曾为大众设计甲壳虫",
+    "1948年推出首款跑车356——第一款以保时捷命名的量产车型，采用大众甲壳虫底盘和风冷水平对置发动机",
+    "1963年法兰克福车展推出911（最初代号901）——史上最具标志性的跑车之一，后置风冷水平对置六缸发动机设计延续至今",
+    "1970年代911 Carrera RS 2.7以'鸭尾'扰流板和轻量化设计成为赛道传奇，确立了保时捷在赛车运动中的地位",
+    "1996年推出Boxster——中置发动机双座敞篷跑车，帮助保时捷走出财务困境，扭转了公司命运",
+    "2002年推出Cayenne——首款SUV，初期备受争议但后来成为保时捷最畅销车型，为911的研发提供了持续资金",
+    "2012年推出Panamera——四门豪华轿跑，完成了保时捷从纯粹跑车品牌到豪华运动品牌的产品线扩展",
+    "2019年推出Taycan——首款纯电动量产跑车，以800V高压架构和领先的充电速度开启了保时捷的电动化时代"
+  ],
+  "market_presence": {
+    "total_stores": "全球经销商约850+",
+    "countries": "100+",
+    "annual_production": "约32万辆（2024年）"
+  },
+  "parent_company": "大众集团（Volkswagen AG）",
+  "sub_brands": [],
+  "similar_brands": [
+    {
+      "name": "保时捷",
+      "name_en": "Porsche",
+      "slug": "porsche"
+    },
+    {
+      "name": "法拉利",
+      "name_en": "Ferrari",
+      "slug": "ferrari"
+    },
+    {
+      "name": "兰博基尼",
+      "name_en": "Lamborghini",
+      "slug": "lamborghini"
+    },
+    {
+      "name": "梅赛德斯-奔驰",
+      "name_en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "name": "宝马",
+      "name_en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "name": "奥迪",
+      "name_en": "Audi",
+      "slug": "audi"
+    }
+  ]
+}
