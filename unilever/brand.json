@@ -1,0 +1,67 @@
+{
+  "slug": "unilever",
+  "names": {
+    "zh-CN": "联合利华",
+    "en": "Unilever",
+    "ja": "ユニリーバ",
+    "ko": "유니레버",
+    "th": "ยูนิลีเวอร์",
+    "es": "Unilever",
+    "fr": "Unilever",
+    "de": "Unilever",
+    "it": "Unilever",
+    "pt": "Unilever"
+  },
+  "category": "food",
+  "founding_year": 1929,
+  "founding_location": "英国伦敦/荷兰鹿特丹（London/Rotterdam, UK/Netherlands）",
+  "founder": "利华兄弟公司（Lever Brothers）与联合麦淇淋公司（Margarine Unie）合并",
+  "official_website": "https://www.unilever.com",
+  "main_business": [
+    "食品与烹饪调味品（Food & Culinary Seasonings）",
+    "冰淇淋与甜品（Ice Cream & Desserts）",
+    "个人护理与美容（Personal Care & Beauty）",
+    "家庭清洁与护理（Home Care & Cleaning）"
+  ],
+  "current_slogan": "有目的的品牌，可持续的未来（Brands with Purpose）",
+  "historical_facts": [
+    "1929年，英国肥皂制造商利华兄弟（Lever Brothers）与荷兰人造黄油生产商联合麦淇淋公司（Margarine Unie）合并，成立联合利华，成为早期跨国企业典范",
+    "1872年，威廉·赫斯克·利华（William Hesketh Lever）创立Lever Brothers，推出'日光牌'（Sunlight）肥皂，开创品牌化肥皂先河",
+    "1930年代，联合利华在非洲大规模种植棕榈油，垂直整合原料供应链",
+    "1950年代，推出洗衣粉品牌Omo（奥妙）和Persil（宝莹），推动合成洗涤剂革命",
+    "1989年，推出Dove（多芬）美容皂，以'含1/4润肤乳'配方颠覆传统肥皂市场",
+    "2000年，以243亿美元收购美国食品公司贝斯泰（Bestfoods），获得家乐（Knorr）和好乐门（Hellmann's）品牌",
+    "2017年，联合利华拒绝卡夫亨氏1430亿美元收购要约，称报价严重低估公司价值",
+    "2021年，宣布出售立顿（Lipton）茶业务，聚焦高增长品类",
+    "Ben & Jerry's（本与杰瑞）1980年被收购，以其社会使命和创新口味成为标志性冰淇淋品牌",
+    "联合利华在全球190多个国家销售超过400个品牌，每天有25亿消费者使用其产品"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（不适用零售门店模式）",
+    "countries": "190+",
+    "annual_revenue": "约600亿欧元（2023年）"
+  },
+  "parent_company": "Unilever PLC（伦敦上市）/ Unilever N.V.（阿姆斯特丹上市）",
+  "similar_brands": [
+    {
+      "name": "雀巢",
+      "name_en": "Nestlé",
+      "slug": "nestl"
+    },
+    {
+      "name": "宝洁",
+      "name_en": "Procter & Gamble",
+      "slug": "pandg"
+    },
+    {
+      "name": "达能",
+      "name_en": "Danone",
+      "slug": "danone"
+    },
+    {
+      "name": "汉高",
+      "name_en": "Henkel",
+      "slug": "henkel"
+    }
+  ]
+}

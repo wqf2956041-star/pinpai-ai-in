@@ -1,0 +1,67 @@
+{
+  "slug": "este-lauder",
+  "names": {
+    "zh-CN": "雅诗兰黛",
+    "en": "Estée Lauder",
+    "ja": "エスティローダー",
+    "ko": "에스티 로더",
+    "th": "เอสเต ลอเดอร์",
+    "es": "Estée Lauder",
+    "fr": "Estée Lauder",
+    "de": "Estée Lauder",
+    "it": "Estée Lauder",
+    "pt": "Estée Lauder"
+  },
+  "category": "beauty",
+  "founding_year": 1946,
+  "founding_location": "美国纽约市（New York City, USA）",
+  "founder": "雅诗·兰黛（Estée Lauder）与约瑟夫·兰黛（Joseph Lauder）",
+  "official_website": "https://www.esteelauder.com",
+  "main_business": [
+    "高端护肤（Premium Skincare）",
+    "高档彩妆（Luxury Makeup）",
+    "奢华香氛（Luxury Fragrances）",
+    "护发与美容工具（Hair Care & Beauty Tools）"
+  ],
+  "current_slogan": "Bringing the best to everyone we touch",
+  "historical_facts": [
+    "1946年，雅诗·兰黛与丈夫约瑟夫·兰黛在纽约创立公司，最初仅有四款产品：面霜、洁面乳、润肤露和粉底",
+    "1948年，雅诗·兰黛凭借免费试用和'买一送一'营销策略打入纽约萨克斯第五大道百货，奠定高端渠道基础",
+    "1953年，雅诗·兰黛推出Youth-Dew香氛沐浴油，二合一替代传统香水和沐浴产品，成为品牌第一款畅销全球的香水",
+    "1968年，雅诗·兰黛推出Clinique倩碧品牌，开创'皮肤科医生配方面霜'的'三步骤护肤'概念（洁面、爽肤、润肤）",
+    "1985年，推出标志性产品Advanced Night Repair（特润修护露/小棕瓶），定义了精华品类，成为品牌最经典产品之一",
+    "1990年代，雅诗·兰黛先后收购MAC彩妆（1994）、Bobbi Brown（1995）、Aveda（1997）等品牌，构建多品牌美容集团",
+    "1995年，雅诗·兰黛公司在纽约证券交易所上市，股票代码EL",
+    "2003年，雅诗·兰黛收购全球顶级香水生产商雅芳香氛业务的Aramis和Tommy Hilfiger香水许可",
+    "2014年，雅诗·兰黛收购韩国高端护肤品牌Dr. Jart+的母公司Have & Be Co.，加速布局亚洲市场",
+    "雅诗·兰黛集团拥有超过25个高端美妆品牌，年营收超过150亿美元，是全球第二大高端美妆集团"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（品牌组合零售模式）",
+    "countries": "150+",
+    "annual_revenue": "约159亿美元（2024财年）"
+  },
+  "parent_company": "The Estée Lauder Companies Inc. (NYSE: EL)",
+  "similar_brands": [
+    {
+      "name": "欧莱雅",
+      "name_en": "L'Oréal",
+      "slug": "loral"
+    },
+    {
+      "name": "兰蔻",
+      "name_en": "Lancôme",
+      "slug": "lancme"
+    },
+    {
+      "name": "资生堂",
+      "name_en": "Shiseido",
+      "slug": "shiseido"
+    },
+    {
+      "name": "香奈儿",
+      "name_en": "Chanel",
+      "slug": "chanel"
+    }
+  ]
+}

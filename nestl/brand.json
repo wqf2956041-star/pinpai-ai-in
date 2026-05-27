@@ -1,0 +1,67 @@
+{
+  "slug": "nestl",
+  "names": {
+    "zh-CN": "雀巢",
+    "en": "Nestlé",
+    "ja": "ネスレ",
+    "ko": "네슬레",
+    "th": "เนสท์เล่",
+    "es": "Nestlé",
+    "fr": "Nestlé",
+    "de": "Nestlé",
+    "it": "Nestlé",
+    "pt": "Nestlé"
+  },
+  "category": "food",
+  "founding_year": 1866,
+  "founding_location": "瑞士沃韦（Vevey, Switzerland）",
+  "founder": "亨利·内斯莱（Henri Nestlé）",
+  "official_website": "https://www.nestle.com",
+  "main_business": [
+    "营养品与健康科学（Nutrition & Health Science）",
+    "咖啡与饮料（Coffee & Beverages）",
+    "糖果与冰淇淋（Confectionery & Ice Cream）",
+    "宠物食品与乳制品（Pet Care & Dairy）"
+  ],
+  "current_slogan": "Good Food, Good Life",
+  "historical_facts": [
+    "1866年，药剂师亨利·内斯莱在瑞士沃韦研制出'Farine Lactée'（婴儿奶粉），成功挽救一名早产婴儿的生命，标志着雀巢公司的诞生",
+    "1905年，雀巢与英瑞炼乳公司（Anglo-Swiss Condensed Milk Company）合并，形成跨国乳制品企业",
+    "1938年，经过八年研发，雀巢推出速溶咖啡品牌Nescafé，彻底改变了全球咖啡消费方式",
+    "1947年，雀巢推出Nestea冰茶品牌，进军即饮茶市场",
+    "1974年，雀巢收购法国美妆品牌欧莱雅（L'Oréal）部分股权，开启跨界投资策略",
+    "1986年，雀巢推出Nespresso胶囊咖啡系统，定义了高端家用咖啡市场，成为数十亿美元的业务",
+    "1997年，雀巢收购英国矿泉水品牌Perrier和波兰春天（Poland Spring），成为全球最大瓶装水生产商",
+    "2012年，雀巢以118.5亿美元收购美国辉瑞营养品业务（包括嘉宝婴儿食品），强化婴儿营养领域领导地位",
+    "2018年，雀巢以71.5亿美元获得星巴克零售咖啡业务全球永久许可，拓展咖啡板块",
+    "雀巢在超过187个国家运营，拥有超过2000个品牌，是全球最大的食品与饮料公司，年营收超900亿美元"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（不适用零售门店模式）",
+    "countries": "187+",
+    "annual_revenue": "约950亿瑞士法郎（2023年）"
+  },
+  "parent_company": "Nestlé S.A.",
+  "similar_brands": [
+    {
+      "name": "联合利华",
+      "name_en": "Unilever",
+      "slug": "unilever"
+    },
+    {
+      "name": "达能",
+      "name_en": "Danone",
+      "slug": "danone"
+    },
+    {
+      "name": "百事公司",
+      "name_en": "PepsiCo",
+      "slug": "pepsico"
+    },
+    {
+      "name": "卡夫亨氏",
+      "name_en": "Kraft Heinz",
+      "slug": "kraft-heinz"
+    }
+  ]
+}

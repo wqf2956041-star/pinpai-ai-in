@@ -1,0 +1,67 @@
+{
+  "slug": "monster-energy",
+  "names": {
+    "zh-CN": "怪兽",
+    "en": "Monster Energy",
+    "ja": "モンスターエナジー",
+    "ko": "몬스터 에너지",
+    "th": "มอนสเตอร์ เอ็นเนอร์ยี",
+    "es": "Monster Energy",
+    "fr": "Monster Energy",
+    "de": "Monster Energy",
+    "it": "Monster Energy",
+    "pt": "Monster Energy"
+  },
+  "category": "food",
+  "founding_year": 2002,
+  "founding_location": "美国加利福尼亚州科罗纳（Corona, California, USA）",
+  "founder": "汉森天然公司（Hansen Natural Corporation，现Monster Beverage Corp）",
+  "official_website": "https://www.monsterenergy.com",
+  "main_business": [
+    "能量饮料（Energy Drinks）",
+    "运动与生活方式饮料（Sports & Lifestyle Beverages）",
+    "极限运动与电竞赞助（Extreme Sports & Esports Sponsorship）",
+    "功能饮料与气泡水（Functional Drinks & Sparkling Water）"
+  ],
+  "current_slogan": "Unleash the Beast!",
+  "historical_facts": [
+    "2002年，汉森天然公司推出Monster Energy品牌，以16盎司大罐装和黑色M爪标志进入市场，挑战红牛主导的能量饮料格局",
+    "Monster Energy以'巨无霸罐'（Big Can）大容量策略切入市场，用更低价格提供更大容量，迅速获得年轻消费者青睐",
+    "2008年，Monster推出不含糖的Monster Absolutely Zero和Lo-Carb Monster，扩展产品线",
+    "2012年，Monster推出Java Monster咖啡能量混合饮料和Rehab系列茶与电解质能量饮料，开拓细分市场",
+    "2015年，可口可乐公司以21.5亿美元收购Monster Beverage Corporation 16.7%股份，并转让旗下能量饮料品牌",
+    "Monster通过赞助极限运动——如越野摩托赛（Supercross）、冲浪、滑板、雪板赛事——以及电竞战队，深耕年轻文化",
+    "Monster Energy在超过130个国家销售，拥有超过50种不同口味和配方",
+    "2017年，Monster推出Hydro SuperSport（后被调整为Hydro Sport）等非碳酸运动饮料",
+    "2020年代，Monster通过The Beast Unleashed系列进入硬苏打水（Hard Seltzer）含酒精饮料市场",
+    "Monster Energy已成为全球第二大能量饮料品牌，年零售销售额超过60亿美元"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（零售渠道分销模式）",
+    "countries": "130+",
+    "annual_revenue": "约65亿美元（2023年）"
+  },
+  "parent_company": "Monster Beverage Corporation（NASDAQ: MNST）",
+  "similar_brands": [
+    {
+      "name": "红牛",
+      "name_en": "Red Bull",
+      "slug": "red-bull"
+    },
+    {
+      "name": "可口可乐",
+      "name_en": "Coca-Cola",
+      "slug": "coca-cola"
+    },
+    {
+      "name": "百事公司",
+      "name_en": "PepsiCo",
+      "slug": "pepsico"
+    },
+    {
+      "name": "星巴克",
+      "name_en": "Starbucks",
+      "slug": "starbucks"
+    }
+  ]
+}

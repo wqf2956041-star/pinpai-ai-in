@@ -1,0 +1,67 @@
+{
+  "slug": "shiseido",
+  "names": {
+    "zh-CN": "资生堂",
+    "en": "Shiseido",
+    "ja": "資生堂",
+    "ko": "시세이도",
+    "th": "ชิเซโด้",
+    "es": "Shiseido",
+    "fr": "Shiseido",
+    "de": "Shiseido",
+    "it": "Shiseido",
+    "pt": "Shiseido"
+  },
+  "category": "beauty",
+  "founding_year": 1872,
+  "founding_location": "日本东京银座（Ginza, Tokyo, Japan）",
+  "founder": "福原有信（Arinobu Fukuhara）",
+  "official_website": "https://www.shiseido.com",
+  "main_business": [
+    "高端护肤（Premium Skincare）",
+    "彩妆（Makeup）",
+    "防晒与身体护理（Sun Care & Body Care）",
+    "美发与香氛（Hair Care & Fragrances）"
+  ],
+  "current_slogan": "美力创新让世界更好（Beauty Innovations for a Better World）",
+  "historical_facts": [
+    "1872年，日本前海军药剂师福原有信在东京银座开设日本首家西式药房——资生堂，名称源自中国《易经》中的'至哉坤元，万物资生'",
+    "1897年，资生堂推出首款护肤品Eudermine红色蜜露，采用西洋药理学配方，以令人惊艳的红色玻璃瓶包装著称，至今仍在销售",
+    "1917年，资生堂推出日本第一款腮红和七色粉饼，正式进入彩妆领域",
+    "1927年，资生堂正式改组为株式会社组织，开始集团化运营，同年推出首款香水",
+    "1957年，资生堂进军海外市场，首先在香港设立子公司，随后拓展至东南亚",
+    "1965年，资生堂在美国纽约成立子公司，正式进入西方市场",
+    "1983年，资生堂推出世界第一款含透明质酸的护肤品——Bio-Performance百优系列，开创了透明质酸护肤时代",
+    "2000年，资生堂收购美国彩妆品牌NARS，进一步扩大全球品牌矩阵",
+    "2010年，资生堂推出安热沙（Anessa）防晒系列，凭借专利的紫外线防御技术成为亚洲防晒市场领导者",
+    "资生堂集团旗下包含SHISEIDO、CPB肌肤之钥、NARS、IPSA茵芙莎、Laura Mercier等多个品牌，年营收约100亿美元，是亚洲最大的化妆品集团"
+  ],
+  "market_presence": {
+    "total_stores": "N/A（品牌组合零售模式）",
+    "countries": "120+",
+    "annual_revenue": "约1万亿日元（2023财年）"
+  },
+  "parent_company": "资生堂集团（Shiseido Company, Limited）",
+  "similar_brands": [
+    {
+      "name": "欧莱雅",
+      "name_en": "L'Oréal",
+      "slug": "loral"
+    },
+    {
+      "name": "雅诗兰黛",
+      "name_en": "Estée Lauder",
+      "slug": "este-lauder"
+    },
+    {
+      "name": "兰蔻",
+      "name_en": "Lancôme",
+      "slug": "lancme"
+    },
+    {
+      "name": "SK-II",
+      "name_en": "SK-II",
+      "slug": "sk-ii"
+    }
+  ]
+}
