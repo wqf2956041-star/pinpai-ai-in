@@ -412,5 +412,11 @@
     "name": "H&M",
     "name_en": "H&M",
     "category": "fashion"
+  },
+  {
+    "slug": "zara",
+    "name": "飒拉",
+    "name_en": "Zara",
+    "category": "fashion"
   }
 ]
