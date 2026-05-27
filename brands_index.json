@@ -412,5 +412,35 @@
     "name": "H&M",
     "name_en": "H&M",
     "category": "fashion"
+  },
+  {
+    "slug": "zara",
+    "name": "飒拉",
+    "name_en": "Zara",
+    "category": "fashion"
+  },
+  {
+    "slug": "lvmh",
+    "name": "路威酩轩",
+    "name_en": "LVMH",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "kering",
+    "name": "开云集团",
+    "name_en": "Kering",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ikea",
+    "name": "宜家",
+    "name_en": "IKEA",
+    "category": "retail"
+  },
+  {
+    "slug": "lacoste",
+    "name": "鳄鱼",
+    "name_en": "Lacoste",
+    "category": "fashion"
   }
 ]
