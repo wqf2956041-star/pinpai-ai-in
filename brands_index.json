@@ -442,5 +442,11 @@
     "name": "鳄鱼",
     "name_en": "Lacoste",
     "category": "fashion"
+  },
+  {
+    "slug": "ralph-lauren",
+    "name": "拉夫·劳伦",
+    "name_en": "Ralph Lauren",
+    "category": "fashion"
   }
 ]
