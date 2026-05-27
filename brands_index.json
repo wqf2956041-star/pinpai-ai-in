@@ -418,5 +418,11 @@
     "name": "飒拉",
     "name_en": "Zara",
     "category": "fashion"
+  },
+  {
+    "slug": "lvmh",
+    "name": "路威酩轩",
+    "name_en": "LVMH",
+    "category": "fashion-luxury"
   }
 ]
