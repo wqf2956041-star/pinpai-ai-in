@@ -772,5 +772,65 @@
     "name": "古驰",
     "name_en": "Gucci",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "dominos",
+    "name": "达美乐",
+    "name_en": "Domino's",
+    "category": "food"
+  },
+  {
+    "slug": "hewlett-packard",
+    "name": "惠普",
+    "name_en": "HP",
+    "category": "technology"
+  },
+  {
+    "slug": "dell",
+    "name": "戴尔",
+    "name_en": "Dell",
+    "category": "technology"
+  },
+  {
+    "slug": "lenovo",
+    "name": "联想",
+    "name_en": "Lenovo",
+    "category": "technology"
+  },
+  {
+    "slug": "uber",
+    "name": "优步",
+    "name_en": "Uber",
+    "category": "technology"
+  },
+  {
+    "slug": "tencent",
+    "name": "腾讯",
+    "name_en": "Tencent",
+    "category": "technology"
+  },
+  {
+    "slug": "alibaba",
+    "name": "阿里巴巴",
+    "name_en": "Alibaba",
+    "category": "technology"
+  },
+  {
+    "slug": "baidu",
+    "name": "百度",
+    "name_en": "Baidu",
+    "category": "technology"
+  },
+  {
+    "slug": "bytedance",
+    "name": "字节跳动",
+    "name_en": "ByteDance",
+    "category": "technology"
+  },
+  {
+    "slug": "siemens",
+    "name": "西门子",
+    "name_en": "Siemens",
+    "category": "technology"
   }
 ]
