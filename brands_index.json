@@ -1822,5 +1822,65 @@
     "name": "Brooklyn Brewery",
     "name_en": "Brooklyn Brewery",
     "category": "beverage"
+  },
+  {
+    "slug": "airline",
+    "name": "Airline",
+    "name_en": "Airline",
+    "category": "airline"
+  },
+  {
+    "slug": "air-boyoma",
+    "name": "Air Boyoma",
+    "name_en": "Air Boyoma",
+    "category": "airline"
+  },
+  {
+    "slug": "airline-codes",
+    "name": "Airline codes",
+    "name_en": "Airline codes",
+    "category": "airline"
+  },
+  {
+    "slug": "flag-carrier",
+    "name": "Flag carrier",
+    "name_en": "Flag carrier",
+    "category": "airline"
+  },
+  {
+    "slug": "intrastate-airline",
+    "name": "Intrastate airline",
+    "name_en": "Intrastate airline",
+    "category": "airline"
+  },
+  {
+    "slug": "airport-and-airline-management",
+    "name": "Airport and airline management",
+    "name_en": "Airport and airline management",
+    "category": "airline"
+  },
+  {
+    "slug": "non-scheduled-airline",
+    "name": "Non-scheduled airline",
+    "name_en": "Non-scheduled airline",
+    "category": "airline"
+  },
+  {
+    "slug": "texas-aeronautics-commission",
+    "name": "Texas Aeronautics Commission",
+    "name_en": "Texas Aeronautics Commission",
+    "category": "airline"
+  },
+  {
+    "slug": "airline-trading-card",
+    "name": "Airline trading card",
+    "name_en": "Airline trading card",
+    "category": "airline"
+  },
+  {
+    "slug": "3d-systems",
+    "name": "3D Systems",
+    "name_en": "3D Systems",
+    "category": "general"
   }
 ]

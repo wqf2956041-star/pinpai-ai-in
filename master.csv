@@ -299,3 +299,13 @@ brasserie-dachouffe|Brasserie d'Achouffe|Brasserie d'Achouffe|beverage||0|TRUE
 brasseries-de-bourbon|Brasseries de Bourbon|Brasseries de Bourbon|beverage||0|TRUE
 brewery-puntigam|Brewery Puntigam|Brewery Puntigam|beverage||0|TRUE
 brooklyn-brewery|Brooklyn Brewery|Brooklyn Brewery|beverage||0|TRUE
+airline|Airline|Airline|airline||0|TRUE
+air-boyoma|Air Boyoma|Air Boyoma|airline||0|TRUE
+airline-codes|Airline codes|Airline codes|airline||0|TRUE
+flag-carrier|Flag carrier|Flag carrier|airline||0|TRUE
+intrastate-airline|Intrastate airline|Intrastate airline|airline||0|TRUE
+airport-and-airline-management|Airport and airline management|Airport and airline management|airline||0|TRUE
+non-scheduled-airline|Non-scheduled airline|Non-scheduled airline|airline||0|TRUE
+texas-aeronautics-commission|Texas Aeronautics Commission|Texas Aeronautics Commission|airline||0|TRUE
+airline-trading-card|Airline trading card|Airline trading card|airline||0|TRUE
+3d-systems|3D Systems|3D Systems|general||0|TRUE
