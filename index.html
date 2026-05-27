@@ -422,10 +422,16 @@ var brandsData = [
 {name:"瑞银集团",name_en:"UBS",slug:"ubs",category:"finance",t:1}
 {name:"工商银行",name_en:"ICBC",slug:"icbc",category:"finance",t:1}
 {name:"雀巢",name_en:"Nestlé",slug:"nestle",category:"food",t:1}
-;
-
-    var footerNotes = {'zh-CN':'全球品牌大全 · 10种语言呈现 · 品牌信息持续更新','en':'Global Brand Directory · 10 Languages · Continuously Updated','ja':'世界中のブランド · 10言語対応 · 随時更新','ko':'전 세계 브랜드 · 10개 언어 · 지속적 업데이트','fr':'Répertoire mondial des marques · 10 langues · Mis à jour en continu','es':'Directorio global de marcas · 10 idiomas · Actualización continua','de':'Weltweites Markenverzeichnis · 10 Sprachen · Kontinuierlich aktualisiert','pt':'Diretório global de marcas · 10 idiomas · Atualização contínua','ru':'Глобальный каталог брендов · 10 языков · Постоянное обновление','ar':'دليل العلامات التجارية العالمي · 10 لغات · تحديث مستمر'};
-    document.getElementById('footer-tagline').textContent = footerNotes[code] || footerNotes['zh-CN'];
+{name:"福特",name_en:"Ford",slug:"ford",category:"automotive",t:1}
+{name:"通用汽车",name_en:"General Motors",slug:"gm",category:"automotive",t:1}
+{name:"沃尔玛",name_en:"Walmart",slug:"walmart",category:"retail",t:1}
+{name:"塔吉特",name_en:"Target",slug:"target",category:"retail",t:1}
+{name:"家得宝",name_en:"The Home Depot",slug:"home-depot",category:"retail",t:1}
+{name:"京东",name_en:"JD.com",slug:"jd-com",category:"retail",t:1}
+{name:"帝亚吉欧",name_en:"Diageo",slug:"diageo",category:"beverage",t:1}
+{name:"喜力",name_en:"Heineken",slug:"heineken",category:"beverage",t:1}
+{name:"百威",name_en:"Budweiser",slug:"budweiser",category:"beverage",t:1}
+ || footerNotes['zh-CN'];
 }
 
 function renderBrands(lang) {
@@ -541,7 +547,16 @@ function renderBrands(lang) {
 {name:"汇丰",name_en:"HSBC",slug:"hsbc",category:"finance",t:2},
 {name:"瑞银集团",name_en:"UBS",slug:"ubs",category:"finance",t:2},
 {name:"工商银行",name_en:"ICBC",slug:"icbc",category:"finance",t:2},
-{name:"雀巢",name_en:"Nestlé",slug:"nestle",category:"food",t:2},];
+{name:"雀巢",name_en:"Nestlé",slug:"nestle",category:"food",t:2},
+{name:"福特",name_en:"Ford",slug:"ford",category:"automotive",t:2},
+{name:"通用汽车",name_en:"General Motors",slug:"gm",category:"automotive",t:2},
+{name:"沃尔玛",name_en:"Walmart",slug:"walmart",category:"retail",t:2},
+{name:"塔吉特",name_en:"Target",slug:"target",category:"retail",t:2},
+{name:"家得宝",name_en:"The Home Depot",slug:"home-depot",category:"retail",t:2},
+{name:"京东",name_en:"JD.com",slug:"jd-com",category:"retail",t:2},
+{name:"帝亚吉欧",name_en:"Diageo",slug:"diageo",category:"beverage",t:2},
+{name:"喜力",name_en:"Heineken",slug:"heineken",category:"beverage",t:2},
+{name:"百威",name_en:"Budweiser",slug:"budweiser",category:"beverage",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';

@@ -1216,5 +1216,59 @@
     "name": "雀巢",
     "name_en": "Nestlé",
     "category": "food"
+  },
+  {
+    "slug": "ford",
+    "name": "福特",
+    "name_en": "Ford",
+    "category": "automotive"
+  },
+  {
+    "slug": "gm",
+    "name": "通用汽车",
+    "name_en": "General Motors",
+    "category": "automotive"
+  },
+  {
+    "slug": "walmart",
+    "name": "沃尔玛",
+    "name_en": "Walmart",
+    "category": "retail"
+  },
+  {
+    "slug": "target",
+    "name": "塔吉特",
+    "name_en": "Target",
+    "category": "retail"
+  },
+  {
+    "slug": "home-depot",
+    "name": "家得宝",
+    "name_en": "The Home Depot",
+    "category": "retail"
+  },
+  {
+    "slug": "jd-com",
+    "name": "京东",
+    "name_en": "JD.com",
+    "category": "retail"
+  },
+  {
+    "slug": "diageo",
+    "name": "帝亚吉欧",
+    "name_en": "Diageo",
+    "category": "beverage"
+  },
+  {
+    "slug": "heineken",
+    "name": "喜力",
+    "name_en": "Heineken",
+    "category": "beverage"
+  },
+  {
+    "slug": "budweiser",
+    "name": "百威",
+    "name_en": "Budweiser",
+    "category": "beverage"
   }
 ]
