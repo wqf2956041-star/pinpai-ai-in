@@ -364,5 +364,11 @@
     "name": "无印良品",
     "name_en": "Muji",
     "category": "fashion"
+  },
+  {
+    "slug": "versace",
+    "name": "范思哲",
+    "name_en": "Versace",
+    "category": "fashion-luxury"
   }
 ]
