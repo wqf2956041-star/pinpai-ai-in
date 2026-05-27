@@ -1702,5 +1702,65 @@
     "name": "Vodafone Ukraine",
     "name_en": "Vodafone Ukraine",
     "category": "telecom"
+  },
+  {
+    "slug": "333-premium-export-beer",
+    "name": "333 Premium Export Beer",
+    "name_en": "333 Premium Export Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "1664-beer",
+    "name": "1664 (beer)",
+    "name_en": "1664 (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "a-le-coq",
+    "name": "A. Le Coq",
+    "name_en": "A. Le Coq",
+    "category": "beverage"
+  },
+  {
+    "slug": "ab-inbev-brands",
+    "name": "AB InBev brands",
+    "name_en": "AB InBev brands",
+    "category": "beverage"
+  },
+  {
+    "slug": "archipelago-brewery",
+    "name": "Archipelago Brewery",
+    "name_en": "Archipelago Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "asia-brewery",
+    "name": "Asia Brewery",
+    "name_en": "Asia Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "asmara-brewery",
+    "name": "Asmara Brewery",
+    "name_en": "Asmara Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "bali-hai-beer",
+    "name": "Bali Hai Beer",
+    "name_en": "Bali Hai Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "belikin",
+    "name": "Belikin",
+    "name_en": "Belikin",
+    "category": "beverage"
+  },
+  {
+    "slug": "bier-hoi-brewing-company",
+    "name": "Bier Hoi Brewing Company",
+    "name_en": "Bier Hoi Brewing Company",
+    "category": "beverage"
   }
 ]
