@@ -358,20 +358,17 @@ var brandsData = [
 {name:"百度",name_en:"Baidu",slug:"baidu",category:"technology",t:1}
 {name:"字节跳动",name_en:"ByteDance",slug:"bytedance",category:"technology",t:1}
 {name:"西门子",name_en:"Siemens",slug:"siemens",category:"technology",t:1}
- || code;
-}
-
-function switchLang(code) {
-    // 更新标签页
-    var tabs = document.querySelectorAll('.lang-tab');
-    tabs.forEach(function(t) { t.classList.remove('active'); });
-    tabs.forEach(function(t) {
-        if(t.textContent.trim() === getLangLabel(code)) t.classList.add('active');
-    });
-
-
-    // 更新公告
-    var at = announceTexts[code] || announceTexts['zh-CN'];
+{name:"通用电气",name_en:"General Electric",slug:"ge",category:"technology",t:1}
+{name:"SAP",name_en:"SAP",slug:"sap",category:"technology",t:1}
+{name:"Salesforce",name_en:"Salesforce",slug:"salesforce",category:"technology",t:1}
+{name:"辉瑞",name_en:"Pfizer",slug:"pfizer",category:"healthcare",t:1}
+{name:"诺华",name_en:"Novartis",slug:"novartis",category:"healthcare",t:1}
+{name:"罗氏",name_en:"Roche",slug:"roche",category:"healthcare",t:1}
+{name:"强生",name_en:"Johnson & Johnson",slug:"johnson-and-johnson",category:"healthcare",t:1}
+{name:"默克",name_en:"Merck",slug:"merck",category:"healthcare",t:1}
+{name:"拜耳",name_en:"Bayer",slug:"bayer",category:"healthcare",t:1}
+{name:"雅培",name_en:"Abbott",slug:"abbott",category:"healthcare",t:1}
+ || announceTexts['zh-CN'];
     document.getElementById('ann-title').textContent = at.title;
     document.getElementById('ann-line1').textContent = at.line1;
     document.getElementById('ann-line2').textContent = at.line2;
@@ -445,7 +442,17 @@ function renderBrands(lang) {
 {name:"阿里巴巴",name_en:"Alibaba",slug:"alibaba",category:"technology",t:2},
 {name:"百度",name_en:"Baidu",slug:"baidu",category:"technology",t:2},
 {name:"字节跳动",name_en:"ByteDance",slug:"bytedance",category:"technology",t:2},
-{name:"西门子",name_en:"Siemens",slug:"siemens",category:"technology",t:2},];
+{name:"西门子",name_en:"Siemens",slug:"siemens",category:"technology",t:2},
+{name:"通用电气",name_en:"General Electric",slug:"ge",category:"technology",t:2},
+{name:"SAP",name_en:"SAP",slug:"sap",category:"technology",t:2},
+{name:"Salesforce",name_en:"Salesforce",slug:"salesforce",category:"technology",t:2},
+{name:"辉瑞",name_en:"Pfizer",slug:"pfizer",category:"healthcare",t:2},
+{name:"诺华",name_en:"Novartis",slug:"novartis",category:"healthcare",t:2},
+{name:"罗氏",name_en:"Roche",slug:"roche",category:"healthcare",t:2},
+{name:"强生",name_en:"Johnson & Johnson",slug:"johnson-and-johnson",category:"healthcare",t:2},
+{name:"默克",name_en:"Merck",slug:"merck",category:"healthcare",t:2},
+{name:"拜耳",name_en:"Bayer",slug:"bayer",category:"healthcare",t:2},
+{name:"雅培",name_en:"Abbott",slug:"abbott",category:"healthcare",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';

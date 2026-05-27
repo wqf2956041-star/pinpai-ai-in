@@ -832,5 +832,65 @@
     "name": "西门子",
     "name_en": "Siemens",
     "category": "technology"
+  },
+  {
+    "slug": "ge",
+    "name": "通用电气",
+    "name_en": "General Electric",
+    "category": "technology"
+  },
+  {
+    "slug": "sap",
+    "name": "SAP",
+    "name_en": "SAP",
+    "category": "technology"
+  },
+  {
+    "slug": "salesforce",
+    "name": "Salesforce",
+    "name_en": "Salesforce",
+    "category": "technology"
+  },
+  {
+    "slug": "pfizer",
+    "name": "辉瑞",
+    "name_en": "Pfizer",
+    "category": "healthcare"
+  },
+  {
+    "slug": "novartis",
+    "name": "诺华",
+    "name_en": "Novartis",
+    "category": "healthcare"
+  },
+  {
+    "slug": "roche",
+    "name": "罗氏",
+    "name_en": "Roche",
+    "category": "healthcare"
+  },
+  {
+    "slug": "johnson-and-johnson",
+    "name": "强生",
+    "name_en": "Johnson & Johnson",
+    "category": "healthcare"
+  },
+  {
+    "slug": "merck",
+    "name": "默克",
+    "name_en": "Merck",
+    "category": "healthcare"
+  },
+  {
+    "slug": "bayer",
+    "name": "拜耳",
+    "name_en": "Bayer",
+    "category": "healthcare"
+  },
+  {
+    "slug": "abbott",
+    "name": "雅培",
+    "name_en": "Abbott",
+    "category": "healthcare"
   }
 ]
