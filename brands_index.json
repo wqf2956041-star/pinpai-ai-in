@@ -388,5 +388,11 @@
     "name": "蒂芙尼",
     "name_en": "Tiffany & Co.",
     "category": "jewelry"
+  },
+  {
+    "slug": "rolex",
+    "name": "劳力士",
+    "name_en": "Rolex",
+    "category": "watch"
   }
 ]
