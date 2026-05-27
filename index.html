@@ -219,119 +219,133 @@ var announceTexts = {
 
 // 品牌数据 (从 brands_index.json 生成)
 var brandsData = [
-{name:"3M",name_en:"3M",slug:"3m",category:"materials",t:1},
-{name:"A. Lange & Söhne",name_en:"A. Lange & Söhne",slug:"a--lange-and-s-hne",category:"watch",t:1},
-{name:"Acne Studios",name_en:"Acne Studios",slug:"acne-studios",category:"fashion-luxury",t:1},
-{name:"adidas",name_en:"adidas",slug:"adidas",category:"sport",t:1},
-{name:"Aesop",name_en:"Aesop",slug:"aesop",category:"beauty",t:1},
-{name:"爱彼迎",name_en:"Airbnb",slug:"airbnb",category:"technology",t:1},
-{name:"亚历山大·麦昆（Alexander McQueen）",name_en:"Alexander McQueen",slug:"alexander-mcqueen",category:"fashion-luxury",t:1},
-{name:"亚马逊",name_en:"Amazon",slug:"amazon",category:"technology",t:1},
-{name:"Anheuser-Busch",name_en:"Anheuser-Busch",slug:"anheuser-busch",category:"food",t:1},
-{name:"苹果",name_en:"Apple",slug:"apple",category:"technology",t:1},
-{name:"巴黎世家",name_en:"Balenciaga",slug:"balenciaga",category:"fashion-luxury",t:1},
-{name:"巴利（Bally）",name_en:"Bally",slug:"bally",category:"fashion-luxury",t:1},
-{name:"Benetton",name_en:"Benetton",slug:"benetton",category:"fashion",t:1},
-{name:"宝马",name_en:"BMW",slug:"bmw",category:"auto",t:1},
-{name:"葆蝶家",name_en:"Bottega Veneta",slug:"bottega-veneta",category:"fashion-luxury",t:1},
-{name:"宝格丽",name_en:"Bulgari",slug:"bulgari",category:"fashion-luxury",t:1},
-{name:"博柏利",name_en:"Burberry",slug:"burberry",category:"fashion-luxury",t:1},
-{name:"卡地亚",name_en:"Cartier",slug:"cartier",category:"fashion-luxury",t:1},
-{name:"香奈儿",name_en:"Chanel",slug:"chanel",category:"fashion-luxury",t:1},
-{name:"Chaumet",name_en:"Chaumet",slug:"chaumet",category:"jewelry",t:1},
-{name:"克里斯汀·迪奥",name_en:"Christian Dior",slug:"christian-dior",category:"fashion-luxury",t:1},
-{name:"coca-cola",name_en:"coca-cola",slug:"coca-cola",category:"food",t:1},
-{name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment",t:1},
-{name:"埃舍尔Escher",name_en:"埃舍尔Escher",slug:"escher",category:"fashion-luxury",t:1},
-{name:"ferrari",name_en:"ferrari",slug:"ferrari",category:"auto",t:1},
-{name:"谷歌",name_en:"Google",slug:"google",category:"technology",t:1},
-{name:"愛馬仕",name_en:"Hermès",slug:"hermes",category:"fashion-luxury",t:1},
-{name:"lego",name_en:"lego",slug:"lego",category:"toy",t:1},
-{name:"loréal",name_en:"loréal",slug:"loreal",category:"beauty",t:1},
-{name:"路易威登",name_en:"Louis Vuitton",slug:"louis-vuitton",category:"fashion-luxury",t:1},
-{name:"梅赛德斯-奔驰",name_en:"Mercedes-Benz",slug:"mercedes-benz",category:"auto",t:1},
-{name:"Meta",name_en:"Meta",slug:"meta",category:"technology",t:1},
-{name:"微软",name_en:"Microsoft",slug:"microsoft",category:"technology",t:1},
-{name:"Netflix",name_en:"Netflix",slug:"netflix",category:"technology",t:1},
-{name:"耐克",name_en:"Nike",slug:"nike",category:"sport",t:1},
-{name:"普拉达",name_en:"Prada",slug:"prada",category:"fashion-luxury",t:1},
-{name:"三星",name_en:"Samsung",slug:"samsung",category:"technology",t:1},
-{name:"索尼",name_en:"Sony",slug:"sony",category:"tech",t:1},
-{name:"星巴克",name_en:"Starbucks",slug:"starbucks",category:"food",t:1},
-{name:"特斯拉",name_en:"Tesla",slug:"tesla",category:"auto",t:1},
-{name:"丰田",name_en:"Toyota",slug:"toyota",category:"automotive",t:1},
-{name:"英伟达",name_en:"NVIDIA",slug:"nvidia",category:"technology",t:1},
-{name:"英特尔",name_en:"Intel",slug:"intel",category:"technology",t:1},
-{name:"麦当劳",name_en:"McDonald's",slug:"mcdonalds",category:"food",t:1},
-{name:"百事",name_en:"Pepsi",slug:"pepsi",category:"food",t:1},
-{name:"肯德基",name_en:"KFC",slug:"kfc",category:"food",t:1},
-{name:"必胜客",name_en:"Pizza Hut",slug:"pizza-hut",category:"food",t:1},
-{name:"汉堡王",name_en:"Burger King",slug:"burger-king",category:"food",t:1},
-{name:"赛百味",name_en:"Subway",slug:"subway",category:"food",t:1},
-{name:"本田",name_en:"Honda",slug:"honda",category:"automotive",t:1},
-{name:"大众",name_en:"Volkswagen",slug:"volkswagen",category:"automotive",t:1},
-  {name:"奥迪",name_en:"Audi",slug:"audi",category:"automotive",t:1},
-  {name:"保时捷",name_en:"Porsche",slug:"porsche",category:"automotive",t:1},
-{name:"LG",name_en:"LG",slug:"lg",category:"technology",t:1},
-{name:"现代",name_en:"Hyundai",slug:"hyundai",category:"automotive",t:1},
-{name:"起亚",name_en:"Kia",slug:"kia",category:"automotive",t:1},
-{name:"松下",name_en:"Panasonic",slug:"panasonic",category:"technology",t:1},
-{name:"佳能",name_en:"Canon",slug:"canon",category:"technology",t:1},
-{name:"任天堂",name_en:"Nintendo",slug:"nintendo",category:"technology",t:1},
-{name:"优衣库",name_en:"Uniqlo",slug:"uniqlo",category:"fashion",t:1},
-{name:"无印良品",name_en:"Muji",slug:"muji",category:"fashion",t:1},
-{name:"范思哲",name_en:"Versace",slug:"versace",category:"fashion-luxury",t:1},
-{name:"迪奥",name_en:"Dior",slug:"dior",category:"fashion-luxury",t:1},
-{name:"圣罗兰",name_en:"Yves Saint Laurent",slug:"yves-saint-laurent",category:"fashion-luxury",t:1},
-{name:"蒂芙尼",name_en:"Tiffany & Co.",slug:"tiffany-and-co",category:"jewelry",t:1},
-
-  {name:"劳力士",name_en:"Rolex",slug:"rolex",category:"watch",t:1},
-
-  {name:"欧米茄",name_en:"Omega",slug:"omega",category:"watch",t:1},
-{name:"百达翡丽",name_en:"Patek Philippe",slug:"patek-philippe",category:"watch",t:1},
-
-  {name:"H&M",name_en:"H&M",slug:"handm",category:"fashion",t:1},
-
-  {name:"百达翡丽",name_en:"Patek Philippe",slug:"patek-philippe",category:"watch",t:1},
-
-  {name:"飒拉",name_en:"Zara",slug:"zara",category:"fashion",t:1},
-
-  {name:"路威酩轩",name_en:"LVMH",slug:"lvmh",category:"fashion-luxury",t:1},
-
-  {name:"开云集团",name_en:"Kering",slug:"kering",category:"fashion-luxury",t:1},
-
-  {name:"宜家",name_en:"IKEA",slug:"ikea",category:"retail",t:1},
-{name:"鳄鱼",name_en:"Lacoste",slug:"lacoste",category:"fashion",t:2},
-{name:"拉夫·劳伦",name_en:"Ralph Lauren",slug:"ralph-lauren",category:"fashion",t:2},
-{name:"卡尔文·克莱因",name_en:"Calvin Klein",slug:"calvin-klein",category:"fashion",t:2},
-{name:"汤姆·福特",name_en:"Tom Ford",slug:"tom-ford",category:"fashion",t:2},
-{name:"雀巢",name_en:"Nestlé",slug:"nestl",category:"food",t:2},
-{name:"联合利华",name_en:"Unilever",slug:"unilever",category:"food",t:2},
-{name:"宝洁",name_en:"P&G",slug:"pandg",category:"food",t:2},
-{name:"红牛",name_en:"Red Bull",slug:"red-bull",category:"food",t:2},
-{name:"怪兽",name_en:"Monster Energy",slug:"monster-energy",category:"food",t:2},
-{name:"欧莱雅",name_en:"L'Oréal",slug:"loral",category:"beauty",t:2},
-{name:"雅诗兰黛",name_en:"Estée Lauder",slug:"este-lauder",category:"beauty",t:2},
-{name:"资生堂",name_en:"Shiseido",slug:"shiseido",category:"beauty",t:2},
-{name:"兰蔻",name_en:"Lancôme",slug:"lancme",category:"beauty",t:2},
-{name:"万豪酒店",name_en:"Marriott International",slug:"marriott",category:"hotel",t:2},
-{name:"轩尼诗",name_en:"Hennessy",slug:"hennessy",category:"liquor",t:2},
-{name:"酩悦香槟",name_en:"Moët & Chandon",slug:"moet-chandon",category:"liquor",t:2},
-{name:"劳斯莱斯",name_en:"Rolls-Royce",slug:"rolls-royce",category:"automotive",t:2},
-{name:"宾利",name_en:"Bentley",slug:"bentley",category:"automotive",t:2},
-{name:"兰博基尼",name_en:"Lamborghini",slug:"lamborghini",category:"automotive",t:2},
-{name:"阿斯顿·马丁",name_en:"Aston Martin",slug:"aston-martin",category:"automotive",t:2},
-{name:"玛莎拉蒂",name_en:"Maserati",slug:"maserati",category:"automotive",t:2}
-{name:"健力士",name_en:"Guinness",slug:"guinness",category:"food",t:2},
-{name:"嘉士伯",name_en:"Carlsberg",slug:"carlsberg",category:"food",t:2},
-{name:"高露洁",name_en:"Colgate",slug:"colgate",category:"beauty",t:2},
-{name:"吉列",name_en:"Gillette",slug:"gillette",category:"beauty",t:2},
-{name:"杜蕾斯",name_en:"Durex",slug:"durex",category:"consumer-goods",t:2},
-{name:"维萨",name_en:"Visa",slug:"visa",category:"finance",t:2},
-{name:"万事达",name_en:"Mastercard",slug:"mastercard",category:"finance",t:2},
-{name:"美国运通",name_en:"American Express",slug:"american-express",category:"finance",t:2},
-{name:"好市多",name_en:"Costco",slug:"costco",category:"retail",t:2},
-{name:"沃尔格林",name_en:"Walgreens",slug:"walgreens",category:"retail",t:2}
+{name:"3M",name_en:"3M",slug:"3m",category:"materials",t:1}
+{name:"A. Lange & Söhne",name_en:"A. Lange & Söhne",slug:"a--lange-and-s-hne",category:"watch",t:1}
+{name:"Acne Studios",name_en:"Acne Studios",slug:"acne-studios",category:"fashion-luxury",t:1}
+{name:"adidas",name_en:"adidas",slug:"adidas",category:"sport",t:1}
+{name:"Aesop",name_en:"Aesop",slug:"aesop",category:"beauty",t:1}
+{name:"爱彼迎",name_en:"Airbnb",slug:"airbnb",category:"technology",t:1}
+{name:"亚历山大·麦昆（Alexander McQueen）",name_en:"Alexander McQueen",slug:"alexander-mcqueen",category:"fashion-luxury",t:1}
+{name:"亚马逊",name_en:"Amazon",slug:"amazon",category:"technology",t:1}
+{name:"Anheuser-Busch",name_en:"Anheuser-Busch",slug:"anheuser-busch",category:"food",t:1}
+{name:"苹果",name_en:"Apple",slug:"apple",category:"technology",t:1}
+{name:"巴黎世家",name_en:"Balenciaga",slug:"balenciaga",category:"fashion-luxury",t:1}
+{name:"巴利（Bally）",name_en:"Bally",slug:"bally",category:"fashion-luxury",t:1}
+{name:"Benetton",name_en:"Benetton",slug:"benetton",category:"fashion",t:1}
+{name:"宝马",name_en:"BMW",slug:"bmw",category:"auto",t:1}
+{name:"葆蝶家",name_en:"Bottega Veneta",slug:"bottega-veneta",category:"fashion-luxury",t:1}
+{name:"宝格丽",name_en:"Bulgari",slug:"bulgari",category:"fashion-luxury",t:1}
+{name:"博柏利",name_en:"Burberry",slug:"burberry",category:"fashion-luxury",t:1}
+{name:"卡地亚",name_en:"Cartier",slug:"cartier",category:"fashion-luxury",t:1}
+{name:"香奈儿",name_en:"Chanel",slug:"chanel",category:"fashion-luxury",t:1}
+{name:"Chaumet",name_en:"Chaumet",slug:"chaumet",category:"jewelry",t:1}
+{name:"克里斯汀·迪奥",name_en:"Christian Dior",slug:"christian-dior",category:"fashion-luxury",t:1}
+{name:"coca-cola",name_en:"coca-cola",slug:"coca-cola",category:"food",t:1}
+{name:"迪士尼",name_en:"Disney",slug:"disney",category:"entertainment",t:1}
+{name:"埃舍尔Escher",name_en:"埃舍尔Escher",slug:"escher",category:"fashion-luxury",t:1}
+{name:"ferrari",name_en:"ferrari",slug:"ferrari",category:"auto",t:1}
+{name:"谷歌",name_en:"Google",slug:"google",category:"technology",t:1}
+{name:"愛馬仕",name_en:"Hermès",slug:"hermes",category:"fashion-luxury",t:1}
+{name:"lego",name_en:"lego",slug:"lego",category:"toy",t:1}
+{name:"loréal",name_en:"loréal",slug:"loreal",category:"beauty",t:1}
+{name:"路易威登",name_en:"Louis Vuitton",slug:"louis-vuitton",category:"fashion-luxury",t:1}
+{name:"梅赛德斯-奔驰",name_en:"Mercedes-Benz",slug:"mercedes-benz",category:"auto",t:1}
+{name:"Meta",name_en:"Meta",slug:"meta",category:"technology",t:1}
+{name:"微软",name_en:"Microsoft",slug:"microsoft",category:"technology",t:1}
+{name:"Netflix",name_en:"Netflix",slug:"netflix",category:"technology",t:1}
+{name:"耐克",name_en:"Nike",slug:"nike",category:"sport",t:1}
+{name:"普拉达",name_en:"Prada",slug:"prada",category:"fashion-luxury",t:1}
+{name:"三星",name_en:"Samsung",slug:"samsung",category:"technology",t:1}
+{name:"索尼",name_en:"Sony",slug:"sony",category:"tech",t:1}
+{name:"星巴克",name_en:"Starbucks",slug:"starbucks",category:"food",t:1}
+{name:"特斯拉",name_en:"Tesla",slug:"tesla",category:"auto",t:1}
+{name:"丰田",name_en:"Toyota",slug:"toyota",category:"automotive",t:1}
+{name:"英伟达",name_en:"NVIDIA",slug:"nvidia",category:"technology",t:1}
+{name:"英特尔",name_en:"Intel",slug:"intel",category:"technology",t:1}
+{name:"麦当劳",name_en:"McDonald's",slug:"mcdonalds",category:"food",t:1}
+{name:"百事",name_en:"Pepsi",slug:"pepsi",category:"food",t:1}
+{name:"肯德基",name_en:"KFC",slug:"kfc",category:"food",t:1}
+{name:"必胜客",name_en:"Pizza Hut",slug:"pizza-hut",category:"food",t:1}
+{name:"汉堡王",name_en:"Burger King",slug:"burger-king",category:"food",t:1}
+{name:"赛百味",name_en:"Subway",slug:"subway",category:"food",t:1}
+{name:"本田",name_en:"Honda",slug:"honda",category:"automotive",t:1}
+{name:"大众",name_en:"Volkswagen",slug:"volkswagen",category:"automotive",t:1}
+{name:"奥迪",name_en:"Audi",slug:"audi",category:"automotive",t:1}
+{name:"保时捷",name_en:"Porsche",slug:"porsche",category:"automotive",t:1}
+{name:"LG",name_en:"LG",slug:"lg",category:"technology",t:1}
+{name:"现代",name_en:"Hyundai",slug:"hyundai",category:"automotive",t:1}
+{name:"起亚",name_en:"Kia",slug:"kia",category:"automotive",t:1}
+{name:"松下",name_en:"Panasonic",slug:"panasonic",category:"technology",t:1}
+{name:"佳能",name_en:"Canon",slug:"canon",category:"technology",t:1}
+{name:"任天堂",name_en:"Nintendo",slug:"nintendo",category:"technology",t:1}
+{name:"优衣库",name_en:"Uniqlo",slug:"uniqlo",category:"fashion",t:1}
+{name:"无印良品",name_en:"Muji",slug:"muji",category:"fashion",t:1}
+{name:"范思哲",name_en:"Versace",slug:"versace",category:"fashion-luxury",t:1}
+{name:"迪奥",name_en:"Dior",slug:"dior",category:"fashion-luxury",t:1}
+{name:"圣罗兰",name_en:"Yves Saint Laurent",slug:"yves-saint-laurent",category:"fashion-luxury",t:1}
+{name:"蒂芙尼",name_en:"Tiffany & Co.",slug:"tiffany-and-co",category:"jewelry",t:1}
+{name:"劳力士",name_en:"Rolex",slug:"rolex",category:"watch",t:1}
+{name:"欧米茄",name_en:"Omega",slug:"omega",category:"watch",t:1}
+{name:"百达翡丽",name_en:"Patek Philippe",slug:"patek-philippe",category:"watch",t:1}
+{name:"H&M",name_en:"H&M",slug:"handm",category:"fashion",t:1}
+{name:"飒拉",name_en:"Zara",slug:"zara",category:"fashion",t:1}
+{name:"路威酩轩",name_en:"LVMH",slug:"lvmh",category:"fashion-luxury",t:1}
+{name:"开云集团",name_en:"Kering",slug:"kering",category:"fashion-luxury",t:1}
+{name:"宜家",name_en:"IKEA",slug:"ikea",category:"retail",t:1}
+{name:"鳄鱼",name_en:"Lacoste",slug:"lacoste",category:"fashion",t:1}
+{name:"拉夫·劳伦",name_en:"Ralph Lauren",slug:"ralph-lauren",category:"fashion",t:1}
+{name:"卡尔文·克莱因",name_en:"Calvin Klein",slug:"calvin-klein",category:"fashion",t:1}
+{name:"汤姆·福特",name_en:"Tom Ford",slug:"tom-ford",category:"fashion",t:1}
+{name:"雀巢",name_en:"Nestlé",slug:"nestl",category:"food",t:1}
+{name:"联合利华",name_en:"Unilever",slug:"unilever",category:"food",t:1}
+{name:"宝洁",name_en:"P&G",slug:"pandg",category:"food",t:1}
+{name:"红牛",name_en:"Red Bull",slug:"red-bull",category:"food",t:1}
+{name:"怪兽",name_en:"Monster Energy",slug:"monster-energy",category:"food",t:1}
+{name:"欧莱雅",name_en:"L'Oréal",slug:"loral",category:"beauty",t:1}
+{name:"雅诗兰黛",name_en:"Estée Lauder",slug:"este-lauder",category:"beauty",t:1}
+{name:"资生堂",name_en:"Shiseido",slug:"shiseido",category:"beauty",t:1}
+{name:"兰蔻",name_en:"Lancôme",slug:"lancme",category:"beauty",t:1}
+{name:"万豪酒店",name_en:"Marriott International",slug:"marriott",category:"hotel",t:1}
+{name:"轩尼诗",name_en:"Hennessy",slug:"hennessy",category:"liquor",t:1}
+{name:"酩悦香槟",name_en:"Moët & Chandon",slug:"moet-chandon",category:"liquor",t:1}
+{name:"劳斯莱斯",name_en:"Rolls-Royce",slug:"rolls-royce",category:"automotive",t:1}
+{name:"宾利",name_en:"Bentley",slug:"bentley",category:"automotive",t:1}
+{name:"兰博基尼",name_en:"Lamborghini",slug:"lamborghini",category:"automotive",t:1}
+{name:"阿斯顿·马丁",name_en:"Aston Martin",slug:"aston-martin",category:"automotive",t:1}
+{name:"玛莎拉蒂",name_en:"Maserati",slug:"maserati",category:"automotive",t:1}
+{name:"健力士",name_en:"Guinness",slug:"guinness",category:"food",t:1}
+{name:"嘉士伯",name_en:"Carlsberg",slug:"carlsberg",category:"food",t:1}
+{name:"高露洁",name_en:"Colgate",slug:"colgate",category:"beauty",t:1}
+{name:"吉列",name_en:"Gillette",slug:"gillette",category:"beauty",t:1}
+{name:"杜蕾斯",name_en:"Durex",slug:"durex",category:"consumer-goods",t:1}
+{name:"维萨",name_en:"Visa",slug:"visa",category:"finance",t:1}
+{name:"万事达",name_en:"Mastercard",slug:"mastercard",category:"finance",t:1}
+{name:"美国运通",name_en:"American Express",slug:"american-express",category:"finance",t:1}
+{name:"好市多",name_en:"Costco",slug:"costco",category:"retail",t:1}
+{name:"沃尔格林",name_en:"Walgreens",slug:"walgreens",category:"retail",t:1}
+{name:"IBM",name_en:"IBM",slug:"ibm",category:"technology",t:1}
+{name:"甲骨文",name_en:"Oracle",slug:"oracle",category:"technology",t:1}
+{name:"思科",name_en:"Cisco",slug:"cisco",category:"technology",t:1}
+{name:"捷豹",name_en:"Jaguar",slug:"jaguar",category:"auto",t:1}
+{name:"路虎",name_en:"Land Rover",slug:"land-rover",category:"auto",t:1}
+{name:"沃尔沃",name_en:"Volvo",slug:"volvo",category:"auto",t:1}
+{name:"MINI",name_en:"MINI",slug:"mini",category:"auto",t:1}
+{name:"菲亚特",name_en:"Fiat",slug:"fiat",category:"auto",t:1}
+{name:"标致",name_en:"Peugeot",slug:"peugeot",category:"auto",t:1}
+{name:"雪铁龙",name_en:"Citroën",slug:"citroen",category:"auto",t:1}
+{name:"特斯拉汽车",name_en:"Tesla Motors",slug:"tesla-motors",category:"auto",t:1}
+{name:"马自达",name_en:"Mazda",slug:"mazda",category:"auto",t:1}
+{name:"斯巴鲁",name_en:"Subaru",slug:"subaru",category:"auto",t:1}
+{name:"三菱汽车",name_en:"Mitsubishi Motors",slug:"mitsubishi-motors",category:"auto",t:1}
+{name:"日产",name_en:"Nissan",slug:"nissan",category:"auto",t:1}
+{name:"纪梵希",name_en:"Givenchy",slug:"givenchy",category:"fashion-luxury",t:1}
+{name:"芬迪",name_en:"Fendi",slug:"fendi",category:"fashion-luxury",t:1}
+{name:"罗意威",name_en:"Loewe",slug:"loewe",category:"fashion-luxury",t:1}
+{name:"赛琳",name_en:"Celine",slug:"celine",category:"fashion-luxury",t:1}
+{name:"缪缪",name_en:"Miu Miu",slug:"miu-miu",category:"fashion-luxury",t:1}
+{name:"圣罗兰",name_en:"Yves Saint Laurent",slug:"ysl",category:"fashion-luxury",t:1}
+{name:"爱彼",name_en:"Audemars Piguet",slug:"audemars-piguet",category:"fashion-luxury",t:1}
+{name:"卡仕奇甜甜圈",name_en:"Krispy Kreme",slug:"krispy-kreme",category:"food",t:1}
 ]
 
 var categoryNames = {
