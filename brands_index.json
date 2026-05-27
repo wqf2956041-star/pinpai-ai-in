@@ -424,5 +424,11 @@
     "name": "路威酩轩",
     "name_en": "LVMH",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "kering",
+    "name": "开云集团",
+    "name_en": "Kering",
+    "category": "fashion-luxury"
   }
 ]
