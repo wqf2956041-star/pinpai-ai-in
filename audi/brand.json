@@ -1,0 +1,77 @@
+{
+  "slug": "audi",
+  "names": {
+    "zh-CN": "奥迪",
+    "en": "Audi",
+    "ja": "アウディ",
+    "ko": "아우디",
+    "fr": "Audi",
+    "es": "Audi",
+    "de": "Audi",
+    "pt": "Audi",
+    "ru": "Ауди",
+    "ar": "أودي"
+  },
+  "category": "automotive",
+  "founding_year": 1909,
+  "founding_location": "德国茨维考（Zwickau, Germany）",
+  "founder": "奥古斯特·霍希（August Horch）",
+  "official_website": "https://www.audi.com",
+  "main_business": [
+    "汽车制造（Automobile Manufacturing）"
+  ],
+  "current_slogan": "Vorsprung durch Technik / 突破科技 启迪未来",
+  "historical_facts": [
+    "1909年由奥古斯特·霍希在茨维考创立，『Audi』源自『Horch』的拉丁文翻译，意为『听』",
+    "1928年，奥迪与霍希、漫游者（Wanderer）、DKW合并成立汽车联盟（Auto Union），四环标志代表这四家公司",
+    "1930年代汽车联盟的银箭赛车（Auto Union Type A-D）在GP大赛中称霸，开创了中置发动机赛车设计",
+    "1965年推出『四缸直喷发动机』技术，是战后重要的技术突破，确立了奥迪的技术领先地位",
+    "1980年推出quattro全时四驱系统——首款搭载四驱系统的量产高性能轿车，彻底改变了汽车行业对抓地力的认知",
+    "1994年推出第一代A8——奥迪首次采用ASF（Aluminum Space Frame）全铝车身框架，引领豪华车轻量化趋势",
+    "2000年代凭借A4、A6、Q5、Q7等车型在全球豪华车市场占据重要地位，与宝马、奔驰并称『德国三驾马车』",
+    "2020年代加速电动化，推出e-tron系列纯电动车，计划到2033年逐步停产内燃机车型"
+  ],
+  "market_presence": {
+    "total_stores": "全球经销商约3000+",
+    "countries": "100+",
+    "annual_production": "约160万辆（2024年）"
+  },
+  "parent_company": "大众集团（Volkswagen AG）",
+  "sub_brands": [
+    "奥迪（Audi）",
+    "兰博基尼（Lamborghini，隶属奥迪）",
+    "杜卡迪（Ducati，隶属奥迪）"
+  ],
+  "similar_brands": [
+    {
+      "name": "宝马",
+      "name_en": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "name": "梅赛德斯-奔驰",
+      "name_en": "Mercedes-Benz",
+      "slug": "mercedes-benz"
+    },
+    {
+      "name": "大众",
+      "name_en": "Volkswagen",
+      "slug": "volkswagen"
+    },
+    {
+      "name": "保时捷",
+      "name_en": "Porsche",
+      "slug": "porsche"
+    },
+    {
+      "name": "雷克萨斯",
+      "name_en": "Lexus",
+      "slug": "lexus"
+    },
+    {
+      "name": "沃尔沃",
+      "name_en": "Volvo",
+      "slug": "volvo"
+    }
+  ]
+}

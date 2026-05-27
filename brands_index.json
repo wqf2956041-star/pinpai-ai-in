@@ -310,5 +310,11 @@
     "name": "大众",
     "name_en": "Volkswagen",
     "category": "automotive"
+  },
+  {
+    "slug": "audi",
+    "name": "奥迪",
+    "name_en": "Audi",
+    "category": "automotive"
   }
 ]
