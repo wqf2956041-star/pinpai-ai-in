@@ -401,7 +401,17 @@ function renderBrands(lang) {
         return tb - ta;
     });
     for (var i = 0; i < sorted.length; i++) {
-        var b = sorted[i];
+        var b = sorted[i
+{name:"IBM",name_en:"IBM",slug:"ibm",category:"technology",t:2},
+{name:"甲骨文",name_en:"Oracle",slug:"oracle",category:"technology",t:2},
+{name:"思科",name_en:"Cisco",slug:"cisco",category:"technology",t:2},
+{name:"捷豹",name_en:"Jaguar",slug:"jaguar",category:"auto",t:2},
+{name:"路虎",name_en:"Land Rover",slug:"land-rover",category:"auto",t:2},
+{name:"沃尔沃",name_en:"Volvo",slug:"volvo",category:"auto",t:2},
+{name:"MINI",name_en:"MINI",slug:"mini",category:"auto",t:2},
+{name:"菲亚特",name_en:"Fiat",slug:"fiat",category:"auto",t:2},
+{name:"标致",name_en:"Peugeot",slug:"peugeot",category:"auto",t:2},
+{name:"雪铁龙",name_en:"Citroën",slug:"citroen",category:"auto",t:2},];
         // 按品牌名排序，Escher置顶
         var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
         if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';

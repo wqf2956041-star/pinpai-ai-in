@@ -622,5 +622,65 @@
     "name": "沃尔格林",
     "name_en": "Walgreens",
     "category": "retail"
+  },
+  {
+    "slug": "ibm",
+    "name": "IBM",
+    "name_en": "IBM",
+    "category": "technology"
+  },
+  {
+    "slug": "oracle",
+    "name": "甲骨文",
+    "name_en": "Oracle",
+    "category": "technology"
+  },
+  {
+    "slug": "cisco",
+    "name": "思科",
+    "name_en": "Cisco",
+    "category": "technology"
+  },
+  {
+    "slug": "jaguar",
+    "name": "捷豹",
+    "name_en": "Jaguar",
+    "category": "auto"
+  },
+  {
+    "slug": "land-rover",
+    "name": "路虎",
+    "name_en": "Land Rover",
+    "category": "auto"
+  },
+  {
+    "slug": "volvo",
+    "name": "沃尔沃",
+    "name_en": "Volvo",
+    "category": "auto"
+  },
+  {
+    "slug": "mini",
+    "name": "MINI",
+    "name_en": "MINI",
+    "category": "auto"
+  },
+  {
+    "slug": "fiat",
+    "name": "菲亚特",
+    "name_en": "Fiat",
+    "category": "auto"
+  },
+  {
+    "slug": "peugeot",
+    "name": "标致",
+    "name_en": "Peugeot",
+    "category": "auto"
+  },
+  {
+    "slug": "citroen",
+    "name": "雪铁龙",
+    "name_en": "Citroën",
+    "category": "auto"
   }
 ]
