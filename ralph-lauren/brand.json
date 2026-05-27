@@ -1,0 +1,58 @@
+{
+  "slug": "ralph-lauren",
+  "names": {
+    "zh-CN": "拉夫·劳伦",
+    "en": "Ralph Lauren",
+    "ja": "ラルフ・ローレン",
+    "ko": "랄프 로렌",
+    "th": "ราล์ฟ ลอเรน",
+    "es": "Ralph Lauren",
+    "fr": "Ralph Lauren",
+    "de": "Ralph Lauren",
+    "it": "Ralph Lauren",
+    "pt": "Ralph Lauren",
+    "ru": "Ральф Лорен",
+    "ar": "رالف لورين"
+  },
+  "category": "fashion",
+  "description": {
+    "zh-CN": "Ralph Lauren（拉夫·劳伦）是美国知名时尚品牌，由拉夫·劳伦于1967年创立，总部位于纽约。品牌以经典的美式风格、马球标志和高品质服装而全球闻名，涵盖男女装、配饰、香水、家居等多个领域。",
+    "en": "Ralph Lauren is an American fashion brand founded by Ralph Lauren in 1967, headquartered in New York City. The brand is globally renowned for its classic American style, iconic polo logo, and high-quality apparel across men's wear, women's wear, accessories, fragrances, and home furnishings.",
+    "ja": "ラルフ・ローレンは、ラルフ・ローレンによって1967年に設立されたアメリカのファッションブランドで、ニューヨークに本社を置いています。クラシックなアメリカンスタイル、アイコニックなポロロゴ、高品質なアパレルで世界的に知られ、メンズ・ウィメンズウェア、アクセサリー、フレグランス、ホームファニッシングなどを展開しています。",
+    "ko": "랄프 로렌은 1967년 랄프 로렌이 설립한 미국 패션 브랜드로, 뉴욕에 본사를 두고 있습니다. 클래식한 미국 스타일, 상징적인 폴로 로고, 고품질 의류로 전 세계적으로 유명하며 남성복, 여성복, 액세서리, 향수, 홈 퍼니싱 등을 선보입니다.",
+    "th": "ราล์ฟ ลอเรน เป็นแบรนด์แฟชั่นสัญชาติอเมริกัน ก่อตั้งโดยราล์ฟ ลอเรน ในปี 1967 มีสำนักงานใหญ่ในนครนิวยอร์ก แบรนด์นี้มีชื่อเสียงระดับโลกด้านสไตล์อเมริกันคลาสสิก โลโก้โปโลอันเป็นเอกลักษณ์ และเสื้อผ้าคุณภาพสูง ครอบคลุมเสื้อผ้าชายหญิง เครื่องประดับ น้ำหอม และของตกแต่งบ้าน",
+    "es": "Ralph Lauren es una marca de moda estadounidense fundada por Ralph Lauren en 1967, con sede en la ciudad de Nueva York. La marca es reconocida mundialmente por su estilo americano clásico, su icónico logo del polo y su ropa de alta calidad que abarca moda masculina, femenina, accesorios, fragancias y artículos para el hogar.",
+    "fr": "Ralph Lauren est une marque de mode américaine fondée par Ralph Lauren en 1967, dont le siège est à New York. La marque est mondialement reconnue pour son style américain classique, son logo emblématique du polo et ses vêtements de haute qualité, incluant les collections homme, femme, accessoires, parfums et maison.",
+    "de": "Ralph Lauren ist eine amerikanische Modemarke, die 1967 von Ralph Lauren gegründet wurde und ihren Hauptsitz in New York City hat. Die Marke ist weltweit bekannt für ihren klassischen amerikanischen Stil, das ikonische Polo-Logo und hochwertige Bekleidung für Herren-, Damenmode, Accessoires, Düfte und Wohnaccessoires.",
+    "pt": "A Ralph Lauren é uma marca de moda americana fundada por Ralph Lauren em 1967, com sede na cidade de Nova York. A marca é reconhecida mundialmente por seu estilo americano clássico, seu icônico logotipo do polo e roupas de alta qualidade que abrangem moda masculina, feminina, acessórios, fragrâncias e artigos para o lar.",
+    "ru": "Ralph Lauren — американский бренд моды, основанный Ральфом Лореном в 1967 году, штаб-квартира находится в Нью-Йорке. Бренд известен во всем мире классическим американским стилем, культовым логотипом с поло и высококачественной одеждой, включая мужскую, женскую одежду, аксессуары, парфюмерию и товары для дома.",
+    "ar": "رالف لورين هي علامة تجارية أمريكية للأزياء أسسها رالف لورين في عام 1967، ويقع مقرها الرئيسي في مدينة نيويورك. تشتهر العلامة التجارية عالمياً بأسلوبها الأمريكي الكلاسيكي، وشعار البولو الشهير، والملابس عالية الجودة التي تشمل ملابس الرجال والنساء والإكسسوارات والعطور والمفروشات المنزلية."
+  },
+  "similar": [
+    {
+      "name": "Calvin Klein",
+      "name_en": "Calvin Klein",
+      "slug": "calvin-klein"
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "name_en": "Tommy Hilfiger",
+      "slug": "tommy-hilfiger"
+    },
+    {
+      "name": "Burberry",
+      "name_en": "Burberry",
+      "slug": "burberry"
+    },
+    {
+      "name": "Hugo Boss",
+      "name_en": "Hugo Boss",
+      "slug": "hugo-boss"
+    },
+    {
+      "name": "Versace",
+      "name_en": "Versace",
+      "slug": "versace"
+    }
+  ]
+}
