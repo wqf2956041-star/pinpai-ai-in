@@ -370,5 +370,11 @@
     "name": "范思哲",
     "name_en": "Versace",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "dior",
+    "name": "迪奥",
+    "name_en": "Dior",
+    "category": "fashion-luxury"
   }
 ]

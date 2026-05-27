@@ -1,0 +1,65 @@
+{
+  "slug": "dior",
+  "names": {
+    "zh-CN": "迪奥",
+    "en": "Dior",
+    "ja": "ディオール",
+    "ko": "디올",
+    "fr": "Dior",
+    "es": "Dior",
+    "de": "Dior",
+    "pt": "Dior",
+    "ru": "Dior",
+    "ar": "ديور"
+  },
+  "category": "fashion-luxury",
+  "founding_year": 1946,
+  "founding_location": "法国巴黎蒙田大道30号",
+  "founder": "克里斯汀·迪奥（Christian Dior）",
+  "official_website": "https://www.dior.com",
+  "main_business": [
+    "高级时装",
+    "皮具",
+    "配饰",
+    "香水",
+    "化妆品",
+    "珠宝",
+    "腕表"
+  ],
+  "current_slogan": "Dior — 永恒优雅的法式奢华",
+  "historical_facts": [
+    "1946年由克里斯汀·迪奥在巴黎蒙田大道30号创立，同年推出首个时装系列'新风貌'（New Look），彻底改变了战后时尚",
+    "1947年2月12日首场发布秀上，Corolle系列（后被称为New Look）以极细腰身、宽大裙摆的设计震惊巴黎",
+    "1957年克里斯汀·迪奥因心脏病突发去世，年仅52岁，伊夫·圣罗兰接任创意总监",
+    "1960年代至1990年代先后由马克·博昂、吉安弗兰科·费雷、约翰·加利亚诺执掌创意",
+    "1999年被LVMH集团收购，克里斯汀·迪奥香水公司同步并入集团体系",
+    "2012年至2024年由拉夫·西蒙斯、玛丽亚·嘉西亚·基乌里等设计师领导，雷佛丝·丽成为女装创意总监"
+  ],
+  "market_presence": {
+    "total_stores": "300+",
+    "countries": "100+"
+  },
+  "parent_company": "Christian Dior SE（LVMH集团控股）",
+  "similar_brands": [
+    {
+      "name": "香奈儿",
+      "name_en": "Chanel",
+      "slug": "chanel"
+    },
+    {
+      "name": "古驰",
+      "name_en": "Gucci",
+      "slug": "gucci"
+    },
+    {
+      "name": "路易威登",
+      "name_en": "Louis Vuitton",
+      "slug": "louis-vuitton"
+    },
+    {
+      "name": "普拉达",
+      "name_en": "Prada",
+      "slug": "prada"
+    }
+  ]
+}
