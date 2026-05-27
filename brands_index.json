@@ -2002,5 +2002,65 @@
     "name": "Avaya",
     "name_en": "Avaya",
     "category": "general"
+  },
+  {
+    "slug": "baxter-international",
+    "name": "Baxter International",
+    "name_en": "Baxter International",
+    "category": "general"
+  },
+  {
+    "slug": "berkshire-hathaway",
+    "name": "Berkshire Hathaway",
+    "name_en": "Berkshire Hathaway",
+    "category": "general"
+  },
+  {
+    "slug": "best-buy",
+    "name": "Best Buy",
+    "name_en": "Best Buy",
+    "category": "general"
+  },
+  {
+    "slug": "bioverativ",
+    "name": "Bioverativ",
+    "name_en": "Bioverativ",
+    "category": "general"
+  },
+  {
+    "slug": "boeing",
+    "name": "Boeing",
+    "name_en": "Boeing",
+    "category": "general"
+  },
+  {
+    "slug": "branson-ultrasonics",
+    "name": "Branson Ultrasonics",
+    "name_en": "Branson Ultrasonics",
+    "category": "general"
+  },
+  {
+    "slug": "brinker-international",
+    "name": "Brinker International",
+    "name_en": "Brinker International",
+    "category": "general"
+  },
+  {
+    "slug": "cameron-international",
+    "name": "Cameron International",
+    "name_en": "Cameron International",
+    "category": "general"
+  },
+  {
+    "slug": "the-cartoon-network-inc",
+    "name": "The Cartoon Network, Inc.",
+    "name_en": "The Cartoon Network, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "caterpillar-inc",
+    "name": "Caterpillar Inc.",
+    "name_en": "Caterpillar Inc.",
+    "category": "general"
   }
 ]
