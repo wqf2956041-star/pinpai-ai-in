@@ -1462,5 +1462,65 @@
     "name": "Nestlé Rossiya",
     "name_en": "Nestlé Rossiya",
     "category": "food"
+  },
+  {
+    "slug": "3t-cycling",
+    "name": "3T Cycling",
+    "name_en": "3T Cycling",
+    "category": "general"
+  },
+  {
+    "slug": "abarth",
+    "name": "Abarth",
+    "name_en": "Abarth",
+    "category": "general"
+  },
+  {
+    "slug": "abici",
+    "name": "Abici",
+    "name_en": "Abici",
+    "category": "general"
+  },
+  {
+    "slug": "accossato",
+    "name": "Accossato",
+    "name_en": "Accossato",
+    "category": "general"
+  },
+  {
+    "slug": "acqua-di-parma",
+    "name": "Acqua di Parma",
+    "name_en": "Acqua di Parma",
+    "category": "general"
+  },
+  {
+    "slug": "acube-systems-srl",
+    "name": "ACube Systems Srl",
+    "name_en": "ACube Systems Srl",
+    "category": "general"
+  },
+  {
+    "slug": "aeritalia",
+    "name": "Aeritalia",
+    "name_en": "Aeritalia",
+    "category": "general"
+  },
+  {
+    "slug": "aermacchi",
+    "name": "Aermacchi",
+    "name_en": "Aermacchi",
+    "category": "general"
+  },
+  {
+    "slug": "aeroitalia",
+    "name": "AeroItalia",
+    "name_en": "AeroItalia",
+    "category": "general"
+  },
+  {
+    "slug": "agip",
+    "name": "Agip",
+    "name_en": "Agip",
+    "category": "general"
   }
 ]

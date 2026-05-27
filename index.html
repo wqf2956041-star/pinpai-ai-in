@@ -127,7 +127,17 @@ setInterval(function(){
 var circleFrames = ['◒','◐','◓','◑'];
 var ci = 0;
 setInterval(function(){
-    document.getElementById('spinner3').textContent = circleFrames[ci];
+    document.getElementById('spinner3').textContent = circleFrames[ci
+{name:"3T Cycling",name_en:"3T Cycling",slug:"3t-cycling",category:"general",t:2},
+{name:"Abarth",name_en:"Abarth",slug:"abarth",category:"general",t:2},
+{name:"Abici",name_en:"Abici",slug:"abici",category:"general",t:2},
+{name:"Accossato",name_en:"Accossato",slug:"accossato",category:"general",t:2},
+{name:"Acqua di Parma",name_en:"Acqua di Parma",slug:"acqua-di-parma",category:"general",t:2},
+{name:"ACube Systems Srl",name_en:"ACube Systems Srl",slug:"acube-systems-srl",category:"general",t:2},
+{name:"Aeritalia",name_en:"Aeritalia",slug:"aeritalia",category:"general",t:2},
+{name:"Aermacchi",name_en:"Aermacchi",slug:"aermacchi",category:"general",t:2},
+{name:"AeroItalia",name_en:"AeroItalia",slug:"aeroitalia",category:"general",t:2},
+{name:"Agip",name_en:"Agip",slug:"agip",category:"general",t:2},];
     ci = (ci + 1) % circleFrames.length;
 }, 250);
 var pct = 1;
@@ -463,11 +473,17 @@ var brandsData = [
 {name:"Morozoff Ltd.",name_en:"Morozoff Ltd.",slug:"morozoff-ltd",category:"food",t:1}
 {name:"Mynthon",name_en:"Mynthon",slug:"mynthon",category:"food",t:1}
 {name:"Nestlé Rossiya",name_en:"Nestlé Rossiya",slug:"nestl-rossiya",category:"food",t:1}
-;
-        // 按品牌名排序，Escher置顶
-        var nameDisplay = (lang === 'zh-CN') ? b.name : b.name_en;
-        if (b.slug === 'escher' && lang === 'zh-CN') nameDisplay = '埃舍尔Escher';
-        var catLabel = cats[b.category] || b.category;
+{name:"3T Cycling",name_en:"3T Cycling",slug:"3t-cycling",category:"general",t:1}
+{name:"Abarth",name_en:"Abarth",slug:"abarth",category:"general",t:1}
+{name:"Abici",name_en:"Abici",slug:"abici",category:"general",t:1}
+{name:"Accossato",name_en:"Accossato",slug:"accossato",category:"general",t:1}
+{name:"Acqua di Parma",name_en:"Acqua di Parma",slug:"acqua-di-parma",category:"general",t:1}
+{name:"ACube Systems Srl",name_en:"ACube Systems Srl",slug:"acube-systems-srl",category:"general",t:1}
+{name:"Aeritalia",name_en:"Aeritalia",slug:"aeritalia",category:"general",t:1}
+{name:"Aermacchi",name_en:"Aermacchi",slug:"aermacchi",category:"general",t:1}
+{name:"AeroItalia",name_en:"AeroItalia",slug:"aeroitalia",category:"general",t:1}
+{name:"Agip",name_en:"Agip",slug:"agip",category:"general",t:1}
+ || b.category;
         var premiumTag = b.premium ? '<span class="badge-premium">品牌推广</span>' : '';
         html += '<a href="/' + b.slug + '/" class="brand-card">' +
             '<h2>' + nameDisplay + premiumTag + '</h2>' +
