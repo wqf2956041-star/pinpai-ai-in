@@ -2602,5 +2602,65 @@
     "name": "Admiral Sportswear",
     "name_en": "Admiral Sportswear",
     "category": "sportswear"
+  },
+  {
+    "slug": "afa-sports",
+    "name": "AFA Sports",
+    "name_en": "AFA Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "affliction-clothing",
+    "name": "Affliction Clothing",
+    "name_en": "Affliction Clothing",
+    "category": "sportswear"
+  },
+  {
+    "slug": "air-jordan",
+    "name": "Air Jordan",
+    "name_en": "Air Jordan",
+    "category": "sportswear"
+  },
+  {
+    "slug": "airness",
+    "name": "Airness",
+    "name_en": "Airness",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alanic-brand",
+    "name": "Alanic (brand)",
+    "name_en": "Alanic (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alnasser-sportswear",
+    "name": "Alnasser (sportswear)",
+    "name_en": "Alnasser (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alo-yoga",
+    "name": "Alo Yoga",
+    "name_en": "Alo Yoga",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alphatauri-fashion-brand",
+    "name": "AlphaTauri (fashion brand)",
+    "name_en": "AlphaTauri (fashion brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alpine-pro",
+    "name": "Alpine Pro",
+    "name_en": "Alpine Pro",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alpinestars",
+    "name": "Alpinestars",
+    "name_en": "Alpinestars",
+    "category": "sportswear"
   }
 ]
