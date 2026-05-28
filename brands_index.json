@@ -5002,5 +5002,65 @@
     "name": "Bexel",
     "name_en": "Bexel",
     "category": "general"
+  },
+  {
+    "slug": "blue-elephant-corporation",
+    "name": "Blue Elephant Corporation",
+    "name_en": "Blue Elephant Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "bohae",
+    "name": "Bohae",
+    "name_en": "Bohae",
+    "category": "general"
+  },
+  {
+    "slug": "bullsone",
+    "name": "Bullsone",
+    "name_en": "Bullsone",
+    "category": "general"
+  },
+  {
+    "slug": "ca-sega-joypolis",
+    "name": "CA Sega Joypolis",
+    "name_en": "CA Sega Joypolis",
+    "category": "general"
+  },
+  {
+    "slug": "camp-mobile",
+    "name": "Camp Mobile",
+    "name_en": "Camp Mobile",
+    "category": "general"
+  },
+  {
+    "slug": "cas-corporation",
+    "name": "CAS Corporation",
+    "name_en": "CAS Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "celltrion",
+    "name": "Celltrion",
+    "name_en": "Celltrion",
+    "category": "general"
+  },
+  {
+    "slug": "cheil-worldwide",
+    "name": "Cheil Worldwide",
+    "name_en": "Cheil Worldwide",
+    "category": "general"
+  },
+  {
+    "slug": "chipsmedia",
+    "name": "Chips&Media",
+    "name_en": "Chips&Media",
+    "category": "general"
+  },
+  {
+    "slug": "cj-cheiljedang",
+    "name": "CJ CheilJedang",
+    "name_en": "CJ CheilJedang",
+    "category": "general"
   }
 ]
