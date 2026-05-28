@@ -4582,5 +4582,65 @@
     "name": "Benbros",
     "name_en": "Benbros",
     "category": "toy"
+  },
+  {
+    "slug": "kite-pharma",
+    "name": "Kite Pharma",
+    "name_en": "Kite Pharma",
+    "category": "healthcare"
+  },
+  {
+    "slug": "korea-pugang-corporation",
+    "name": "Korea Pugang Corporation",
+    "name_en": "Korea Pugang Corporation",
+    "category": "healthcare"
+  },
+  {
+    "slug": "kyntra-bio",
+    "name": "Kyntra Bio",
+    "name_en": "Kyntra Bio",
+    "category": "healthcare"
+  },
+  {
+    "slug": "kyowa-kirin",
+    "name": "Kyowa Kirin",
+    "name_en": "Kyowa Kirin",
+    "category": "healthcare"
+  },
+  {
+    "slug": "medivation",
+    "name": "Medivation",
+    "name_en": "Medivation",
+    "category": "healthcare"
+  },
+  {
+    "slug": "molecular-partners",
+    "name": "Molecular Partners",
+    "name_en": "Molecular Partners",
+    "category": "healthcare"
+  },
+  {
+    "slug": "nektar-therapeutics",
+    "name": "Nektar Therapeutics",
+    "name_en": "Nektar Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "neuland-laboratories",
+    "name": "Neuland Laboratories",
+    "name_en": "Neuland Laboratories",
+    "category": "healthcare"
+  },
+  {
+    "slug": "owl-drug-co-ltd",
+    "name": "Owl Drug Co. Ltd.",
+    "name_en": "Owl Drug Co. Ltd.",
+    "category": "healthcare"
+  },
+  {
+    "slug": "pugang-pharmaceutic-company",
+    "name": "Pugang Pharmaceutic Company",
+    "name_en": "Pugang Pharmaceutic Company",
+    "category": "healthcare"
   }
 ]
