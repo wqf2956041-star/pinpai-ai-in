@@ -5062,5 +5062,65 @@
     "name": "CJ CheilJedang",
     "name_en": "CJ CheilJedang",
     "category": "general"
+  },
+  {
+    "slug": "baic-group",
+    "name": "BAIC Group",
+    "name_en": "BAIC Group",
+    "category": "general"
+  },
+  {
+    "slug": "baic-ruixiang",
+    "name": "BAIC Ruixiang",
+    "name_en": "BAIC Ruixiang",
+    "category": "general"
+  },
+  {
+    "slug": "bambu-lab",
+    "name": "Bambu Lab",
+    "name_en": "Bambu Lab",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-beijing",
+    "name": "Bank of Beijing",
+    "name_en": "Bank of Beijing",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-china",
+    "name": "Bank of China",
+    "name_en": "Bank of China",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-communications",
+    "name": "Bank of Communications",
+    "name_en": "Bank of Communications",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-handan",
+    "name": "Bank of Handan",
+    "name_en": "Bank of Handan",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-shanghai",
+    "name": "Bank of Shanghai",
+    "name_en": "Bank of Shanghai",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-weifang",
+    "name": "Bank of Weifang",
+    "name_en": "Bank of Weifang",
+    "category": "general"
+  },
+  {
+    "slug": "baofeng-uv-5r",
+    "name": "Baofeng UV-5R",
+    "name_en": "Baofeng UV-5R",
+    "category": "general"
   }
 ]
