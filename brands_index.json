@@ -4342,5 +4342,65 @@
     "name": "Calvin Klein (fashion house)",
     "name_en": "Calvin Klein (fashion house)",
     "category": "fashion"
+  },
+  {
+    "slug": "ad-company",
+    "name": "A&D Company",
+    "name_en": "A&D Company",
+    "category": "general"
+  },
+  {
+    "slug": "access-company",
+    "name": "Access (company)",
+    "name_en": "Access (company)",
+    "category": "general"
+  },
+  {
+    "slug": "accuphase",
+    "name": "Accuphase",
+    "name_en": "Accuphase",
+    "category": "general"
+  },
+  {
+    "slug": "acura",
+    "name": "Acura",
+    "name_en": "Acura",
+    "category": "general"
+  },
+  {
+    "slug": "advantest",
+    "name": "Advantest",
+    "name_en": "Advantest",
+    "category": "general"
+  },
+  {
+    "slug": "aeon-company",
+    "name": "Aeon (company)",
+    "name_en": "Aeon (company)",
+    "category": "general"
+  },
+  {
+    "slug": "afeela",
+    "name": "Afeela",
+    "name_en": "Afeela",
+    "category": "general"
+  },
+  {
+    "slug": "agc-inc",
+    "name": "AGC Inc.",
+    "name_en": "AGC Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ah-software",
+    "name": "AH-Software",
+    "name_en": "AH-Software",
+    "category": "general"
+  },
+  {
+    "slug": "aichi-small-elevator-manufacturing-corporation",
+    "name": "Aichi small-elevator manufacturing corporation",
+    "name_en": "Aichi small-elevator manufacturing corporation",
+    "category": "general"
   }
 ]
