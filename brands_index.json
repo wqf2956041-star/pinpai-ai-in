@@ -5662,5 +5662,65 @@
     "name": "Gunze",
     "name_en": "Gunze",
     "category": "fashion"
+  },
+  {
+    "slug": "cathay-pacific",
+    "name": "Cathay Pacific",
+    "name_en": "Cathay Pacific",
+    "category": "general"
+  },
+  {
+    "slug": "catl",
+    "name": "CATL",
+    "name_en": "CATL",
+    "category": "general"
+  },
+  {
+    "slug": "cfmoto",
+    "name": "CFMoto",
+    "name_en": "CFMoto",
+    "category": "general"
+  },
+  {
+    "slug": "chang-jiang-motorcycle",
+    "name": "Chang Jiang (motorcycle)",
+    "name_en": "Chang Jiang (motorcycle)",
+    "category": "general"
+  },
+  {
+    "slug": "changan-automobile",
+    "name": "Changan Automobile",
+    "name_en": "Changan Automobile",
+    "category": "general"
+  },
+  {
+    "slug": "changfeng-motor",
+    "name": "Changfeng Motor",
+    "name_en": "Changfeng Motor",
+    "category": "general"
+  },
+  {
+    "slug": "changhong",
+    "name": "Changhong",
+    "name_en": "Changhong",
+    "category": "general"
+  },
+  {
+    "slug": "changjiang-ev",
+    "name": "ChangJiang EV",
+    "name_en": "ChangJiang EV",
+    "category": "general"
+  },
+  {
+    "slug": "changjiang-securities",
+    "name": "Changjiang Securities",
+    "name_en": "Changjiang Securities",
+    "category": "general"
+  },
+  {
+    "slug": "changsheng-bio-technology",
+    "name": "Changsheng Bio-Technology",
+    "name_en": "Changsheng Bio-Technology",
+    "category": "general"
   }
 ]
