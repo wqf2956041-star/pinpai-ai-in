@@ -6082,5 +6082,65 @@
     "name": "Apetito",
     "name_en": "Apetito",
     "category": "general"
+  },
+  {
+    "slug": "apollinaris-water",
+    "name": "Apollinaris (water)",
+    "name_en": "Apollinaris (water)",
+    "category": "general"
+  },
+  {
+    "slug": "apollo-automobil",
+    "name": "Apollo Automobil",
+    "name_en": "Apollo Automobil",
+    "category": "general"
+  },
+  {
+    "slug": "arag-se",
+    "name": "ARAG SE",
+    "name_en": "ARAG SE",
+    "category": "general"
+  },
+  {
+    "slug": "aral-ag",
+    "name": "Aral AG",
+    "name_en": "Aral AG",
+    "category": "general"
+  },
+  {
+    "slug": "arburg",
+    "name": "Arburg",
+    "name_en": "Arburg",
+    "category": "general"
+  },
+  {
+    "slug": "arcor-telecommunications",
+    "name": "Arcor (telecommunications)",
+    "name_en": "Arcor (telecommunications)",
+    "category": "general"
+  },
+  {
+    "slug": "armacell",
+    "name": "Armacell",
+    "name_en": "Armacell",
+    "category": "general"
+  },
+  {
+    "slug": "armedangels",
+    "name": "Armedangels",
+    "name_en": "Armedangels",
+    "category": "general"
+  },
+  {
+    "slug": "arri",
+    "name": "Arri",
+    "name_en": "Arri",
+    "category": "general"
+  },
+  {
+    "slug": "artega-automobile",
+    "name": "Artega Automobile",
+    "name_en": "Artega Automobile",
+    "category": "general"
   }
 ]
