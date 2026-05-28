@@ -3382,5 +3382,65 @@
     "name": "Allwinner Technology",
     "name_en": "Allwinner Technology",
     "category": "general"
+  },
+  {
+    "slug": "aim-immunotech",
+    "name": "AIM ImmunoTech",
+    "name_en": "AIM ImmunoTech",
+    "category": "healthcare"
+  },
+  {
+    "slug": "akorn",
+    "name": "Akorn",
+    "name_en": "Akorn",
+    "category": "healthcare"
+  },
+  {
+    "slug": "alnylam-pharmaceuticals",
+    "name": "Alnylam Pharmaceuticals",
+    "name_en": "Alnylam Pharmaceuticals",
+    "category": "healthcare"
+  },
+  {
+    "slug": "alzheon",
+    "name": "Alzheon",
+    "name_en": "Alzheon",
+    "category": "healthcare"
+  },
+  {
+    "slug": "arbutus-biopharma",
+    "name": "Arbutus Biopharma",
+    "name_en": "Arbutus Biopharma",
+    "category": "healthcare"
+  },
+  {
+    "slug": "arena-pharmaceuticals",
+    "name": "Arena Pharmaceuticals",
+    "name_en": "Arena Pharmaceuticals",
+    "category": "healthcare"
+  },
+  {
+    "slug": "array-biopharma",
+    "name": "Array BioPharma",
+    "name_en": "Array BioPharma",
+    "category": "healthcare"
+  },
+  {
+    "slug": "aryogen",
+    "name": "AryoGen",
+    "name_en": "AryoGen",
+    "category": "healthcare"
+  },
+  {
+    "slug": "baxalta",
+    "name": "Baxalta",
+    "name_en": "Baxalta",
+    "category": "healthcare"
+  },
+  {
+    "slug": "benitec-biopharma",
+    "name": "Benitec Biopharma",
+    "name_en": "Benitec Biopharma",
+    "category": "healthcare"
   }
 ]
