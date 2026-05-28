@@ -5902,5 +5902,65 @@
     "name": "Arkell's Brewery",
     "name_en": "Arkell's Brewery",
     "category": "general"
+  },
+  {
+    "slug": "ni-srus",
+    "name": "Nói Síríus",
+    "name_en": "Nói Síríus",
+    "category": "food"
+  },
+  {
+    "slug": "pyongyang-chewing-gum-factory",
+    "name": "Pyongyang Chewing Gum Factory",
+    "name_en": "Pyongyang Chewing Gum Factory",
+    "category": "food"
+  },
+  {
+    "slug": "robern-menz",
+    "name": "Robern Menz",
+    "name_en": "Robern Menz",
+    "category": "food"
+  },
+  {
+    "slug": "lker",
+    "name": "Ülker",
+    "name_en": "Ülker",
+    "category": "food"
+  },
+  {
+    "slug": "united-confectioners",
+    "name": "United Confectioners",
+    "name_en": "United Confectioners",
+    "category": "food"
+  },
+  {
+    "slug": "vidal-golosinas",
+    "name": "Vidal Golosinas",
+    "name_en": "Vidal Golosinas",
+    "category": "food"
+  },
+  {
+    "slug": "voortman-cookies",
+    "name": "Voortman Cookies",
+    "name_en": "Voortman Cookies",
+    "category": "food"
+  },
+  {
+    "slug": "4711",
+    "name": "4711",
+    "name_en": "4711",
+    "category": "general"
+  },
+  {
+    "slug": "ao-hostels",
+    "name": "A&O Hostels",
+    "name_en": "A&O Hostels",
+    "category": "general"
+  },
+  {
+    "slug": "abas-erp",
+    "name": "Abas ERP",
+    "name_en": "Abas ERP",
+    "category": "general"
   }
 ]
