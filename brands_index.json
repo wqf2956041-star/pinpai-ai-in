@@ -4282,5 +4282,65 @@
     "name": "Baldinini",
     "name_en": "Baldinini",
     "category": "fashion"
+  },
+  {
+    "slug": "banana-republic",
+    "name": "Banana Republic",
+    "name_en": "Banana Republic",
+    "category": "fashion"
+  },
+  {
+    "slug": "bearpaw-brand",
+    "name": "Bearpaw (brand)",
+    "name_en": "Bearpaw (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "belle-international",
+    "name": "Belle International",
+    "name_en": "Belle International",
+    "category": "fashion"
+  },
+  {
+    "slug": "bettanin-venturi",
+    "name": "Bettanin & Venturi",
+    "name_en": "Bettanin & Venturi",
+    "category": "fashion"
+  },
+  {
+    "slug": "birkenstock",
+    "name": "Birkenstock",
+    "name_en": "Birkenstock",
+    "category": "fashion"
+  },
+  {
+    "slug": "blackstock-weber",
+    "name": "Blackstock & Weber",
+    "name_en": "Blackstock & Weber",
+    "category": "fashion"
+  },
+  {
+    "slug": "bontoni",
+    "name": "Bontoni",
+    "name_en": "Bontoni",
+    "category": "fashion"
+  },
+  {
+    "slug": "bucketfeet",
+    "name": "Bucketfeet",
+    "name_en": "Bucketfeet",
+    "category": "fashion"
+  },
+  {
+    "slug": "caleres",
+    "name": "Caleres",
+    "name_en": "Caleres",
+    "category": "fashion"
+  },
+  {
+    "slug": "calvin-klein-fashion-house",
+    "name": "Calvin Klein (fashion house)",
+    "name_en": "Calvin Klein (fashion house)",
+    "category": "fashion"
   }
 ]
