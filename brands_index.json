@@ -4942,5 +4942,65 @@
     "name": "KEO (beer)",
     "name_en": "KEO (beer)",
     "category": "beverage"
+  },
+  {
+    "slug": "air-busan",
+    "name": "Air Busan",
+    "name_en": "Air Busan",
+    "category": "general"
+  },
+  {
+    "slug": "air-premia",
+    "name": "Air Premia",
+    "name_en": "Air Premia",
+    "category": "general"
+  },
+  {
+    "slug": "air-seoul",
+    "name": "Air Seoul",
+    "name_en": "Air Seoul",
+    "category": "general"
+  },
+  {
+    "slug": "akom",
+    "name": "AKOM",
+    "name_en": "AKOM",
+    "category": "general"
+  },
+  {
+    "slug": "amorepacific-corporation",
+    "name": "Amorepacific Corporation",
+    "name_en": "Amorepacific Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "anycall",
+    "name": "Anycall",
+    "name_en": "Anycall",
+    "category": "general"
+  },
+  {
+    "slug": "asia-cement",
+    "name": "Asia Cement",
+    "name_en": "Asia Cement",
+    "category": "general"
+  },
+  {
+    "slug": "asiana-airlines",
+    "name": "Asiana Airlines",
+    "name_en": "Asiana Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "astell-kern",
+    "name": "Astell & Kern",
+    "name_en": "Astell & Kern",
+    "category": "general"
+  },
+  {
+    "slug": "bexel",
+    "name": "Bexel",
+    "name_en": "Bexel",
+    "category": "general"
   }
 ]
