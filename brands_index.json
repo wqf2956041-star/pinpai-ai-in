@@ -3982,5 +3982,65 @@
     "name": "Kadmon Corporation",
     "name_en": "Kadmon Corporation",
     "category": "healthcare"
+  },
+  {
+    "slug": "wilhelmtel",
+    "name": "Wilhelm.tel",
+    "name_en": "Wilhelm.tel",
+    "category": "telecom"
+  },
+  {
+    "slug": "athena-bitcoin",
+    "name": "Athena Bitcoin",
+    "name_en": "Athena Bitcoin",
+    "category": "finance"
+  },
+  {
+    "slug": "bellevue-group",
+    "name": "Bellevue Group",
+    "name_en": "Bellevue Group",
+    "category": "finance"
+  },
+  {
+    "slug": "canada-permanent",
+    "name": "Canada Permanent",
+    "name_en": "Canada Permanent",
+    "category": "finance"
+  },
+  {
+    "slug": "mixin-network",
+    "name": "Mixin Network",
+    "name_en": "Mixin Network",
+    "category": "finance"
+  },
+  {
+    "slug": "qi-card",
+    "name": "Qi Card",
+    "name_en": "Qi Card",
+    "category": "finance"
+  },
+  {
+    "slug": "upcoop",
+    "name": "Upcoop",
+    "name_en": "Upcoop",
+    "category": "finance"
+  },
+  {
+    "slug": "alfa-romeo-quadrifoglio",
+    "name": "Alfa Romeo Quadrifoglio",
+    "name_en": "Alfa Romeo Quadrifoglio",
+    "category": "general"
+  },
+  {
+    "slug": "alitalia",
+    "name": "Alitalia",
+    "name_en": "Alitalia",
+    "category": "general"
+  },
+  {
+    "slug": "alstom-ferroviaria",
+    "name": "Alstom Ferroviaria",
+    "name_en": "Alstom Ferroviaria",
+    "category": "general"
   }
 ]
