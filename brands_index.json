@@ -3202,5 +3202,65 @@
     "name": "Armoire Officielle",
     "name_en": "Armoire Officielle",
     "category": "fashion"
+  },
+  {
+    "slug": "arthur-galan-ag",
+    "name": "Arthur Galan AG",
+    "name_en": "Arthur Galan AG",
+    "category": "fashion"
+  },
+  {
+    "slug": "bellerose-belgium",
+    "name": "Bellerose Belgium",
+    "name_en": "Bellerose Belgium",
+    "category": "fashion"
+  },
+  {
+    "slug": "bensimon-brand",
+    "name": "Bensimon (brand)",
+    "name_en": "Bensimon (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "bloch-company",
+    "name": "Bloch (company)",
+    "name_en": "Bloch (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "bluenotes",
+    "name": "Bluenotes",
+    "name_en": "Bluenotes",
+    "category": "fashion"
+  },
+  {
+    "slug": "bogart-man",
+    "name": "Bogart Man",
+    "name_en": "Bogart Man",
+    "category": "fashion"
+  },
+  {
+    "slug": "bonia-fashion",
+    "name": "Bonia (fashion)",
+    "name_en": "Bonia (fashion)",
+    "category": "fashion"
+  },
+  {
+    "slug": "bosideng",
+    "name": "Bosideng",
+    "name_en": "Bosideng",
+    "category": "fashion"
+  },
+  {
+    "slug": "callisti",
+    "name": "Callisti",
+    "name_en": "Callisti",
+    "category": "fashion"
+  },
+  {
+    "slug": "canterbury-of-new-zealand",
+    "name": "Canterbury of New Zealand",
+    "name_en": "Canterbury of New Zealand",
+    "category": "fashion"
   }
 ]
