@@ -2722,5 +2722,65 @@
     "name": "Clorox",
     "name_en": "Clorox",
     "category": "general"
+  },
+  {
+    "slug": "the-coca-cola-company",
+    "name": "The Coca-Cola Company",
+    "name_en": "The Coca-Cola Company",
+    "category": "general"
+  },
+  {
+    "slug": "columbia-machine",
+    "name": "Columbia Machine",
+    "name_en": "Columbia Machine",
+    "category": "general"
+  },
+  {
+    "slug": "comcast",
+    "name": "Comcast",
+    "name_en": "Comcast",
+    "category": "general"
+  },
+  {
+    "slug": "conagra-brands",
+    "name": "Conagra Brands",
+    "name_en": "Conagra Brands",
+    "category": "general"
+  },
+  {
+    "slug": "confluent",
+    "name": "Confluent",
+    "name_en": "Confluent",
+    "category": "general"
+  },
+  {
+    "slug": "conocophillips",
+    "name": "ConocoPhillips",
+    "name_en": "ConocoPhillips",
+    "category": "general"
+  },
+  {
+    "slug": "cooper-standard-automotive",
+    "name": "Cooper-Standard Automotive",
+    "name_en": "Cooper-Standard Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "corgan-company",
+    "name": "Corgan (company)",
+    "name_en": "Corgan (company)",
+    "category": "general"
+  },
+  {
+    "slug": "crowley-maritime",
+    "name": "Crowley Maritime",
+    "name_en": "Crowley Maritime",
+    "category": "general"
+  },
+  {
+    "slug": "danaher-corporation",
+    "name": "Danaher Corporation",
+    "name_en": "Danaher Corporation",
+    "category": "general"
   }
 ]
