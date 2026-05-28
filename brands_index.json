@@ -3082,5 +3082,65 @@
     "name": "Continental Hotels",
     "name_en": "Continental Hotels",
     "category": "hotel"
+  },
+  {
+    "slug": "corinthia-hotels",
+    "name": "Corinthia Hotels",
+    "name_en": "Corinthia Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "couples-resorts",
+    "name": "Couples Resorts",
+    "name_en": "Couples Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "dalata-hotel-group",
+    "name": "Dalata Hotel Group",
+    "name_en": "Dalata Hotel Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "dorchester-collection",
+    "name": "Dorchester Collection",
+    "name_en": "Dorchester Collection",
+    "category": "hotel"
+  },
+  {
+    "slug": "the-doyle-collection",
+    "name": "The Doyle Collection",
+    "name_en": "The Doyle Collection",
+    "category": "hotel"
+  },
+  {
+    "slug": "dusit-international",
+    "name": "Dusit International",
+    "name_en": "Dusit International",
+    "category": "hotel"
+  },
+  {
+    "slug": "easyhotel",
+    "name": "EasyHotel",
+    "name_en": "EasyHotel",
+    "category": "hotel"
+  },
+  {
+    "slug": "fasano-group",
+    "name": "Fasano Group",
+    "name_en": "Fasano Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "go-hotels",
+    "name": "Go Hotels",
+    "name_en": "Go Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "grecotel",
+    "name": "Grecotel",
+    "name_en": "Grecotel",
+    "category": "hotel"
   }
 ]
