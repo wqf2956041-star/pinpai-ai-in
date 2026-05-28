@@ -4162,5 +4162,65 @@
     "name": "Sandals Resorts",
     "name_en": "Sandals Resorts",
     "category": "hotel"
+  },
+  {
+    "slug": "scandic-hotels",
+    "name": "Scandic Hotels",
+    "name_en": "Scandic Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "seda-hotels",
+    "name": "Seda Hotels",
+    "name_en": "Seda Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "serena-hotels",
+    "name": "Serena Hotels",
+    "name_en": "Serena Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "soneva",
+    "name": "Soneva",
+    "name_en": "Soneva",
+    "category": "hotel"
+  },
+  {
+    "slug": "stouffer-corporation",
+    "name": "Stouffer Corporation",
+    "name_en": "Stouffer Corporation",
+    "category": "hotel"
+  },
+  {
+    "slug": "strawberry-hotel-company",
+    "name": "Strawberry (hotel company)",
+    "name_en": "Strawberry (hotel company)",
+    "category": "hotel"
+  },
+  {
+    "slug": "summit-hotels-and-resorts",
+    "name": "Summit Hotels and Resorts",
+    "name_en": "Summit Hotels and Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "sunbird-hotels-and-resorts",
+    "name": "Sunbird Hotels and Resorts",
+    "name_en": "Sunbird Hotels and Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "the-social-hub",
+    "name": "The Social Hub",
+    "name_en": "The Social Hub",
+    "category": "hotel"
+  },
+  {
+    "slug": "thon-hotels",
+    "name": "Thon Hotels",
+    "name_en": "Thon Hotels",
+    "category": "hotel"
   }
 ]
