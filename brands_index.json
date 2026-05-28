@@ -5362,5 +5362,65 @@
     "name": "Countess Mara",
     "name_en": "Countess Mara",
     "category": "fashion"
+  },
+  {
+    "slug": "croc-o-shirt",
+    "name": "Croc O' Shirt",
+    "name_en": "Croc O' Shirt",
+    "category": "fashion"
+  },
+  {
+    "slug": "crocodile-international",
+    "name": "Crocodile International",
+    "name_en": "Crocodile International",
+    "category": "fashion"
+  },
+  {
+    "slug": "cropp-brand",
+    "name": "Cropp (brand)",
+    "name_en": "Cropp (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "cvlt-nation",
+    "name": "CVLT Nation",
+    "name_en": "CVLT Nation",
+    "category": "fashion"
+  },
+  {
+    "slug": "dale-of-norway",
+    "name": "Dale of Norway",
+    "name_en": "Dale of Norway",
+    "category": "fashion"
+  },
+  {
+    "slug": "kostio-de-war",
+    "name": "Kostio de War",
+    "name_en": "Kostio de War",
+    "category": "fashion"
+  },
+  {
+    "slug": "design-for-all-product-line",
+    "name": "Design For All (product line)",
+    "name_en": "Design For All (product line)",
+    "category": "fashion"
+  },
+  {
+    "slug": "desigual",
+    "name": "Desigual",
+    "name_en": "Desigual",
+    "category": "fashion"
+  },
+  {
+    "slug": "dolfin-swimwear",
+    "name": "Dolfin Swimwear",
+    "name_en": "Dolfin Swimwear",
+    "category": "fashion"
+  },
+  {
+    "slug": "ken-done",
+    "name": "Ken Done",
+    "name_en": "Ken Done",
+    "category": "fashion"
   }
 ]
