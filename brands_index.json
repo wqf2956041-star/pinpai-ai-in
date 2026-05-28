@@ -3742,5 +3742,65 @@
     "name": "BAIC BluePark",
     "name_en": "BAIC BluePark",
     "category": "general"
+  },
+  {
+    "slug": "assouline-publishing",
+    "name": "Assouline Publishing",
+    "name_en": "Assouline Publishing",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "aux-etats-unis",
+    "name": "Aux Etats-Unis",
+    "name_en": "Aux Etats-Unis",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "aviteur",
+    "name": "Aviteur",
+    "name_en": "Aviteur",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "backes-strauss",
+    "name": "Backes & Strauss",
+    "name_en": "Backes & Strauss",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ballantyne-company",
+    "name": "Ballantyne (company)",
+    "name_en": "Ballantyne (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bb-italia",
+    "name": "B&B Italia",
+    "name_en": "B&B Italia",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bang-olufsen",
+    "name": "Bang & Olufsen",
+    "name_en": "Bang & Olufsen",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "barbour-company",
+    "name": "Barbour (company)",
+    "name_en": "Barbour (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bareez",
+    "name": "Bareezé",
+    "name_en": "Bareezé",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "barneys-new-york",
+    "name": "Barneys New York",
+    "name_en": "Barneys New York",
+    "category": "fashion-luxury"
   }
 ]
