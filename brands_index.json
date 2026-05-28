@@ -2902,5 +2902,65 @@
     "name": "ERHC",
     "name_en": "ERHC",
     "category": "general"
+  },
+  {
+    "slug": "abdul-latif-jameel",
+    "name": "Abdul Latif Jameel",
+    "name_en": "Abdul Latif Jameel",
+    "category": "automotive"
+  },
+  {
+    "slug": "cal-looker",
+    "name": "Cal looker",
+    "name_en": "Cal looker",
+    "category": "automotive"
+  },
+  {
+    "slug": "aethel-mining",
+    "name": "Aethel Mining",
+    "name_en": "Aethel Mining",
+    "category": "energy"
+  },
+  {
+    "slug": "american-placer-corporation",
+    "name": "American Placer Corporation",
+    "name_en": "American Placer Corporation",
+    "category": "energy"
+  },
+  {
+    "slug": "dmt-company",
+    "name": "DMT (company)",
+    "name_en": "DMT (company)",
+    "category": "energy"
+  },
+  {
+    "slug": "kinross-gold",
+    "name": "Kinross Gold",
+    "name_en": "Kinross Gold",
+    "category": "energy"
+  },
+  {
+    "slug": "nova-dies-bvi-ibc",
+    "name": "Nova Dies BVI IBC",
+    "name_en": "Nova Dies BVI IBC",
+    "category": "energy"
+  },
+  {
+    "slug": "panama-papers",
+    "name": "Panama Papers",
+    "name_en": "Panama Papers",
+    "category": "energy"
+  },
+  {
+    "slug": "pandora-papers",
+    "name": "Pandora Papers",
+    "name_en": "Pandora Papers",
+    "category": "energy"
+  },
+  {
+    "slug": "piedmont-lithium",
+    "name": "Piedmont Lithium",
+    "name_en": "Piedmont Lithium",
+    "category": "energy"
   }
 ]
