@@ -5602,5 +5602,65 @@
     "name": "Fox (clothing)",
     "name_en": "Fox (clothing)",
     "category": "fashion"
+  },
+  {
+    "slug": "g-star-company",
+    "name": "G-Star (company)",
+    "name_en": "G-Star (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "gant-company",
+    "name": "Gant (company)",
+    "name_en": "Gant (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "garage-clothing-retailer",
+    "name": "Garage (clothing retailer)",
+    "name_en": "Garage (clothing retailer)",
+    "category": "fashion"
+  },
+  {
+    "slug": "garanimals",
+    "name": "Garanimals",
+    "name_en": "Garanimals",
+    "category": "fashion"
+  },
+  {
+    "slug": "gebrder-stitch",
+    "name": "Gebrüder Stitch",
+    "name_en": "Gebrüder Stitch",
+    "category": "fashion"
+  },
+  {
+    "slug": "go-international",
+    "name": "Go International",
+    "name_en": "Go International",
+    "category": "fashion"
+  },
+  {
+    "slug": "grishko",
+    "name": "Grishko",
+    "name_en": "Grishko",
+    "category": "fashion"
+  },
+  {
+    "slug": "gunhild-clothing",
+    "name": "Gunhild (clothing)",
+    "name_en": "Gunhild (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "gunne-sax",
+    "name": "Gunne Sax",
+    "name_en": "Gunne Sax",
+    "category": "fashion"
+  },
+  {
+    "slug": "gunze",
+    "name": "Gunze",
+    "name_en": "Gunze",
+    "category": "fashion"
   }
 ]
