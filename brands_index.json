@@ -4102,5 +4102,65 @@
     "name": "Antica trattoria Bagutto",
     "name_en": "Antica trattoria Bagutto",
     "category": "general"
+  },
+  {
+    "slug": "nikko-hotels",
+    "name": "Nikko Hotels",
+    "name_en": "Nikko Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "the-nomad",
+    "name": "The NoMad",
+    "name_en": "The NoMad",
+    "category": "hotel"
+  },
+  {
+    "slug": "oaks-hotels-resorts-suites",
+    "name": "Oaks Hotels, Resorts & Suites",
+    "name_en": "Oaks Hotels, Resorts & Suites",
+    "category": "hotel"
+  },
+  {
+    "slug": "oetker-hotels",
+    "name": "Oetker Hotels",
+    "name_en": "Oetker Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "the-peninsula-hotels",
+    "name": "The Peninsula Hotels",
+    "name_en": "The Peninsula Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "penta-hotels",
+    "name": "Penta Hotels",
+    "name_en": "Penta Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "red-planet-hotels",
+    "name": "Red Planet Hotels",
+    "name_en": "Red Planet Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "riu-hotels",
+    "name": "RIU Hotels",
+    "name_en": "RIU Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "rocco-forte-hotels",
+    "name": "Rocco Forte Hotels",
+    "name_en": "Rocco Forte Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "sandals-resorts",
+    "name": "Sandals Resorts",
+    "name_en": "Sandals Resorts",
+    "category": "hotel"
   }
 ]
