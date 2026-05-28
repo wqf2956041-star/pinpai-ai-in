@@ -4702,5 +4702,65 @@
     "name": "Synthaverse S.A.",
     "name_en": "Synthaverse S.A.",
     "category": "healthcare"
+  },
+  {
+    "slug": "caf-du-monde",
+    "name": "Café du Monde",
+    "name_en": "Café du Monde",
+    "category": "food"
+  },
+  {
+    "slug": "caf-grumpy",
+    "name": "Café Grumpy",
+    "name_en": "Café Grumpy",
+    "category": "food"
+  },
+  {
+    "slug": "caf-hag",
+    "name": "Café HAG",
+    "name_en": "Café HAG",
+    "category": "food"
+  },
+  {
+    "slug": "caf-neo",
+    "name": "Café Neo",
+    "name_en": "Café Neo",
+    "category": "food"
+  },
+  {
+    "slug": "caf-puro",
+    "name": "Café Puro",
+    "name_en": "Café Puro",
+    "category": "food"
+  },
+  {
+    "slug": "caf-rico",
+    "name": "Café Rico",
+    "name_en": "Café Rico",
+    "category": "food"
+  },
+  {
+    "slug": "cafdirect",
+    "name": "Cafédirect",
+    "name_en": "Cafédirect",
+    "category": "food"
+  },
+  {
+    "slug": "caffe-bene",
+    "name": "Caffe Bene",
+    "name_en": "Caffe Bene",
+    "category": "food"
+  },
+  {
+    "slug": "caff-concerto",
+    "name": "Caffè Concerto",
+    "name_en": "Caffè Concerto",
+    "category": "food"
+  },
+  {
+    "slug": "caff-nero",
+    "name": "Caffè Nero",
+    "name_en": "Caffè Nero",
+    "category": "food"
   }
 ]
