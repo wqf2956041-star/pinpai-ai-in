@@ -4822,5 +4822,65 @@
     "name": "Coffee Island",
     "name_en": "Coffee Island",
     "category": "food"
+  },
+  {
+    "slug": "castle-lager",
+    "name": "Castle Lager",
+    "name_en": "Castle Lager",
+    "category": "beverage"
+  },
+  {
+    "slug": "celtia",
+    "name": "Celtia",
+    "name_en": "Celtia",
+    "category": "beverage"
+  },
+  {
+    "slug": "champion-breweries",
+    "name": "Champion Breweries",
+    "name_en": "Champion Breweries",
+    "category": "beverage"
+  },
+  {
+    "slug": "chibuku-shake-shake",
+    "name": "Chibuku Shake Shake",
+    "name_en": "Chibuku Shake Shake",
+    "category": "beverage"
+  },
+  {
+    "slug": "choukachou",
+    "name": "Choukachou",
+    "name_en": "Choukachou",
+    "category": "beverage"
+  },
+  {
+    "slug": "cuca-beer",
+    "name": "Cuca (beer)",
+    "name_en": "Cuca (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "duvel-moortgat-brewery",
+    "name": "Duvel Moortgat Brewery",
+    "name_en": "Duvel Moortgat Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "fantme-beer",
+    "name": "Fantôme (beer)",
+    "name_en": "Fantôme (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "floreffe-beer",
+    "name": "Floreffe (beer)",
+    "name_en": "Floreffe (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "fruli",
+    "name": "Fruli",
+    "name_en": "Fruli",
+    "category": "beverage"
   }
 ]
