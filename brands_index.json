@@ -562,5 +562,2705 @@
     "name": "玛莎拉蒂",
     "name_en": "Maserati",
     "category": "automotive"
+  },
+  {
+    "slug": "guinness",
+    "name": "健力士",
+    "name_en": "Guinness",
+    "category": "food"
+  },
+  {
+    "slug": "carlsberg",
+    "name": "嘉士伯",
+    "name_en": "Carlsberg",
+    "category": "food"
+  },
+  {
+    "slug": "colgate",
+    "name": "高露洁",
+    "name_en": "Colgate",
+    "category": "beauty"
+  },
+  {
+    "slug": "gillette",
+    "name": "吉列",
+    "name_en": "Gillette",
+    "category": "beauty"
+  },
+  {
+    "slug": "durex",
+    "name": "杜蕾斯",
+    "name_en": "Durex",
+    "category": "consumer-goods"
+  },
+  {
+    "slug": "visa",
+    "name": "维萨",
+    "name_en": "Visa",
+    "category": "finance"
+  },
+  {
+    "slug": "mastercard",
+    "name": "万事达",
+    "name_en": "Mastercard",
+    "category": "finance"
+  },
+  {
+    "slug": "american-express",
+    "name": "美国运通",
+    "name_en": "American Express",
+    "category": "finance"
+  },
+  {
+    "slug": "costco",
+    "name": "好市多",
+    "name_en": "Costco",
+    "category": "retail"
+  },
+  {
+    "slug": "walgreens",
+    "name": "沃尔格林",
+    "name_en": "Walgreens",
+    "category": "retail"
+  },
+  {
+    "slug": "ibm",
+    "name": "IBM",
+    "name_en": "IBM",
+    "category": "technology"
+  },
+  {
+    "slug": "oracle",
+    "name": "甲骨文",
+    "name_en": "Oracle",
+    "category": "technology"
+  },
+  {
+    "slug": "cisco",
+    "name": "思科",
+    "name_en": "Cisco",
+    "category": "technology"
+  },
+  {
+    "slug": "jaguar",
+    "name": "捷豹",
+    "name_en": "Jaguar",
+    "category": "auto"
+  },
+  {
+    "slug": "land-rover",
+    "name": "路虎",
+    "name_en": "Land Rover",
+    "category": "auto"
+  },
+  {
+    "slug": "volvo",
+    "name": "沃尔沃",
+    "name_en": "Volvo",
+    "category": "auto"
+  },
+  {
+    "slug": "mini",
+    "name": "MINI",
+    "name_en": "MINI",
+    "category": "auto"
+  },
+  {
+    "slug": "fiat",
+    "name": "菲亚特",
+    "name_en": "Fiat",
+    "category": "auto"
+  },
+  {
+    "slug": "peugeot",
+    "name": "标致",
+    "name_en": "Peugeot",
+    "category": "auto"
+  },
+  {
+    "slug": "citroen",
+    "name": "雪铁龙",
+    "name_en": "Citroën",
+    "category": "auto"
+  },
+  {
+    "slug": "tesla-motors",
+    "name": "特斯拉汽车",
+    "name_en": "Tesla Motors",
+    "category": "auto"
+  },
+  {
+    "slug": "mazda",
+    "name": "马自达",
+    "name_en": "Mazda",
+    "category": "auto"
+  },
+  {
+    "slug": "subaru",
+    "name": "斯巴鲁",
+    "name_en": "Subaru",
+    "category": "auto"
+  },
+  {
+    "slug": "mitsubishi-motors",
+    "name": "三菱汽车",
+    "name_en": "Mitsubishi Motors",
+    "category": "auto"
+  },
+  {
+    "slug": "nissan",
+    "name": "日产",
+    "name_en": "Nissan",
+    "category": "auto"
+  },
+  {
+    "slug": "givenchy",
+    "name": "纪梵希",
+    "name_en": "Givenchy",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "fendi",
+    "name": "芬迪",
+    "name_en": "Fendi",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "loewe",
+    "name": "罗意威",
+    "name_en": "Loewe",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "celine",
+    "name": "赛琳",
+    "name_en": "Celine",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "miu-miu",
+    "name": "缪缪",
+    "name_en": "Miu Miu",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ysl",
+    "name": "圣罗兰",
+    "name_en": "Yves Saint Laurent",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "audemars-piguet",
+    "name": "爱彼",
+    "name_en": "Audemars Piguet",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "krispy-kreme",
+    "name": "卡仕奇甜甜圈",
+    "name_en": "Krispy Kreme",
+    "category": "food"
+  },
+  {
+    "slug": "7-eleven",
+    "name": "7-Eleven",
+    "name_en": "7-Eleven",
+    "category": "retail"
+  },
+  {
+    "slug": "gucci",
+    "name": "古驰",
+    "name_en": "Gucci",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dominos",
+    "name": "达美乐",
+    "name_en": "Domino's",
+    "category": "food"
+  },
+  {
+    "slug": "hewlett-packard",
+    "name": "惠普",
+    "name_en": "HP",
+    "category": "technology"
+  },
+  {
+    "slug": "dell",
+    "name": "戴尔",
+    "name_en": "Dell",
+    "category": "technology"
+  },
+  {
+    "slug": "lenovo",
+    "name": "联想",
+    "name_en": "Lenovo",
+    "category": "technology"
+  },
+  {
+    "slug": "uber",
+    "name": "优步",
+    "name_en": "Uber",
+    "category": "technology"
+  },
+  {
+    "slug": "tencent",
+    "name": "腾讯",
+    "name_en": "Tencent",
+    "category": "technology"
+  },
+  {
+    "slug": "alibaba",
+    "name": "阿里巴巴",
+    "name_en": "Alibaba",
+    "category": "technology"
+  },
+  {
+    "slug": "baidu",
+    "name": "百度",
+    "name_en": "Baidu",
+    "category": "technology"
+  },
+  {
+    "slug": "bytedance",
+    "name": "字节跳动",
+    "name_en": "ByteDance",
+    "category": "technology"
+  },
+  {
+    "slug": "siemens",
+    "name": "西门子",
+    "name_en": "Siemens",
+    "category": "technology"
+  },
+  {
+    "slug": "ge",
+    "name": "通用电气",
+    "name_en": "General Electric",
+    "category": "technology"
+  },
+  {
+    "slug": "sap",
+    "name": "SAP",
+    "name_en": "SAP",
+    "category": "technology"
+  },
+  {
+    "slug": "salesforce",
+    "name": "Salesforce",
+    "name_en": "Salesforce",
+    "category": "technology"
+  },
+  {
+    "slug": "pfizer",
+    "name": "辉瑞",
+    "name_en": "Pfizer",
+    "category": "healthcare"
+  },
+  {
+    "slug": "novartis",
+    "name": "诺华",
+    "name_en": "Novartis",
+    "category": "healthcare"
+  },
+  {
+    "slug": "roche",
+    "name": "罗氏",
+    "name_en": "Roche",
+    "category": "healthcare"
+  },
+  {
+    "slug": "johnson-and-johnson",
+    "name": "强生",
+    "name_en": "Johnson & Johnson",
+    "category": "healthcare"
+  },
+  {
+    "slug": "merck",
+    "name": "默克",
+    "name_en": "Merck",
+    "category": "healthcare"
+  },
+  {
+    "slug": "bayer",
+    "name": "拜耳",
+    "name_en": "Bayer",
+    "category": "healthcare"
+  },
+  {
+    "slug": "abbott",
+    "name": "雅培",
+    "name_en": "Abbott",
+    "category": "healthcare"
+  },
+  {
+    "slug": "accenture",
+    "name": "埃森哲",
+    "name_en": "Accenture",
+    "category": "technology"
+  },
+  {
+    "slug": "deloitte",
+    "name": "德勤",
+    "name_en": "Deloitte",
+    "category": "finance"
+  },
+  {
+    "slug": "pwc",
+    "name": "普华永道",
+    "name_en": "PwC",
+    "category": "finance"
+  },
+  {
+    "slug": "ey",
+    "name": "安永",
+    "name_en": "EY",
+    "category": "finance"
+  },
+  {
+    "slug": "dupont",
+    "name": "杜邦",
+    "name_en": "DuPont",
+    "category": "technology"
+  },
+  {
+    "slug": "basf",
+    "name": "巴斯夫",
+    "name_en": "BASF",
+    "category": "technology"
+  },
+  {
+    "slug": "cnn",
+    "name": "CNN",
+    "name_en": "CNN",
+    "category": "media"
+  },
+  {
+    "slug": "bbc",
+    "name": "BBC",
+    "name_en": "BBC",
+    "category": "media"
+  },
+  {
+    "slug": "hilton",
+    "name": "希尔顿",
+    "name_en": "Hilton",
+    "category": "hotel"
+  },
+  {
+    "slug": "hyatt",
+    "name": "凯悦",
+    "name_en": "Hyatt",
+    "category": "hotel"
+  },
+  {
+    "slug": "ihg",
+    "name": "洲际酒店",
+    "name_en": "IHG",
+    "category": "hotel"
+  },
+  {
+    "slug": "accor",
+    "name": "雅高",
+    "name_en": "Accor",
+    "category": "hotel"
+  },
+  {
+    "slug": "four-seasons",
+    "name": "四季酒店",
+    "name_en": "Four Seasons",
+    "category": "hotel"
+  },
+  {
+    "slug": "shangri-la",
+    "name": "香格里拉",
+    "name_en": "Shangri-La Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "mandarin-oriental",
+    "name": "文华东方",
+    "name_en": "Mandarin Oriental",
+    "category": "hotel"
+  },
+  {
+    "slug": "ritz-carlton",
+    "name": "丽思卡尔顿",
+    "name_en": "Ritz-Carlton",
+    "category": "hotel"
+  },
+  {
+    "slug": "wyndham",
+    "name": "温德姆",
+    "name_en": "Wyndham",
+    "category": "hotel"
+  },
+  {
+    "slug": "emirates",
+    "name": "阿联酋航空",
+    "name_en": "Emirates",
+    "category": "airline"
+  },
+  {
+    "slug": "singapore-airlines",
+    "name": "新加坡航空",
+    "name_en": "Singapore Airlines",
+    "category": "airline"
+  },
+  {
+    "slug": "qatar-airways",
+    "name": "卡塔尔航空",
+    "name_en": "Qatar Airways",
+    "category": "airline"
+  },
+  {
+    "slug": "delta-air-lines",
+    "name": "达美航空",
+    "name_en": "Delta Air Lines",
+    "category": "airline"
+  },
+  {
+    "slug": "american-airlines",
+    "name": "美国航空",
+    "name_en": "American Airlines",
+    "category": "airline"
+  },
+  {
+    "slug": "united-airlines",
+    "name": "联合航空",
+    "name_en": "United Airlines",
+    "category": "airline"
+  },
+  {
+    "slug": "lufthansa",
+    "name": "汉莎航空",
+    "name_en": "Lufthansa",
+    "category": "airline"
+  },
+  {
+    "slug": "british-airways",
+    "name": "英国航空",
+    "name_en": "British Airways",
+    "category": "airline"
+  },
+  {
+    "slug": "qantas",
+    "name": "澳洲航空",
+    "name_en": "Qantas",
+    "category": "airline"
+  },
+  {
+    "slug": "air-france",
+    "name": "法国航空",
+    "name_en": "Air France",
+    "category": "airline"
+  },
+  {
+    "slug": "puma",
+    "name": "彪马",
+    "name_en": "Puma",
+    "category": "sportswear"
+  },
+  {
+    "slug": "under-armour",
+    "name": "安德玛",
+    "name_en": "Under Armour",
+    "category": "sportswear"
+  },
+  {
+    "slug": "new-balance",
+    "name": "新百伦",
+    "name_en": "New Balance",
+    "category": "sportswear"
+  },
+  {
+    "slug": "asics",
+    "name": "亚瑟士",
+    "name_en": "ASICS",
+    "category": "sportswear"
+  },
+  {
+    "slug": "converse",
+    "name": "匡威",
+    "name_en": "Converse",
+    "category": "sportswear"
+  },
+  {
+    "slug": "vans",
+    "name": "范斯",
+    "name_en": "Vans",
+    "category": "sportswear"
+  },
+  {
+    "slug": "reebok",
+    "name": "锐步",
+    "name_en": "Reebok",
+    "category": "sportswear"
+  },
+  {
+    "slug": "north-face",
+    "name": "北面",
+    "name_en": "The North Face",
+    "category": "sportswear"
+  },
+  {
+    "slug": "columbia",
+    "name": "哥伦比亚",
+    "name_en": "Columbia Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "patagonia",
+    "name": "巴塔哥尼亚",
+    "name_en": "Patagonia",
+    "category": "sportswear"
+  },
+  {
+    "slug": "estee-lauder",
+    "name": "雅诗兰黛",
+    "name_en": "Estée Lauder",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "chanel-beauty",
+    "name": "香奈儿美妆",
+    "name_en": "Chanel Beauty",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "dior-beauty",
+    "name": "迪奥美妆",
+    "name_en": "Dior Beauty",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "lancome",
+    "name": "兰蔻",
+    "name_en": "Lancôme",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "clinique",
+    "name": "倩碧",
+    "name_en": "Clinique",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "mac-cosmetics",
+    "name": "M·A·C",
+    "name_en": "M·A·C Cosmetics",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "aveda",
+    "name": "艾梵达",
+    "name_en": "Aveda",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "kiehls",
+    "name": "契尔氏",
+    "name_en": "Kiehl's",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "jpmorgan",
+    "name": "摩根大通",
+    "name_en": "JPMorgan Chase",
+    "category": "finance"
+  },
+  {
+    "slug": "goldman-sachs",
+    "name": "高盛",
+    "name_en": "Goldman Sachs",
+    "category": "finance"
+  },
+  {
+    "slug": "bank-of-america",
+    "name": "美国银行",
+    "name_en": "Bank of America",
+    "category": "finance"
+  },
+  {
+    "slug": "citigroup",
+    "name": "花旗集团",
+    "name_en": "Citigroup",
+    "category": "finance"
+  },
+  {
+    "slug": "wells-fargo",
+    "name": "富国银行",
+    "name_en": "Wells Fargo",
+    "category": "finance"
+  },
+  {
+    "slug": "hsbc",
+    "name": "汇丰",
+    "name_en": "HSBC",
+    "category": "finance"
+  },
+  {
+    "slug": "ubs",
+    "name": "瑞银集团",
+    "name_en": "UBS",
+    "category": "finance"
+  },
+  {
+    "slug": "icbc",
+    "name": "工商银行",
+    "name_en": "ICBC",
+    "category": "finance"
+  },
+  {
+    "slug": "nestle",
+    "name": "雀巢",
+    "name_en": "Nestlé",
+    "category": "food"
+  },
+  {
+    "slug": "ford",
+    "name": "福特",
+    "name_en": "Ford",
+    "category": "automotive"
+  },
+  {
+    "slug": "gm",
+    "name": "通用汽车",
+    "name_en": "General Motors",
+    "category": "automotive"
+  },
+  {
+    "slug": "walmart",
+    "name": "沃尔玛",
+    "name_en": "Walmart",
+    "category": "retail"
+  },
+  {
+    "slug": "target",
+    "name": "塔吉特",
+    "name_en": "Target",
+    "category": "retail"
+  },
+  {
+    "slug": "home-depot",
+    "name": "家得宝",
+    "name_en": "The Home Depot",
+    "category": "retail"
+  },
+  {
+    "slug": "jd-com",
+    "name": "京东",
+    "name_en": "JD.com",
+    "category": "retail"
+  },
+  {
+    "slug": "diageo",
+    "name": "帝亚吉欧",
+    "name_en": "Diageo",
+    "category": "beverage"
+  },
+  {
+    "slug": "heineken",
+    "name": "喜力",
+    "name_en": "Heineken",
+    "category": "beverage"
+  },
+  {
+    "slug": "budweiser",
+    "name": "百威",
+    "name_en": "Budweiser",
+    "category": "beverage"
+  },
+  {
+    "slug": "adobe",
+    "name": "奥多比",
+    "name_en": "Adobe",
+    "category": "technology"
+  },
+  {
+    "slug": "vmware",
+    "name": "威睿",
+    "name_en": "VMware",
+    "category": "technology"
+  },
+  {
+    "slug": "tiktok",
+    "name": "抖音",
+    "name_en": "TikTok",
+    "category": "technology"
+  },
+  {
+    "slug": "procter-gamble",
+    "name": "宝洁",
+    "name_en": "Procter & Gamble",
+    "category": "consumer-goods"
+  },
+  {
+    "slug": "pepsico",
+    "name": "百事公司",
+    "name_en": "PepsiCo",
+    "category": "consumer-goods"
+  },
+  {
+    "slug": "johnson-johnson",
+    "name": "强生",
+    "name_en": "Johnson & Johnson",
+    "category": "healthcare"
+  },
+  {
+    "slug": "warner-bros",
+    "name": "华纳兄弟",
+    "name_en": "Warner Bros.",
+    "category": "media"
+  },
+  {
+    "slug": "sony-pictures",
+    "name": "索尼影业",
+    "name_en": "Sony Pictures",
+    "category": "media"
+  },
+  {
+    "slug": "verizon",
+    "name": "威瑞森",
+    "name_en": "Verizon",
+    "category": "telecom"
+  },
+  {
+    "slug": "at-t",
+    "name": "AT&T",
+    "name_en": "AT&T",
+    "category": "telecom"
+  },
+  {
+    "slug": "t-mobile",
+    "name": "T-Mobile",
+    "name_en": "T-Mobile",
+    "category": "telecom"
+  },
+  {
+    "slug": "vodafone",
+    "name": "沃达丰",
+    "name_en": "Vodafone",
+    "category": "telecom"
+  },
+  {
+    "slug": "healthpost",
+    "name": "HealthPost",
+    "name_en": "HealthPost",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "jgb-company",
+    "name": "JGB (company)",
+    "name_en": "JGB (company)",
+    "category": "cosmetics"
+  },
+  {
+    "slug": "anthony-thomas-candy-company",
+    "name": "Anthony Thomas Candy Company",
+    "name_en": "Anthony Thomas Candy Company",
+    "category": "food"
+  },
+  {
+    "slug": "barambo",
+    "name": "Barambo",
+    "name_en": "Barambo",
+    "category": "food"
+  },
+  {
+    "slug": "beauty-lacchi-and-faluda",
+    "name": "Beauty Lacchi and Faluda",
+    "name_en": "Beauty Lacchi and Faluda",
+    "category": "food"
+  },
+  {
+    "slug": "canels",
+    "name": "Canel's",
+    "name_en": "Canel's",
+    "category": "food"
+  },
+  {
+    "slug": "carambar-co",
+    "name": "Carambar & Co",
+    "name_en": "Carambar & Co",
+    "category": "food"
+  },
+  {
+    "slug": "chupa-chups",
+    "name": "Chupa Chups",
+    "name_en": "Chupa Chups",
+    "category": "food"
+  },
+  {
+    "slug": "daintee",
+    "name": "Daintee",
+    "name_en": "Daintee",
+    "category": "food"
+  },
+  {
+    "slug": "dulces-miguelito",
+    "name": "Dulces Miguelito",
+    "name_en": "Dulces Miguelito",
+    "category": "food"
+  },
+  {
+    "slug": "fini-company",
+    "name": "Fini (company)",
+    "name_en": "Fini (company)",
+    "category": "food"
+  },
+  {
+    "slug": "france-pastry",
+    "name": "France Pastry",
+    "name_en": "France Pastry",
+    "category": "food"
+  },
+  {
+    "slug": "galletas-gulln",
+    "name": "Galletas Gullón",
+    "name_en": "Galletas Gullón",
+    "category": "food"
+  },
+  {
+    "slug": "hai-ha-confectionery",
+    "name": "Hai Ha Confectionery",
+    "name_en": "Hai Ha Confectionery",
+    "category": "food"
+  },
+  {
+    "slug": "kc-confectionery-limited",
+    "name": "K.C. Confectionery Limited",
+    "name_en": "K.C. Confectionery Limited",
+    "category": "food"
+  },
+  {
+    "slug": "leaf-candy-company",
+    "name": "Leaf Candy Company",
+    "name_en": "Leaf Candy Company",
+    "category": "food"
+  },
+  {
+    "slug": "matri-bhandar",
+    "name": "Matri Bhandar",
+    "name_en": "Matri Bhandar",
+    "category": "food"
+  },
+  {
+    "slug": "morozoff-ltd",
+    "name": "Morozoff Ltd.",
+    "name_en": "Morozoff Ltd.",
+    "category": "food"
+  },
+  {
+    "slug": "mynthon",
+    "name": "Mynthon",
+    "name_en": "Mynthon",
+    "category": "food"
+  },
+  {
+    "slug": "nestl-rossiya",
+    "name": "Nestlé Rossiya",
+    "name_en": "Nestlé Rossiya",
+    "category": "food"
+  },
+  {
+    "slug": "3t-cycling",
+    "name": "3T Cycling",
+    "name_en": "3T Cycling",
+    "category": "general"
+  },
+  {
+    "slug": "abarth",
+    "name": "Abarth",
+    "name_en": "Abarth",
+    "category": "general"
+  },
+  {
+    "slug": "abici",
+    "name": "Abici",
+    "name_en": "Abici",
+    "category": "general"
+  },
+  {
+    "slug": "accossato",
+    "name": "Accossato",
+    "name_en": "Accossato",
+    "category": "general"
+  },
+  {
+    "slug": "acqua-di-parma",
+    "name": "Acqua di Parma",
+    "name_en": "Acqua di Parma",
+    "category": "general"
+  },
+  {
+    "slug": "acube-systems-srl",
+    "name": "ACube Systems Srl",
+    "name_en": "ACube Systems Srl",
+    "category": "general"
+  },
+  {
+    "slug": "aeritalia",
+    "name": "Aeritalia",
+    "name_en": "Aeritalia",
+    "category": "general"
+  },
+  {
+    "slug": "aermacchi",
+    "name": "Aermacchi",
+    "name_en": "Aermacchi",
+    "category": "general"
+  },
+  {
+    "slug": "aeroitalia",
+    "name": "AeroItalia",
+    "name_en": "AeroItalia",
+    "category": "general"
+  },
+  {
+    "slug": "agip",
+    "name": "Agip",
+    "name_en": "Agip",
+    "category": "general"
+  },
+  {
+    "slug": "agnesi-company",
+    "name": "Agnesi (company)",
+    "name_en": "Agnesi (company)",
+    "category": "general"
+  },
+  {
+    "slug": "agusta",
+    "name": "Agusta",
+    "name_en": "Agusta",
+    "category": "general"
+  },
+  {
+    "slug": "agv-helmet-manufacturer",
+    "name": "AGV (helmet manufacturer)",
+    "name_en": "AGV (helmet manufacturer)",
+    "category": "general"
+  },
+  {
+    "slug": "aiazzone",
+    "name": "Aiazzone",
+    "name_en": "Aiazzone",
+    "category": "general"
+  },
+  {
+    "slug": "air-italy-20182020",
+    "name": "Air Italy (2018–2020)",
+    "name_en": "Air Italy (2018–2020)",
+    "category": "general"
+  },
+  {
+    "slug": "alan",
+    "name": "ALAN",
+    "name_en": "ALAN",
+    "category": "general"
+  },
+  {
+    "slug": "alenia-aermacchi",
+    "name": "Alenia Aermacchi",
+    "name_en": "Alenia Aermacchi",
+    "category": "general"
+  },
+  {
+    "slug": "alenia-aeronautica",
+    "name": "Alenia Aeronautica",
+    "name_en": "Alenia Aeronautica",
+    "category": "general"
+  },
+  {
+    "slug": "alessi-italian-company",
+    "name": "Alessi (Italian company)",
+    "name_en": "Alessi (Italian company)",
+    "category": "general"
+  },
+  {
+    "slug": "alfa-romeo",
+    "name": "Alfa Romeo",
+    "name_en": "Alfa Romeo",
+    "category": "general"
+  },
+  {
+    "slug": "lists-of-video-game-companies",
+    "name": "Lists of video game companies",
+    "name_en": "Lists of video game companies",
+    "category": "technology"
+  },
+  {
+    "slug": "african-risk-capacity",
+    "name": "African Risk Capacity",
+    "name_en": "African Risk Capacity",
+    "category": "finance"
+  },
+  {
+    "slug": "ageas-federal-life-insurance",
+    "name": "Ageas Federal Life Insurance",
+    "name_en": "Ageas Federal Life Insurance",
+    "category": "finance"
+  },
+  {
+    "slug": "banco-de-seguros-del-estado",
+    "name": "Banco de Seguros del Estado",
+    "name_en": "Banco de Seguros del Estado",
+    "category": "finance"
+  },
+  {
+    "slug": "friendly-society",
+    "name": "Friendly society",
+    "name_en": "Friendly society",
+    "category": "finance"
+  },
+  {
+    "slug": "lion-insurance-company",
+    "name": "Lion Insurance Company",
+    "name_en": "Lion Insurance Company",
+    "category": "finance"
+  },
+  {
+    "slug": "sanitas-health-insurance",
+    "name": "Sanitas (health insurance)",
+    "name_en": "Sanitas (health insurance)",
+    "category": "finance"
+  },
+  {
+    "slug": "westfield-insurance",
+    "name": "Westfield Insurance",
+    "name_en": "Westfield Insurance",
+    "category": "finance"
+  },
+  {
+    "slug": "telecommunications-company",
+    "name": "Telecommunications company",
+    "name_en": "Telecommunications company",
+    "category": "telecom"
+  },
+  {
+    "slug": "c-band-alliance",
+    "name": "C-Band Alliance",
+    "name_en": "C-Band Alliance",
+    "category": "telecom"
+  },
+  {
+    "slug": "call-through-telecom",
+    "name": "Call-through telecom",
+    "name_en": "Call-through telecom",
+    "category": "telecom"
+  },
+  {
+    "slug": "electronic-beats",
+    "name": "Electronic Beats",
+    "name_en": "Electronic Beats",
+    "category": "telecom"
+  },
+  {
+    "slug": "freedomfi",
+    "name": "FreedomFi",
+    "name_en": "FreedomFi",
+    "category": "telecom"
+  },
+  {
+    "slug": "interexchange-carrier",
+    "name": "Interexchange carrier",
+    "name_en": "Interexchange carrier",
+    "category": "telecom"
+  },
+  {
+    "slug": "iq-group",
+    "name": "IQ Group",
+    "name_en": "IQ Group",
+    "category": "telecom"
+  },
+  {
+    "slug": "lotusflare",
+    "name": "LotusFlare",
+    "name_en": "LotusFlare",
+    "category": "telecom"
+  },
+  {
+    "slug": "network-service-provider",
+    "name": "Network service provider",
+    "name_en": "Network service provider",
+    "category": "telecom"
+  },
+  {
+    "slug": "onem2m",
+    "name": "OneM2M",
+    "name_en": "OneM2M",
+    "category": "telecom"
+  },
+  {
+    "slug": "really-wireless",
+    "name": "Really Wireless",
+    "name_en": "Really Wireless",
+    "category": "telecom"
+  },
+  {
+    "slug": "vodafone-ukraine",
+    "name": "Vodafone Ukraine",
+    "name_en": "Vodafone Ukraine",
+    "category": "telecom"
+  },
+  {
+    "slug": "333-premium-export-beer",
+    "name": "333 Premium Export Beer",
+    "name_en": "333 Premium Export Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "1664-beer",
+    "name": "1664 (beer)",
+    "name_en": "1664 (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "a-le-coq",
+    "name": "A. Le Coq",
+    "name_en": "A. Le Coq",
+    "category": "beverage"
+  },
+  {
+    "slug": "ab-inbev-brands",
+    "name": "AB InBev brands",
+    "name_en": "AB InBev brands",
+    "category": "beverage"
+  },
+  {
+    "slug": "archipelago-brewery",
+    "name": "Archipelago Brewery",
+    "name_en": "Archipelago Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "asia-brewery",
+    "name": "Asia Brewery",
+    "name_en": "Asia Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "asmara-brewery",
+    "name": "Asmara Brewery",
+    "name_en": "Asmara Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "bali-hai-beer",
+    "name": "Bali Hai Beer",
+    "name_en": "Bali Hai Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "belikin",
+    "name": "Belikin",
+    "name_en": "Belikin",
+    "category": "beverage"
+  },
+  {
+    "slug": "bier-hoi-brewing-company",
+    "name": "Bier Hoi Brewing Company",
+    "name_en": "Bier Hoi Brewing Company",
+    "category": "beverage"
+  },
+  {
+    "slug": "birra-kaon",
+    "name": "Birra Kaon",
+    "name_en": "Birra Kaon",
+    "category": "beverage"
+  },
+  {
+    "slug": "birra-kora",
+    "name": "Birra Korça",
+    "name_en": "Birra Korça",
+    "category": "beverage"
+  },
+  {
+    "slug": "birra-stela",
+    "name": "Birra Stela",
+    "name_en": "Birra Stela",
+    "category": "beverage"
+  },
+  {
+    "slug": "birra-tirana",
+    "name": "Birra Tirana",
+    "name_en": "Birra Tirana",
+    "category": "beverage"
+  },
+  {
+    "slug": "birzeit-brewery",
+    "name": "Birzeit Brewery",
+    "name_en": "Birzeit Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "boon-rawd-brewery",
+    "name": "Boon Rawd Brewery",
+    "name_en": "Boon Rawd Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "brasserie-dachouffe",
+    "name": "Brasserie d'Achouffe",
+    "name_en": "Brasserie d'Achouffe",
+    "category": "beverage"
+  },
+  {
+    "slug": "brasseries-de-bourbon",
+    "name": "Brasseries de Bourbon",
+    "name_en": "Brasseries de Bourbon",
+    "category": "beverage"
+  },
+  {
+    "slug": "brewery-puntigam",
+    "name": "Brewery Puntigam",
+    "name_en": "Brewery Puntigam",
+    "category": "beverage"
+  },
+  {
+    "slug": "brooklyn-brewery",
+    "name": "Brooklyn Brewery",
+    "name_en": "Brooklyn Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "airline",
+    "name": "Airline",
+    "name_en": "Airline",
+    "category": "airline"
+  },
+  {
+    "slug": "air-boyoma",
+    "name": "Air Boyoma",
+    "name_en": "Air Boyoma",
+    "category": "airline"
+  },
+  {
+    "slug": "airline-codes",
+    "name": "Airline codes",
+    "name_en": "Airline codes",
+    "category": "airline"
+  },
+  {
+    "slug": "flag-carrier",
+    "name": "Flag carrier",
+    "name_en": "Flag carrier",
+    "category": "airline"
+  },
+  {
+    "slug": "intrastate-airline",
+    "name": "Intrastate airline",
+    "name_en": "Intrastate airline",
+    "category": "airline"
+  },
+  {
+    "slug": "airport-and-airline-management",
+    "name": "Airport and airline management",
+    "name_en": "Airport and airline management",
+    "category": "airline"
+  },
+  {
+    "slug": "non-scheduled-airline",
+    "name": "Non-scheduled airline",
+    "name_en": "Non-scheduled airline",
+    "category": "airline"
+  },
+  {
+    "slug": "texas-aeronautics-commission",
+    "name": "Texas Aeronautics Commission",
+    "name_en": "Texas Aeronautics Commission",
+    "category": "airline"
+  },
+  {
+    "slug": "airline-trading-card",
+    "name": "Airline trading card",
+    "name_en": "Airline trading card",
+    "category": "airline"
+  },
+  {
+    "slug": "3d-systems",
+    "name": "3D Systems",
+    "name_en": "3D Systems",
+    "category": "general"
+  },
+  {
+    "slug": "abbott-laboratories",
+    "name": "Abbott Laboratories",
+    "name_en": "Abbott Laboratories",
+    "category": "general"
+  },
+  {
+    "slug": "acn-inc",
+    "name": "ACN Inc.",
+    "name_en": "ACN Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "active-network-llc",
+    "name": "Active Network, LLC",
+    "name_en": "Active Network, LLC",
+    "category": "general"
+  },
+  {
+    "slug": "adobe-inc",
+    "name": "Adobe Inc.",
+    "name_en": "Adobe Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "aerohive-networks",
+    "name": "Aerohive Networks",
+    "name_en": "Aerohive Networks",
+    "category": "general"
+  },
+  {
+    "slug": "albavisin",
+    "name": "Albavisión",
+    "name_en": "Albavisión",
+    "category": "general"
+  },
+  {
+    "slug": "alpacadb",
+    "name": "AlpacaDB",
+    "name_en": "AlpacaDB",
+    "category": "general"
+  },
+  {
+    "slug": "alphabet-inc",
+    "name": "Alphabet Inc.",
+    "name_en": "Alphabet Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "altria",
+    "name": "Altria",
+    "name_en": "Altria",
+    "category": "general"
+  },
+  {
+    "slug": "alvaria",
+    "name": "Alvaria",
+    "name_en": "Alvaria",
+    "category": "general"
+  },
+  {
+    "slug": "amazon-company",
+    "name": "Amazon (company)",
+    "name_en": "Amazon (company)",
+    "category": "general"
+  },
+  {
+    "slug": "amelia-company",
+    "name": "Amelia (company)",
+    "name_en": "Amelia (company)",
+    "category": "general"
+  },
+  {
+    "slug": "american-sugar-refining",
+    "name": "American Sugar Refining",
+    "name_en": "American Sugar Refining",
+    "category": "general"
+  },
+  {
+    "slug": "amgen",
+    "name": "Amgen",
+    "name_en": "Amgen",
+    "category": "general"
+  },
+  {
+    "slug": "apple-inc",
+    "name": "Apple Inc.",
+    "name_en": "Apple Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "applied-spectral-imaging",
+    "name": "Applied Spectral Imaging",
+    "name_en": "Applied Spectral Imaging",
+    "category": "general"
+  },
+  {
+    "slug": "aramark",
+    "name": "Aramark",
+    "name_en": "Aramark",
+    "category": "general"
+  },
+  {
+    "slug": "associated-oil-company",
+    "name": "Associated Oil Company",
+    "name_en": "Associated Oil Company",
+    "category": "general"
+  },
+  {
+    "slug": "att",
+    "name": "AT&T",
+    "name_en": "AT&T",
+    "category": "general"
+  },
+  {
+    "slug": "avaya",
+    "name": "Avaya",
+    "name_en": "Avaya",
+    "category": "general"
+  },
+  {
+    "slug": "baxter-international",
+    "name": "Baxter International",
+    "name_en": "Baxter International",
+    "category": "general"
+  },
+  {
+    "slug": "berkshire-hathaway",
+    "name": "Berkshire Hathaway",
+    "name_en": "Berkshire Hathaway",
+    "category": "general"
+  },
+  {
+    "slug": "best-buy",
+    "name": "Best Buy",
+    "name_en": "Best Buy",
+    "category": "general"
+  },
+  {
+    "slug": "bioverativ",
+    "name": "Bioverativ",
+    "name_en": "Bioverativ",
+    "category": "general"
+  },
+  {
+    "slug": "boeing",
+    "name": "Boeing",
+    "name_en": "Boeing",
+    "category": "general"
+  },
+  {
+    "slug": "branson-ultrasonics",
+    "name": "Branson Ultrasonics",
+    "name_en": "Branson Ultrasonics",
+    "category": "general"
+  },
+  {
+    "slug": "brinker-international",
+    "name": "Brinker International",
+    "name_en": "Brinker International",
+    "category": "general"
+  },
+  {
+    "slug": "cameron-international",
+    "name": "Cameron International",
+    "name_en": "Cameron International",
+    "category": "general"
+  },
+  {
+    "slug": "the-cartoon-network-inc",
+    "name": "The Cartoon Network, Inc.",
+    "name_en": "The Cartoon Network, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "caterpillar-inc",
+    "name": "Caterpillar Inc.",
+    "name_en": "Caterpillar Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "7-brew",
+    "name": "7 Brew",
+    "name_en": "7 Brew",
+    "category": "food"
+  },
+  {
+    "slug": "an-giang-coffee",
+    "name": "An Giang Coffee",
+    "name_en": "An Giang Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "angel-in-us",
+    "name": "Angel-in-us",
+    "name_en": "Angel-in-us",
+    "category": "food"
+  },
+  {
+    "slug": "arabica",
+    "name": "% Arabica",
+    "name_en": "% Arabica",
+    "category": "food"
+  },
+  {
+    "slug": "bacha-coffee",
+    "name": "Bacha Coffee",
+    "name_en": "Bacha Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "barcaffe",
+    "name": "Barcaffe",
+    "name_en": "Barcaffe",
+    "category": "food"
+  },
+  {
+    "slug": "bewleys",
+    "name": "Bewley's",
+    "name_en": "Bewley's",
+    "category": "food"
+  },
+  {
+    "slug": "bigface",
+    "name": "Bigface",
+    "name_en": "Bigface",
+    "category": "food"
+  },
+  {
+    "slug": "black-ivory-coffee",
+    "name": "Black Ivory Coffee",
+    "name_en": "Black Ivory Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "black-rifle-coffee-company",
+    "name": "Black Rifle Coffee Company",
+    "name_en": "Black Rifle Coffee Company",
+    "category": "food"
+  },
+  {
+    "slug": "bluestone-lane",
+    "name": "Bluestone Lane",
+    "name_en": "Bluestone Lane",
+    "category": "food"
+  },
+  {
+    "slug": "bokar-coffee",
+    "name": "Bokar Coffee",
+    "name_en": "Bokar Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "boss-coffee",
+    "name": "Boss Coffee",
+    "name_en": "Boss Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "bridgehead-coffee",
+    "name": "Bridgehead Coffee",
+    "name_en": "Bridgehead Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "brown-coffee",
+    "name": "Brown Coffee",
+    "name_en": "Brown Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "bushells",
+    "name": "Bushells",
+    "name_en": "Bushells",
+    "category": "food"
+  },
+  {
+    "slug": "caf-amazon",
+    "name": "Café Amazon",
+    "name_en": "Café Amazon",
+    "category": "food"
+  },
+  {
+    "slug": "caf-britt",
+    "name": "Café Britt",
+    "name_en": "Café Britt",
+    "category": "food"
+  },
+  {
+    "slug": "caf-bustelo",
+    "name": "Café Bustelo",
+    "name_en": "Café Bustelo",
+    "category": "food"
+  },
+  {
+    "slug": "caf-coffee-day",
+    "name": "Café Coffee Day",
+    "name_en": "Café Coffee Day",
+    "category": "food"
+  },
+  {
+    "slug": "luxury-goods",
+    "name": "Luxury goods",
+    "name_en": "Luxury goods",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "designer-label",
+    "name": "Designer label",
+    "name_en": "Designer label",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "mid-luxury",
+    "name": "Mid-luxury",
+    "name_en": "Mid-luxury",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "world-luxury-association",
+    "name": "World Luxury Association",
+    "name_en": "World Luxury Association",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "10-corso-como",
+    "name": "10 Corso Como",
+    "name_en": "10 Corso Como",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "21c-museum-hotels",
+    "name": "21c Museum Hotels",
+    "name_en": "21c Museum Hotels",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "aesop-brand",
+    "name": "Aesop (brand)",
+    "name_en": "Aesop (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "albion-co-ltd",
+    "name": "Albion Co., Ltd.",
+    "name_en": "Albion Co., Ltd.",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "alden-shoe-company",
+    "name": "Alden Shoe Company",
+    "name_en": "Alden Shoe Company",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "alor-company",
+    "name": "Alor (company)",
+    "name_en": "Alor (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "altagamma",
+    "name": "Altagamma",
+    "name_en": "Altagamma",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "aman-resorts",
+    "name": "Aman Resorts",
+    "name_en": "Aman Resorts",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ami-paris",
+    "name": "AMI Paris",
+    "name_en": "AMI Paris",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "amouage",
+    "name": "Amouage",
+    "name_en": "Amouage",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "andre-garcia-brand",
+    "name": "Andre Garcia (brand)",
+    "name_en": "Andre Garcia (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "anonimo",
+    "name": "Anonimo",
+    "name_en": "Anonimo",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "arcadia-watches",
+    "name": "Arcadia Watches",
+    "name_en": "Arcadia Watches",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "armand-nicolet",
+    "name": "Armand Nicolet",
+    "name_en": "Armand Nicolet",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "arriva-max",
+    "name": "Arriva Max",
+    "name_en": "Arriva Max",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "arriva-sapphire",
+    "name": "Arriva Sapphire",
+    "name_en": "Arriva Sapphire",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "aar-busbahn",
+    "name": "AAR bus+bahn",
+    "name_en": "AAR bus+bahn",
+    "category": "general"
+  },
+  {
+    "slug": "abb",
+    "name": "ABB",
+    "name_en": "ABB",
+    "category": "general"
+  },
+  {
+    "slug": "actelion",
+    "name": "Actelion",
+    "name_en": "Actelion",
+    "category": "general"
+  },
+  {
+    "slug": "aebi",
+    "name": "AEBI",
+    "name_en": "AEBI",
+    "category": "general"
+  },
+  {
+    "slug": "aldi-talk",
+    "name": "Aldi Talk",
+    "name_en": "Aldi Talk",
+    "category": "general"
+  },
+  {
+    "slug": "alpa",
+    "name": "Alpa",
+    "name_en": "Alpa",
+    "category": "general"
+  },
+  {
+    "slug": "alprose",
+    "name": "Alprose",
+    "name_en": "Alprose",
+    "category": "general"
+  },
+  {
+    "slug": "ammann-group",
+    "name": "Ammann Group",
+    "name_en": "Ammann Group",
+    "category": "general"
+  },
+  {
+    "slug": "arctic-gmbh",
+    "name": "Arctic GmbH",
+    "name_en": "Arctic GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "au-bijou",
+    "name": "Au Bijou",
+    "name_en": "Au Bijou",
+    "category": "general"
+  },
+  {
+    "slug": "automobilfabrik-orion-ag",
+    "name": "Automobilfabrik Orion AG",
+    "name_en": "Automobilfabrik Orion AG",
+    "category": "general"
+  },
+  {
+    "slug": "avaloq",
+    "name": "Avaloq",
+    "name_en": "Avaloq",
+    "category": "general"
+  },
+  {
+    "slug": "bally-fashion-house",
+    "name": "Bally (fashion house)",
+    "name_en": "Bally (fashion house)",
+    "category": "general"
+  },
+  {
+    "slug": "bamix",
+    "name": "Bamix",
+    "name_en": "Bamix",
+    "category": "general"
+  },
+  {
+    "slug": "bata-corporation",
+    "name": "Bata Corporation",
+    "name_en": "Bata Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "belimo-holding",
+    "name": "BELIMO Holding",
+    "name_en": "BELIMO Holding",
+    "category": "general"
+  },
+  {
+    "slug": "berna",
+    "name": "Berna",
+    "name_en": "Berna",
+    "category": "general"
+  },
+  {
+    "slug": "bernafon",
+    "name": "Bernafon",
+    "name_en": "Bernafon",
+    "category": "general"
+  },
+  {
+    "slug": "bernina-international",
+    "name": "Bernina International",
+    "name_en": "Bernina International",
+    "category": "general"
+  },
+  {
+    "slug": "bmc-switzerland",
+    "name": "BMC Switzerland",
+    "name_en": "BMC Switzerland",
+    "category": "general"
+  },
+  {
+    "slug": "aurora-chain",
+    "name": "Aurora (chain)",
+    "name_en": "Aurora (chain)",
+    "category": "retail"
+  },
+  {
+    "slug": "99-sushi-bar",
+    "name": "99 Sushi Bar",
+    "name_en": "99 Sushi Bar",
+    "category": "food"
+  },
+  {
+    "slug": "the-alley-company",
+    "name": "The Alley (company)",
+    "name_en": "The Alley (company)",
+    "category": "food"
+  },
+  {
+    "slug": "artichoke-basilles-pizza",
+    "name": "Artichoke Basille's Pizza",
+    "name_en": "Artichoke Basille's Pizza",
+    "category": "food"
+  },
+  {
+    "slug": "bajeko-sekuwa",
+    "name": "Bajeko Sekuwa",
+    "name_en": "Bajeko Sekuwa",
+    "category": "food"
+  },
+  {
+    "slug": "burger-21",
+    "name": "Burger 21",
+    "name_en": "Burger 21",
+    "category": "food"
+  },
+  {
+    "slug": "dcost",
+    "name": "D'Cost",
+    "name_en": "D'Cost",
+    "category": "food"
+  },
+  {
+    "slug": "ding-tea",
+    "name": "Ding Tea",
+    "name_en": "Ding Tea",
+    "category": "food"
+  },
+  {
+    "slug": "domin-chile",
+    "name": "Dominó (Chile)",
+    "name_en": "Dominó (Chile)",
+    "category": "food"
+  },
+  {
+    "slug": "elephant-castle-restaurant",
+    "name": "Elephant & Castle (restaurant)",
+    "name_en": "Elephant & Castle (restaurant)",
+    "category": "food"
+  },
+  {
+    "slug": "hamericas",
+    "name": "Hamerica's",
+    "name_en": "Hamerica's",
+    "category": "food"
+  },
+  {
+    "slug": "happy-restaurant",
+    "name": "Happy (restaurant)",
+    "name_en": "Happy (restaurant)",
+    "category": "food"
+  },
+  {
+    "slug": "happy-lemon",
+    "name": "Happy Lemon",
+    "name_en": "Happy Lemon",
+    "category": "food"
+  },
+  {
+    "slug": "juan-maestro",
+    "name": "Juan Maestro",
+    "name_en": "Juan Maestro",
+    "category": "food"
+  },
+  {
+    "slug": "junbi",
+    "name": "Junbi",
+    "name_en": "Junbi",
+    "category": "food"
+  },
+  {
+    "slug": "karims",
+    "name": "Karim's",
+    "name_en": "Karim's",
+    "category": "food"
+  },
+  {
+    "slug": "la-cage-brasserie-sportive",
+    "name": "La Cage – Brasserie sportive",
+    "name_en": "La Cage – Brasserie sportive",
+    "category": "food"
+  },
+  {
+    "slug": "matcha-cafe-maiko",
+    "name": "Matcha Cafe Maiko",
+    "name_en": "Matcha Cafe Maiko",
+    "category": "food"
+  },
+  {
+    "slug": "nanas-green-tea",
+    "name": "Nana's Green Tea",
+    "name_en": "Nana's Green Tea",
+    "category": "food"
+  },
+  {
+    "slug": "pizza-celentano",
+    "name": "Pizza Celentano",
+    "name_en": "Pizza Celentano",
+    "category": "food"
+  },
+  {
+    "slug": "2rule",
+    "name": "2Rule",
+    "name_en": "2Rule",
+    "category": "sportswear"
+  },
+  {
+    "slug": "2xu",
+    "name": "2XU",
+    "name_en": "2XU",
+    "category": "sportswear"
+  },
+  {
+    "slug": "4f-company",
+    "name": "4F (company)",
+    "name_en": "4F (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "47-brand",
+    "name": "'47 (brand)",
+    "name_en": "'47 (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "361-degrees",
+    "name": "361 Degrees",
+    "name_en": "361 Degrees",
+    "category": "sportswear"
+  },
+  {
+    "slug": "afca-clothing",
+    "name": "A.F.C.A (clothing)",
+    "name_en": "A.F.C.A (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ab-sport",
+    "name": "AB Sport",
+    "name_en": "AB Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "abc-mart",
+    "name": "ABC-Mart",
+    "name_en": "ABC-Mart",
+    "category": "sportswear"
+  },
+  {
+    "slug": "acerbis",
+    "name": "Acerbis",
+    "name_en": "Acerbis",
+    "category": "sportswear"
+  },
+  {
+    "slug": "admiral-sportswear",
+    "name": "Admiral Sportswear",
+    "name_en": "Admiral Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "afa-sports",
+    "name": "AFA Sports",
+    "name_en": "AFA Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "affliction-clothing",
+    "name": "Affliction Clothing",
+    "name_en": "Affliction Clothing",
+    "category": "sportswear"
+  },
+  {
+    "slug": "air-jordan",
+    "name": "Air Jordan",
+    "name_en": "Air Jordan",
+    "category": "sportswear"
+  },
+  {
+    "slug": "airness",
+    "name": "Airness",
+    "name_en": "Airness",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alanic-brand",
+    "name": "Alanic (brand)",
+    "name_en": "Alanic (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alnasser-sportswear",
+    "name": "Alnasser (sportswear)",
+    "name_en": "Alnasser (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alo-yoga",
+    "name": "Alo Yoga",
+    "name_en": "Alo Yoga",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alphatauri-fashion-brand",
+    "name": "AlphaTauri (fashion brand)",
+    "name_en": "AlphaTauri (fashion brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alpine-pro",
+    "name": "Alpine Pro",
+    "name_en": "Alpine Pro",
+    "category": "sportswear"
+  },
+  {
+    "slug": "alpinestars",
+    "name": "Alpinestars",
+    "name_en": "Alpinestars",
+    "category": "sportswear"
+  },
+  {
+    "slug": "charles-river-laboratories",
+    "name": "Charles River Laboratories",
+    "name_en": "Charles River Laboratories",
+    "category": "general"
+  },
+  {
+    "slug": "chemence",
+    "name": "Chemence",
+    "name_en": "Chemence",
+    "category": "general"
+  },
+  {
+    "slug": "chemours",
+    "name": "Chemours",
+    "name_en": "Chemours",
+    "category": "general"
+  },
+  {
+    "slug": "chevron-corporation",
+    "name": "Chevron Corporation",
+    "name_en": "Chevron Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "church-of-scientology",
+    "name": "Church of Scientology",
+    "name_en": "Church of Scientology",
+    "category": "general"
+  },
+  {
+    "slug": "cision",
+    "name": "Cision",
+    "name_en": "Cision",
+    "category": "general"
+  },
+  {
+    "slug": "civeo-corporation",
+    "name": "Civeo Corporation",
+    "name_en": "Civeo Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "clean-harbors",
+    "name": "Clean Harbors",
+    "name_en": "Clean Harbors",
+    "category": "general"
+  },
+  {
+    "slug": "clopay-plastic-products",
+    "name": "Clopay Plastic Products",
+    "name_en": "Clopay Plastic Products",
+    "category": "general"
+  },
+  {
+    "slug": "clorox",
+    "name": "Clorox",
+    "name_en": "Clorox",
+    "category": "general"
+  },
+  {
+    "slug": "the-coca-cola-company",
+    "name": "The Coca-Cola Company",
+    "name_en": "The Coca-Cola Company",
+    "category": "general"
+  },
+  {
+    "slug": "columbia-machine",
+    "name": "Columbia Machine",
+    "name_en": "Columbia Machine",
+    "category": "general"
+  },
+  {
+    "slug": "comcast",
+    "name": "Comcast",
+    "name_en": "Comcast",
+    "category": "general"
+  },
+  {
+    "slug": "conagra-brands",
+    "name": "Conagra Brands",
+    "name_en": "Conagra Brands",
+    "category": "general"
+  },
+  {
+    "slug": "confluent",
+    "name": "Confluent",
+    "name_en": "Confluent",
+    "category": "general"
+  },
+  {
+    "slug": "conocophillips",
+    "name": "ConocoPhillips",
+    "name_en": "ConocoPhillips",
+    "category": "general"
+  },
+  {
+    "slug": "cooper-standard-automotive",
+    "name": "Cooper-Standard Automotive",
+    "name_en": "Cooper-Standard Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "corgan-company",
+    "name": "Corgan (company)",
+    "name_en": "Corgan (company)",
+    "category": "general"
+  },
+  {
+    "slug": "crowley-maritime",
+    "name": "Crowley Maritime",
+    "name_en": "Crowley Maritime",
+    "category": "general"
+  },
+  {
+    "slug": "danaher-corporation",
+    "name": "Danaher Corporation",
+    "name_en": "Danaher Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "astera-labs",
+    "name": "Astera Labs",
+    "name_en": "Astera Labs",
+    "category": "technology"
+  },
+  {
+    "slug": "carel-industries",
+    "name": "Carel Industries",
+    "name_en": "Carel Industries",
+    "category": "technology"
+  },
+  {
+    "slug": "electroplanet",
+    "name": "Electroplanet",
+    "name_en": "Electroplanet",
+    "category": "technology"
+  },
+  {
+    "slug": "methode-electronics",
+    "name": "Methode Electronics",
+    "name_en": "Methode Electronics",
+    "category": "technology"
+  },
+  {
+    "slug": "octopart",
+    "name": "Octopart",
+    "name_en": "Octopart",
+    "category": "technology"
+  },
+  {
+    "slug": "power-company",
+    "name": "Power (company)",
+    "name_en": "Power (company)",
+    "category": "technology"
+  },
+  {
+    "slug": "darden-restaurants",
+    "name": "Darden Restaurants",
+    "name_en": "Darden Restaurants",
+    "category": "general"
+  },
+  {
+    "slug": "dell-technologies",
+    "name": "Dell Technologies",
+    "name_en": "Dell Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "digital-ocean",
+    "name": "Digital Ocean",
+    "name_en": "Digital Ocean",
+    "category": "general"
+  },
+  {
+    "slug": "digital-river",
+    "name": "Digital River",
+    "name_en": "Digital River",
+    "category": "general"
+  },
+  {
+    "slug": "discovery-inc",
+    "name": "Discovery, Inc.",
+    "name_en": "Discovery, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "disney-branded-television",
+    "name": "Disney Branded Television",
+    "name_en": "Disney Branded Television",
+    "category": "general"
+  },
+  {
+    "slug": "dude-perfect",
+    "name": "Dude Perfect",
+    "name_en": "Dude Perfect",
+    "category": "general"
+  },
+  {
+    "slug": "ebay",
+    "name": "EBay",
+    "name_en": "EBay",
+    "category": "general"
+  },
+  {
+    "slug": "ebix",
+    "name": "Ebix",
+    "name_en": "Ebix",
+    "category": "general"
+  },
+  {
+    "slug": "electronic-arts",
+    "name": "Electronic Arts",
+    "name_en": "Electronic Arts",
+    "category": "general"
+  },
+  {
+    "slug": "electronic-data-systems",
+    "name": "Electronic Data Systems",
+    "name_en": "Electronic Data Systems",
+    "category": "general"
+  },
+  {
+    "slug": "eli-lilly-and-company",
+    "name": "Eli Lilly and Company",
+    "name_en": "Eli Lilly and Company",
+    "category": "general"
+  },
+  {
+    "slug": "emerson-electric",
+    "name": "Emerson Electric",
+    "name_en": "Emerson Electric",
+    "category": "general"
+  },
+  {
+    "slug": "erhc",
+    "name": "ERHC",
+    "name_en": "ERHC",
+    "category": "general"
+  },
+  {
+    "slug": "abdul-latif-jameel",
+    "name": "Abdul Latif Jameel",
+    "name_en": "Abdul Latif Jameel",
+    "category": "automotive"
+  },
+  {
+    "slug": "cal-looker",
+    "name": "Cal looker",
+    "name_en": "Cal looker",
+    "category": "automotive"
+  },
+  {
+    "slug": "aethel-mining",
+    "name": "Aethel Mining",
+    "name_en": "Aethel Mining",
+    "category": "energy"
+  },
+  {
+    "slug": "american-placer-corporation",
+    "name": "American Placer Corporation",
+    "name_en": "American Placer Corporation",
+    "category": "energy"
+  },
+  {
+    "slug": "dmt-company",
+    "name": "DMT (company)",
+    "name_en": "DMT (company)",
+    "category": "energy"
+  },
+  {
+    "slug": "kinross-gold",
+    "name": "Kinross Gold",
+    "name_en": "Kinross Gold",
+    "category": "energy"
+  },
+  {
+    "slug": "nova-dies-bvi-ibc",
+    "name": "Nova Dies BVI IBC",
+    "name_en": "Nova Dies BVI IBC",
+    "category": "energy"
+  },
+  {
+    "slug": "panama-papers",
+    "name": "Panama Papers",
+    "name_en": "Panama Papers",
+    "category": "energy"
+  },
+  {
+    "slug": "pandora-papers",
+    "name": "Pandora Papers",
+    "name_en": "Pandora Papers",
+    "category": "energy"
+  },
+  {
+    "slug": "piedmont-lithium",
+    "name": "Piedmont Lithium",
+    "name_en": "Piedmont Lithium",
+    "category": "energy"
+  },
+  {
+    "slug": "poderosa",
+    "name": "Poderosa",
+    "name_en": "Poderosa",
+    "category": "energy"
+  },
+  {
+    "slug": "ro-tinto-minera",
+    "name": "Río Tinto Minera",
+    "name_en": "Río Tinto Minera",
+    "category": "energy"
+  },
+  {
+    "slug": "selection-trust",
+    "name": "Selection Trust",
+    "name_en": "Selection Trust",
+    "category": "energy"
+  },
+  {
+    "slug": "the-black-sand-and-gold-recovery-company",
+    "name": "The Black Sand and Gold Recovery Company",
+    "name_en": "The Black Sand and Gold Recovery Company",
+    "category": "energy"
+  },
+  {
+    "slug": "the-north-shore-reduction-company",
+    "name": "The North Shore Reduction Company",
+    "name_en": "The North Shore Reduction Company",
+    "category": "energy"
+  },
+  {
+    "slug": "unin-minera-del-norte",
+    "name": "Unión Minera del Norte",
+    "name_en": "Unión Minera del Norte",
+    "category": "energy"
+  },
+  {
+    "slug": "wellex-industries",
+    "name": "Wellex Industries",
+    "name_en": "Wellex Industries",
+    "category": "energy"
+  },
+  {
+    "slug": "aardman-animations",
+    "name": "Aardman Animations",
+    "name_en": "Aardman Animations",
+    "category": "general"
+  },
+  {
+    "slug": "abbey-well",
+    "name": "Abbey Well",
+    "name_en": "Abbey Well",
+    "category": "general"
+  },
+  {
+    "slug": "ability-office",
+    "name": "Ability Office",
+    "name_en": "Ability Office",
+    "category": "general"
+  },
+  {
+    "slug": "anew-hotels-resorts",
+    "name": "ANEW Hotels & Resorts",
+    "name_en": "ANEW Hotels & Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "archipelago-international",
+    "name": "Archipelago International",
+    "name_en": "Archipelago International",
+    "category": "hotel"
+  },
+  {
+    "slug": "astoria-hotels-and-resorts",
+    "name": "Astoria Hotels and Resorts",
+    "name_en": "Astoria Hotels and Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "auberge-resorts",
+    "name": "Auberge Resorts",
+    "name_en": "Auberge Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "avani-hotels-resorts",
+    "name": "Avani Hotels & Resorts",
+    "name_en": "Avani Hotels & Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "azimut-hotels",
+    "name": "Azimut Hotels",
+    "name_en": "Azimut Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "banyan-group",
+    "name": "Banyan Group",
+    "name_en": "Banyan Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "beaches-resorts",
+    "name": "Beaches Resorts",
+    "name_en": "Beaches Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "cham-palaces-and-hotels",
+    "name": "Cham Palaces and Hotels",
+    "name_en": "Cham Palaces and Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "continental-hotels",
+    "name": "Continental Hotels",
+    "name_en": "Continental Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "corinthia-hotels",
+    "name": "Corinthia Hotels",
+    "name_en": "Corinthia Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "couples-resorts",
+    "name": "Couples Resorts",
+    "name_en": "Couples Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "dalata-hotel-group",
+    "name": "Dalata Hotel Group",
+    "name_en": "Dalata Hotel Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "dorchester-collection",
+    "name": "Dorchester Collection",
+    "name_en": "Dorchester Collection",
+    "category": "hotel"
+  },
+  {
+    "slug": "the-doyle-collection",
+    "name": "The Doyle Collection",
+    "name_en": "The Doyle Collection",
+    "category": "hotel"
+  },
+  {
+    "slug": "dusit-international",
+    "name": "Dusit International",
+    "name_en": "Dusit International",
+    "category": "hotel"
+  },
+  {
+    "slug": "easyhotel",
+    "name": "EasyHotel",
+    "name_en": "EasyHotel",
+    "category": "hotel"
+  },
+  {
+    "slug": "fasano-group",
+    "name": "Fasano Group",
+    "name_en": "Fasano Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "go-hotels",
+    "name": "Go Hotels",
+    "name_en": "Go Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "grecotel",
+    "name": "Grecotel",
+    "name_en": "Grecotel",
+    "category": "hotel"
+  },
+  {
+    "slug": "apc",
+    "name": "A.P.C.",
+    "name_en": "A.P.C.",
+    "category": "fashion"
+  },
+  {
+    "slug": "acqua-limone",
+    "name": "Acqua Limone",
+    "name_en": "Acqua Limone",
+    "category": "fashion"
+  },
+  {
+    "slug": "aim-leon-dore",
+    "name": "Aimé Leon Dore",
+    "name_en": "Aimé Leon Dore",
+    "category": "fashion"
+  },
+  {
+    "slug": "akoo",
+    "name": "AKOO",
+    "name_en": "AKOO",
+    "category": "fashion"
+  },
+  {
+    "slug": "alain-figaret",
+    "name": "Alain Figaret",
+    "name_en": "Alain Figaret",
+    "category": "fashion"
+  },
+  {
+    "slug": "allsaints",
+    "name": "AllSaints",
+    "name_en": "AllSaints",
+    "category": "fashion"
+  },
+  {
+    "slug": "american-eagle-outfitters",
+    "name": "American Eagle Outfitters",
+    "name_en": "American Eagle Outfitters",
+    "category": "fashion"
+  },
+  {
+    "slug": "anne-fontaine-brand",
+    "name": "Anne Fontaine (brand)",
+    "name_en": "Anne Fontaine (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "arckiv",
+    "name": "Arckiv",
+    "name_en": "Arckiv",
+    "category": "fashion"
+  },
+  {
+    "slug": "armoire-officielle",
+    "name": "Armoire Officielle",
+    "name_en": "Armoire Officielle",
+    "category": "fashion"
+  },
+  {
+    "slug": "arthur-galan-ag",
+    "name": "Arthur Galan AG",
+    "name_en": "Arthur Galan AG",
+    "category": "fashion"
+  },
+  {
+    "slug": "bellerose-belgium",
+    "name": "Bellerose Belgium",
+    "name_en": "Bellerose Belgium",
+    "category": "fashion"
+  },
+  {
+    "slug": "bensimon-brand",
+    "name": "Bensimon (brand)",
+    "name_en": "Bensimon (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "bloch-company",
+    "name": "Bloch (company)",
+    "name_en": "Bloch (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "bluenotes",
+    "name": "Bluenotes",
+    "name_en": "Bluenotes",
+    "category": "fashion"
+  },
+  {
+    "slug": "bogart-man",
+    "name": "Bogart Man",
+    "name_en": "Bogart Man",
+    "category": "fashion"
+  },
+  {
+    "slug": "bonia-fashion",
+    "name": "Bonia (fashion)",
+    "name_en": "Bonia (fashion)",
+    "category": "fashion"
+  },
+  {
+    "slug": "bosideng",
+    "name": "Bosideng",
+    "name_en": "Bosideng",
+    "category": "fashion"
+  },
+  {
+    "slug": "callisti",
+    "name": "Callisti",
+    "name_en": "Callisti",
+    "category": "fashion"
+  },
+  {
+    "slug": "canterbury-of-new-zealand",
+    "name": "Canterbury of New Zealand",
+    "name_en": "Canterbury of New Zealand",
+    "category": "fashion"
   }
 ]

@@ -89,3 +89,453 @@ bentley,Bentley,宾利,automotive,UK,true
 lamborghini,Lamborghini,兰博基尼,automotive,Italy,true
 aston-martin,Aston Martin,阿斯顿·马丁,automotive,UK,true
 maserati,Maserati,玛莎拉蒂,automotive,Italy,true
+guinness|健力士|Guinness|food|爱尔兰都柏林（Dublin, Ireland）|1759|TRUE
+carlsberg|嘉士伯|Carlsberg|food|丹麦哥本哈根|1847|TRUE
+colgate|高露洁|Colgate|beauty|美国纽约|1806|TRUE
+gillette|吉列|Gillette|beauty|美国波士顿|1901|TRUE
+durex|杜蕾斯|Durex|consumer-goods|英国伦敦|1915|TRUE
+visa|维萨|Visa|finance|美国加利福尼亚州|1958|TRUE
+mastercard|万事达|Mastercard|finance|美国纽约|1966|TRUE
+american-express|美国运通|American Express|finance|美国纽约|1850|TRUE
+costco|好市多|Costco|retail|美国华盛顿州西雅图|1983|TRUE
+walgreens|沃尔格林|Walgreens|retail|美国伊利诺伊州芝加哥|1901|TRUE
+ibm|IBM|IBM|technology|美国纽约|1911|TRUE
+oracle|甲骨文|Oracle|technology|美国加利福尼亚州|1977|TRUE
+cisco|思科|Cisco|technology|美国加利福尼亚州圣何塞|1984|TRUE
+jaguar|捷豹|Jaguar|auto|英国考文垂|1922|TRUE
+land-rover|路虎|Land Rover|auto|英国索利哈尔|1948|TRUE
+volvo|沃尔沃|Volvo|auto|瑞典哥德堡|1927|TRUE
+mini|MINI|MINI|auto|英国伯明翰|1959|TRUE
+fiat|菲亚特|Fiat|auto|意大利都灵|1899|TRUE
+peugeot|标致|Peugeot|auto|法国索肖|1810|TRUE
+citroen|雪铁龙|Citroën|auto|法国巴黎|1919|TRUE
+tesla-motors|特斯拉汽车|Tesla Motors|auto|美国加利福尼亚州|2003|TRUE
+mazda|马自达|Mazda|auto|日本广岛|1920|TRUE
+subaru|斯巴鲁|Subaru|auto|日本东京|1953|TRUE
+mitsubishi-motors|三菱汽车|Mitsubishi Motors|auto|日本东京|1970|TRUE
+nissan|日产|Nissan|auto|日本横滨|1933|TRUE
+givenchy|纪梵希|Givenchy|fashion-luxury|法国巴黎|1952|TRUE
+fendi|芬迪|Fendi|fashion-luxury|意大利罗马|1925|TRUE
+loewe|罗意威|Loewe|fashion-luxury|西班牙马德里|1846|TRUE
+celine|赛琳|Celine|fashion-luxury|法国巴黎|1945|TRUE
+miu-miu|缪缪|Miu Miu|fashion-luxury|意大利米兰|1993|TRUE
+ysl|圣罗兰|Yves Saint Laurent|fashion-luxury|法国巴黎|1961|TRUE
+audemars-piguet|爱彼|Audemars Piguet|fashion-luxury|瑞士勒布拉叙|1875|TRUE
+krispy-kreme|卡仕奇甜甜圈|Krispy Kreme|food|美国北卡罗来纳州温斯顿-塞勒姆|1937|TRUE
+7-eleven|7-Eleven|7-Eleven|retail|美国得克萨斯州达拉斯|1927|TRUE
+gucci|古驰|Gucci|fashion-luxury|意大利佛罗伦萨|1921|TRUE
+dominos|达美乐|Domino's|food|美国密歇根州伊普西兰蒂|1960|TRUE
+hewlett-packard|惠普|HP|technology|美国加利福尼亚州帕洛阿尔托|1939|TRUE
+dell|戴尔|Dell|technology|美国得克萨斯州奥斯汀|1984|TRUE
+lenovo|联想|Lenovo|technology|中国北京|1984|TRUE
+uber|优步|Uber|technology|美国加利福尼亚州旧金山|2009|TRUE
+tencent|腾讯|Tencent|technology|中国深圳|1998|TRUE
+alibaba|阿里巴巴|Alibaba|technology|中国杭州|1999|TRUE
+baidu|百度|Baidu|technology|中国北京|2000|TRUE
+bytedance|字节跳动|ByteDance|technology|中国北京|2012|TRUE
+siemens|西门子|Siemens|technology|德国柏林|1847|TRUE
+ge|通用电气|General Electric|technology|美国纽约|1892|TRUE
+sap|SAP|SAP|technology|德国沃尔多夫|1972|TRUE
+salesforce|Salesforce|Salesforce|technology|美国加利福尼亚州旧金山|1999|TRUE
+pfizer|辉瑞|Pfizer|healthcare|美国纽约|1849|TRUE
+novartis|诺华|Novartis|healthcare|瑞士巴塞尔|1996|TRUE
+roche|罗氏|Roche|healthcare|瑞士巴塞尔|1896|TRUE
+johnson-and-johnson|强生|Johnson & Johnson|healthcare|美国新泽西州新不伦瑞克|1886|TRUE
+merck|默克|Merck|healthcare|美国新泽西州拉威|1891|TRUE
+bayer|拜耳|Bayer|healthcare|德国伍珀塔尔|1863|TRUE
+abbott|雅培|Abbott|healthcare|美国伊利诺伊州芝加哥|1888|TRUE
+accenture|埃森哲|Accenture|technology|爱尔兰都柏林|1989|TRUE
+deloitte|德勤|Deloitte|finance|英国伦敦|1845|TRUE
+pwc|普华永道|PwC|finance|英国伦敦|1998|TRUE
+ey|安永|EY|finance|英国伦敦|1989|TRUE
+dupont|杜邦|DuPont|technology|美国特拉华州威明顿|1802|TRUE
+basf|巴斯夫|BASF|technology|德国路德维希港|1865|TRUE
+cnn|CNN|CNN|media|美国佐治亚州亚特兰大|1980|TRUE
+bbc|BBC|BBC|media|英国伦敦|1922|TRUE
+hilton|希尔顿|Hilton|hotel|美国得克萨斯州塞斯柯|1919|TRUE
+hyatt|凯悦|Hyatt|hotel|美国加利福尼亚州洛杉矶|1957|TRUE
+ihg|洲际酒店|IHG|hotel|英国伦敦|1777|TRUE
+accor|雅高|Accor|hotel|法国巴黎|1967|TRUE
+four-seasons|四季酒店|Four Seasons|hotel|加拿大多伦多|1960|TRUE
+shangri-la|香格里拉|Shangri-La Hotels|hotel|中国香港|1971|TRUE
+mandarin-oriental|文华东方|Mandarin Oriental|hotel|中国香港|1963|TRUE
+ritz-carlton|丽思卡尔顿|Ritz-Carlton|hotel|美国马里兰州|1983|TRUE
+wyndham|温德姆|Wyndham|hotel|美国新泽西州|1981|TRUE
+emirates|阿联酋航空|Emirates|airline|阿联酋迪拜|1985|TRUE
+singapore-airlines|新加坡航空|Singapore Airlines|airline|新加坡|1947|TRUE
+qatar-airways|卡塔尔航空|Qatar Airways|airline|卡塔尔多哈|1993|TRUE
+delta-air-lines|达美航空|Delta Air Lines|airline|美国佐治亚州亚特兰大|1924|TRUE
+american-airlines|美国航空|American Airlines|airline|美国得克萨斯州沃斯堡|1930|TRUE
+united-airlines|联合航空|United Airlines|airline|美国伊利诺伊州芝加哥|1926|TRUE
+lufthansa|汉莎航空|Lufthansa|airline|德国科隆|1953|TRUE
+british-airways|英国航空|British Airways|airline|英国伦敦|1974|TRUE
+qantas|澳洲航空|Qantas|airline|澳大利亚昆士兰州|1920|TRUE
+air-france|法国航空|Air France|airline|法国巴黎|1933|TRUE
+puma|彪马|Puma|sportswear|德国黑措根奥拉赫|1948|TRUE
+under-armour|安德玛|Under Armour|sportswear|美国马里兰州巴尔的摩|1996|TRUE
+new-balance|新百伦|New Balance|sportswear|美国马萨诸塞州波士顿|1906|TRUE
+asics|亚瑟士|ASICS|sportswear|日本神户市|1949|TRUE
+converse|匡威|Converse|sportswear|美国马萨诸塞州马尔登|1908|TRUE
+vans|范斯|Vans|sportswear|美国加利福尼亚州阿纳海姆|1966|TRUE
+reebok|锐步|Reebok|sportswear|英国博尔顿|1958|TRUE
+north-face|北面|The North Face|sportswear|美国加利福尼亚州旧金山|1966|TRUE
+columbia|哥伦比亚|Columbia Sportswear|sportswear|美国俄勒冈州波特兰|1938|TRUE
+patagonia|巴塔哥尼亚|Patagonia|sportswear|美国加利福尼亚州文图拉|1973|TRUE
+estee-lauder|雅诗兰黛|Estée Lauder|cosmetics|美国纽约|1946|TRUE
+chanel-beauty|香奈儿美妆|Chanel Beauty|cosmetics|法国巴黎|1910|TRUE
+dior-beauty|迪奥美妆|Dior Beauty|cosmetics|法国巴黎|1946|TRUE
+lancome|兰蔻|Lancôme|cosmetics|法国巴黎|1935|TRUE
+clinique|倩碧|Clinique|cosmetics|美国纽约|1968|TRUE
+mac-cosmetics|M·A·C|M·A·C Cosmetics|cosmetics|加拿大多伦多|1984|TRUE
+aveda|艾梵达|Aveda|cosmetics|美国明尼苏达州|1978|TRUE
+kiehls|契尔氏|Kiehl's|cosmetics|美国纽约|1851|TRUE
+jpmorgan|摩根大通|JPMorgan Chase|finance|美国纽约|1799|TRUE
+goldman-sachs|高盛|Goldman Sachs|finance|美国纽约|1869|TRUE
+bank-of-america|美国银行|Bank of America|finance|美国北卡罗来纳州夏洛特|1904|TRUE
+citigroup|花旗集团|Citigroup|finance|美国纽约|1812|TRUE
+wells-fargo|富国银行|Wells Fargo|finance|美国加利福尼亚州旧金山|1852|TRUE
+hsbc|汇丰|HSBC|finance|中国香港|1865|TRUE
+ubs|瑞银集团|UBS|finance|瑞士苏黎世|1862|TRUE
+icbc|工商银行|ICBC|finance|中国北京|1984|TRUE
+nestle|雀巢|Nestlé|food|瑞士韦威|1866|TRUE
+ford|福特|Ford|automotive|美国密歇根州迪尔伯恩|1903|TRUE
+gm|通用汽车|General Motors|automotive|美国密歇根州底特律|1908|TRUE
+walmart|沃尔玛|Walmart|retail|美国阿肯色州本顿维尔|1962|TRUE
+target|塔吉特|Target|retail|美国明尼苏达州明尼阿波利斯|1902|TRUE
+home-depot|家得宝|The Home Depot|retail|美国佐治亚州亚特兰大|1978|TRUE
+jd-com|京东|JD.com|retail|中国北京|1998|TRUE
+diageo|帝亚吉欧|Diageo|beverage|英国伦敦|1997|TRUE
+heineken|喜力|Heineken|beverage|荷兰阿姆斯特丹|1864|TRUE
+budweiser|百威|Budweiser|beverage|美国密苏里州圣路易斯|1876|TRUE
+adobe|奥多比|Adobe|technology|美国加利福尼亚州圣何塞|1982|TRUE
+vmware|威睿|VMware|technology|美国加利福尼亚州帕洛阿尔托|1998|TRUE
+tiktok|抖音|TikTok|technology|中国北京|2016|TRUE
+procter-gamble|宝洁|Procter & Gamble|consumer-goods|美国俄亥俄州辛辛那提|1837|TRUE
+pepsico|百事公司|PepsiCo|consumer-goods|美国纽约|1898|TRUE
+johnson-johnson|强生|Johnson & Johnson|healthcare|美国新泽西州新不伦瑞克|1886|TRUE
+warner-bros|华纳兄弟|Warner Bros.|media|美国加利福尼亚州伯班克|1923|TRUE
+sony-pictures|索尼影业|Sony Pictures|media|美国加利福尼亚州卡尔弗城|1987|TRUE
+verizon|威瑞森|Verizon|telecom|美国纽约|1983|TRUE
+at-t|AT&T|AT&T|telecom|美国得克萨斯州达拉斯|1877|TRUE
+t-mobile|T-Mobile|T-Mobile|telecom|德国波恩|1990|TRUE
+vodafone|沃达丰|Vodafone|telecom|英国纽伯里|1984|TRUE
+healthpost|HealthPost|HealthPost|cosmetics||0|TRUE
+jgb-company|JGB (company)|JGB (company)|cosmetics||0|TRUE
+anthony-thomas-candy-company|Anthony Thomas Candy Company|Anthony Thomas Candy Company|food||0|TRUE
+barambo|Barambo|Barambo|food||0|TRUE
+beauty-lacchi-and-faluda|Beauty Lacchi and Faluda|Beauty Lacchi and Faluda|food||0|TRUE
+canels|Canel's|Canel's|food||0|TRUE
+carambar-co|Carambar & Co|Carambar & Co|food||0|TRUE
+chupa-chups|Chupa Chups|Chupa Chups|food||0|TRUE
+daintee|Daintee|Daintee|food||0|TRUE
+dulces-miguelito|Dulces Miguelito|Dulces Miguelito|food||0|TRUE
+fini-company|Fini (company)|Fini (company)|food||0|TRUE
+france-pastry|France Pastry|France Pastry|food||0|TRUE
+galletas-gulln|Galletas Gullón|Galletas Gullón|food||0|TRUE
+hai-ha-confectionery|Hai Ha Confectionery|Hai Ha Confectionery|food||0|TRUE
+kc-confectionery-limited|K.C. Confectionery Limited|K.C. Confectionery Limited|food||0|TRUE
+leaf-candy-company|Leaf Candy Company|Leaf Candy Company|food||0|TRUE
+matri-bhandar|Matri Bhandar|Matri Bhandar|food||0|TRUE
+morozoff-ltd|Morozoff Ltd.|Morozoff Ltd.|food||0|TRUE
+mynthon|Mynthon|Mynthon|food||0|TRUE
+nestl-rossiya|Nestlé Rossiya|Nestlé Rossiya|food||0|TRUE
+3t-cycling|3T Cycling|3T Cycling|general||0|TRUE
+abarth|Abarth|Abarth|general||0|TRUE
+abici|Abici|Abici|general||0|TRUE
+accossato|Accossato|Accossato|general||0|TRUE
+acqua-di-parma|Acqua di Parma|Acqua di Parma|general||0|TRUE
+acube-systems-srl|ACube Systems Srl|ACube Systems Srl|general||0|TRUE
+aeritalia|Aeritalia|Aeritalia|general||0|TRUE
+aermacchi|Aermacchi|Aermacchi|general||0|TRUE
+aeroitalia|AeroItalia|AeroItalia|general||0|TRUE
+agip|Agip|Agip|general||0|TRUE
+agnesi-company|Agnesi (company)|Agnesi (company)|general||0|TRUE
+agusta|Agusta|Agusta|general||0|TRUE
+agv-helmet-manufacturer|AGV (helmet manufacturer)|AGV (helmet manufacturer)|general||0|TRUE
+aiazzone|Aiazzone|Aiazzone|general||0|TRUE
+air-italy-20182020|Air Italy (2018–2020)|Air Italy (2018–2020)|general||0|TRUE
+alan|ALAN|ALAN|general||0|TRUE
+alenia-aermacchi|Alenia Aermacchi|Alenia Aermacchi|general||0|TRUE
+alenia-aeronautica|Alenia Aeronautica|Alenia Aeronautica|general||0|TRUE
+alessi-italian-company|Alessi (Italian company)|Alessi (Italian company)|general||0|TRUE
+alfa-romeo|Alfa Romeo|Alfa Romeo|general||0|TRUE
+lists-of-video-game-companies|Lists of video game companies|Lists of video game companies|technology||0|TRUE
+african-risk-capacity|African Risk Capacity|African Risk Capacity|finance||0|TRUE
+ageas-federal-life-insurance|Ageas Federal Life Insurance|Ageas Federal Life Insurance|finance||0|TRUE
+banco-de-seguros-del-estado|Banco de Seguros del Estado|Banco de Seguros del Estado|finance||0|TRUE
+friendly-society|Friendly society|Friendly society|finance||0|TRUE
+lion-insurance-company|Lion Insurance Company|Lion Insurance Company|finance||0|TRUE
+sanitas-health-insurance|Sanitas (health insurance)|Sanitas (health insurance)|finance||0|TRUE
+westfield-insurance|Westfield Insurance|Westfield Insurance|finance||0|TRUE
+telecommunications-company|Telecommunications company|Telecommunications company|telecom||0|TRUE
+c-band-alliance|C-Band Alliance|C-Band Alliance|telecom||0|TRUE
+call-through-telecom|Call-through telecom|Call-through telecom|telecom||0|TRUE
+electronic-beats|Electronic Beats|Electronic Beats|telecom||0|TRUE
+freedomfi|FreedomFi|FreedomFi|telecom||0|TRUE
+interexchange-carrier|Interexchange carrier|Interexchange carrier|telecom||0|TRUE
+iq-group|IQ Group|IQ Group|telecom||0|TRUE
+lotusflare|LotusFlare|LotusFlare|telecom||0|TRUE
+network-service-provider|Network service provider|Network service provider|telecom||0|TRUE
+onem2m|OneM2M|OneM2M|telecom||0|TRUE
+really-wireless|Really Wireless|Really Wireless|telecom||0|TRUE
+vodafone-ukraine|Vodafone Ukraine|Vodafone Ukraine|telecom||0|TRUE
+333-premium-export-beer|333 Premium Export Beer|333 Premium Export Beer|beverage||0|TRUE
+1664-beer|1664 (beer)|1664 (beer)|beverage||0|TRUE
+a-le-coq|A. Le Coq|A. Le Coq|beverage||0|TRUE
+ab-inbev-brands|AB InBev brands|AB InBev brands|beverage||0|TRUE
+archipelago-brewery|Archipelago Brewery|Archipelago Brewery|beverage||0|TRUE
+asia-brewery|Asia Brewery|Asia Brewery|beverage||0|TRUE
+asmara-brewery|Asmara Brewery|Asmara Brewery|beverage||0|TRUE
+bali-hai-beer|Bali Hai Beer|Bali Hai Beer|beverage||0|TRUE
+belikin|Belikin|Belikin|beverage||0|TRUE
+bier-hoi-brewing-company|Bier Hoi Brewing Company|Bier Hoi Brewing Company|beverage||0|TRUE
+birra-kaon|Birra Kaon|Birra Kaon|beverage||0|TRUE
+birra-kora|Birra Korça|Birra Korça|beverage||0|TRUE
+birra-stela|Birra Stela|Birra Stela|beverage||0|TRUE
+birra-tirana|Birra Tirana|Birra Tirana|beverage||0|TRUE
+birzeit-brewery|Birzeit Brewery|Birzeit Brewery|beverage||0|TRUE
+boon-rawd-brewery|Boon Rawd Brewery|Boon Rawd Brewery|beverage||0|TRUE
+brasserie-dachouffe|Brasserie d'Achouffe|Brasserie d'Achouffe|beverage||0|TRUE
+brasseries-de-bourbon|Brasseries de Bourbon|Brasseries de Bourbon|beverage||0|TRUE
+brewery-puntigam|Brewery Puntigam|Brewery Puntigam|beverage||0|TRUE
+brooklyn-brewery|Brooklyn Brewery|Brooklyn Brewery|beverage||0|TRUE
+airline|Airline|Airline|airline||0|TRUE
+air-boyoma|Air Boyoma|Air Boyoma|airline||0|TRUE
+airline-codes|Airline codes|Airline codes|airline||0|TRUE
+flag-carrier|Flag carrier|Flag carrier|airline||0|TRUE
+intrastate-airline|Intrastate airline|Intrastate airline|airline||0|TRUE
+airport-and-airline-management|Airport and airline management|Airport and airline management|airline||0|TRUE
+non-scheduled-airline|Non-scheduled airline|Non-scheduled airline|airline||0|TRUE
+texas-aeronautics-commission|Texas Aeronautics Commission|Texas Aeronautics Commission|airline||0|TRUE
+airline-trading-card|Airline trading card|Airline trading card|airline||0|TRUE
+3d-systems|3D Systems|3D Systems|general||0|TRUE
+abbott-laboratories|Abbott Laboratories|Abbott Laboratories|general||0|TRUE
+acn-inc|ACN Inc.|ACN Inc.|general||0|TRUE
+active-network-llc|Active Network, LLC|Active Network, LLC|general||0|TRUE
+adobe-inc|Adobe Inc.|Adobe Inc.|general||0|TRUE
+aerohive-networks|Aerohive Networks|Aerohive Networks|general||0|TRUE
+albavisin|Albavisión|Albavisión|general||0|TRUE
+alpacadb|AlpacaDB|AlpacaDB|general||0|TRUE
+alphabet-inc|Alphabet Inc.|Alphabet Inc.|general||0|TRUE
+altria|Altria|Altria|general||0|TRUE
+alvaria|Alvaria|Alvaria|general||0|TRUE
+amazon-company|Amazon (company)|Amazon (company)|general||0|TRUE
+amelia-company|Amelia (company)|Amelia (company)|general||0|TRUE
+american-sugar-refining|American Sugar Refining|American Sugar Refining|general||0|TRUE
+amgen|Amgen|Amgen|general||0|TRUE
+apple-inc|Apple Inc.|Apple Inc.|general||0|TRUE
+applied-spectral-imaging|Applied Spectral Imaging|Applied Spectral Imaging|general||0|TRUE
+aramark|Aramark|Aramark|general||0|TRUE
+associated-oil-company|Associated Oil Company|Associated Oil Company|general||0|TRUE
+att|AT&T|AT&T|general||0|TRUE
+avaya|Avaya|Avaya|general||0|TRUE
+baxter-international|Baxter International|Baxter International|general||0|TRUE
+berkshire-hathaway|Berkshire Hathaway|Berkshire Hathaway|general||0|TRUE
+best-buy|Best Buy|Best Buy|general||0|TRUE
+bioverativ|Bioverativ|Bioverativ|general||0|TRUE
+boeing|Boeing|Boeing|general||0|TRUE
+branson-ultrasonics|Branson Ultrasonics|Branson Ultrasonics|general||0|TRUE
+brinker-international|Brinker International|Brinker International|general||0|TRUE
+cameron-international|Cameron International|Cameron International|general||0|TRUE
+the-cartoon-network-inc|The Cartoon Network, Inc.|The Cartoon Network, Inc.|general||0|TRUE
+caterpillar-inc|Caterpillar Inc.|Caterpillar Inc.|general||0|TRUE
+7-brew|7 Brew|7 Brew|food||0|TRUE
+an-giang-coffee|An Giang Coffee|An Giang Coffee|food||0|TRUE
+angel-in-us|Angel-in-us|Angel-in-us|food||0|TRUE
+arabica|% Arabica|% Arabica|food||0|TRUE
+bacha-coffee|Bacha Coffee|Bacha Coffee|food||0|TRUE
+barcaffe|Barcaffe|Barcaffe|food||0|TRUE
+bewleys|Bewley's|Bewley's|food||0|TRUE
+bigface|Bigface|Bigface|food||0|TRUE
+black-ivory-coffee|Black Ivory Coffee|Black Ivory Coffee|food||0|TRUE
+black-rifle-coffee-company|Black Rifle Coffee Company|Black Rifle Coffee Company|food||0|TRUE
+bluestone-lane|Bluestone Lane|Bluestone Lane|food||0|TRUE
+bokar-coffee|Bokar Coffee|Bokar Coffee|food||0|TRUE
+boss-coffee|Boss Coffee|Boss Coffee|food||0|TRUE
+bridgehead-coffee|Bridgehead Coffee|Bridgehead Coffee|food||0|TRUE
+brown-coffee|Brown Coffee|Brown Coffee|food||0|TRUE
+bushells|Bushells|Bushells|food||0|TRUE
+caf-amazon|Café Amazon|Café Amazon|food||0|TRUE
+caf-britt|Café Britt|Café Britt|food||0|TRUE
+caf-bustelo|Café Bustelo|Café Bustelo|food||0|TRUE
+caf-coffee-day|Café Coffee Day|Café Coffee Day|food||0|TRUE
+luxury-goods|Luxury goods|Luxury goods|fashion-luxury||0|TRUE
+designer-label|Designer label|Designer label|fashion-luxury||0|TRUE
+mid-luxury|Mid-luxury|Mid-luxury|fashion-luxury||0|TRUE
+world-luxury-association|World Luxury Association|World Luxury Association|fashion-luxury||0|TRUE
+10-corso-como|10 Corso Como|10 Corso Como|fashion-luxury||0|TRUE
+21c-museum-hotels|21c Museum Hotels|21c Museum Hotels|fashion-luxury||0|TRUE
+aesop-brand|Aesop (brand)|Aesop (brand)|fashion-luxury||0|TRUE
+albion-co-ltd|Albion Co., Ltd.|Albion Co., Ltd.|fashion-luxury||0|TRUE
+alden-shoe-company|Alden Shoe Company|Alden Shoe Company|fashion-luxury||0|TRUE
+alor-company|Alor (company)|Alor (company)|fashion-luxury||0|TRUE
+altagamma|Altagamma|Altagamma|fashion-luxury||0|TRUE
+aman-resorts|Aman Resorts|Aman Resorts|fashion-luxury||0|TRUE
+ami-paris|AMI Paris|AMI Paris|fashion-luxury||0|TRUE
+amouage|Amouage|Amouage|fashion-luxury||0|TRUE
+andre-garcia-brand|Andre Garcia (brand)|Andre Garcia (brand)|fashion-luxury||0|TRUE
+anonimo|Anonimo|Anonimo|fashion-luxury||0|TRUE
+arcadia-watches|Arcadia Watches|Arcadia Watches|fashion-luxury||0|TRUE
+armand-nicolet|Armand Nicolet|Armand Nicolet|fashion-luxury||0|TRUE
+arriva-max|Arriva Max|Arriva Max|fashion-luxury||0|TRUE
+arriva-sapphire|Arriva Sapphire|Arriva Sapphire|fashion-luxury||0|TRUE
+aar-busbahn|AAR bus+bahn|AAR bus+bahn|general||0|TRUE
+abb|ABB|ABB|general||0|TRUE
+actelion|Actelion|Actelion|general||0|TRUE
+aebi|AEBI|AEBI|general||0|TRUE
+aldi-talk|Aldi Talk|Aldi Talk|general||0|TRUE
+alpa|Alpa|Alpa|general||0|TRUE
+alprose|Alprose|Alprose|general||0|TRUE
+ammann-group|Ammann Group|Ammann Group|general||0|TRUE
+arctic-gmbh|Arctic GmbH|Arctic GmbH|general||0|TRUE
+au-bijou|Au Bijou|Au Bijou|general||0|TRUE
+automobilfabrik-orion-ag|Automobilfabrik Orion AG|Automobilfabrik Orion AG|general||0|TRUE
+avaloq|Avaloq|Avaloq|general||0|TRUE
+bally-fashion-house|Bally (fashion house)|Bally (fashion house)|general||0|TRUE
+bamix|Bamix|Bamix|general||0|TRUE
+bata-corporation|Bata Corporation|Bata Corporation|general||0|TRUE
+belimo-holding|BELIMO Holding|BELIMO Holding|general||0|TRUE
+berna|Berna|Berna|general||0|TRUE
+bernafon|Bernafon|Bernafon|general||0|TRUE
+bernina-international|Bernina International|Bernina International|general||0|TRUE
+bmc-switzerland|BMC Switzerland|BMC Switzerland|general||0|TRUE
+aurora-chain|Aurora (chain)|Aurora (chain)|retail||0|TRUE
+99-sushi-bar|99 Sushi Bar|99 Sushi Bar|food||0|TRUE
+the-alley-company|The Alley (company)|The Alley (company)|food||0|TRUE
+artichoke-basilles-pizza|Artichoke Basille's Pizza|Artichoke Basille's Pizza|food||0|TRUE
+bajeko-sekuwa|Bajeko Sekuwa|Bajeko Sekuwa|food||0|TRUE
+burger-21|Burger 21|Burger 21|food||0|TRUE
+dcost|D'Cost|D'Cost|food||0|TRUE
+ding-tea|Ding Tea|Ding Tea|food||0|TRUE
+domin-chile|Dominó (Chile)|Dominó (Chile)|food||0|TRUE
+elephant-castle-restaurant|Elephant & Castle (restaurant)|Elephant & Castle (restaurant)|food||0|TRUE
+hamericas|Hamerica's|Hamerica's|food||0|TRUE
+happy-restaurant|Happy (restaurant)|Happy (restaurant)|food||0|TRUE
+happy-lemon|Happy Lemon|Happy Lemon|food||0|TRUE
+juan-maestro|Juan Maestro|Juan Maestro|food||0|TRUE
+junbi|Junbi|Junbi|food||0|TRUE
+karims|Karim's|Karim's|food||0|TRUE
+la-cage-brasserie-sportive|La Cage – Brasserie sportive|La Cage – Brasserie sportive|food||0|TRUE
+matcha-cafe-maiko|Matcha Cafe Maiko|Matcha Cafe Maiko|food||0|TRUE
+nanas-green-tea|Nana's Green Tea|Nana's Green Tea|food||0|TRUE
+pizza-celentano|Pizza Celentano|Pizza Celentano|food||0|TRUE
+2rule|2Rule|2Rule|sportswear||0|TRUE
+2xu|2XU|2XU|sportswear||0|TRUE
+4f-company|4F (company)|4F (company)|sportswear||0|TRUE
+47-brand|'47 (brand)|'47 (brand)|sportswear||0|TRUE
+361-degrees|361 Degrees|361 Degrees|sportswear||0|TRUE
+afca-clothing|A.F.C.A (clothing)|A.F.C.A (clothing)|sportswear||0|TRUE
+ab-sport|AB Sport|AB Sport|sportswear||0|TRUE
+abc-mart|ABC-Mart|ABC-Mart|sportswear||0|TRUE
+acerbis|Acerbis|Acerbis|sportswear||0|TRUE
+admiral-sportswear|Admiral Sportswear|Admiral Sportswear|sportswear||0|TRUE
+afa-sports|AFA Sports|AFA Sports|sportswear||0|TRUE
+affliction-clothing|Affliction Clothing|Affliction Clothing|sportswear||0|TRUE
+air-jordan|Air Jordan|Air Jordan|sportswear||0|TRUE
+airness|Airness|Airness|sportswear||0|TRUE
+alanic-brand|Alanic (brand)|Alanic (brand)|sportswear||0|TRUE
+alnasser-sportswear|Alnasser (sportswear)|Alnasser (sportswear)|sportswear||0|TRUE
+alo-yoga|Alo Yoga|Alo Yoga|sportswear||0|TRUE
+alphatauri-fashion-brand|AlphaTauri (fashion brand)|AlphaTauri (fashion brand)|sportswear||0|TRUE
+alpine-pro|Alpine Pro|Alpine Pro|sportswear||0|TRUE
+alpinestars|Alpinestars|Alpinestars|sportswear||0|TRUE
+charles-river-laboratories|Charles River Laboratories|Charles River Laboratories|general||0|TRUE
+chemence|Chemence|Chemence|general||0|TRUE
+chemours|Chemours|Chemours|general||0|TRUE
+chevron-corporation|Chevron Corporation|Chevron Corporation|general||0|TRUE
+church-of-scientology|Church of Scientology|Church of Scientology|general||0|TRUE
+cision|Cision|Cision|general||0|TRUE
+civeo-corporation|Civeo Corporation|Civeo Corporation|general||0|TRUE
+clean-harbors|Clean Harbors|Clean Harbors|general||0|TRUE
+clopay-plastic-products|Clopay Plastic Products|Clopay Plastic Products|general||0|TRUE
+clorox|Clorox|Clorox|general||0|TRUE
+the-coca-cola-company|The Coca-Cola Company|The Coca-Cola Company|general||0|TRUE
+columbia-machine|Columbia Machine|Columbia Machine|general||0|TRUE
+comcast|Comcast|Comcast|general||0|TRUE
+conagra-brands|Conagra Brands|Conagra Brands|general||0|TRUE
+confluent|Confluent|Confluent|general||0|TRUE
+conocophillips|ConocoPhillips|ConocoPhillips|general||0|TRUE
+cooper-standard-automotive|Cooper-Standard Automotive|Cooper-Standard Automotive|general||0|TRUE
+corgan-company|Corgan (company)|Corgan (company)|general||0|TRUE
+crowley-maritime|Crowley Maritime|Crowley Maritime|general||0|TRUE
+danaher-corporation|Danaher Corporation|Danaher Corporation|general||0|TRUE
+astera-labs|Astera Labs|Astera Labs|technology||0|TRUE
+carel-industries|Carel Industries|Carel Industries|technology||0|TRUE
+electroplanet|Electroplanet|Electroplanet|technology||0|TRUE
+methode-electronics|Methode Electronics|Methode Electronics|technology||0|TRUE
+octopart|Octopart|Octopart|technology||0|TRUE
+power-company|Power (company)|Power (company)|technology||0|TRUE
+darden-restaurants|Darden Restaurants|Darden Restaurants|general||0|TRUE
+dell-technologies|Dell Technologies|Dell Technologies|general||0|TRUE
+digital-ocean|Digital Ocean|Digital Ocean|general||0|TRUE
+digital-river|Digital River|Digital River|general||0|TRUE
+discovery-inc|Discovery, Inc.|Discovery, Inc.|general||0|TRUE
+disney-branded-television|Disney Branded Television|Disney Branded Television|general||0|TRUE
+dude-perfect|Dude Perfect|Dude Perfect|general||0|TRUE
+ebay|EBay|EBay|general||0|TRUE
+ebix|Ebix|Ebix|general||0|TRUE
+electronic-arts|Electronic Arts|Electronic Arts|general||0|TRUE
+electronic-data-systems|Electronic Data Systems|Electronic Data Systems|general||0|TRUE
+eli-lilly-and-company|Eli Lilly and Company|Eli Lilly and Company|general||0|TRUE
+emerson-electric|Emerson Electric|Emerson Electric|general||0|TRUE
+erhc|ERHC|ERHC|general||0|TRUE
+abdul-latif-jameel|Abdul Latif Jameel|Abdul Latif Jameel|automotive||0|TRUE
+cal-looker|Cal looker|Cal looker|automotive||0|TRUE
+aethel-mining|Aethel Mining|Aethel Mining|energy||0|TRUE
+american-placer-corporation|American Placer Corporation|American Placer Corporation|energy||0|TRUE
+dmt-company|DMT (company)|DMT (company)|energy||0|TRUE
+kinross-gold|Kinross Gold|Kinross Gold|energy||0|TRUE
+nova-dies-bvi-ibc|Nova Dies BVI IBC|Nova Dies BVI IBC|energy||0|TRUE
+panama-papers|Panama Papers|Panama Papers|energy||0|TRUE
+pandora-papers|Pandora Papers|Pandora Papers|energy||0|TRUE
+piedmont-lithium|Piedmont Lithium|Piedmont Lithium|energy||0|TRUE
+poderosa|Poderosa|Poderosa|energy||0|TRUE
+ro-tinto-minera|Río Tinto Minera|Río Tinto Minera|energy||0|TRUE
+selection-trust|Selection Trust|Selection Trust|energy||0|TRUE
+the-black-sand-and-gold-recovery-company|The Black Sand and Gold Recovery Company|The Black Sand and Gold Recovery Company|energy||0|TRUE
+the-north-shore-reduction-company|The North Shore Reduction Company|The North Shore Reduction Company|energy||0|TRUE
+unin-minera-del-norte|Unión Minera del Norte|Unión Minera del Norte|energy||0|TRUE
+wellex-industries|Wellex Industries|Wellex Industries|energy||0|TRUE
+aardman-animations|Aardman Animations|Aardman Animations|general||0|TRUE
+abbey-well|Abbey Well|Abbey Well|general||0|TRUE
+ability-office|Ability Office|Ability Office|general||0|TRUE
+anew-hotels-resorts|ANEW Hotels & Resorts|ANEW Hotels & Resorts|hotel||0|TRUE
+archipelago-international|Archipelago International|Archipelago International|hotel||0|TRUE
+astoria-hotels-and-resorts|Astoria Hotels and Resorts|Astoria Hotels and Resorts|hotel||0|TRUE
+auberge-resorts|Auberge Resorts|Auberge Resorts|hotel||0|TRUE
+avani-hotels-resorts|Avani Hotels & Resorts|Avani Hotels & Resorts|hotel||0|TRUE
+azimut-hotels|Azimut Hotels|Azimut Hotels|hotel||0|TRUE
+banyan-group|Banyan Group|Banyan Group|hotel||0|TRUE
+beaches-resorts|Beaches Resorts|Beaches Resorts|hotel||0|TRUE
+cham-palaces-and-hotels|Cham Palaces and Hotels|Cham Palaces and Hotels|hotel||0|TRUE
+continental-hotels|Continental Hotels|Continental Hotels|hotel||0|TRUE
+corinthia-hotels|Corinthia Hotels|Corinthia Hotels|hotel||0|TRUE
+couples-resorts|Couples Resorts|Couples Resorts|hotel||0|TRUE
+dalata-hotel-group|Dalata Hotel Group|Dalata Hotel Group|hotel||0|TRUE
+dorchester-collection|Dorchester Collection|Dorchester Collection|hotel||0|TRUE
+the-doyle-collection|The Doyle Collection|The Doyle Collection|hotel||0|TRUE
+dusit-international|Dusit International|Dusit International|hotel||0|TRUE
+easyhotel|EasyHotel|EasyHotel|hotel||0|TRUE
+fasano-group|Fasano Group|Fasano Group|hotel||0|TRUE
+go-hotels|Go Hotels|Go Hotels|hotel||0|TRUE
+grecotel|Grecotel|Grecotel|hotel||0|TRUE
+apc|A.P.C.|A.P.C.|fashion||0|TRUE
+acqua-limone|Acqua Limone|Acqua Limone|fashion||0|TRUE
+aim-leon-dore|Aimé Leon Dore|Aimé Leon Dore|fashion||0|TRUE
+akoo|AKOO|AKOO|fashion||0|TRUE
+alain-figaret|Alain Figaret|Alain Figaret|fashion||0|TRUE
+allsaints|AllSaints|AllSaints|fashion||0|TRUE
+american-eagle-outfitters|American Eagle Outfitters|American Eagle Outfitters|fashion||0|TRUE
+anne-fontaine-brand|Anne Fontaine (brand)|Anne Fontaine (brand)|fashion||0|TRUE
+arckiv|Arckiv|Arckiv|fashion||0|TRUE
+armoire-officielle|Armoire Officielle|Armoire Officielle|fashion||0|TRUE
+arthur-galan-ag|Arthur Galan AG|Arthur Galan AG|fashion||0|TRUE
+bellerose-belgium|Bellerose Belgium|Bellerose Belgium|fashion||0|TRUE
+bensimon-brand|Bensimon (brand)|Bensimon (brand)|fashion||0|TRUE
+bloch-company|Bloch (company)|Bloch (company)|fashion||0|TRUE
+bluenotes|Bluenotes|Bluenotes|fashion||0|TRUE
+bogart-man|Bogart Man|Bogart Man|fashion||0|TRUE
+bonia-fashion|Bonia (fashion)|Bonia (fashion)|fashion||0|TRUE
+bosideng|Bosideng|Bosideng|fashion||0|TRUE
+callisti|Callisti|Callisti|fashion||0|TRUE
+canterbury-of-new-zealand|Canterbury of New Zealand|Canterbury of New Zealand|fashion||0|TRUE
