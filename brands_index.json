@@ -3022,5 +3022,65 @@
     "name": "Ability Office",
     "name_en": "Ability Office",
     "category": "general"
+  },
+  {
+    "slug": "anew-hotels-resorts",
+    "name": "ANEW Hotels & Resorts",
+    "name_en": "ANEW Hotels & Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "archipelago-international",
+    "name": "Archipelago International",
+    "name_en": "Archipelago International",
+    "category": "hotel"
+  },
+  {
+    "slug": "astoria-hotels-and-resorts",
+    "name": "Astoria Hotels and Resorts",
+    "name_en": "Astoria Hotels and Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "auberge-resorts",
+    "name": "Auberge Resorts",
+    "name_en": "Auberge Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "avani-hotels-resorts",
+    "name": "Avani Hotels & Resorts",
+    "name_en": "Avani Hotels & Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "azimut-hotels",
+    "name": "Azimut Hotels",
+    "name_en": "Azimut Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "banyan-group",
+    "name": "Banyan Group",
+    "name_en": "Banyan Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "beaches-resorts",
+    "name": "Beaches Resorts",
+    "name_en": "Beaches Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "cham-palaces-and-hotels",
+    "name": "Cham Palaces and Hotels",
+    "name_en": "Cham Palaces and Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "continental-hotels",
+    "name": "Continental Hotels",
+    "name_en": "Continental Hotels",
+    "category": "hotel"
   }
 ]
