@@ -2782,5 +2782,65 @@
     "name": "Danaher Corporation",
     "name_en": "Danaher Corporation",
     "category": "general"
+  },
+  {
+    "slug": "astera-labs",
+    "name": "Astera Labs",
+    "name_en": "Astera Labs",
+    "category": "technology"
+  },
+  {
+    "slug": "carel-industries",
+    "name": "Carel Industries",
+    "name_en": "Carel Industries",
+    "category": "technology"
+  },
+  {
+    "slug": "electroplanet",
+    "name": "Electroplanet",
+    "name_en": "Electroplanet",
+    "category": "technology"
+  },
+  {
+    "slug": "methode-electronics",
+    "name": "Methode Electronics",
+    "name_en": "Methode Electronics",
+    "category": "technology"
+  },
+  {
+    "slug": "octopart",
+    "name": "Octopart",
+    "name_en": "Octopart",
+    "category": "technology"
+  },
+  {
+    "slug": "power-company",
+    "name": "Power (company)",
+    "name_en": "Power (company)",
+    "category": "technology"
+  },
+  {
+    "slug": "darden-restaurants",
+    "name": "Darden Restaurants",
+    "name_en": "Darden Restaurants",
+    "category": "general"
+  },
+  {
+    "slug": "dell-technologies",
+    "name": "Dell Technologies",
+    "name_en": "Dell Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "digital-ocean",
+    "name": "Digital Ocean",
+    "name_en": "Digital Ocean",
+    "category": "general"
+  },
+  {
+    "slug": "digital-river",
+    "name": "Digital River",
+    "name_en": "Digital River",
+    "category": "general"
   }
 ]
