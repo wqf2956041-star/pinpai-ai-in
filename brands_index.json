@@ -4642,5 +4642,65 @@
     "name": "Pugang Pharmaceutic Company",
     "name_en": "Pugang Pharmaceutic Company",
     "category": "healthcare"
+  },
+  {
+    "slug": "relief-therapeutics",
+    "name": "Relief Therapeutics",
+    "name_en": "Relief Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "rentschler-company",
+    "name": "Rentschler (company)",
+    "name_en": "Rentschler (company)",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sarr-family",
+    "name": "Sarrá family",
+    "name_en": "Sarrá family",
+    "category": "healthcare"
+  },
+  {
+    "slug": "seagen",
+    "name": "Seagen",
+    "name_en": "Seagen",
+    "category": "healthcare"
+  },
+  {
+    "slug": "siegfried-holding-ag",
+    "name": "Siegfried Holding AG",
+    "name_en": "Siegfried Holding AG",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sinovac-biotech",
+    "name": "Sinovac Biotech",
+    "name_en": "Sinovac Biotech",
+    "category": "healthcare"
+  },
+  {
+    "slug": "spark-therapeutics",
+    "name": "Spark Therapeutics",
+    "name_en": "Spark Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sphere-bio",
+    "name": "Sphere Bio",
+    "name_en": "Sphere Bio",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sunovion",
+    "name": "Sunovion",
+    "name_en": "Sunovion",
+    "category": "healthcare"
+  },
+  {
+    "slug": "synthaverse-sa",
+    "name": "Synthaverse S.A.",
+    "name_en": "Synthaverse S.A.",
+    "category": "healthcare"
   }
 ]
