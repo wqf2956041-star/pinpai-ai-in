@@ -5542,5 +5542,65 @@
     "name": "CanSino Biologics",
     "name_en": "CanSino Biologics",
     "category": "general"
+  },
+  {
+    "slug": "duchamp-clothing",
+    "name": "Duchamp (clothing)",
+    "name_en": "Duchamp (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "dunlop-sport",
+    "name": "Dunlop Sport",
+    "name_en": "Dunlop Sport",
+    "category": "fashion"
+  },
+  {
+    "slug": "duvelleroy",
+    "name": "Duvelleroy",
+    "name_en": "Duvelleroy",
+    "category": "fashion"
+  },
+  {
+    "slug": "dynamite-clothing",
+    "name": "Dynamite Clothing",
+    "name_en": "Dynamite Clothing",
+    "category": "fashion"
+  },
+  {
+    "slug": "edun",
+    "name": "EDUN",
+    "name_en": "EDUN",
+    "category": "fashion"
+  },
+  {
+    "slug": "escada",
+    "name": "Escada",
+    "name_en": "Escada",
+    "category": "fashion"
+  },
+  {
+    "slug": "ethika",
+    "name": "Ethika",
+    "name_en": "Ethika",
+    "category": "fashion"
+  },
+  {
+    "slug": "fenchurch-clothing",
+    "name": "Fenchurch (clothing)",
+    "name_en": "Fenchurch (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "florence-by-mills",
+    "name": "Florence by Mills",
+    "name_en": "Florence by Mills",
+    "category": "fashion"
+  },
+  {
+    "slug": "fox-clothing",
+    "name": "Fox (clothing)",
+    "name_en": "Fox (clothing)",
+    "category": "fashion"
   }
 ]
