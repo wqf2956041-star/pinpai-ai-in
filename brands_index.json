@@ -5302,5 +5302,65 @@
     "name": "Espresso Vivace",
     "name_en": "Espresso Vivace",
     "category": "food"
+  },
+  {
+    "slug": "carbrini-sportswear",
+    "name": "Carbrini Sportswear",
+    "name_en": "Carbrini Sportswear",
+    "category": "fashion"
+  },
+  {
+    "slug": "cassidi",
+    "name": "Cassidi",
+    "name_en": "Cassidi",
+    "category": "fashion"
+  },
+  {
+    "slug": "castro-clothing",
+    "name": "Castro (clothing)",
+    "name_en": "Castro (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "celine-brand",
+    "name": "Celine (brand)",
+    "name_en": "Celine (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "le-chteau",
+    "name": "Le Château",
+    "name_en": "Le Château",
+    "category": "fashion"
+  },
+  {
+    "slug": "claudia-strter",
+    "name": "Claudia Sträter",
+    "name_en": "Claudia Sträter",
+    "category": "fashion"
+  },
+  {
+    "slug": "cockpit-usa",
+    "name": "Cockpit USA",
+    "name_en": "Cockpit USA",
+    "category": "fashion"
+  },
+  {
+    "slug": "comptoir-des-cotonniers",
+    "name": "Comptoir des Cotonniers",
+    "name_en": "Comptoir des Cotonniers",
+    "category": "fashion"
+  },
+  {
+    "slug": "cos-fashion-brand",
+    "name": "COS (fashion brand)",
+    "name_en": "COS (fashion brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "countess-mara",
+    "name": "Countess Mara",
+    "name_en": "Countess Mara",
+    "category": "fashion"
   }
 ]
