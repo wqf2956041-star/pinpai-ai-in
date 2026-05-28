@@ -4222,5 +4222,65 @@
     "name": "Thon Hotels",
     "name_en": "Thon Hotels",
     "category": "hotel"
+  },
+  {
+    "slug": "aso",
+    "name": "A.S.O",
+    "name_en": "A.S.O",
+    "category": "fashion"
+  },
+  {
+    "slug": "abaet-clothing",
+    "name": "Abaeté (clothing)",
+    "name_en": "Abaeté (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "allbirds",
+    "name": "Allbirds",
+    "name_en": "Allbirds",
+    "category": "fashion"
+  },
+  {
+    "slug": "allen-edmonds",
+    "name": "Allen Edmonds",
+    "name_en": "Allen Edmonds",
+    "category": "fashion"
+  },
+  {
+    "slug": "ari-football",
+    "name": "Ari Football",
+    "name_en": "Ari Football",
+    "category": "fashion"
+  },
+  {
+    "slug": "ariat",
+    "name": "Ariat",
+    "name_en": "Ariat",
+    "category": "fashion"
+  },
+  {
+    "slug": "atoms-shoes",
+    "name": "Atoms (shoes)",
+    "name_en": "Atoms (shoes)",
+    "category": "fashion"
+  },
+  {
+    "slug": "aubercy",
+    "name": "Aubercy",
+    "name_en": "Aubercy",
+    "category": "fashion"
+  },
+  {
+    "slug": "avia-shoes",
+    "name": "Avia (shoes)",
+    "name_en": "Avia (shoes)",
+    "category": "fashion"
+  },
+  {
+    "slug": "baldinini",
+    "name": "Baldinini",
+    "name_en": "Baldinini",
+    "category": "fashion"
   }
 ]
