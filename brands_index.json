@@ -6322,5 +6322,65 @@
     "name": "China Dongxiang",
     "name_en": "China Dongxiang",
     "category": "general"
+  },
+  {
+    "slug": "china-eastern-airlines",
+    "name": "China Eastern Airlines",
+    "name_en": "China Eastern Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-energine",
+    "name": "China Energine",
+    "name_en": "China Energine",
+    "category": "general"
+  },
+  {
+    "slug": "china-everbright-bank",
+    "name": "China Everbright Bank",
+    "name_en": "China Everbright Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-film-group-corporation",
+    "name": "China Film Group Corporation",
+    "name_en": "China Film Group Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-foods-limited",
+    "name": "China Foods Limited",
+    "name_en": "China Foods Limited",
+    "category": "general"
+  },
+  {
+    "slug": "china-hi-tech-group-co-ltd",
+    "name": "China Hi-Tech Group Co., Ltd.",
+    "name_en": "China Hi-Tech Group Co., Ltd.",
+    "category": "general"
+  },
+  {
+    "slug": "china-high-speed-transmission",
+    "name": "China High Speed Transmission",
+    "name_en": "China High Speed Transmission",
+    "category": "general"
+  },
+  {
+    "slug": "china-hualu-group",
+    "name": "China Hualu Group",
+    "name_en": "China Hualu Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-huaneng-group",
+    "name": "China Huaneng Group",
+    "name_en": "China Huaneng Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-life-insurance-company",
+    "name": "China Life Insurance Company",
+    "name_en": "China Life Insurance Company",
+    "category": "general"
   }
 ]
