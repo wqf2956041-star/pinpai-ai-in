@@ -6202,5 +6202,65 @@
     "name": "Honigman (clothing company)",
     "name_en": "Honigman (clothing company)",
     "category": "fashion"
+  },
+  {
+    "slug": "house-brand",
+    "name": "House (brand)",
+    "name_en": "House (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "house-of-harlow",
+    "name": "House of Harlow",
+    "name_en": "House of Harlow",
+    "category": "fashion"
+  },
+  {
+    "slug": "hypercolor",
+    "name": "Hypercolor",
+    "name_en": "Hypercolor",
+    "category": "fashion"
+  },
+  {
+    "slug": "i-r-morley",
+    "name": "I. & R. Morley",
+    "name_en": "I. & R. Morley",
+    "category": "fashion"
+  },
+  {
+    "slug": "isko-clothing-company",
+    "name": "ISKO (clothing company)",
+    "name_en": "ISKO (clothing company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "izod-lacoste",
+    "name": "Izod Lacoste",
+    "name_en": "Izod Lacoste",
+    "category": "fashion"
+  },
+  {
+    "slug": "j-wear",
+    "name": "J-Wear",
+    "name_en": "J-Wear",
+    "category": "fashion"
+  },
+  {
+    "slug": "jako",
+    "name": "Jako",
+    "name_en": "Jako",
+    "category": "fashion"
+  },
+  {
+    "slug": "jenny-hellstrm",
+    "name": "Jenny Hellström",
+    "name_en": "Jenny Hellström",
+    "category": "fashion"
+  },
+  {
+    "slug": "joe-fresh",
+    "name": "Joe Fresh",
+    "name_en": "Joe Fresh",
+    "category": "fashion"
   }
 ]
