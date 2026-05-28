@@ -3682,5 +3682,65 @@
     "name": "Aoxin",
     "name_en": "Aoxin",
     "category": "general"
+  },
+  {
+    "slug": "apsystems",
+    "name": "APsystems",
+    "name_en": "APsystems",
+    "category": "general"
+  },
+  {
+    "slug": "aputure",
+    "name": "Aputure",
+    "name_en": "Aputure",
+    "category": "general"
+  },
+  {
+    "slug": "arcfox",
+    "name": "Arcfox",
+    "name_en": "Arcfox",
+    "category": "general"
+  },
+  {
+    "slug": "atl-company",
+    "name": "ATL (company)",
+    "name_en": "ATL (company)",
+    "category": "general"
+  },
+  {
+    "slug": "autel-robotics",
+    "name": "Autel Robotics",
+    "name_en": "Autel Robotics",
+    "category": "general"
+  },
+  {
+    "slug": "autonavi",
+    "name": "AutoNavi",
+    "name_en": "AutoNavi",
+    "category": "general"
+  },
+  {
+    "slug": "aux-company",
+    "name": "AUX (company)",
+    "name_en": "AUX (company)",
+    "category": "general"
+  },
+  {
+    "slug": "avatr-technology",
+    "name": "Avatr Technology",
+    "name_en": "Avatr Technology",
+    "category": "general"
+  },
+  {
+    "slug": "aviation-industry-corporation-of-china",
+    "name": "Aviation Industry Corporation of China",
+    "name_en": "Aviation Industry Corporation of China",
+    "category": "general"
+  },
+  {
+    "slug": "baic-bluepark",
+    "name": "BAIC BluePark",
+    "name_en": "BAIC BluePark",
+    "category": "general"
   }
 ]
