@@ -5182,5 +5182,65 @@
     "name": "Beijing Hongxing",
     "name_en": "Beijing Hongxing",
     "category": "general"
+  },
+  {
+    "slug": "coffee-world",
+    "name": "Coffee World",
+    "name_en": "Coffee World",
+    "category": "food"
+  },
+  {
+    "slug": "coffeeheaven",
+    "name": "Coffeeheaven",
+    "name_en": "Coffeeheaven",
+    "category": "food"
+  },
+  {
+    "slug": "coffine-gurunaru",
+    "name": "Coffine Gurunaru",
+    "name_en": "Coffine Gurunaru",
+    "category": "food"
+  },
+  {
+    "slug": "colectivo-coffee-roasters",
+    "name": "Colectivo Coffee Roasters",
+    "name_en": "Colectivo Coffee Roasters",
+    "category": "food"
+  },
+  {
+    "slug": "cometeer-coffee",
+    "name": "Cometeer Coffee",
+    "name_en": "Cometeer Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "coop-kaffe",
+    "name": "Coop Kaffe",
+    "name_en": "Coop Kaffe",
+    "category": "food"
+  },
+  {
+    "slug": "costa-coffee",
+    "name": "Costa Coffee",
+    "name_en": "Costa Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "dallmayr",
+    "name": "Dallmayr",
+    "name_en": "Dallmayr",
+    "category": "food"
+  },
+  {
+    "slug": "dancing-goats-coffee",
+    "name": "Dancing Goats Coffee",
+    "name_en": "Dancing Goats Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "delta-cafs",
+    "name": "Delta Cafés",
+    "name_en": "Delta Cafés",
+    "category": "food"
   }
 ]
