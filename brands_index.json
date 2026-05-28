@@ -3922,5 +3922,65 @@
     "name": "Galena Biopharma",
     "name_en": "Galena Biopharma",
     "category": "healthcare"
+  },
+  {
+    "slug": "genbiopro",
+    "name": "GenBioPro",
+    "name_en": "GenBioPro",
+    "category": "healthcare"
+  },
+  {
+    "slug": "gilead-sciences",
+    "name": "Gilead Sciences",
+    "name_en": "Gilead Sciences",
+    "category": "healthcare"
+  },
+  {
+    "slug": "globeimmune",
+    "name": "GlobeImmune",
+    "name_en": "GlobeImmune",
+    "category": "healthcare"
+  },
+  {
+    "slug": "gw-pharmaceuticals",
+    "name": "GW Pharmaceuticals",
+    "name_en": "GW Pharmaceuticals",
+    "category": "healthcare"
+  },
+  {
+    "slug": "helix-biopharma-corp",
+    "name": "Helix BioPharma Corp.",
+    "name_en": "Helix BioPharma Corp.",
+    "category": "healthcare"
+  },
+  {
+    "slug": "helixmith",
+    "name": "Helixmith",
+    "name_en": "Helixmith",
+    "category": "healthcare"
+  },
+  {
+    "slug": "immunomedics",
+    "name": "Immunomedics",
+    "name_en": "Immunomedics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "jazz-pharmaceuticals",
+    "name": "Jazz Pharmaceuticals",
+    "name_en": "Jazz Pharmaceuticals",
+    "category": "healthcare"
+  },
+  {
+    "slug": "juno-therapeutics",
+    "name": "Juno Therapeutics",
+    "name_en": "Juno Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "kadmon-corporation",
+    "name": "Kadmon Corporation",
+    "name_en": "Kadmon Corporation",
+    "category": "healthcare"
   }
 ]
