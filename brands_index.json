@@ -4462,5 +4462,65 @@
     "name": "Alaxala Networks",
     "name_en": "Alaxala Networks",
     "category": "general"
+  },
+  {
+    "slug": "travelodge",
+    "name": "Travelodge",
+    "name_en": "Travelodge",
+    "category": "hotel"
+  },
+  {
+    "slug": "tune-hotels",
+    "name": "Tune Hotels",
+    "name_en": "Tune Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "virgin-hotels",
+    "name": "Virgin Hotels",
+    "name_en": "Virgin Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "westin-hotels-resorts",
+    "name": "Westin Hotels & Resorts",
+    "name_en": "Westin Hotels & Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "yotel",
+    "name": "Yotel",
+    "name_en": "Yotel",
+    "category": "hotel"
+  },
+  {
+    "slug": "media-conglomerate",
+    "name": "Media conglomerate",
+    "name_en": "Media conglomerate",
+    "category": "media"
+  },
+  {
+    "slug": "academy-plastic-model",
+    "name": "Academy Plastic Model",
+    "name_en": "Academy Plastic Model",
+    "category": "toy"
+  },
+  {
+    "slug": "actimates",
+    "name": "ActiMates",
+    "name_en": "ActiMates",
+    "category": "toy"
+  },
+  {
+    "slug": "aggretsuko",
+    "name": "Aggretsuko",
+    "name_en": "Aggretsuko",
+    "category": "toy"
+  },
+  {
+    "slug": "airgamboys",
+    "name": "Airgamboys",
+    "name_en": "Airgamboys",
+    "category": "toy"
   }
 ]
