@@ -5122,5 +5122,65 @@
     "name": "Baofeng UV-5R",
     "name_en": "Baofeng UV-5R",
     "category": "general"
+  },
+  {
+    "slug": "baojun",
+    "name": "Baojun",
+    "name_en": "Baojun",
+    "category": "general"
+  },
+  {
+    "slug": "baotian-motorcycle-company",
+    "name": "Baotian Motorcycle Company",
+    "name_en": "Baotian Motorcycle Company",
+    "category": "general"
+  },
+  {
+    "slug": "baowu",
+    "name": "Baowu",
+    "name_en": "Baowu",
+    "category": "general"
+  },
+  {
+    "slug": "bawang-shampoo",
+    "name": "Bawang Shampoo",
+    "name_en": "Bawang Shampoo",
+    "category": "general"
+  },
+  {
+    "slug": "bbk-electronics",
+    "name": "BBK Electronics",
+    "name_en": "BBK Electronics",
+    "category": "general"
+  },
+  {
+    "slug": "bbmg",
+    "name": "BBMG",
+    "name_en": "BBMG",
+    "category": "general"
+  },
+  {
+    "slug": "beiben-truck",
+    "name": "BeiBen Truck",
+    "name_en": "BeiBen Truck",
+    "category": "general"
+  },
+  {
+    "slug": "beijing-capital-airlines",
+    "name": "Beijing Capital Airlines",
+    "name_en": "Beijing Capital Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "beijing-galloping-horse-group",
+    "name": "Beijing Galloping Horse Group",
+    "name_en": "Beijing Galloping Horse Group",
+    "category": "general"
+  },
+  {
+    "slug": "beijing-hongxing",
+    "name": "Beijing Hongxing",
+    "name_en": "Beijing Hongxing",
+    "category": "general"
   }
 ]
