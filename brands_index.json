@@ -5242,5 +5242,65 @@
     "name": "Delta Cafés",
     "name_en": "Delta Cafés",
     "category": "food"
+  },
+  {
+    "slug": "diedrich-coffee",
+    "name": "Diedrich Coffee",
+    "name_en": "Diedrich Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "doutor-coffee",
+    "name": "Doutor Coffee",
+    "name_en": "Doutor Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "douwe-egberts",
+    "name": "Douwe Egberts",
+    "name_en": "Douwe Egberts",
+    "category": "food"
+  },
+  {
+    "slug": "dulce-caf",
+    "name": "Dulce Café",
+    "name_en": "Dulce Café",
+    "category": "food"
+  },
+  {
+    "slug": "dunkin-donuts",
+    "name": "Dunkin' Donuts",
+    "name_en": "Dunkin' Donuts",
+    "category": "food"
+  },
+  {
+    "slug": "dunn-brothers-coffee",
+    "name": "Dunn Brothers Coffee",
+    "name_en": "Dunn Brothers Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "easy-serving-espresso-pod",
+    "name": "Easy Serving Espresso Pod",
+    "name_en": "Easy Serving Espresso Pod",
+    "category": "food"
+  },
+  {
+    "slug": "ediya-coffee",
+    "name": "Ediya Coffee",
+    "name_en": "Ediya Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "eight-oclock-coffee",
+    "name": "Eight O'Clock Coffee",
+    "name_en": "Eight O'Clock Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "espresso-vivace",
+    "name": "Espresso Vivace",
+    "name_en": "Espresso Vivace",
+    "category": "food"
   }
 ]
