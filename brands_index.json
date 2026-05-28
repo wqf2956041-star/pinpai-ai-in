@@ -2482,5 +2482,65 @@
     "name": "Elephant & Castle (restaurant)",
     "name_en": "Elephant & Castle (restaurant)",
     "category": "food"
+  },
+  {
+    "slug": "hamericas",
+    "name": "Hamerica's",
+    "name_en": "Hamerica's",
+    "category": "food"
+  },
+  {
+    "slug": "happy-restaurant",
+    "name": "Happy (restaurant)",
+    "name_en": "Happy (restaurant)",
+    "category": "food"
+  },
+  {
+    "slug": "happy-lemon",
+    "name": "Happy Lemon",
+    "name_en": "Happy Lemon",
+    "category": "food"
+  },
+  {
+    "slug": "juan-maestro",
+    "name": "Juan Maestro",
+    "name_en": "Juan Maestro",
+    "category": "food"
+  },
+  {
+    "slug": "junbi",
+    "name": "Junbi",
+    "name_en": "Junbi",
+    "category": "food"
+  },
+  {
+    "slug": "karims",
+    "name": "Karim's",
+    "name_en": "Karim's",
+    "category": "food"
+  },
+  {
+    "slug": "la-cage-brasserie-sportive",
+    "name": "La Cage – Brasserie sportive",
+    "name_en": "La Cage – Brasserie sportive",
+    "category": "food"
+  },
+  {
+    "slug": "matcha-cafe-maiko",
+    "name": "Matcha Cafe Maiko",
+    "name_en": "Matcha Cafe Maiko",
+    "category": "food"
+  },
+  {
+    "slug": "nanas-green-tea",
+    "name": "Nana's Green Tea",
+    "name_en": "Nana's Green Tea",
+    "category": "food"
+  },
+  {
+    "slug": "pizza-celentano",
+    "name": "Pizza Celentano",
+    "name_en": "Pizza Celentano",
+    "category": "food"
   }
 ]
