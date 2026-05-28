@@ -5482,5 +5482,65 @@
     "name": "Borqs",
     "name_en": "Borqs",
     "category": "general"
+  },
+  {
+    "slug": "bright-food",
+    "name": "Bright Food",
+    "name_en": "Bright Food",
+    "category": "general"
+  },
+  {
+    "slug": "brilliance-auto-group",
+    "name": "Brilliance Auto Group",
+    "name_en": "Brilliance Auto Group",
+    "category": "general"
+  },
+  {
+    "slug": "broad-group",
+    "name": "Broad Group",
+    "name_en": "Broad Group",
+    "category": "general"
+  },
+  {
+    "slug": "btg-homeinns",
+    "name": "BTG Homeinns",
+    "name_en": "BTG Homeinns",
+    "category": "general"
+  },
+  {
+    "slug": "byd-auto",
+    "name": "BYD Auto",
+    "name_en": "BYD Auto",
+    "category": "general"
+  },
+  {
+    "slug": "byd-company",
+    "name": "BYD Company",
+    "name_en": "BYD Company",
+    "category": "general"
+  },
+  {
+    "slug": "byton-company",
+    "name": "Byton (company)",
+    "name_en": "Byton (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cada-bricks",
+    "name": "CaDA Bricks",
+    "name_en": "CaDA Bricks",
+    "category": "general"
+  },
+  {
+    "slug": "calb",
+    "name": "CALB",
+    "name_en": "CALB",
+    "category": "general"
+  },
+  {
+    "slug": "cansino-biologics",
+    "name": "CanSino Biologics",
+    "name_en": "CanSino Biologics",
+    "category": "general"
   }
 ]
