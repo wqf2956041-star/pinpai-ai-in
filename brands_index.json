@@ -3262,5 +3262,65 @@
     "name": "Canterbury of New Zealand",
     "name_en": "Canterbury of New Zealand",
     "category": "fashion"
+  },
+  {
+    "slug": "7-days-inn",
+    "name": "7 Days Inn",
+    "name_en": "7 Days Inn",
+    "category": "general"
+  },
+  {
+    "slug": "9-air",
+    "name": "9 Air",
+    "name_en": "9 Air",
+    "category": "general"
+  },
+  {
+    "slug": "10or",
+    "name": "10.or",
+    "name_en": "10.or",
+    "category": "general"
+  },
+  {
+    "slug": "360-secure-browser",
+    "name": "360 Secure Browser",
+    "name_en": "360 Secure Browser",
+    "category": "general"
+  },
+  {
+    "slug": "accelink-technologies",
+    "name": "Accelink Technologies",
+    "name_en": "Accelink Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "acfun",
+    "name": "AcFun",
+    "name_en": "AcFun",
+    "category": "general"
+  },
+  {
+    "slug": "actions-technology",
+    "name": "Actions Technology",
+    "name_en": "Actions Technology",
+    "category": "general"
+  },
+  {
+    "slug": "aero-engine-corporation-of-china",
+    "name": "Aero Engine Corporation of China",
+    "name_en": "Aero Engine Corporation of China",
+    "category": "general"
+  },
+  {
+    "slug": "agricultural-bank-of-china",
+    "name": "Agricultural Bank of China",
+    "name_en": "Agricultural Bank of China",
+    "category": "general"
+  },
+  {
+    "slug": "aigo",
+    "name": "Aigo",
+    "name_en": "Aigo",
+    "category": "general"
   }
 ]
