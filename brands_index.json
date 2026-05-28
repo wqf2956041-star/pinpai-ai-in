@@ -3622,5 +3622,65 @@
     "name": "Nickelodeon Hotels and Resorts",
     "name_en": "Nickelodeon Hotels and Resorts",
     "category": "hotel"
+  },
+  {
+    "slug": "amazfit",
+    "name": "Amazfit",
+    "name_en": "Amazfit",
+    "category": "general"
+  },
+  {
+    "slug": "amoi",
+    "name": "Amoi",
+    "name_en": "Amoi",
+    "category": "general"
+  },
+  {
+    "slug": "anbang",
+    "name": "Anbang",
+    "name_en": "Anbang",
+    "category": "general"
+  },
+  {
+    "slug": "anhui-conch-cement",
+    "name": "Anhui Conch Cement",
+    "name_en": "Anhui Conch Cement",
+    "category": "general"
+  },
+  {
+    "slug": "anhui-heli",
+    "name": "Anhui Heli",
+    "name_en": "Anhui Heli",
+    "category": "general"
+  },
+  {
+    "slug": "ankai",
+    "name": "Ankai",
+    "name_en": "Ankai",
+    "category": "general"
+  },
+  {
+    "slug": "anta-sports",
+    "name": "Anta Sports",
+    "name_en": "Anta Sports",
+    "category": "general"
+  },
+  {
+    "slug": "antaeus-cinema-line",
+    "name": "Antaeus Cinema Line",
+    "name_en": "Antaeus Cinema Line",
+    "category": "general"
+  },
+  {
+    "slug": "antutu",
+    "name": "AnTuTu",
+    "name_en": "AnTuTu",
+    "category": "general"
+  },
+  {
+    "slug": "aoxin",
+    "name": "Aoxin",
+    "name_en": "Aoxin",
+    "category": "general"
   }
 ]
