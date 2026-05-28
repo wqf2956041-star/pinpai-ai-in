@@ -3562,5 +3562,65 @@
     "name": "Kempinski",
     "name_en": "Kempinski",
     "category": "hotel"
+  },
+  {
+    "slug": "kuriftu-resorts-spa",
+    "name": "Kuriftu Resorts & Spa",
+    "name_en": "Kuriftu Resorts & Spa",
+    "category": "hotel"
+  },
+  {
+    "slug": "langham-hospitality-group",
+    "name": "Langham Hospitality Group",
+    "name_en": "Langham Hospitality Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "magnuson-hotels",
+    "name": "Magnuson Hotels",
+    "name_en": "Magnuson Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "mandarin-oriental-hotel-group",
+    "name": "Mandarin Oriental Hotel Group",
+    "name_en": "Mandarin Oriental Hotel Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "maybourne",
+    "name": "Maybourne",
+    "name_en": "Maybourne",
+    "category": "hotel"
+  },
+  {
+    "slug": "le-mridien",
+    "name": "Le Méridien",
+    "name_en": "Le Méridien",
+    "category": "hotel"
+  },
+  {
+    "slug": "minor-hotels",
+    "name": "Minor Hotels",
+    "name_en": "Minor Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "minor-international",
+    "name": "Minor International",
+    "name_en": "Minor International",
+    "category": "hotel"
+  },
+  {
+    "slug": "nh-hotel-group",
+    "name": "NH Hotel Group",
+    "name_en": "NH Hotel Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "nickelodeon-hotels-and-resorts",
+    "name": "Nickelodeon Hotels and Resorts",
+    "name_en": "Nickelodeon Hotels and Resorts",
+    "category": "hotel"
   }
 ]
