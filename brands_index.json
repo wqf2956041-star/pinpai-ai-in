@@ -3862,5 +3862,65 @@
     "name": "Bhima Jewellers",
     "name_en": "Bhima Jewellers",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "cubist-pharmaceuticals",
+    "name": "Cubist Pharmaceuticals",
+    "name_en": "Cubist Pharmaceuticals",
+    "category": "healthcare"
+  },
+  {
+    "slug": "curaxys",
+    "name": "Curaxys",
+    "name_en": "Curaxys",
+    "category": "healthcare"
+  },
+  {
+    "slug": "curevac",
+    "name": "CureVac",
+    "name_en": "CureVac",
+    "category": "healthcare"
+  },
+  {
+    "slug": "debiopharm",
+    "name": "Debiopharm",
+    "name_en": "Debiopharm",
+    "category": "healthcare"
+  },
+  {
+    "slug": "definium-therapeutics",
+    "name": "Definium Therapeutics",
+    "name_en": "Definium Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "delix-therapeutics",
+    "name": "Delix Therapeutics",
+    "name_en": "Delix Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "fortress-biotech",
+    "name": "Fortress Biotech",
+    "name_en": "Fortress Biotech",
+    "category": "healthcare"
+  },
+  {
+    "slug": "gl-pharma",
+    "name": "G.L. Pharma",
+    "name_en": "G.L. Pharma",
+    "category": "healthcare"
+  },
+  {
+    "slug": "g1-therapeutics",
+    "name": "G1 Therapeutics",
+    "name_en": "G1 Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "galena-biopharma",
+    "name": "Galena Biopharma",
+    "name_en": "Galena Biopharma",
+    "category": "healthcare"
   }
 ]
