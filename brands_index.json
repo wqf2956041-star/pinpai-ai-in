@@ -3442,5 +3442,65 @@
     "name": "Benitec Biopharma",
     "name_en": "Benitec Biopharma",
     "category": "healthcare"
+  },
+  {
+    "slug": "beone-medicines",
+    "name": "BeOne Medicines",
+    "name_en": "BeOne Medicines",
+    "category": "healthcare"
+  },
+  {
+    "slug": "biocryst-pharmaceuticals",
+    "name": "BioCryst Pharmaceuticals",
+    "name_en": "BioCryst Pharmaceuticals",
+    "category": "healthcare"
+  },
+  {
+    "slug": "biological-e-limited",
+    "name": "Biological E. Limited",
+    "name_en": "Biological E. Limited",
+    "category": "healthcare"
+  },
+  {
+    "slug": "biondvax",
+    "name": "BiondVax",
+    "name_en": "BiondVax",
+    "category": "healthcare"
+  },
+  {
+    "slug": "biosplice-therapeutics",
+    "name": "Biosplice Therapeutics",
+    "name_en": "Biosplice Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "botswana-vaccine-institute",
+    "name": "Botswana Vaccine Institute",
+    "name_en": "Botswana Vaccine Institute",
+    "category": "healthcare"
+  },
+  {
+    "slug": "china-biologic-products",
+    "name": "China Biologic Products",
+    "name_en": "China Biologic Products",
+    "category": "healthcare"
+  },
+  {
+    "slug": "cinnagen",
+    "name": "Cinnagen",
+    "name_en": "Cinnagen",
+    "category": "healthcare"
+  },
+  {
+    "slug": "cipla",
+    "name": "Cipla",
+    "name_en": "Cipla",
+    "category": "healthcare"
+  },
+  {
+    "slug": "csl-behring",
+    "name": "CSL Behring",
+    "name_en": "CSL Behring",
+    "category": "healthcare"
   }
 ]
