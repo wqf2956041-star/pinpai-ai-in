@@ -2542,5 +2542,65 @@
     "name": "Pizza Celentano",
     "name_en": "Pizza Celentano",
     "category": "food"
+  },
+  {
+    "slug": "2rule",
+    "name": "2Rule",
+    "name_en": "2Rule",
+    "category": "sportswear"
+  },
+  {
+    "slug": "2xu",
+    "name": "2XU",
+    "name_en": "2XU",
+    "category": "sportswear"
+  },
+  {
+    "slug": "4f-company",
+    "name": "4F (company)",
+    "name_en": "4F (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "47-brand",
+    "name": "'47 (brand)",
+    "name_en": "'47 (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "361-degrees",
+    "name": "361 Degrees",
+    "name_en": "361 Degrees",
+    "category": "sportswear"
+  },
+  {
+    "slug": "afca-clothing",
+    "name": "A.F.C.A (clothing)",
+    "name_en": "A.F.C.A (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ab-sport",
+    "name": "AB Sport",
+    "name_en": "AB Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "abc-mart",
+    "name": "ABC-Mart",
+    "name_en": "ABC-Mart",
+    "category": "sportswear"
+  },
+  {
+    "slug": "acerbis",
+    "name": "Acerbis",
+    "name_en": "Acerbis",
+    "category": "sportswear"
+  },
+  {
+    "slug": "admiral-sportswear",
+    "name": "Admiral Sportswear",
+    "name_en": "Admiral Sportswear",
+    "category": "sportswear"
   }
 ]
