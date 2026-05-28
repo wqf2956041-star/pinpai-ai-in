@@ -4882,5 +4882,65 @@
     "name": "Fruli",
     "name_en": "Fruli",
     "category": "beverage"
+  },
+  {
+    "slug": "hangzhou-qiandaohu",
+    "name": "Hangzhou Qiandaohu",
+    "name_en": "Hangzhou Qiandaohu",
+    "category": "beverage"
+  },
+  {
+    "slug": "hanoi-beer",
+    "name": "Hanoi Beer",
+    "name_en": "Hanoi Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "hatuey-beer",
+    "name": "Hatuey (beer)",
+    "name_en": "Hatuey (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "hirter",
+    "name": "Hirter",
+    "name_en": "Hirter",
+    "category": "beverage"
+  },
+  {
+    "slug": "huda-beer",
+    "name": "Huda Beer",
+    "name_en": "Huda Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "hu-beer",
+    "name": "Huế Beer",
+    "name_en": "Huế Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "hunter-bangladeshi-beer",
+    "name": "Hunter (Bangladeshi beer)",
+    "name_en": "Hunter (Bangladeshi beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "imperial-beer",
+    "name": "Imperial (beer)",
+    "name_en": "Imperial (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "jax-brewing-company",
+    "name": "Jax Brewing Company",
+    "name_en": "Jax Brewing Company",
+    "category": "beverage"
+  },
+  {
+    "slug": "keo-beer",
+    "name": "KEO (beer)",
+    "name_en": "KEO (beer)",
+    "category": "beverage"
   }
 ]
