@@ -2962,5 +2962,65 @@
     "name": "Piedmont Lithium",
     "name_en": "Piedmont Lithium",
     "category": "energy"
+  },
+  {
+    "slug": "poderosa",
+    "name": "Poderosa",
+    "name_en": "Poderosa",
+    "category": "energy"
+  },
+  {
+    "slug": "ro-tinto-minera",
+    "name": "Río Tinto Minera",
+    "name_en": "Río Tinto Minera",
+    "category": "energy"
+  },
+  {
+    "slug": "selection-trust",
+    "name": "Selection Trust",
+    "name_en": "Selection Trust",
+    "category": "energy"
+  },
+  {
+    "slug": "the-black-sand-and-gold-recovery-company",
+    "name": "The Black Sand and Gold Recovery Company",
+    "name_en": "The Black Sand and Gold Recovery Company",
+    "category": "energy"
+  },
+  {
+    "slug": "the-north-shore-reduction-company",
+    "name": "The North Shore Reduction Company",
+    "name_en": "The North Shore Reduction Company",
+    "category": "energy"
+  },
+  {
+    "slug": "unin-minera-del-norte",
+    "name": "Unión Minera del Norte",
+    "name_en": "Unión Minera del Norte",
+    "category": "energy"
+  },
+  {
+    "slug": "wellex-industries",
+    "name": "Wellex Industries",
+    "name_en": "Wellex Industries",
+    "category": "energy"
+  },
+  {
+    "slug": "aardman-animations",
+    "name": "Aardman Animations",
+    "name_en": "Aardman Animations",
+    "category": "general"
+  },
+  {
+    "slug": "abbey-well",
+    "name": "Abbey Well",
+    "name_en": "Abbey Well",
+    "category": "general"
+  },
+  {
+    "slug": "ability-office",
+    "name": "Ability Office",
+    "name_en": "Ability Office",
+    "category": "general"
   }
 ]
