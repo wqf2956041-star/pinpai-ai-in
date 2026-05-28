@@ -5962,5 +5962,65 @@
     "name": "Abas ERP",
     "name_en": "Abas ERP",
     "category": "general"
+  },
+  {
+    "slug": "ableton",
+    "name": "Ableton",
+    "name_en": "Ableton",
+    "category": "general"
+  },
+  {
+    "slug": "about-you-company",
+    "name": "About You (company)",
+    "name_en": "About You (company)",
+    "category": "general"
+  },
+  {
+    "slug": "abus",
+    "name": "ABUS",
+    "name_en": "ABUS",
+    "category": "general"
+  },
+  {
+    "slug": "accentus-music",
+    "name": "Accentus Music",
+    "name_en": "Accentus Music",
+    "category": "general"
+  },
+  {
+    "slug": "adinotec",
+    "name": "Adinotec",
+    "name_en": "Adinotec",
+    "category": "general"
+  },
+  {
+    "slug": "adox",
+    "name": "ADOX",
+    "name_en": "ADOX",
+    "category": "general"
+  },
+  {
+    "slug": "aeg-brand",
+    "name": "AEG (brand)",
+    "name_en": "AEG (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "aeg-german-company",
+    "name": "AEG (German company)",
+    "name_en": "AEG (German company)",
+    "category": "general"
+  },
+  {
+    "slug": "agfa",
+    "name": "Agfa",
+    "name_en": "Agfa",
+    "category": "general"
+  },
+  {
+    "slug": "air-berlin",
+    "name": "Air Berlin",
+    "name_en": "Air Berlin",
+    "category": "general"
   }
 ]
