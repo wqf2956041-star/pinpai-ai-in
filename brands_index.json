@@ -3502,5 +3502,65 @@
     "name": "CSL Behring",
     "name_en": "CSL Behring",
     "category": "healthcare"
+  },
+  {
+    "slug": "pyongyang-restaurant-chain",
+    "name": "Pyongyang (restaurant chain)",
+    "name_en": "Pyongyang (restaurant chain)",
+    "category": "food"
+  },
+  {
+    "slug": "rey-amargo",
+    "name": "Rey Amargo",
+    "name_en": "Rey Amargo",
+    "category": "food"
+  },
+  {
+    "slug": "rostipollos",
+    "name": "Rostipollos",
+    "name_en": "Rostipollos",
+    "category": "food"
+  },
+  {
+    "slug": "spizzico",
+    "name": "Spizzico",
+    "name_en": "Spizzico",
+    "category": "food"
+  },
+  {
+    "slug": "tiger-sugar",
+    "name": "Tiger Sugar",
+    "name_en": "Tiger Sugar",
+    "category": "food"
+  },
+  {
+    "slug": "trung-nguyn-legend-caf",
+    "name": "Trung Nguyên Legend Café",
+    "name_en": "Trung Nguyên Legend Café",
+    "category": "food"
+  },
+  {
+    "slug": "the-hoxton",
+    "name": "The Hoxton",
+    "name_en": "The Hoxton",
+    "category": "hotel"
+  },
+  {
+    "slug": "impala-hotel-group",
+    "name": "Impala Hotel Group",
+    "name_en": "Impala Hotel Group",
+    "category": "hotel"
+  },
+  {
+    "slug": "isrotel",
+    "name": "Isrotel",
+    "name_en": "Isrotel",
+    "category": "hotel"
+  },
+  {
+    "slug": "kempinski",
+    "name": "Kempinski",
+    "name_en": "Kempinski",
+    "category": "hotel"
   }
 ]
