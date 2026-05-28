@@ -3322,5 +3322,65 @@
     "name": "Aigo",
     "name_en": "Aigo",
     "category": "general"
+  },
+  {
+    "slug": "air-china",
+    "name": "Air China",
+    "name_en": "Air China",
+    "category": "general"
+  },
+  {
+    "slug": "air-travel-airline",
+    "name": "Air Travel (airline)",
+    "name_en": "Air Travel (airline)",
+    "category": "general"
+  },
+  {
+    "slug": "airmate",
+    "name": "Airmate",
+    "name_en": "Airmate",
+    "category": "general"
+  },
+  {
+    "slug": "aiways",
+    "name": "Aiways",
+    "name_en": "Aiways",
+    "category": "general"
+  },
+  {
+    "slug": "alcatel-mobile",
+    "name": "Alcatel Mobile",
+    "name_en": "Alcatel Mobile",
+    "category": "general"
+  },
+  {
+    "slug": "alibaba-group",
+    "name": "Alibaba Group",
+    "name_en": "Alibaba Group",
+    "category": "general"
+  },
+  {
+    "slug": "alimusic",
+    "name": "AliMusic",
+    "name_en": "AliMusic",
+    "category": "general"
+  },
+  {
+    "slug": "alios",
+    "name": "AliOS",
+    "name_en": "AliOS",
+    "category": "general"
+  },
+  {
+    "slug": "alipay",
+    "name": "Alipay",
+    "name_en": "Alipay",
+    "category": "general"
+  },
+  {
+    "slug": "allwinner-technology",
+    "name": "Allwinner Technology",
+    "name_en": "Allwinner Technology",
+    "category": "general"
   }
 ]
