@@ -2842,5 +2842,65 @@
     "name": "Digital River",
     "name_en": "Digital River",
     "category": "general"
+  },
+  {
+    "slug": "discovery-inc",
+    "name": "Discovery, Inc.",
+    "name_en": "Discovery, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "disney-branded-television",
+    "name": "Disney Branded Television",
+    "name_en": "Disney Branded Television",
+    "category": "general"
+  },
+  {
+    "slug": "dude-perfect",
+    "name": "Dude Perfect",
+    "name_en": "Dude Perfect",
+    "category": "general"
+  },
+  {
+    "slug": "ebay",
+    "name": "EBay",
+    "name_en": "EBay",
+    "category": "general"
+  },
+  {
+    "slug": "ebix",
+    "name": "Ebix",
+    "name_en": "Ebix",
+    "category": "general"
+  },
+  {
+    "slug": "electronic-arts",
+    "name": "Electronic Arts",
+    "name_en": "Electronic Arts",
+    "category": "general"
+  },
+  {
+    "slug": "electronic-data-systems",
+    "name": "Electronic Data Systems",
+    "name_en": "Electronic Data Systems",
+    "category": "general"
+  },
+  {
+    "slug": "eli-lilly-and-company",
+    "name": "Eli Lilly and Company",
+    "name_en": "Eli Lilly and Company",
+    "category": "general"
+  },
+  {
+    "slug": "emerson-electric",
+    "name": "Emerson Electric",
+    "name_en": "Emerson Electric",
+    "category": "general"
+  },
+  {
+    "slug": "erhc",
+    "name": "ERHC",
+    "name_en": "ERHC",
+    "category": "general"
   }
 ]
