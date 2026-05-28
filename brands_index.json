@@ -5782,5 +5782,65 @@
     "name": "Chicecream",
     "name_en": "Chicecream",
     "category": "general"
+  },
+  {
+    "slug": "abokado",
+    "name": "Abokado",
+    "name_en": "Abokado",
+    "category": "general"
+  },
+  {
+    "slug": "aga-cooker",
+    "name": "AGA cooker",
+    "name_en": "AGA cooker",
+    "category": "general"
+  },
+  {
+    "slug": "ahmad-tea",
+    "name": "Ahmad Tea",
+    "name_en": "Ahmad Tea",
+    "category": "general"
+  },
+  {
+    "slug": "ainsworths",
+    "name": "Ainsworths",
+    "name_en": "Ainsworths",
+    "category": "general"
+  },
+  {
+    "slug": "airbus-uk",
+    "name": "Airbus UK",
+    "name_en": "Airbus UK",
+    "category": "general"
+  },
+  {
+    "slug": "alba-electronics",
+    "name": "Alba (electronics)",
+    "name_en": "Alba (electronics)",
+    "category": "general"
+  },
+  {
+    "slug": "alfred-dunhill-limited",
+    "name": "Alfred Dunhill Limited",
+    "name_en": "Alfred Dunhill Limited",
+    "category": "general"
+  },
+  {
+    "slug": "amber-leaf",
+    "name": "Amber Leaf",
+    "name_en": "Amber Leaf",
+    "category": "general"
+  },
+  {
+    "slug": "ambra-personal-computers",
+    "name": "Ambra Personal Computers",
+    "name_en": "Ambra Personal Computers",
+    "category": "general"
+  },
+  {
+    "slug": "ambrosia-food-brand",
+    "name": "Ambrosia (food brand)",
+    "name_en": "Ambrosia (food brand)",
+    "category": "general"
   }
 ]
