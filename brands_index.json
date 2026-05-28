@@ -4042,5 +4042,65 @@
     "name": "Alstom Ferroviaria",
     "name_en": "Alstom Ferroviaria",
     "category": "general"
+  },
+  {
+    "slug": "amaro-averna",
+    "name": "Amaro Averna",
+    "name_en": "Amaro Averna",
+    "category": "general"
+  },
+  {
+    "slug": "amaro-lucano",
+    "name": "Amaro Lucano",
+    "name_en": "Amaro Lucano",
+    "category": "general"
+  },
+  {
+    "slug": "amaro-montenegro",
+    "name": "Amaro Montenegro",
+    "name_en": "Amaro Montenegro",
+    "category": "general"
+  },
+  {
+    "slug": "amaro-sibilla",
+    "name": "Amaro Sibilla",
+    "name_en": "Amaro Sibilla",
+    "category": "general"
+  },
+  {
+    "slug": "amedei",
+    "name": "Amedei",
+    "name_en": "Amedei",
+    "category": "general"
+  },
+  {
+    "slug": "amedei-porcelana",
+    "name": "Amedei Porcelana",
+    "name_en": "Amedei Porcelana",
+    "category": "general"
+  },
+  {
+    "slug": "amplifon",
+    "name": "Amplifon",
+    "name_en": "Amplifon",
+    "category": "general"
+  },
+  {
+    "slug": "ansaldo-energia",
+    "name": "Ansaldo Energia",
+    "name_en": "Ansaldo Energia",
+    "category": "general"
+  },
+  {
+    "slug": "antica-dolceria-bonajuto",
+    "name": "Antica Dolceria Bonajuto",
+    "name_en": "Antica Dolceria Bonajuto",
+    "category": "general"
+  },
+  {
+    "slug": "antica-trattoria-bagutto",
+    "name": "Antica trattoria Bagutto",
+    "name_en": "Antica trattoria Bagutto",
+    "category": "general"
   }
 ]
