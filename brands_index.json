@@ -3802,5 +3802,65 @@
     "name": "Barneys New York",
     "name_en": "Barneys New York",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "barrows-stores",
+    "name": "Barrow's Stores",
+    "name_en": "Barrow's Stores",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "baume-et-mercier",
+    "name": "Baume et Mercier",
+    "name_en": "Baume et Mercier",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bausele",
+    "name": "Bausele",
+    "name_en": "Bausele",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "belber",
+    "name": "Belber",
+    "name_en": "Belber",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bell-ross",
+    "name": "Bell & Ross",
+    "name_en": "Bell & Ross",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bellerby-co-globemakers",
+    "name": "Bellerby & Co, Globemakers",
+    "name_en": "Bellerby & Co, Globemakers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "stefano-bemer",
+    "name": "Stefano Bemer",
+    "name_en": "Stefano Bemer",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bernhardt-design",
+    "name": "Bernhardt Design",
+    "name_en": "Bernhardt Design",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bernini-fashion",
+    "name": "Bernini (fashion)",
+    "name_en": "Bernini (fashion)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bhima-jewellers",
+    "name": "Bhima Jewellers",
+    "name_en": "Bhima Jewellers",
+    "category": "fashion-luxury"
   }
 ]
