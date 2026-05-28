@@ -6382,5 +6382,65 @@
     "name": "China Life Insurance Company",
     "name_en": "China Life Insurance Company",
     "category": "general"
+  },
+  {
+    "slug": "armitage-shanks",
+    "name": "Armitage Shanks",
+    "name_en": "Armitage Shanks",
+    "category": "general"
+  },
+  {
+    "slug": "ascend-cutlery-works",
+    "name": "Ascend Cutlery Works",
+    "name_en": "Ascend Cutlery Works",
+    "category": "general"
+  },
+  {
+    "slug": "asos-retailer",
+    "name": "ASOS (retailer)",
+    "name_en": "ASOS (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "astrazeneca",
+    "name": "AstraZeneca",
+    "name_en": "AstraZeneca",
+    "category": "general"
+  },
+  {
+    "slug": "athena-retailer",
+    "name": "Athena (retailer)",
+    "name_en": "Athena (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "atkinsons-of-london",
+    "name": "Atkinsons of London",
+    "name_en": "Atkinsons of London",
+    "category": "general"
+  },
+  {
+    "slug": "autotune-rishton",
+    "name": "Autotune (Rishton)",
+    "name_en": "Autotune (Rishton)",
+    "category": "general"
+  },
+  {
+    "slug": "avalon-guitars",
+    "name": "Avalon Guitars",
+    "name_en": "Avalon Guitars",
+    "category": "general"
+  },
+  {
+    "slug": "aviva",
+    "name": "Aviva",
+    "name_en": "Aviva",
+    "category": "general"
+  },
+  {
+    "slug": "avon-technologies",
+    "name": "Avon Technologies",
+    "name_en": "Avon Technologies",
+    "category": "general"
   }
 ]
