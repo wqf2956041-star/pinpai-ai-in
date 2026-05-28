@@ -3142,5 +3142,65 @@
     "name": "Grecotel",
     "name_en": "Grecotel",
     "category": "hotel"
+  },
+  {
+    "slug": "apc",
+    "name": "A.P.C.",
+    "name_en": "A.P.C.",
+    "category": "fashion"
+  },
+  {
+    "slug": "acqua-limone",
+    "name": "Acqua Limone",
+    "name_en": "Acqua Limone",
+    "category": "fashion"
+  },
+  {
+    "slug": "aim-leon-dore",
+    "name": "Aimé Leon Dore",
+    "name_en": "Aimé Leon Dore",
+    "category": "fashion"
+  },
+  {
+    "slug": "akoo",
+    "name": "AKOO",
+    "name_en": "AKOO",
+    "category": "fashion"
+  },
+  {
+    "slug": "alain-figaret",
+    "name": "Alain Figaret",
+    "name_en": "Alain Figaret",
+    "category": "fashion"
+  },
+  {
+    "slug": "allsaints",
+    "name": "AllSaints",
+    "name_en": "AllSaints",
+    "category": "fashion"
+  },
+  {
+    "slug": "american-eagle-outfitters",
+    "name": "American Eagle Outfitters",
+    "name_en": "American Eagle Outfitters",
+    "category": "fashion"
+  },
+  {
+    "slug": "anne-fontaine-brand",
+    "name": "Anne Fontaine (brand)",
+    "name_en": "Anne Fontaine (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "arckiv",
+    "name": "Arckiv",
+    "name_en": "Arckiv",
+    "category": "fashion"
+  },
+  {
+    "slug": "armoire-officielle",
+    "name": "Armoire Officielle",
+    "name_en": "Armoire Officielle",
+    "category": "fashion"
   }
 ]
