@@ -5422,5 +5422,65 @@
     "name": "Ken Done",
     "name_en": "Ken Done",
     "category": "fashion"
+  },
+  {
+    "slug": "beijing-hualian-group",
+    "name": "Beijing Hualian Group",
+    "name_en": "Beijing Hualian Group",
+    "category": "general"
+  },
+  {
+    "slug": "bgi-group",
+    "name": "BGI Group",
+    "name_en": "BGI Group",
+    "category": "general"
+  },
+  {
+    "slug": "bianyifang",
+    "name": "Bianyifang",
+    "name_en": "Bianyifang",
+    "category": "general"
+  },
+  {
+    "slug": "bilibili",
+    "name": "Bilibili",
+    "name_en": "Bilibili",
+    "category": "general"
+  },
+  {
+    "slug": "bisu-marque",
+    "name": "Bisu (marque)",
+    "name_en": "Bisu (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "boe-technology",
+    "name": "BOE Technology",
+    "name_en": "BOE Technology",
+    "category": "general"
+  },
+  {
+    "slug": "bonluck",
+    "name": "Bonluck",
+    "name_en": "Bonluck",
+    "category": "general"
+  },
+  {
+    "slug": "bordrin",
+    "name": "Bordrin",
+    "name_en": "Bordrin",
+    "category": "general"
+  },
+  {
+    "slug": "borntea",
+    "name": "Borntea",
+    "name_en": "Borntea",
+    "category": "general"
+  },
+  {
+    "slug": "borqs",
+    "name": "Borqs",
+    "name_en": "Borqs",
+    "category": "general"
   }
 ]
