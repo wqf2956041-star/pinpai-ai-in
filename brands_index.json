@@ -4402,5 +4402,65 @@
     "name": "Aichi small-elevator manufacturing corporation",
     "name_en": "Aichi small-elevator manufacturing corporation",
     "category": "general"
+  },
+  {
+    "slug": "aichi-steel",
+    "name": "Aichi Steel",
+    "name_en": "Aichi Steel",
+    "category": "general"
+  },
+  {
+    "slug": "air-do",
+    "name": "Air Do",
+    "name_en": "Air Do",
+    "category": "general"
+  },
+  {
+    "slug": "aisin",
+    "name": "Aisin",
+    "name_en": "Aisin",
+    "category": "general"
+  },
+  {
+    "slug": "aiwa",
+    "name": "Aiwa",
+    "name_en": "Aiwa",
+    "category": "general"
+  },
+  {
+    "slug": "akai",
+    "name": "Akai",
+    "name_en": "Akai",
+    "category": "general"
+  },
+  {
+    "slug": "akai-s1000",
+    "name": "Akai S1000",
+    "name_en": "Akai S1000",
+    "category": "general"
+  },
+  {
+    "slug": "akai-s3000xl",
+    "name": "Akai S3000XL",
+    "name_en": "Akai S3000XL",
+    "category": "general"
+  },
+  {
+    "slug": "akebono-brake-industry",
+    "name": "Akebono Brake Industry",
+    "name_en": "Akebono Brake Industry",
+    "category": "general"
+  },
+  {
+    "slug": "akkeshi-distillery",
+    "name": "Akkeshi distillery",
+    "name_en": "Akkeshi distillery",
+    "category": "general"
+  },
+  {
+    "slug": "alaxala-networks",
+    "name": "Alaxala Networks",
+    "name_en": "Alaxala Networks",
+    "category": "general"
   }
 ]
