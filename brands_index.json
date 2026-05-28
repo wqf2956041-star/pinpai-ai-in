@@ -6022,5 +6022,65 @@
     "name": "Air Berlin",
     "name_en": "Air Berlin",
     "category": "general"
+  },
+  {
+    "slug": "alb-leisa",
+    "name": "Alb-Leisa",
+    "name_en": "Alb-Leisa",
+    "category": "general"
+  },
+  {
+    "slug": "aldi",
+    "name": "Aldi",
+    "name_en": "Aldi",
+    "category": "general"
+  },
+  {
+    "slug": "aleo-solar",
+    "name": "Aleo Solar",
+    "name_en": "Aleo Solar",
+    "category": "general"
+  },
+  {
+    "slug": "allianz",
+    "name": "Allianz",
+    "name_en": "Allianz",
+    "category": "general"
+  },
+  {
+    "slug": "allianz-trade",
+    "name": "Allianz Trade",
+    "name_en": "Allianz Trade",
+    "category": "general"
+  },
+  {
+    "slug": "altana",
+    "name": "Altana",
+    "name_en": "Altana",
+    "category": "general"
+  },
+  {
+    "slug": "altendorf-gmbh",
+    "name": "Altendorf GmbH",
+    "name_en": "Altendorf GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "analytik-jena",
+    "name": "Analytik Jena",
+    "name_en": "Analytik Jena",
+    "category": "general"
+  },
+  {
+    "slug": "schuler-group",
+    "name": "Schuler Group",
+    "name_en": "Schuler Group",
+    "category": "general"
+  },
+  {
+    "slug": "apetito",
+    "name": "Apetito",
+    "name_en": "Apetito",
+    "category": "general"
   }
 ]
