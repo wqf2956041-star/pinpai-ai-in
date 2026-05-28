@@ -6262,5 +6262,65 @@
     "name": "Joe Fresh",
     "name_en": "Joe Fresh",
     "category": "fashion"
+  },
+  {
+    "slug": "chimelong",
+    "name": "Chimelong",
+    "name_en": "Chimelong",
+    "category": "general"
+  },
+  {
+    "slug": "china-aerospace-science-and-industry-corporation",
+    "name": "China Aerospace Science and Industry Corporation",
+    "name_en": "China Aerospace Science and Industry Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-aerospace-science-and-technology-corporation",
+    "name": "China Aerospace Science and Technology Corporation",
+    "name_en": "China Aerospace Science and Technology Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-agri-industries-holdings",
+    "name": "China Agri-Industries Holdings",
+    "name_en": "China Agri-Industries Holdings",
+    "category": "general"
+  },
+  {
+    "slug": "china-bluechemical",
+    "name": "China BlueChemical",
+    "name_en": "China BlueChemical",
+    "category": "general"
+  },
+  {
+    "slug": "china-citic-bank",
+    "name": "China CITIC Bank",
+    "name_en": "China CITIC Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-cnr",
+    "name": "China CNR",
+    "name_en": "China CNR",
+    "category": "general"
+  },
+  {
+    "slug": "china-construction-bank",
+    "name": "China Construction Bank",
+    "name_en": "China Construction Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-development-bank",
+    "name": "China Development Bank",
+    "name_en": "China Development Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-dongxiang",
+    "name": "China Dongxiang",
+    "name_en": "China Dongxiang",
+    "category": "general"
   }
 ]
