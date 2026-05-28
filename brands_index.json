@@ -4762,5 +4762,65 @@
     "name": "Caffè Nero",
     "name_en": "Caffè Nero",
     "category": "food"
+  },
+  {
+    "slug": "caff-pascucci",
+    "name": "Caffè Pascucci",
+    "name_en": "Caffè Pascucci",
+    "category": "food"
+  },
+  {
+    "slug": "caff-ritazza",
+    "name": "Caffè Ritazza",
+    "name_en": "Caffè Ritazza",
+    "category": "food"
+  },
+  {
+    "slug": "caffeine-coffeehouse-chain",
+    "name": "Caffeine (coffeehouse chain)",
+    "name_en": "Caffeine (coffeehouse chain)",
+    "category": "food"
+  },
+  {
+    "slug": "caffiato",
+    "name": "Caffiato",
+    "name_en": "Caffiato",
+    "category": "food"
+  },
+  {
+    "slug": "camerons-coffee",
+    "name": "Cameron's Coffee",
+    "name_en": "Cameron's Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "caribou-coffee",
+    "name": "Caribou Coffee",
+    "name_en": "Caribou Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "carmelite-monks",
+    "name": "Carmelite Monks",
+    "name_en": "Carmelite Monks",
+    "category": "food"
+  },
+  {
+    "slug": "chock-full-onuts",
+    "name": "Chock full o'Nuts",
+    "name_en": "Chock full o'Nuts",
+    "category": "food"
+  },
+  {
+    "slug": "coava-coffee-roasters",
+    "name": "Coava Coffee Roasters",
+    "name_en": "Coava Coffee Roasters",
+    "category": "food"
+  },
+  {
+    "slug": "coffee-island",
+    "name": "Coffee Island",
+    "name_en": "Coffee Island",
+    "category": "food"
   }
 ]
