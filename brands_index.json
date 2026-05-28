@@ -5842,5 +5842,65 @@
     "name": "Ambrosia (food brand)",
     "name_en": "Ambrosia (food brand)",
     "category": "general"
+  },
+  {
+    "slug": "anglepoise-lamp",
+    "name": "Anglepoise lamp",
+    "name_en": "Anglepoise lamp",
+    "category": "general"
+  },
+  {
+    "slug": "aniventure",
+    "name": "Aniventure",
+    "name_en": "Aniventure",
+    "category": "general"
+  },
+  {
+    "slug": "antler-brand",
+    "name": "Antler (brand)",
+    "name_en": "Antler (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "antoria",
+    "name": "Antoria",
+    "name_en": "Antoria",
+    "category": "general"
+  },
+  {
+    "slug": "aon-company",
+    "name": "Aon (company)",
+    "name_en": "Aon (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ap-diving",
+    "name": "AP Diving",
+    "name_en": "AP Diving",
+    "category": "general"
+  },
+  {
+    "slug": "argos-retailer",
+    "name": "Argos (retailer)",
+    "name_en": "Argos (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "ariel-detergent",
+    "name": "Ariel (detergent)",
+    "name_en": "Ariel (detergent)",
+    "category": "general"
+  },
+  {
+    "slug": "ariella-fashion-house",
+    "name": "Ariella Fashion House",
+    "name_en": "Ariella Fashion House",
+    "category": "general"
+  },
+  {
+    "slug": "arkells-brewery",
+    "name": "Arkell's Brewery",
+    "name_en": "Arkell's Brewery",
+    "category": "general"
   }
 ]
