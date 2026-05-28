@@ -2662,5 +2662,65 @@
     "name": "Alpinestars",
     "name_en": "Alpinestars",
     "category": "sportswear"
+  },
+  {
+    "slug": "charles-river-laboratories",
+    "name": "Charles River Laboratories",
+    "name_en": "Charles River Laboratories",
+    "category": "general"
+  },
+  {
+    "slug": "chemence",
+    "name": "Chemence",
+    "name_en": "Chemence",
+    "category": "general"
+  },
+  {
+    "slug": "chemours",
+    "name": "Chemours",
+    "name_en": "Chemours",
+    "category": "general"
+  },
+  {
+    "slug": "chevron-corporation",
+    "name": "Chevron Corporation",
+    "name_en": "Chevron Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "church-of-scientology",
+    "name": "Church of Scientology",
+    "name_en": "Church of Scientology",
+    "category": "general"
+  },
+  {
+    "slug": "cision",
+    "name": "Cision",
+    "name_en": "Cision",
+    "category": "general"
+  },
+  {
+    "slug": "civeo-corporation",
+    "name": "Civeo Corporation",
+    "name_en": "Civeo Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "clean-harbors",
+    "name": "Clean Harbors",
+    "name_en": "Clean Harbors",
+    "category": "general"
+  },
+  {
+    "slug": "clopay-plastic-products",
+    "name": "Clopay Plastic Products",
+    "name_en": "Clopay Plastic Products",
+    "category": "general"
+  },
+  {
+    "slug": "clorox",
+    "name": "Clorox",
+    "name_en": "Clorox",
+    "category": "general"
   }
 ]
