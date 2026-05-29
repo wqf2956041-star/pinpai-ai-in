@@ -10222,5 +10222,65 @@
     "name": "Casio",
     "name_en": "Casio",
     "category": "general"
+  },
+  {
+    "slug": "callaway-golf-company",
+    "name": "Callaway Golf Company",
+    "name_en": "Callaway Golf Company",
+    "category": "sportswear"
+  },
+  {
+    "slug": "capelli-sport",
+    "name": "Capelli Sport",
+    "name_en": "Capelli Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "castore",
+    "name": "Castore",
+    "name_en": "Castore",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ccm-ice-hockey",
+    "name": "CCM (ice hockey)",
+    "name_en": "CCM (ice hockey)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "celio-retailer",
+    "name": "Celio (retailer)",
+    "name_en": "Celio (retailer)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "choeusu",
+    "name": "Ch'oeusu",
+    "name_en": "Ch'oeusu",
+    "category": "sportswear"
+  },
+  {
+    "slug": "champion-sportswear",
+    "name": "Champion (sportswear)",
+    "name_en": "Champion (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "champs-brand",
+    "name": "Champs (brand)",
+    "name_en": "Champs (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "charly-brand",
+    "name": "Charly (brand)",
+    "name_en": "Charly (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ciesse-piumini",
+    "name": "Ciesse Piumini",
+    "name_en": "Ciesse Piumini",
+    "category": "sportswear"
   }
 ]
