@@ -6442,5 +6442,65 @@
     "name": "Avon Technologies",
     "name_en": "Avon Technologies",
     "category": "general"
+  },
+  {
+    "slug": "bq",
+    "name": "B&Q",
+    "name_en": "B&Q",
+    "category": "general"
+  },
+  {
+    "slug": "babycham",
+    "name": "Babycham",
+    "name_en": "Babycham",
+    "category": "general"
+  },
+  {
+    "slug": "bae-systems",
+    "name": "BAE Systems",
+    "name_en": "BAE Systems",
+    "category": "general"
+  },
+  {
+    "slug": "bg",
+    "name": "B&G",
+    "name_en": "B&G",
+    "category": "general"
+  },
+  {
+    "slug": "barclays",
+    "name": "Barclays",
+    "name_en": "Barclays",
+    "category": "general"
+  },
+  {
+    "slug": "barleycup",
+    "name": "Barleycup",
+    "name_en": "Barleycup",
+    "category": "general"
+  },
+  {
+    "slug": "baxi",
+    "name": "Baxi",
+    "name_en": "Baxi",
+    "category": "general"
+  },
+  {
+    "slug": "be-ro",
+    "name": "Be-Ro",
+    "name_en": "Be-Ro",
+    "category": "general"
+  },
+  {
+    "slug": "beltona-resonator-instruments",
+    "name": "Beltona Resonator Instruments",
+    "name_en": "Beltona Resonator Instruments",
+    "category": "general"
+  },
+  {
+    "slug": "ben-sherman",
+    "name": "Ben Sherman",
+    "name_en": "Ben Sherman",
+    "category": "general"
   }
 ]
