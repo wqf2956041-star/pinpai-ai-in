@@ -8782,5 +8782,65 @@
     "name": "Asmik Ace",
     "name_en": "Asmik Ace",
     "category": "general"
+  },
+  {
+    "slug": "china-lucky-film",
+    "name": "China Lucky Film",
+    "name_en": "China Lucky Film",
+    "category": "general"
+  },
+  {
+    "slug": "china-medical-technologies",
+    "name": "China Medical Technologies",
+    "name_en": "China Medical Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "china-merchants-bank",
+    "name": "China Merchants Bank",
+    "name_en": "China Merchants Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-minsheng-bank",
+    "name": "China Minsheng Bank",
+    "name_en": "China Minsheng Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-mobile",
+    "name": "China Mobile",
+    "name_en": "China Mobile",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-aviation-corporation",
+    "name": "China National Aviation Corporation",
+    "name_en": "China National Aviation Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-erzhong-group",
+    "name": "China National Erzhong Group",
+    "name_en": "China National Erzhong Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-heavy-duty-truck-group",
+    "name": "China National Heavy Duty Truck Group",
+    "name_en": "China National Heavy Duty Truck Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-machinery-industry-corporation",
+    "name": "China National Machinery Industry Corporation",
+    "name_en": "China National Machinery Industry Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-nepstar",
+    "name": "China Nepstar",
+    "name_en": "China Nepstar",
+    "category": "general"
   }
 ]
