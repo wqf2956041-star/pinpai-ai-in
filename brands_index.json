@@ -7642,5 +7642,65 @@
     "name": "Birmingham Small Arms Company",
     "name_en": "Birmingham Small Arms Company",
     "category": "general"
+  },
+  {
+    "slug": "bisto",
+    "name": "Bisto",
+    "name_en": "Bisto",
+    "category": "general"
+  },
+  {
+    "slug": "blackwells",
+    "name": "Blackwell's",
+    "name_en": "Blackwell's",
+    "category": "general"
+  },
+  {
+    "slug": "bluebella",
+    "name": "Bluebella",
+    "name_en": "Bluebella",
+    "category": "general"
+  },
+  {
+    "slug": "bonmarch",
+    "name": "Bonmarché",
+    "name_en": "Bonmarché",
+    "category": "general"
+  },
+  {
+    "slug": "boots-company",
+    "name": "Boots (company)",
+    "name_en": "Boots (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bowers-wilkins",
+    "name": "Bowers & Wilkins",
+    "name_en": "Bowers & Wilkins",
+    "category": "general"
+  },
+  {
+    "slug": "boyces-bakery",
+    "name": "Boyce's Bakery",
+    "name_en": "Boyce's Bakery",
+    "category": "general"
+  },
+  {
+    "slug": "bp",
+    "name": "BP",
+    "name_en": "BP",
+    "category": "general"
+  },
+  {
+    "slug": "brasso",
+    "name": "Brasso",
+    "name_en": "Brasso",
+    "category": "general"
+  },
+  {
+    "slug": "bremont",
+    "name": "Bremont",
+    "name_en": "Bremont",
+    "category": "general"
   }
 ]
