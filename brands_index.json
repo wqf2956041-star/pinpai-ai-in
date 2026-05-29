@@ -10162,5 +10162,65 @@
     "name": "Bic Camera",
     "name_en": "Bic Camera",
     "category": "general"
+  },
+  {
+    "slug": "blitz-company",
+    "name": "Blitz (company)",
+    "name_en": "Blitz (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bonbon-drop-stickers",
+    "name": "Bonbon Drop stickers",
+    "name_en": "Bonbon Drop stickers",
+    "category": "general"
+  },
+  {
+    "slug": "atelier-bow-wow",
+    "name": "Atelier Bow-Wow",
+    "name_en": "Atelier Bow-Wow",
+    "category": "general"
+  },
+  {
+    "slug": "bridgestone",
+    "name": "Bridgestone",
+    "name_en": "Bridgestone",
+    "category": "general"
+  },
+  {
+    "slug": "bronica",
+    "name": "Bronica",
+    "name_en": "Bronica",
+    "category": "general"
+  },
+  {
+    "slug": "brother-industries",
+    "name": "Brother Industries",
+    "name_en": "Brother Industries",
+    "category": "general"
+  },
+  {
+    "slug": "canon-inc",
+    "name": "Canon Inc.",
+    "name_en": "Canon Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "canon-eos",
+    "name": "Canon EOS",
+    "name_en": "Canon EOS",
+    "category": "general"
+  },
+  {
+    "slug": "capcom",
+    "name": "Capcom",
+    "name_en": "Capcom",
+    "category": "general"
+  },
+  {
+    "slug": "casio",
+    "name": "Casio",
+    "name_en": "Casio",
+    "category": "general"
   }
 ]
