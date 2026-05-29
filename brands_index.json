@@ -8842,5 +8842,65 @@
     "name": "China Nepstar",
     "name_en": "China Nepstar",
     "category": "general"
+  },
+  {
+    "slug": "china-pacific-insurance-company",
+    "name": "China Pacific Insurance Company",
+    "name_en": "China Pacific Insurance Company",
+    "category": "general"
+  },
+  {
+    "slug": "china-post",
+    "name": "China Post",
+    "name_en": "China Post",
+    "category": "general"
+  },
+  {
+    "slug": "china-railway",
+    "name": "China Railway",
+    "name_en": "China Railway",
+    "category": "general"
+  },
+  {
+    "slug": "china-shipbuilding-industry-corporation",
+    "name": "China Shipbuilding Industry Corporation",
+    "name_en": "China Shipbuilding Industry Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-south-industries-group",
+    "name": "China South Industries Group",
+    "name_en": "China South Industries Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-southern-airlines",
+    "name": "China Southern Airlines",
+    "name_en": "China Southern Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-southern-power-grid",
+    "name": "China Southern Power Grid",
+    "name_en": "China Southern Power Grid",
+    "category": "general"
+  },
+  {
+    "slug": "china-southwest-airlines",
+    "name": "China Southwest Airlines",
+    "name_en": "China Southwest Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-state-shipbuilding-corporation",
+    "name": "China State Shipbuilding Corporation",
+    "name_en": "China State Shipbuilding Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-sunergy",
+    "name": "China Sunergy",
+    "name_en": "China Sunergy",
+    "category": "general"
   }
 ]
