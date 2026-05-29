@@ -7342,5 +7342,65 @@
     "name": "Franklin Mint Precision Models",
     "name_en": "Franklin Mint Precision Models",
     "category": "toy"
+  },
+  {
+    "slug": "berlebach",
+    "name": "Berlebach",
+    "name_en": "Berlebach",
+    "category": "general"
+  },
+  {
+    "slug": "bertelsmann",
+    "name": "Bertelsmann",
+    "name_en": "Bertelsmann",
+    "category": "general"
+  },
+  {
+    "slug": "beurer",
+    "name": "Beurer",
+    "name_en": "Beurer",
+    "category": "general"
+  },
+  {
+    "slug": "beyerdynamic",
+    "name": "Beyerdynamic",
+    "name_en": "Beyerdynamic",
+    "category": "general"
+  },
+  {
+    "slug": "biederlack",
+    "name": "Biederlack",
+    "name_en": "Biederlack",
+    "category": "general"
+  },
+  {
+    "slug": "otto-bihler-maschinenfabrik",
+    "name": "Otto Bihler Maschinenfabrik",
+    "name_en": "Otto Bihler Maschinenfabrik",
+    "category": "general"
+  },
+  {
+    "slug": "binder-fbm",
+    "name": "Binder FBM",
+    "name_en": "Binder FBM",
+    "category": "general"
+  },
+  {
+    "slug": "binz-vehicles",
+    "name": "Binz (vehicles)",
+    "name_en": "Binz (vehicles)",
+    "category": "general"
+  },
+  {
+    "slug": "biotronik",
+    "name": "Biotronik",
+    "name_en": "Biotronik",
+    "category": "general"
+  },
+  {
+    "slug": "bito",
+    "name": "Bito",
+    "name_en": "Bito",
+    "category": "general"
   }
 ]
