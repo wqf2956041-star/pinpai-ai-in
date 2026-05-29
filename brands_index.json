@@ -8902,5 +8902,65 @@
     "name": "China Sunergy",
     "name_en": "China Sunergy",
     "category": "general"
+  },
+  {
+    "slug": "lulu-the-piggy",
+    "name": "LuLu the Piggy",
+    "name_en": "LuLu the Piggy",
+    "category": "toy"
+  },
+  {
+    "slug": "madballs",
+    "name": "Madballs",
+    "name_en": "Madballs",
+    "category": "toy"
+  },
+  {
+    "slug": "maisto",
+    "name": "Maisto",
+    "name_en": "Maisto",
+    "category": "toy"
+  },
+  {
+    "slug": "majorette-toy-manufacturer",
+    "name": "Majorette (toy manufacturer)",
+    "name_en": "Majorette (toy manufacturer)",
+    "category": "toy"
+  },
+  {
+    "slug": "mamod",
+    "name": "Mamod",
+    "name_en": "Mamod",
+    "category": "toy"
+  },
+  {
+    "slug": "manoil-manufacturing-co",
+    "name": "Manoil Manufacturing Co.",
+    "name_en": "Manoil Manufacturing Co.",
+    "category": "toy"
+  },
+  {
+    "slug": "matador-toy",
+    "name": "Matador (toy)",
+    "name_en": "Matador (toy)",
+    "category": "toy"
+  },
+  {
+    "slug": "matchbox-brand",
+    "name": "Matchbox (brand)",
+    "name_en": "Matchbox (brand)",
+    "category": "toy"
+  },
+  {
+    "slug": "mattel",
+    "name": "Mattel",
+    "name_en": "Mattel",
+    "category": "toy"
+  },
+  {
+    "slug": "mebetoys",
+    "name": "Mebetoys",
+    "name_en": "Mebetoys",
+    "category": "toy"
   }
 ]
