@@ -7822,5 +7822,65 @@
     "name": "Heidi.com",
     "name_en": "Heidi.com",
     "category": "general"
+  },
+  {
+    "slug": "bristan",
+    "name": "Bristan",
+    "name_en": "Bristan",
+    "category": "general"
+  },
+  {
+    "slug": "bristol-cars",
+    "name": "Bristol Cars",
+    "name_en": "Bristol Cars",
+    "category": "general"
+  },
+  {
+    "slug": "britannia-airways",
+    "name": "Britannia Airways",
+    "name_en": "Britannia Airways",
+    "category": "general"
+  },
+  {
+    "slug": "britten-norman",
+    "name": "Britten-Norman",
+    "name_en": "Britten-Norman",
+    "category": "general"
+  },
+  {
+    "slug": "britvic",
+    "name": "Britvic",
+    "name_en": "Britvic",
+    "category": "general"
+  },
+  {
+    "slug": "john-broadwood-sons",
+    "name": "John Broadwood & Sons",
+    "name_en": "John Broadwood & Sons",
+    "category": "general"
+  },
+  {
+    "slug": "brylcreem",
+    "name": "Brylcreem",
+    "name_en": "Brylcreem",
+    "category": "general"
+  },
+  {
+    "slug": "bsa-company",
+    "name": "BSA Company",
+    "name_en": "BSA Company",
+    "category": "general"
+  },
+  {
+    "slug": "bsa-motorcycles",
+    "name": "BSA motorcycles",
+    "name_en": "BSA motorcycles",
+    "category": "general"
+  },
+  {
+    "slug": "buckley-london",
+    "name": "Buckley London",
+    "name_en": "Buckley London",
+    "category": "general"
   }
 ]
