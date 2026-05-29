@@ -10282,5 +10282,65 @@
     "name": "Ciesse Piumini",
     "name_en": "Ciesse Piumini",
     "category": "sportswear"
+  },
+  {
+    "slug": "cimalp",
+    "name": "Cimalp",
+    "name_en": "Cimalp",
+    "category": "sportswear"
+  },
+  {
+    "slug": "classic-football-shirts",
+    "name": "Classic Football Shirts",
+    "name_en": "Classic Football Shirts",
+    "category": "sportswear"
+  },
+  {
+    "slug": "classic-sportswear",
+    "name": "Classic Sportswear",
+    "name_en": "Classic Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "colnago",
+    "name": "Colnago",
+    "name_en": "Colnago",
+    "category": "sportswear"
+  },
+  {
+    "slug": "converse-brand",
+    "name": "Converse (brand)",
+    "name_en": "Converse (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "le-coq-sportif",
+    "name": "Le Coq Sportif",
+    "name_en": "Le Coq Sportif",
+    "category": "sportswear"
+  },
+  {
+    "slug": "cosco-india-limited",
+    "name": "Cosco (India) Limited",
+    "name_en": "Cosco (India) Limited",
+    "category": "sportswear"
+  },
+  {
+    "slug": "cotton-on-group",
+    "name": "Cotton On Group",
+    "name_en": "Cotton On Group",
+    "category": "sportswear"
+  },
+  {
+    "slug": "craft-sportswear",
+    "name": "Craft Sportswear",
+    "name_en": "Craft Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "crons",
+    "name": "Crons",
+    "name_en": "Crons",
+    "category": "sportswear"
   }
 ]
