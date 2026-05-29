@@ -7462,5 +7462,65 @@
     "name": "Boehringer Ingelheim",
     "name_en": "Boehringer Ingelheim",
     "category": "general"
+  },
+  {
+    "slug": "bker",
+    "name": "Böker",
+    "name_en": "Böker",
+    "category": "general"
+  },
+  {
+    "slug": "bora-lftungstechnik",
+    "name": "Bora Lüftungstechnik",
+    "name_en": "Bora Lüftungstechnik",
+    "category": "general"
+  },
+  {
+    "slug": "bosch-company",
+    "name": "Bosch (company)",
+    "name_en": "Bosch (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bosch-rexroth",
+    "name": "Bosch Rexroth",
+    "name_en": "Bosch Rexroth",
+    "category": "general"
+  },
+  {
+    "slug": "brabus",
+    "name": "Brabus",
+    "name_en": "Brabus",
+    "category": "general"
+  },
+  {
+    "slug": "brandt-company",
+    "name": "Brandt (company)",
+    "name_en": "Brandt (company)",
+    "category": "general"
+  },
+  {
+    "slug": "braun-company",
+    "name": "Braun (company)",
+    "name_en": "Braun (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bresser",
+    "name": "Bresser",
+    "name_en": "Bresser",
+    "category": "general"
+  },
+  {
+    "slug": "brita-company",
+    "name": "Brita (company)",
+    "name_en": "Brita (company)",
+    "category": "general"
+  },
+  {
+    "slug": "brose-fahrzeugteile",
+    "name": "Brose Fahrzeugteile",
+    "name_en": "Brose Fahrzeugteile",
+    "category": "general"
   }
 ]
