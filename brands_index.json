@@ -9322,5 +9322,65 @@
     "name": "Columbia Sportswear",
     "name_en": "Columbia Sportswear",
     "category": "fashion"
+  },
+  {
+    "slug": "common-projects",
+    "name": "Common Projects",
+    "name_en": "Common Projects",
+    "category": "fashion"
+  },
+  {
+    "slug": "crocs",
+    "name": "Crocs",
+    "name_en": "Crocs",
+    "category": "fashion"
+  },
+  {
+    "slug": "dc-shoes",
+    "name": "DC Shoes",
+    "name_en": "DC Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "mohamed-dia",
+    "name": "Mohamed Dia",
+    "name_en": "Mohamed Dia",
+    "category": "fashion"
+  },
+  {
+    "slug": "diadora",
+    "name": "Diadora",
+    "name_en": "Diadora",
+    "category": "fashion"
+  },
+  {
+    "slug": "dr-kong-brand",
+    "name": "Dr. Kong (brand)",
+    "name_en": "Dr. Kong (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "dr-martens",
+    "name": "Dr. Martens",
+    "name_en": "Dr. Martens",
+    "category": "fashion"
+  },
+  {
+    "slug": "duarig",
+    "name": "Duarig",
+    "name_en": "Duarig",
+    "category": "fashion"
+  },
+  {
+    "slug": "dune-london",
+    "name": "Dune London",
+    "name_en": "Dune London",
+    "category": "fashion"
+  },
+  {
+    "slug": "dunlop-sport-australia",
+    "name": "Dunlop Sport (Australia)",
+    "name_en": "Dunlop Sport (Australia)",
+    "category": "fashion"
   }
 ]
