@@ -9082,5 +9082,65 @@
     "name": "Athleta (fashion)",
     "name_en": "Athleta (fashion)",
     "category": "sportswear"
+  },
+  {
+    "slug": "athletic-dna",
+    "name": "Athletic DNA",
+    "name_en": "Athletic DNA",
+    "category": "sportswear"
+  },
+  {
+    "slug": "atletica",
+    "name": "Atletica",
+    "name_en": "Atletica",
+    "category": "sportswear"
+  },
+  {
+    "slug": "audimas",
+    "name": "Audimas",
+    "name_en": "Audimas",
+    "category": "sportswear"
+  },
+  {
+    "slug": "aussiebum",
+    "name": "AussieBum",
+    "name_en": "AussieBum",
+    "category": "sportswear"
+  },
+  {
+    "slug": "babolat",
+    "name": "Babolat",
+    "name_en": "Babolat",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bad-boy-brand",
+    "name": "Bad Boy (brand)",
+    "name_en": "Bad Boy (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "basutoland-ink",
+    "name": "Basutoland Ink",
+    "name_en": "Basutoland Ink",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bauerfeind",
+    "name": "Bauerfeind",
+    "name_en": "Bauerfeind",
+    "category": "sportswear"
+  },
+  {
+    "slug": "beyond-yoga",
+    "name": "Beyond Yoga",
+    "name_en": "Beyond Yoga",
+    "category": "sportswear"
+  },
+  {
+    "slug": "big-5-sporting-goods",
+    "name": "Big 5 Sporting Goods",
+    "name_en": "Big 5 Sporting Goods",
+    "category": "sportswear"
   }
 ]
