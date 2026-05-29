@@ -6742,5 +6742,65 @@
     "name": "Dormakaba",
     "name_en": "Dormakaba",
     "category": "general"
+  },
+  {
+    "slug": "big-loo",
+    "name": "Big Loo",
+    "name_en": "Big Loo",
+    "category": "toy"
+  },
+  {
+    "slug": "big-mouth-billy-bass",
+    "name": "Big Mouth Billy Bass",
+    "name_en": "Big Mouth Billy Bass",
+    "category": "toy"
+  },
+  {
+    "slug": "bobby-car",
+    "name": "Bobby Car",
+    "name_en": "Bobby Car",
+    "category": "toy"
+  },
+  {
+    "slug": "boyds-bears",
+    "name": "Boyds Bears",
+    "name_en": "Boyds Bears",
+    "category": "toy"
+  },
+  {
+    "slug": "brave-series",
+    "name": "Brave series",
+    "name_en": "Brave series",
+    "category": "toy"
+  },
+  {
+    "slug": "britains",
+    "name": "Britains",
+    "name_en": "Britains",
+    "category": "toy"
+  },
+  {
+    "slug": "britains-deetail",
+    "name": "Britains Deetail",
+    "name_en": "Britains Deetail",
+    "category": "toy"
+  },
+  {
+    "slug": "brumm",
+    "name": "Brumm",
+    "name_en": "Brumm",
+    "category": "toy"
+  },
+  {
+    "slug": "buby-toys",
+    "name": "Buby toys",
+    "name_en": "Buby toys",
+    "category": "toy"
+  },
+  {
+    "slug": "budgie-toys",
+    "name": "Budgie Toys",
+    "name_en": "Budgie Toys",
+    "category": "toy"
   }
 ]
