@@ -9502,5 +9502,65 @@
     "name": "Bookeen",
     "name_en": "Bookeen",
     "category": "general"
+  },
+  {
+    "slug": "dn-automotive",
+    "name": "DN Automotive",
+    "name_en": "DN Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "dna-motors",
+    "name": "DNA Motors",
+    "name_en": "DNA Motors",
+    "category": "general"
+  },
+  {
+    "slug": "dohwa",
+    "name": "Dohwa",
+    "name_en": "Dohwa",
+    "category": "general"
+  },
+  {
+    "slug": "dong-ah-geological-engineering",
+    "name": "Dong-Ah Geological Engineering",
+    "name_en": "Dong-Ah Geological Engineering",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-corporation",
+    "name": "Doosan Corporation",
+    "name_en": "Doosan Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-group",
+    "name": "Doosan Group",
+    "name_en": "Doosan Group",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-enerbility",
+    "name": "Doosan Enerbility",
+    "name_en": "Doosan Enerbility",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-robotics",
+    "name": "Doosan Robotics",
+    "name_en": "Doosan Robotics",
+    "category": "general"
+  },
+  {
+    "slug": "dr-jart",
+    "name": "Dr. Jart+",
+    "name_en": "Dr. Jart+",
+    "category": "general"
+  },
+  {
+    "slug": "e-land-group",
+    "name": "E-Land Group",
+    "name_en": "E-Land Group",
+    "category": "general"
   }
 ]
