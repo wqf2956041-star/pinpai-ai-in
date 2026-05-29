@@ -7402,5 +7402,65 @@
     "name": "Bito",
     "name_en": "Bito",
     "category": "general"
+  },
+  {
+    "slug": "bitzer-se",
+    "name": "Bitzer SE",
+    "name_en": "Bitzer SE",
+    "category": "general"
+  },
+  {
+    "slug": "bizerba",
+    "name": "Bizerba",
+    "name_en": "Bizerba",
+    "category": "general"
+  },
+  {
+    "slug": "blau-mobilfunk",
+    "name": "Blau Mobilfunk",
+    "name_en": "Blau Mobilfunk",
+    "category": "general"
+  },
+  {
+    "slug": "blaupunkt",
+    "name": "Blaupunkt",
+    "name_en": "Blaupunkt",
+    "category": "general"
+  },
+  {
+    "slug": "blinkist",
+    "name": "Blinkist",
+    "name_en": "Blinkist",
+    "category": "general"
+  },
+  {
+    "slug": "blohmvoss",
+    "name": "Blohm+Voss",
+    "name_en": "Blohm+Voss",
+    "category": "general"
+  },
+  {
+    "slug": "blue-nun",
+    "name": "Blue Nun",
+    "name_en": "Blue Nun",
+    "category": "general"
+  },
+  {
+    "slug": "blthner",
+    "name": "Blüthner",
+    "name_en": "Blüthner",
+    "category": "general"
+  },
+  {
+    "slug": "blutwurz",
+    "name": "Blutwurz",
+    "name_en": "Blutwurz",
+    "category": "general"
+  },
+  {
+    "slug": "boehringer-ingelheim",
+    "name": "Boehringer Ingelheim",
+    "name_en": "Boehringer Ingelheim",
+    "category": "general"
   }
 ]
