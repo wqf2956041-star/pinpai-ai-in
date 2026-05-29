@@ -8722,5 +8722,65 @@
     "name": "Anest Iwata",
     "name_en": "Anest Iwata",
     "category": "general"
+  },
+  {
+    "slug": "anritsu",
+    "name": "Anritsu",
+    "name_en": "Anritsu",
+    "category": "general"
+  },
+  {
+    "slug": "aor-company",
+    "name": "AOR (company)",
+    "name_en": "AOR (company)",
+    "category": "general"
+  },
+  {
+    "slug": "apa-group-japan",
+    "name": "APA Group (Japan)",
+    "name_en": "APA Group (Japan)",
+    "category": "general"
+  },
+  {
+    "slug": "arai-helmet",
+    "name": "Arai Helmet",
+    "name_en": "Arai Helmet",
+    "category": "general"
+  },
+  {
+    "slug": "aria-guitar-company",
+    "name": "Aria (guitar company)",
+    "name_en": "Aria (guitar company)",
+    "category": "general"
+  },
+  {
+    "slug": "aritsugu",
+    "name": "Aritsugu",
+    "name_en": "Aritsugu",
+    "category": "general"
+  },
+  {
+    "slug": "asahi-breweries",
+    "name": "Asahi Breweries",
+    "name_en": "Asahi Breweries",
+    "category": "general"
+  },
+  {
+    "slug": "asahi-kasei",
+    "name": "Asahi Kasei",
+    "name_en": "Asahi Kasei",
+    "category": "general"
+  },
+  {
+    "slug": "asaka-distillery",
+    "name": "Asaka distillery",
+    "name_en": "Asaka distillery",
+    "category": "general"
+  },
+  {
+    "slug": "asmik-ace",
+    "name": "Asmik Ace",
+    "name_en": "Asmik Ace",
+    "category": "general"
   }
 ]
