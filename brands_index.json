@@ -9142,5 +9142,65 @@
     "name": "Big 5 Sporting Goods",
     "name_en": "Big 5 Sporting Goods",
     "category": "sportswear"
+  },
+  {
+    "slug": "automobiles-erad",
+    "name": "Automobiles ERAD",
+    "name_en": "Automobiles ERAD",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-hotchkiss",
+    "name": "Automobiles Hotchkiss",
+    "name_en": "Automobiles Hotchkiss",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-l-rosengart",
+    "name": "Automobiles L. Rosengart",
+    "name_en": "Automobiles L. Rosengart",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-talbot-france",
+    "name": "Automobiles Talbot France",
+    "name_en": "Automobiles Talbot France",
+    "category": "general"
+  },
+  {
+    "slug": "avenir-telecom",
+    "name": "Avenir Telecom",
+    "name_en": "Avenir Telecom",
+    "category": "general"
+  },
+  {
+    "slug": "avions-voisin",
+    "name": "Avions Voisin",
+    "name_en": "Avions Voisin",
+    "category": "general"
+  },
+  {
+    "slug": "axa",
+    "name": "Axa",
+    "name_en": "Axa",
+    "category": "general"
+  },
+  {
+    "slug": "babybel",
+    "name": "Babybel",
+    "name_en": "Babybel",
+    "category": "general"
+  },
+  {
+    "slug": "babyliss",
+    "name": "BaByliss",
+    "name_en": "BaByliss",
+    "category": "general"
+  },
+  {
+    "slug": "bac-films",
+    "name": "BAC Films",
+    "name_en": "BAC Films",
+    "category": "general"
   }
 ]
