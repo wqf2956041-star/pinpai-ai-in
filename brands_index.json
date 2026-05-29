@@ -9982,5 +9982,65 @@
     "name": "Campingaz",
     "name_en": "Campingaz",
     "category": "general"
+  },
+  {
+    "slug": "genesys-company",
+    "name": "Genesys (company)",
+    "name_en": "Genesys (company)",
+    "category": "general"
+  },
+  {
+    "slug": "goodyear-tire-and-rubber-company",
+    "name": "Goodyear Tire and Rubber Company",
+    "name_en": "Goodyear Tire and Rubber Company",
+    "category": "general"
+  },
+  {
+    "slug": "griffon-corporation",
+    "name": "Griffon Corporation",
+    "name_en": "Griffon Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "guidance-software",
+    "name": "Guidance Software",
+    "name_en": "Guidance Software",
+    "category": "general"
+  },
+  {
+    "slug": "hanesbrands",
+    "name": "Hanesbrands",
+    "name_en": "Hanesbrands",
+    "category": "general"
+  },
+  {
+    "slug": "harris-corporation",
+    "name": "Harris Corporation",
+    "name_en": "Harris Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "heinz",
+    "name": "Heinz",
+    "name_en": "Heinz",
+    "category": "general"
+  },
+  {
+    "slug": "hewlett-packard-enterprise",
+    "name": "Hewlett Packard Enterprise",
+    "name_en": "Hewlett Packard Enterprise",
+    "category": "general"
+  },
+  {
+    "slug": "hill-knowlton",
+    "name": "Hill & Knowlton",
+    "name_en": "Hill & Knowlton",
+    "category": "general"
+  },
+  {
+    "slug": "home-box-office-inc",
+    "name": "Home Box Office, Inc.",
+    "name_en": "Home Box Office, Inc.",
+    "category": "general"
   }
 ]
