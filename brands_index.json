@@ -6922,5 +6922,65 @@
     "name": "Bartec",
     "name_en": "Bartec",
     "category": "general"
+  },
+  {
+    "slug": "basler-fashion",
+    "name": "Basler (fashion)",
+    "name_en": "Basler (fashion)",
+    "category": "general"
+  },
+  {
+    "slug": "basse-und-selve",
+    "name": "Basse und Selve",
+    "name_en": "Basse und Selve",
+    "category": "general"
+  },
+  {
+    "slug": "bavaria-film",
+    "name": "Bavaria Film",
+    "name_en": "Bavaria Film",
+    "category": "general"
+  },
+  {
+    "slug": "bavaria-yachtbau",
+    "name": "Bavaria Yachtbau",
+    "name_en": "Bavaria Yachtbau",
+    "category": "general"
+  },
+  {
+    "slug": "bbs-autotechnik",
+    "name": "BBS Autotechnik",
+    "name_en": "BBS Autotechnik",
+    "category": "general"
+  },
+  {
+    "slug": "be-quiet",
+    "name": "Be quiet!",
+    "name_en": "Be quiet!",
+    "category": "general"
+  },
+  {
+    "slug": "c-bechstein",
+    "name": "C. Bechstein",
+    "name_en": "C. Bechstein",
+    "category": "general"
+  },
+  {
+    "slug": "beiersdorf",
+    "name": "Beiersdorf",
+    "name_en": "Beiersdorf",
+    "category": "general"
+  },
+  {
+    "slug": "berentzen",
+    "name": "Berentzen",
+    "name_en": "Berentzen",
+    "category": "general"
+  },
+  {
+    "slug": "bergfrst",
+    "name": "Bergfürst",
+    "name_en": "Bergfürst",
+    "category": "general"
   }
 ]
