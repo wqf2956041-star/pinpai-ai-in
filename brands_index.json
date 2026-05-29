@@ -9622,5 +9622,65 @@
     "name": "Gin Gliders",
     "name_en": "Gin Gliders",
     "category": "general"
+  },
+  {
+    "slug": "excite-web-portal",
+    "name": "Excite (web portal)",
+    "name_en": "Excite (web portal)",
+    "category": "general"
+  },
+  {
+    "slug": "expeditors-international",
+    "name": "Expeditors International",
+    "name_en": "Expeditors International",
+    "category": "general"
+  },
+  {
+    "slug": "exponent-inc",
+    "name": "Exponent, Inc.",
+    "name_en": "Exponent, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "exxonmobil",
+    "name": "ExxonMobil",
+    "name_en": "ExxonMobil",
+    "category": "general"
+  },
+  {
+    "slug": "farrow-customs-brokerage",
+    "name": "Farrow (customs brokerage)",
+    "name_en": "Farrow (customs brokerage)",
+    "category": "general"
+  },
+  {
+    "slug": "fedex",
+    "name": "FedEx",
+    "name_en": "FedEx",
+    "category": "general"
+  },
+  {
+    "slug": "fico",
+    "name": "FICO",
+    "name_en": "FICO",
+    "category": "general"
+  },
+  {
+    "slug": "fidelity-investments",
+    "name": "Fidelity Investments",
+    "name_en": "Fidelity Investments",
+    "category": "general"
+  },
+  {
+    "slug": "fis-company",
+    "name": "FIS (company)",
+    "name_en": "FIS (company)",
+    "category": "general"
+  },
+  {
+    "slug": "fiserv",
+    "name": "Fiserv",
+    "name_en": "Fiserv",
+    "category": "general"
   }
 ]
