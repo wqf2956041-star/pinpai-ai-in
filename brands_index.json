@@ -7162,5 +7162,65 @@
     "name": "Bovet Fleurier",
     "name_en": "Bovet Fleurier",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "breguet-brand",
+    "name": "Breguet (brand)",
+    "name_en": "Breguet (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "breil-company",
+    "name": "Breil (company)",
+    "name_en": "Breil (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "breitling-sa",
+    "name": "Breitling SA",
+    "name_en": "Breitling SA",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "brooks-brothers",
+    "name": "Brooks Brothers",
+    "name_en": "Brooks Brothers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "buccellati",
+    "name": "Buccellati",
+    "name_en": "Buccellati",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "byredo",
+    "name": "Byredo",
+    "name_en": "Byredo",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "c-hoare-co",
+    "name": "C. Hoare & Co",
+    "name_en": "C. Hoare & Co",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "calibre-menswear",
+    "name": "Calibre (menswear)",
+    "name_en": "Calibre (menswear)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "canali",
+    "name": "Canali",
+    "name_en": "Canali",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "canton-electronics",
+    "name": "Canton Electronics",
+    "name_en": "Canton Electronics",
+    "category": "fashion-luxury"
   }
 ]
