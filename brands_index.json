@@ -7762,5 +7762,65 @@
     "name": "Franke (company)",
     "name_en": "Franke (company)",
     "category": "general"
+  },
+  {
+    "slug": "gallus-holding",
+    "name": "Gallus Holding",
+    "name_en": "Gallus Holding",
+    "category": "general"
+  },
+  {
+    "slug": "geberit",
+    "name": "Geberit",
+    "name_en": "Geberit",
+    "category": "general"
+  },
+  {
+    "slug": "gisada",
+    "name": "Gisada",
+    "name_en": "Gisada",
+    "category": "general"
+  },
+  {
+    "slug": "givaudan",
+    "name": "Givaudan",
+    "name_en": "Givaudan",
+    "category": "general"
+  },
+  {
+    "slug": "glasi-hergiswil",
+    "name": "Glasi Hergiswil",
+    "name_en": "Glasi Hergiswil",
+    "category": "general"
+  },
+  {
+    "slug": "goldkenn",
+    "name": "Goldkenn",
+    "name_en": "Goldkenn",
+    "category": "general"
+  },
+  {
+    "slug": "goldvish",
+    "name": "Goldvish",
+    "name_en": "Goldvish",
+    "category": "general"
+  },
+  {
+    "slug": "grethers-pastilles",
+    "name": "Grether's Pastilles",
+    "name_en": "Grether's Pastilles",
+    "category": "general"
+  },
+  {
+    "slug": "hag",
+    "name": "HAG",
+    "name_en": "HAG",
+    "category": "general"
+  },
+  {
+    "slug": "heidicom",
+    "name": "Heidi.com",
+    "name_en": "Heidi.com",
+    "category": "general"
   }
 ]
