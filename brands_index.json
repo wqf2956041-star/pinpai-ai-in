@@ -7522,5 +7522,65 @@
     "name": "Brose Fahrzeugteile",
     "name_en": "Brose Fahrzeugteile",
     "category": "general"
+  },
+  {
+    "slug": "budnikowsky",
+    "name": "Budnikowsky",
+    "name_en": "Budnikowsky",
+    "category": "general"
+  },
+  {
+    "slug": "bullyland",
+    "name": "Bullyland",
+    "name_en": "Bullyland",
+    "category": "general"
+  },
+  {
+    "slug": "brkert",
+    "name": "Bürkert",
+    "name_en": "Bürkert",
+    "category": "general"
+  },
+  {
+    "slug": "c-lorenz-ag",
+    "name": "C. Lorenz AG",
+    "name_en": "C. Lorenz AG",
+    "category": "general"
+  },
+  {
+    "slug": "cg-haenel",
+    "name": "C.G. Haenel",
+    "name_en": "C.G. Haenel",
+    "category": "general"
+  },
+  {
+    "slug": "canyon-bicycles",
+    "name": "Canyon Bicycles",
+    "name_en": "Canyon Bicycles",
+    "category": "general"
+  },
+  {
+    "slug": "casco-schtzhelme",
+    "name": "Casco Schützhelme",
+    "name_en": "Casco Schützhelme",
+    "category": "general"
+  },
+  {
+    "slug": "celemony-software",
+    "name": "Celemony Software",
+    "name_en": "Celemony Software",
+    "category": "general"
+  },
+  {
+    "slug": "grnenthal",
+    "name": "Grünenthal",
+    "name_en": "Grünenthal",
+    "category": "general"
+  },
+  {
+    "slug": "cherry-ag",
+    "name": "Cherry AG",
+    "name_en": "Cherry AG",
+    "category": "general"
   }
 ]
