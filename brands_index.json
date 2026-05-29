@@ -9922,5 +9922,65 @@
     "name": "Bricostore",
     "name_en": "Bricostore",
     "category": "general"
+  },
+  {
+    "slug": "bruay-mining-company",
+    "name": "Bruay Mining Company",
+    "name_en": "Bruay Mining Company",
+    "category": "general"
+  },
+  {
+    "slug": "buffet-crampon",
+    "name": "Buffet Crampon",
+    "name_en": "Buffet Crampon",
+    "category": "general"
+  },
+  {
+    "slug": "bugatti-automobiles",
+    "name": "Bugatti Automobiles",
+    "name_en": "Bugatti Automobiles",
+    "category": "general"
+  },
+  {
+    "slug": "but-retailer",
+    "name": "BUT (retailer)",
+    "name_en": "BUT (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "cabasse-company",
+    "name": "Cabasse (company)",
+    "name_en": "Cabasse (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cacharel",
+    "name": "Cacharel",
+    "name_en": "Cacharel",
+    "category": "general"
+  },
+  {
+    "slug": "calmann-lvy",
+    "name": "Calmann-Lévy",
+    "name_en": "Calmann-Lévy",
+    "category": "general"
+  },
+  {
+    "slug": "camaeu-company",
+    "name": "Camaïeu (company)",
+    "name_en": "Camaïeu (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cameca",
+    "name": "CAMECA",
+    "name_en": "CAMECA",
+    "category": "general"
+  },
+  {
+    "slug": "campingaz",
+    "name": "Campingaz",
+    "name_en": "Campingaz",
+    "category": "general"
   }
 ]
