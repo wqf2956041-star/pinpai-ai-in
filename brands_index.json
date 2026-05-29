@@ -6502,5 +6502,65 @@
     "name": "Ben Sherman",
     "name_en": "Ben Sherman",
     "category": "general"
+  },
+  {
+    "slug": "12-bis",
+    "name": "12 bis",
+    "name_en": "12 bis",
+    "category": "general"
+  },
+  {
+    "slug": "alb-watches",
+    "name": "A.L.B (Watches)",
+    "name_en": "A.L.B (Watches)",
+    "category": "general"
+  },
+  {
+    "slug": "acmat",
+    "name": "ACMAT",
+    "name_en": "ACMAT",
+    "category": "general"
+  },
+  {
+    "slug": "actes-sud",
+    "name": "Actes Sud",
+    "name_en": "Actes Sud",
+    "category": "general"
+  },
+  {
+    "slug": "activia",
+    "name": "Activia",
+    "name_en": "Activia",
+    "category": "general"
+  },
+  {
+    "slug": "arospatiale",
+    "name": "Aérospatiale",
+    "name_en": "Aérospatiale",
+    "category": "general"
+  },
+  {
+    "slug": "ag2r-la-mondiale",
+    "name": "AG2R La Mondiale",
+    "name_en": "AG2R La Mondiale",
+    "category": "general"
+  },
+  {
+    "slug": "agrial",
+    "name": "Agrial",
+    "name_en": "Agrial",
+    "category": "general"
+  },
+  {
+    "slug": "aigle-company",
+    "name": "Aigle (company)",
+    "name_en": "Aigle (company)",
+    "category": "general"
+  },
+  {
+    "slug": "air-carabes",
+    "name": "Air Caraïbes",
+    "name_en": "Air Caraïbes",
+    "category": "general"
   }
 ]
