@@ -8542,5 +8542,65 @@
     "name": "Automobiles Chatenet",
     "name_en": "Automobiles Chatenet",
     "category": "general"
+  },
+  {
+    "slug": "cj-enm-films-television",
+    "name": "CJ ENM Films & Television",
+    "name_en": "CJ ENM Films & Television",
+    "category": "general"
+  },
+  {
+    "slug": "cj-group",
+    "name": "CJ Group",
+    "name_en": "CJ Group",
+    "category": "general"
+  },
+  {
+    "slug": "cort-guitars",
+    "name": "Cort Guitars",
+    "name_en": "Cort Guitars",
+    "category": "general"
+  },
+  {
+    "slug": "coupang",
+    "name": "Coupang",
+    "name_en": "Coupang",
+    "category": "general"
+  },
+  {
+    "slug": "cowon",
+    "name": "Cowon",
+    "name_en": "Cowon",
+    "category": "general"
+  },
+  {
+    "slug": "crown-confectionery",
+    "name": "Crown Confectionery",
+    "name_en": "Crown Confectionery",
+    "category": "general"
+  },
+  {
+    "slug": "crucialtec",
+    "name": "CrucialTec",
+    "name_en": "CrucialTec",
+    "category": "general"
+  },
+  {
+    "slug": "ctt-united",
+    "name": "CT&T United",
+    "name_en": "CT&T United",
+    "category": "general"
+  },
+  {
+    "slug": "cu-store",
+    "name": "CU (store)",
+    "name_en": "CU (store)",
+    "category": "general"
+  },
+  {
+    "slug": "cuckoo-electronics",
+    "name": "Cuckoo Electronics",
+    "name_en": "Cuckoo Electronics",
+    "category": "general"
   }
 ]
