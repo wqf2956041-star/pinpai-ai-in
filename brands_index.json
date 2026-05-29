@@ -8242,5 +8242,125 @@
     "name": "Kota the triceratops",
     "name_en": "Kota the triceratops",
     "category": "toy"
+  },
+  {
+    "slug": "kre-o",
+    "name": "Kre-O",
+    "name_en": "Kre-O",
+    "category": "toy"
+  },
+  {
+    "slug": "labubu",
+    "name": "Labubu",
+    "name_en": "Labubu",
+    "category": "toy"
+  },
+  {
+    "slug": "legendz",
+    "name": "Legendz",
+    "name_en": "Legendz",
+    "category": "toy"
+  },
+  {
+    "slug": "lima-models",
+    "name": "Lima (models)",
+    "name_en": "Lima (models)",
+    "category": "toy"
+  },
+  {
+    "slug": "line-friends",
+    "name": "Line Friends",
+    "name_en": "Line Friends",
+    "category": "toy"
+  },
+  {
+    "slug": "lintoy",
+    "name": "Lintoy",
+    "name_en": "Lintoy",
+    "category": "toy"
+  },
+  {
+    "slug": "little-live-gotta-go-pets-brand",
+    "name": "Little Live \"Gotta Go\" Pets (brand)",
+    "name_en": "Little Live \"Gotta Go\" Pets (brand)",
+    "category": "toy"
+  },
+  {
+    "slug": "littlest-pet-shop",
+    "name": "Littlest Pet Shop",
+    "name_en": "Littlest Pet Shop",
+    "category": "toy"
+  },
+  {
+    "slug": "lledo",
+    "name": "Lledo",
+    "name_en": "Lledo",
+    "category": "toy"
+  },
+  {
+    "slug": "lone-star-toys",
+    "name": "Lone Star Toys",
+    "name_en": "Lone Star Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "cortbert-watch-manufacturer",
+    "name": "Cortébert (watch manufacturer)",
+    "name_en": "Cortébert (watch manufacturer)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "corum-watchmakers",
+    "name": "Corum (watchmakers)",
+    "name_en": "Corum (watchmakers)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cottin-sas",
+    "name": "Cottin SAS",
+    "name_en": "Cottin SAS",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cunard-line",
+    "name": "Cunard Line",
+    "name_en": "Cunard Line",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "curtis-australia",
+    "name": "Curtis Australia",
+    "name_en": "Curtis Australia",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ds-durga",
+    "name": "D.S. & Durga",
+    "name_en": "D.S. & Durga",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "george-daniels-watchmaker",
+    "name": "George Daniels (watchmaker)",
+    "name_en": "George Daniels (watchmaker)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "de-beers",
+    "name": "De Beers",
+    "name_en": "De Beers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "de-grisogono",
+    "name": "De Grisogono",
+    "name_en": "De Grisogono",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "delvaux-company",
+    "name": "Delvaux (company)",
+    "name_en": "Delvaux (company)",
+    "category": "fashion-luxury"
   }
 ]
