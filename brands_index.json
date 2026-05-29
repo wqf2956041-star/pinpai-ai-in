@@ -9262,5 +9262,65 @@
     "name": "Baron de Lestac",
     "name_en": "Baron de Lestac",
     "category": "general"
+  },
+  {
+    "slug": "camper-company",
+    "name": "Camper (company)",
+    "name_en": "Camper (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "cariuma",
+    "name": "Cariuma",
+    "name_en": "Cariuma",
+    "category": "fashion"
+  },
+  {
+    "slug": "cats-paw-brand",
+    "name": "Cat's Paw (brand)",
+    "name_en": "Cat's Paw (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "chaco-footwear",
+    "name": "Chaco (footwear)",
+    "name_en": "Chaco (footwear)",
+    "category": "fashion"
+  },
+  {
+    "slug": "charles-david-company",
+    "name": "Charles David (company)",
+    "name_en": "Charles David (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "circa-company",
+    "name": "Circa (company)",
+    "name_en": "Circa (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "colchester-rubber-co",
+    "name": "Colchester Rubber Co.",
+    "name_en": "Colchester Rubber Co.",
+    "category": "fashion"
+  },
+  {
+    "slug": "cole-haan",
+    "name": "Cole Haan",
+    "name_en": "Cole Haan",
+    "category": "fashion"
+  },
+  {
+    "slug": "columbia-montrail",
+    "name": "Columbia Montrail",
+    "name_en": "Columbia Montrail",
+    "category": "fashion"
+  },
+  {
+    "slug": "columbia-sportswear",
+    "name": "Columbia Sportswear",
+    "name_en": "Columbia Sportswear",
+    "category": "fashion"
   }
 ]
