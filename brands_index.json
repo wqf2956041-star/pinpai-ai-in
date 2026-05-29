@@ -7942,5 +7942,65 @@
     "name": "Capstan (cigarette)",
     "name_en": "Capstan (cigarette)",
     "category": "general"
+  },
+  {
+    "slug": "carl-f-bucherer",
+    "name": "Carl F. Bucherer",
+    "name_en": "Carl F. Bucherer",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cartier-jeweler",
+    "name": "Cartier (jeweler)",
+    "name_en": "Cartier (jeweler)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "castelli-brand",
+    "name": "Castelli (brand)",
+    "name_en": "Castelli (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "caviar-company",
+    "name": "Caviar (company)",
+    "name_en": "Caviar (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cecil-purnell",
+    "name": "Cecil Purnell",
+    "name_en": "Cecil Purnell",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "century-time-gems",
+    "name": "Century Time Gems",
+    "name_en": "Century Time Gems",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "chalhoub-group",
+    "name": "Chalhoub Group",
+    "name_en": "Chalhoub Group",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "charles-keith",
+    "name": "Charles & Keith",
+    "name_en": "Charles & Keith",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "charles-heidsieck-champagne",
+    "name": "Charles Heidsieck (Champagne)",
+    "name_en": "Charles Heidsieck (Champagne)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "charriol",
+    "name": "Charriol",
+    "name_en": "Charriol",
+    "category": "fashion-luxury"
   }
 ]
