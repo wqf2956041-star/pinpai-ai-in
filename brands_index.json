@@ -9382,5 +9382,65 @@
     "name": "Dunlop Sport (Australia)",
     "name_en": "Dunlop Sport (Australia)",
     "category": "fashion"
+  },
+  {
+    "slug": "bel-group",
+    "name": "Bel Group",
+    "name_en": "Bel Group",
+    "category": "general"
+  },
+  {
+    "slug": "bellanger-automobile",
+    "name": "Bellanger (automobile)",
+    "name_en": "Bellanger (automobile)",
+    "category": "general"
+  },
+  {
+    "slug": "bergger",
+    "name": "Bergger",
+    "name_en": "Bergger",
+    "category": "general"
+  },
+  {
+    "slug": "berliet",
+    "name": "Berliet",
+    "name_en": "Berliet",
+    "category": "general"
+  },
+  {
+    "slug": "berthillon",
+    "name": "Berthillon",
+    "name_en": "Berthillon",
+    "category": "general"
+  },
+  {
+    "slug": "betjeman-barton",
+    "name": "Betjeman & Barton",
+    "name_en": "Betjeman & Barton",
+    "category": "general"
+  },
+  {
+    "slug": "beuchat",
+    "name": "Beuchat",
+    "name_en": "Beuchat",
+    "category": "general"
+  },
+  {
+    "slug": "bic",
+    "name": "Bic",
+    "name_en": "Bic",
+    "category": "general"
+  },
+  {
+    "slug": "bire-de-garde",
+    "name": "Bière de Garde",
+    "name_en": "Bière de Garde",
+    "category": "general"
+  },
+  {
+    "slug": "bignan-automobile",
+    "name": "Bignan (automobile)",
+    "name_en": "Bignan (automobile)",
+    "category": "general"
   }
 ]
