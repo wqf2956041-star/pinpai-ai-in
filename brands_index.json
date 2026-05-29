@@ -10042,5 +10042,65 @@
     "name": "Home Box Office, Inc.",
     "name_en": "Home Box Office, Inc.",
     "category": "general"
+  },
+  {
+    "slug": "hp-inc",
+    "name": "HP Inc.",
+    "name_en": "HP Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ibex-global",
+    "name": "Ibex Global",
+    "name_en": "Ibex Global",
+    "category": "general"
+  },
+  {
+    "slug": "infogix-inc",
+    "name": "Infogix, Inc.",
+    "name_en": "Infogix, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ingredion",
+    "name": "Ingredion",
+    "name_en": "Ingredion",
+    "category": "general"
+  },
+  {
+    "slug": "insight-enterprises",
+    "name": "Insight Enterprises",
+    "name_en": "Insight Enterprises",
+    "category": "general"
+  },
+  {
+    "slug": "instacart",
+    "name": "Instacart",
+    "name_en": "Instacart",
+    "category": "general"
+  },
+  {
+    "slug": "interactive-brokers",
+    "name": "Interactive Brokers",
+    "name_en": "Interactive Brokers",
+    "category": "general"
+  },
+  {
+    "slug": "international-paper",
+    "name": "International Paper",
+    "name_en": "International Paper",
+    "category": "general"
+  },
+  {
+    "slug": "iyuno",
+    "name": "Iyuno",
+    "name_en": "Iyuno",
+    "category": "general"
+  },
+  {
+    "slug": "jacobs-solutions",
+    "name": "Jacobs Solutions",
+    "name_en": "Jacobs Solutions",
+    "category": "general"
   }
 ]
