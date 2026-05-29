@@ -7222,5 +7222,65 @@
     "name": "Canton Electronics",
     "name_en": "Canton Electronics",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "crescent-toys",
+    "name": "Crescent Toys",
+    "name_en": "Crescent Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "cube-world-toy",
+    "name": "Cube World (toy)",
+    "name_en": "Cube World (toy)",
+    "category": "toy"
+  },
+  {
+    "slug": "dinky-toys",
+    "name": "Dinky Toys",
+    "name_en": "Dinky Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "disney-fairies",
+    "name": "Disney Fairies",
+    "name_en": "Disney Fairies",
+    "category": "toy"
+  },
+  {
+    "slug": "the-dog-franchise",
+    "name": "The Dog (franchise)",
+    "name_en": "The Dog (franchise)",
+    "category": "toy"
+  },
+  {
+    "slug": "domino-rally",
+    "name": "Domino Rally",
+    "name_en": "Domino Rally",
+    "category": "toy"
+  },
+  {
+    "slug": "dragon-models-limited",
+    "name": "Dragon Models Limited",
+    "name_en": "Dragon Models Limited",
+    "category": "toy"
+  },
+  {
+    "slug": "dugu-miniautotoys",
+    "name": "Dugu Miniautotoys",
+    "name_en": "Dugu Miniautotoys",
+    "category": "toy"
+  },
+  {
+    "slug": "dulcop",
+    "name": "Dulcop",
+    "name_en": "Dulcop",
+    "category": "toy"
+  },
+  {
+    "slug": "dyna-flytes",
+    "name": "Dyna-Flytes",
+    "name_en": "Dyna-Flytes",
+    "category": "toy"
   }
 ]
