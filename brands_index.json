@@ -8602,5 +8602,65 @@
     "name": "Cuckoo Electronics",
     "name_en": "Cuckoo Electronics",
     "category": "general"
+  },
+  {
+    "slug": "daedong-company",
+    "name": "Daedong (company)",
+    "name_en": "Daedong (company)",
+    "category": "general"
+  },
+  {
+    "slug": "daewon-media",
+    "name": "Daewon Media",
+    "name_en": "Daewon Media",
+    "category": "general"
+  },
+  {
+    "slug": "daewoo",
+    "name": "Daewoo",
+    "name_en": "Daewoo",
+    "category": "general"
+  },
+  {
+    "slug": "dasan-networks",
+    "name": "DASAN Networks",
+    "name_en": "DASAN Networks",
+    "category": "general"
+  },
+  {
+    "slug": "daum-web-portal",
+    "name": "Daum (web portal)",
+    "name_en": "Daum (web portal)",
+    "category": "general"
+  },
+  {
+    "slug": "dawonsys",
+    "name": "Dawonsys",
+    "name_en": "Dawonsys",
+    "category": "general"
+  },
+  {
+    "slug": "db-hitek",
+    "name": "DB HiTek",
+    "name_en": "DB HiTek",
+    "category": "general"
+  },
+  {
+    "slug": "db-insurance",
+    "name": "DB Insurance",
+    "name_en": "DB Insurance",
+    "category": "general"
+  },
+  {
+    "slug": "di-corporation",
+    "name": "DI Corporation",
+    "name_en": "DI Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "dl-ec",
+    "name": "DL E&C",
+    "name_en": "DL E&C",
+    "category": "general"
   }
 ]
