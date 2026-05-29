@@ -10102,5 +10102,65 @@
     "name": "Jacobs Solutions",
     "name_en": "Jacobs Solutions",
     "category": "general"
+  },
+  {
+    "slug": "aspark",
+    "name": "Aspark",
+    "name_en": "Aspark",
+    "category": "general"
+  },
+  {
+    "slug": "astellas-pharma",
+    "name": "Astellas Pharma",
+    "name_en": "Astellas Pharma",
+    "category": "general"
+  },
+  {
+    "slug": "au-mobile-phone-company",
+    "name": "Au (mobile phone company)",
+    "name_en": "Au (mobile phone company)",
+    "category": "general"
+  },
+  {
+    "slug": "audio-technica",
+    "name": "Audio-Technica",
+    "name_en": "Audio-Technica",
+    "category": "general"
+  },
+  {
+    "slug": "autech",
+    "name": "Autech",
+    "name_en": "Autech",
+    "category": "general"
+  },
+  {
+    "slug": "bandai-namco-entertainment",
+    "name": "Bandai Namco Entertainment",
+    "name_en": "Bandai Namco Entertainment",
+    "category": "general"
+  },
+  {
+    "slug": "bh-lifes",
+    "name": "B&H Lifes",
+    "name_en": "B&H Lifes",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-yokohama",
+    "name": "Bank of Yokohama",
+    "name_en": "Bank of Yokohama",
+    "category": "general"
+  },
+  {
+    "slug": "banpresto",
+    "name": "Banpresto",
+    "name_en": "Banpresto",
+    "category": "general"
+  },
+  {
+    "slug": "bic-camera",
+    "name": "Bic Camera",
+    "name_en": "Bic Camera",
+    "category": "general"
   }
 ]
