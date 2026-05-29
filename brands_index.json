@@ -9562,5 +9562,65 @@
     "name": "E-Land Group",
     "name_en": "E-Land Group",
     "category": "general"
+  },
+  {
+    "slug": "eastar-jet",
+    "name": "Eastar Jet",
+    "name_en": "Eastar Jet",
+    "category": "general"
+  },
+  {
+    "slug": "estsoft",
+    "name": "ESTsoft",
+    "name_en": "ESTsoft",
+    "category": "general"
+  },
+  {
+    "slug": "eukor",
+    "name": "EUKOR",
+    "name_en": "EUKOR",
+    "category": "general"
+  },
+  {
+    "slug": "exr-clothing",
+    "name": "EXR (clothing)",
+    "name_en": "EXR (clothing)",
+    "category": "general"
+  },
+  {
+    "slug": "freenex",
+    "name": "Freenex",
+    "name_en": "Freenex",
+    "category": "general"
+  },
+  {
+    "slug": "genematrix",
+    "name": "GeneMatrix",
+    "name_en": "GeneMatrix",
+    "category": "general"
+  },
+  {
+    "slug": "genesis-motor",
+    "name": "Genesis Motor",
+    "name_en": "Genesis Motor",
+    "category": "general"
+  },
+  {
+    "slug": "gentle-monster",
+    "name": "Gentle Monster",
+    "name_en": "Gentle Monster",
+    "category": "general"
+  },
+  {
+    "slug": "giga-island",
+    "name": "GiGA Island",
+    "name_en": "GiGA Island",
+    "category": "general"
+  },
+  {
+    "slug": "gin-gliders",
+    "name": "Gin Gliders",
+    "name_en": "Gin Gliders",
+    "category": "general"
   }
 ]
