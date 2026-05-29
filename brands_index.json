@@ -7582,5 +7582,65 @@
     "name": "Cherry AG",
     "name_en": "Cherry AG",
     "category": "general"
+  },
+  {
+    "slug": "benson-clegg",
+    "name": "Benson & Clegg",
+    "name_en": "Benson & Clegg",
+    "category": "general"
+  },
+  {
+    "slug": "benson-hedges",
+    "name": "Benson & Hedges",
+    "name_en": "Benson & Hedges",
+    "category": "general"
+  },
+  {
+    "slug": "berghaus",
+    "name": "Berghaus",
+    "name_en": "Berghaus",
+    "category": "general"
+  },
+  {
+    "slug": "berol",
+    "name": "Berol",
+    "name_en": "Berol",
+    "category": "general"
+  },
+  {
+    "slug": "betterware",
+    "name": "Betterware",
+    "name_en": "Betterware",
+    "category": "general"
+  },
+  {
+    "slug": "beulah-london",
+    "name": "Beulah London",
+    "name_en": "Beulah London",
+    "category": "general"
+  },
+  {
+    "slug": "binatone",
+    "name": "Binatone",
+    "name_en": "Binatone",
+    "category": "general"
+  },
+  {
+    "slug": "bing-soft-drink",
+    "name": "Bing (soft drink)",
+    "name_en": "Bing (soft drink)",
+    "category": "general"
+  },
+  {
+    "slug": "birmingham-battery-and-metal-company",
+    "name": "Birmingham Battery and Metal Company",
+    "name_en": "Birmingham Battery and Metal Company",
+    "category": "general"
+  },
+  {
+    "slug": "birmingham-small-arms-company",
+    "name": "Birmingham Small Arms Company",
+    "name_en": "Birmingham Small Arms Company",
+    "category": "general"
   }
 ]
