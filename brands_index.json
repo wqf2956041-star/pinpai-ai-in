@@ -6682,5 +6682,65 @@
     "name": "Chocolat Kohler",
     "name_en": "Chocolat Kohler",
     "category": "general"
+  },
+  {
+    "slug": "chocolat-suchard",
+    "name": "Chocolat Suchard",
+    "name_en": "Chocolat Suchard",
+    "category": "general"
+  },
+  {
+    "slug": "chocolats-halba",
+    "name": "Chocolats Halba",
+    "name_en": "Chocolats Halba",
+    "category": "general"
+  },
+  {
+    "slug": "claro-fair-trade",
+    "name": "Claro fair trade",
+    "name_en": "Claro fair trade",
+    "category": "general"
+  },
+  {
+    "slug": "clearblue",
+    "name": "Clearblue",
+    "name_en": "Clearblue",
+    "category": "general"
+  },
+  {
+    "slug": "credit-suisse",
+    "name": "Credit Suisse",
+    "name_en": "Credit Suisse",
+    "category": "general"
+  },
+  {
+    "slug": "dali-everyday-grocery",
+    "name": "Dali Everyday Grocery",
+    "name_en": "Dali Everyday Grocery",
+    "category": "general"
+  },
+  {
+    "slug": "davidoff",
+    "name": "Davidoff",
+    "name_en": "Davidoff",
+    "category": "general"
+  },
+  {
+    "slug": "dectris",
+    "name": "Dectris",
+    "name_en": "Dectris",
+    "category": "general"
+  },
+  {
+    "slug": "doppelmayrgaraventa-group",
+    "name": "Doppelmayr/Garaventa Group",
+    "name_en": "Doppelmayr/Garaventa Group",
+    "category": "general"
+  },
+  {
+    "slug": "dormakaba",
+    "name": "Dormakaba",
+    "name_en": "Dormakaba",
+    "category": "general"
   }
 ]
