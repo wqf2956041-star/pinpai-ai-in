@@ -8422,5 +8422,65 @@
     "name": "Drumohr",
     "name_en": "Drumohr",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "amundi",
+    "name": "Amundi",
+    "name_en": "Amundi",
+    "category": "general"
+  },
+  {
+    "slug": "andros-company",
+    "name": "Andros (company)",
+    "name_en": "Andros (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ankama",
+    "name": "Ankama",
+    "name_en": "Ankama",
+    "category": "general"
+  },
+  {
+    "slug": "arc-holdings",
+    "name": "Arc Holdings",
+    "name_en": "Arc Holdings",
+    "category": "general"
+  },
+  {
+    "slug": "archos",
+    "name": "Archos",
+    "name_en": "Archos",
+    "category": "general"
+  },
+  {
+    "slug": "areva",
+    "name": "Areva",
+    "name_en": "Areva",
+    "category": "general"
+  },
+  {
+    "slug": "arkema",
+    "name": "Arkema",
+    "name_en": "Arkema",
+    "category": "general"
+  },
+  {
+    "slug": "armand-colin",
+    "name": "Armand Colin",
+    "name_en": "Armand Colin",
+    "category": "general"
+  },
+  {
+    "slug": "armand-de-brignac",
+    "name": "Armand de Brignac",
+    "name_en": "Armand de Brignac",
+    "category": "general"
+  },
+  {
+    "slug": "arturia",
+    "name": "Arturia",
+    "name_en": "Arturia",
+    "category": "general"
   }
 ]
