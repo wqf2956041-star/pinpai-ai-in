@@ -7702,5 +7702,65 @@
     "name": "Bremont",
     "name_en": "Bremont",
     "category": "general"
+  },
+  {
+    "slug": "edenly",
+    "name": "Edenly",
+    "name_en": "Edenly",
+    "category": "general"
+  },
+  {
+    "slug": "elmex",
+    "name": "Elmex",
+    "name_en": "Elmex",
+    "category": "general"
+  },
+  {
+    "slug": "elna-swiss-company",
+    "name": "Elna (Swiss company)",
+    "name_en": "Elna (Swiss company)",
+    "category": "general"
+  },
+  {
+    "slug": "emmi-ag",
+    "name": "Emmi AG",
+    "name_en": "Emmi AG",
+    "category": "general"
+  },
+  {
+    "slug": "endresshauser",
+    "name": "Endress+Hauser",
+    "name_en": "Endress+Hauser",
+    "category": "general"
+  },
+  {
+    "slug": "favarger",
+    "name": "Favarger",
+    "name_en": "Favarger",
+    "category": "general"
+  },
+  {
+    "slug": "fenjal",
+    "name": "Fenjal",
+    "name_en": "Fenjal",
+    "category": "general"
+  },
+  {
+    "slug": "foba",
+    "name": "Foba",
+    "name_en": "Foba",
+    "category": "general"
+  },
+  {
+    "slug": "forbo-holding-ag",
+    "name": "Forbo Holding AG",
+    "name_en": "Forbo Holding AG",
+    "category": "general"
+  },
+  {
+    "slug": "franke-company",
+    "name": "Franke (company)",
+    "name_en": "Franke (company)",
+    "category": "general"
   }
 ]
