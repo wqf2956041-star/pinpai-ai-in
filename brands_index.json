@@ -7102,5 +7102,65 @@
     "name": "Automobili Estrema",
     "name_en": "Automobili Estrema",
     "category": "general"
+  },
+  {
+    "slug": "bianchet",
+    "name": "Bianchet",
+    "name_en": "Bianchet",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "biartis",
+    "name": "BiArtis",
+    "name_en": "BiArtis",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "black-astrum",
+    "name": "Black Astrum",
+    "name_en": "Black Astrum",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "blanchet-watch",
+    "name": "Blanchet (watch)",
+    "name_en": "Blanchet (watch)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "blancpain",
+    "name": "Blancpain",
+    "name_en": "Blancpain",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "blood-diamond",
+    "name": "Blood diamond",
+    "name_en": "Blood diamond",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "boodles-company",
+    "name": "Boodles (company)",
+    "name_en": "Boodles (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bookmarc",
+    "name": "Bookmarc",
+    "name_en": "Bookmarc",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bsendorfer",
+    "name": "Bösendorfer",
+    "name_en": "Bösendorfer",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bovet-fleurier",
+    "name": "Bovet Fleurier",
+    "name_en": "Bovet Fleurier",
+    "category": "fashion-luxury"
   }
 ]
