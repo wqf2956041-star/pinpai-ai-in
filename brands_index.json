@@ -10342,5 +10342,65 @@
     "name": "Crons",
     "name_en": "Crons",
     "category": "sportswear"
+  },
+  {
+    "slug": "farmers-union-iced-coffee",
+    "name": "Farmers Union Iced Coffee",
+    "name_en": "Farmers Union Iced Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "figaro-coffee",
+    "name": "Figaro Coffee",
+    "name_en": "Figaro Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "fire-department-coffee",
+    "name": "Fire Department Coffee",
+    "name_en": "Fire Department Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "flocaf",
+    "name": "Flocafé",
+    "name_en": "Flocafé",
+    "category": "food"
+  },
+  {
+    "slug": "folgers",
+    "name": "Folgers",
+    "name_en": "Folgers",
+    "category": "food"
+  },
+  {
+    "slug": "franck-company",
+    "name": "Franck (company)",
+    "name_en": "Franck (company)",
+    "category": "food"
+  },
+  {
+    "slug": "the-freaky-bean-coffee-company",
+    "name": "The Freaky Bean Coffee Company",
+    "name_en": "The Freaky Bean Coffee Company",
+    "category": "food"
+  },
+  {
+    "slug": "friele",
+    "name": "Friele",
+    "name_en": "Friele",
+    "category": "food"
+  },
+  {
+    "slug": "gavia-gourmet-coffee",
+    "name": "Gaviña Gourmet Coffee",
+    "name_en": "Gaviña Gourmet Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "georgia-coffee",
+    "name": "Georgia (coffee)",
+    "name_en": "Georgia (coffee)",
+    "category": "food"
   }
 ]
