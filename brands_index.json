@@ -8122,5 +8122,65 @@
     "name": "Harrods Christmas bear",
     "name_en": "Harrods Christmas bear",
     "category": "toy"
+  },
+  {
+    "slug": "hasbro",
+    "name": "Hasbro",
+    "name_en": "Hasbro",
+    "category": "toy"
+  },
+  {
+    "slug": "hatchimals",
+    "name": "Hatchimals",
+    "name_en": "Hatchimals",
+    "category": "toy"
+  },
+  {
+    "slug": "hello-kitty",
+    "name": "Hello Kitty",
+    "name_en": "Hello Kitty",
+    "category": "toy"
+  },
+  {
+    "slug": "herpa",
+    "name": "Herpa",
+    "name_en": "Herpa",
+    "category": "toy"
+  },
+  {
+    "slug": "herpa-wings",
+    "name": "Herpa Wings",
+    "name_en": "Herpa Wings",
+    "category": "toy"
+  },
+  {
+    "slug": "hot-toys",
+    "name": "Hot Toys",
+    "name_en": "Hot Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "hot-wheels",
+    "name": "Hot Wheels",
+    "name_en": "Hot Wheels",
+    "category": "toy"
+  },
+  {
+    "slug": "husky-toy-brand",
+    "name": "Husky (toy brand)",
+    "name_en": "Husky (toy brand)",
+    "category": "toy"
+  },
+  {
+    "slug": "iz-toy",
+    "name": "IZ (toy)",
+    "name_en": "IZ (toy)",
+    "category": "toy"
+  },
+  {
+    "slug": "jellycat",
+    "name": "Jellycat",
+    "name_en": "Jellycat",
+    "category": "toy"
   }
 ]
