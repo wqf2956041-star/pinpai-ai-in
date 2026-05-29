@@ -9442,5 +9442,65 @@
     "name": "Bignan (automobile)",
     "name_en": "Bignan (automobile)",
     "category": "general"
+  },
+  {
+    "slug": "bioderma",
+    "name": "Bioderma",
+    "name_en": "Bioderma",
+    "category": "general"
+  },
+  {
+    "slug": "biomrieux",
+    "name": "BioMérieux",
+    "name_en": "BioMérieux",
+    "category": "general"
+  },
+  {
+    "slug": "bnp-paribas",
+    "name": "BNP Paribas",
+    "name_en": "BNP Paribas",
+    "category": "general"
+  },
+  {
+    "slug": "boiron",
+    "name": "Boiron",
+    "name_en": "Boiron",
+    "category": "general"
+  },
+  {
+    "slug": "bollack-netter-and-co",
+    "name": "Bollack Netter and Co",
+    "name_en": "Bollack Netter and Co",
+    "category": "general"
+  },
+  {
+    "slug": "bollor",
+    "name": "Bolloré",
+    "name_en": "Bolloré",
+    "category": "general"
+  },
+  {
+    "slug": "bonduelle",
+    "name": "Bonduelle",
+    "name_en": "Bonduelle",
+    "category": "general"
+  },
+  {
+    "slug": "bonnat-chocolates",
+    "name": "Bonnat Chocolates",
+    "name_en": "Bonnat Chocolates",
+    "category": "general"
+  },
+  {
+    "slug": "bonne-maman",
+    "name": "Bonne Maman",
+    "name_en": "Bonne Maman",
+    "category": "general"
+  },
+  {
+    "slug": "bookeen",
+    "name": "Bookeen",
+    "name_en": "Bookeen",
+    "category": "general"
   }
 ]
