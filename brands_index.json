@@ -6982,5 +6982,65 @@
     "name": "Bergfürst",
     "name_en": "Bergfürst",
     "category": "general"
+  },
+  {
+    "slug": "apis-automobiles",
+    "name": "APIS (automobiles)",
+    "name_en": "APIS (automobiles)",
+    "category": "general"
+  },
+  {
+    "slug": "aprilia",
+    "name": "Aprilia",
+    "name_en": "Aprilia",
+    "category": "general"
+  },
+  {
+    "slug": "arbos",
+    "name": "Arbos",
+    "name_en": "Arbos",
+    "category": "general"
+  },
+  {
+    "slug": "arclinea",
+    "name": "Arclinea",
+    "name_en": "Arclinea",
+    "category": "general"
+  },
+  {
+    "slug": "arflex",
+    "name": "Arflex",
+    "name_en": "Arflex",
+    "category": "general"
+  },
+  {
+    "slug": "argo-italian-company",
+    "name": "Argo (Italian company)",
+    "name_en": "Argo (Italian company)",
+    "category": "general"
+  },
+  {
+    "slug": "ariston-company",
+    "name": "Ariston (company)",
+    "name_en": "Ariston (company)",
+    "category": "general"
+  },
+  {
+    "slug": "armi-jager",
+    "name": "Armi Jager",
+    "name_en": "Armi Jager",
+    "category": "general"
+  },
+  {
+    "slug": "artemide",
+    "name": "Artemide",
+    "name_en": "Artemide",
+    "category": "general"
+  },
+  {
+    "slug": "as-labruna",
+    "name": "AS Labruna",
+    "name_en": "AS Labruna",
+    "category": "general"
   }
 ]
