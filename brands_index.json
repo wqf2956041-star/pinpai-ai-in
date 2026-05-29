@@ -9862,5 +9862,65 @@
     "name": "CA Sports",
     "name_en": "CA Sports",
     "category": "sportswear"
+  },
+  {
+    "slug": "bouchara-trademark",
+    "name": "Bouchara (trademark)",
+    "name_en": "Bouchara (trademark)",
+    "category": "general"
+  },
+  {
+    "slug": "boucheron",
+    "name": "Boucheron",
+    "name_en": "Boucheron",
+    "category": "general"
+  },
+  {
+    "slug": "bourjois",
+    "name": "Bourjois",
+    "name_en": "Bourjois",
+    "category": "general"
+  },
+  {
+    "slug": "bouygues-telecom",
+    "name": "Bouygues Telecom",
+    "name_en": "Bouygues Telecom",
+    "category": "general"
+  },
+  {
+    "slug": "bpce-group",
+    "name": "BPCE Group",
+    "name_en": "BPCE Group",
+    "category": "general"
+  },
+  {
+    "slug": "brandt-brand",
+    "name": "Brandt (brand)",
+    "name_en": "Brandt (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "brasserie-de-saint-sylvestre",
+    "name": "Brasserie de Saint-Sylvestre",
+    "name_en": "Brasserie de Saint-Sylvestre",
+    "category": "general"
+  },
+  {
+    "slug": "brasserie-thiriez",
+    "name": "Brasserie Thiriez",
+    "name_en": "Brasserie Thiriez",
+    "category": "general"
+  },
+  {
+    "slug": "bricomarch",
+    "name": "Bricomarché",
+    "name_en": "Bricomarché",
+    "category": "general"
+  },
+  {
+    "slug": "bricostore",
+    "name": "Bricostore",
+    "name_en": "Bricostore",
+    "category": "general"
   }
 ]
