@@ -7282,5 +7282,65 @@
     "name": "Dyna-Flytes",
     "name_en": "Dyna-Flytes",
     "category": "toy"
+  },
+  {
+    "slug": "efsi-toys",
+    "name": "Efsi Toys",
+    "name_en": "Efsi Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "elastolin",
+    "name": "Elastolin",
+    "name_en": "Elastolin",
+    "category": "toy"
+  },
+  {
+    "slug": "eldran-series",
+    "name": "Eldran series",
+    "name_en": "Eldran series",
+    "category": "toy"
+  },
+  {
+    "slug": "ertl-company",
+    "name": "Ertl Company",
+    "name_en": "Ertl Company",
+    "category": "toy"
+  },
+  {
+    "slug": "fao-schwarz",
+    "name": "FAO Schwarz",
+    "name_en": "FAO Schwarz",
+    "category": "toy"
+  },
+  {
+    "slug": "j-k-farnell",
+    "name": "J. K. Farnell",
+    "name_en": "J. K. Farnell",
+    "category": "toy"
+  },
+  {
+    "slug": "femisapien",
+    "name": "FemiSapien",
+    "name_en": "FemiSapien",
+    "category": "toy"
+  },
+  {
+    "slug": "fisher-price",
+    "name": "Fisher-Price",
+    "name_en": "Fisher-Price",
+    "category": "toy"
+  },
+  {
+    "slug": "four-horsemen-studios",
+    "name": "Four Horsemen Studios",
+    "name_en": "Four Horsemen Studios",
+    "category": "toy"
+  },
+  {
+    "slug": "franklin-mint-precision-models",
+    "name": "Franklin Mint Precision Models",
+    "name_en": "Franklin Mint Precision Models",
+    "category": "toy"
   }
 ]
