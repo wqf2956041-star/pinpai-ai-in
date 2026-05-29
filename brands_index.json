@@ -8662,5 +8662,65 @@
     "name": "DL E&C",
     "name_en": "DL E&C",
     "category": "general"
+  },
+  {
+    "slug": "alba-watch",
+    "name": "Alba (watch)",
+    "name_en": "Alba (watch)",
+    "category": "general"
+  },
+  {
+    "slug": "alinco",
+    "name": "Alinco",
+    "name_en": "Alinco",
+    "category": "general"
+  },
+  {
+    "slug": "all-nippon-airways",
+    "name": "All Nippon Airways",
+    "name_en": "All Nippon Airways",
+    "category": "general"
+  },
+  {
+    "slug": "allied-telesis",
+    "name": "Allied Telesis",
+    "name_en": "Allied Telesis",
+    "category": "general"
+  },
+  {
+    "slug": "alpine-electronics",
+    "name": "Alpine Electronics",
+    "name_en": "Alpine Electronics",
+    "category": "general"
+  },
+  {
+    "slug": "alps-alpine",
+    "name": "Alps Alpine",
+    "name_en": "Alps Alpine",
+    "category": "general"
+  },
+  {
+    "slug": "amada-company",
+    "name": "Amada (company)",
+    "name_en": "Amada (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ana-hotels",
+    "name": "ANA Hotels",
+    "name_en": "ANA Hotels",
+    "category": "general"
+  },
+  {
+    "slug": "ando-cloisonn-company",
+    "name": "Ando Cloisonné Company",
+    "name_en": "Ando Cloisonné Company",
+    "category": "general"
+  },
+  {
+    "slug": "anest-iwata",
+    "name": "Anest Iwata",
+    "name_en": "Anest Iwata",
+    "category": "general"
   }
 ]
