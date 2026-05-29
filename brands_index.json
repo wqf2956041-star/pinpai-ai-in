@@ -9202,5 +9202,65 @@
     "name": "BAC Films",
     "name_en": "BAC Films",
     "category": "general"
+  },
+  {
+    "slug": "baccarat-company",
+    "name": "Baccarat (company)",
+    "name_en": "Baccarat (company)",
+    "category": "general"
+  },
+  {
+    "slug": "badoit",
+    "name": "Badoit",
+    "name_en": "Badoit",
+    "category": "general"
+  },
+  {
+    "slug": "balmain-fashion-house",
+    "name": "Balmain (fashion house)",
+    "name_en": "Balmain (fashion house)",
+    "category": "general"
+  },
+  {
+    "slug": "bamsemums",
+    "name": "Bamsemums",
+    "name_en": "Bamsemums",
+    "category": "general"
+  },
+  {
+    "slug": "banania",
+    "name": "Banania",
+    "name_en": "Banania",
+    "category": "general"
+  },
+  {
+    "slug": "bb-hotels",
+    "name": "B&B Hotels",
+    "name_en": "B&B Hotels",
+    "category": "general"
+  },
+  {
+    "slug": "banque-palatine",
+    "name": "Banque Palatine",
+    "name_en": "Banque Palatine",
+    "category": "general"
+  },
+  {
+    "slug": "la-banque-postale",
+    "name": "La Banque postale",
+    "name_en": "La Banque postale",
+    "category": "general"
+  },
+  {
+    "slug": "barclay-record-label",
+    "name": "Barclay (record label)",
+    "name_en": "Barclay (record label)",
+    "category": "general"
+  },
+  {
+    "slug": "baron-de-lestac",
+    "name": "Baron de Lestac",
+    "name_en": "Baron de Lestac",
+    "category": "general"
   }
 ]
