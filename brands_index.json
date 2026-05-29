@@ -6862,5 +6862,65 @@
     "name": "Cox Models",
     "name_en": "Cox Models",
     "category": "toy"
+  },
+  {
+    "slug": "arvato",
+    "name": "Arvato",
+    "name_en": "Arvato",
+    "category": "general"
+  },
+  {
+    "slug": "august-faller-gmbh-co-kg",
+    "name": "August Faller GmbH & Co. KG",
+    "name_en": "August Faller GmbH & Co. KG",
+    "category": "general"
+  },
+  {
+    "slug": "aumund-company",
+    "name": "Aumund (company)",
+    "name_en": "Aumund (company)",
+    "category": "general"
+  },
+  {
+    "slug": "automobili-pininfarina",
+    "name": "Automobili Pininfarina",
+    "name_en": "Automobili Pininfarina",
+    "category": "general"
+  },
+  {
+    "slug": "avira",
+    "name": "Avira",
+    "name_en": "Avira",
+    "category": "general"
+  },
+  {
+    "slug": "b-braun",
+    "name": "B. Braun",
+    "name_en": "B. Braun",
+    "category": "general"
+  },
+  {
+    "slug": "bae-batterien",
+    "name": "BAE Batterien",
+    "name_en": "BAE Batterien",
+    "category": "general"
+  },
+  {
+    "slug": "bahlsen",
+    "name": "Bahlsen",
+    "name_en": "Bahlsen",
+    "category": "general"
+  },
+  {
+    "slug": "brenfang",
+    "name": "Bärenfang",
+    "name_en": "Bärenfang",
+    "category": "general"
+  },
+  {
+    "slug": "bartec",
+    "name": "Bartec",
+    "name_en": "Bartec",
+    "category": "general"
   }
 ]
