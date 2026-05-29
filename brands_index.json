@@ -8182,5 +8182,65 @@
     "name": "Jellycat",
     "name_en": "Jellycat",
     "category": "toy"
+  },
+  {
+    "slug": "jewelpet",
+    "name": "Jewelpet",
+    "name_en": "Jewelpet",
+    "category": "toy"
+  },
+  {
+    "slug": "john-hill-company",
+    "name": "John Hill & Company",
+    "name_en": "John Hill & Company",
+    "category": "toy"
+  },
+  {
+    "slug": "kakao-friends",
+    "name": "Kakao Friends",
+    "name_en": "Kakao Friends",
+    "category": "toy"
+  },
+  {
+    "slug": "kapla",
+    "name": "Kapla",
+    "name_en": "Kapla",
+    "category": "toy"
+  },
+  {
+    "slug": "keva-planks",
+    "name": "KEVA Planks",
+    "name_en": "KEVA Planks",
+    "category": "toy"
+  },
+  {
+    "slug": "kidrobot",
+    "name": "Kidrobot",
+    "name_en": "Kidrobot",
+    "category": "toy"
+  },
+  {
+    "slug": "kitty-in-my-pocket",
+    "name": "Kitty in My Pocket",
+    "name_en": "Kitty in My Pocket",
+    "category": "toy"
+  },
+  {
+    "slug": "koosh-ball",
+    "name": "Koosh ball",
+    "name_en": "Koosh ball",
+    "category": "toy"
+  },
+  {
+    "slug": "koosh-kins",
+    "name": "Koosh Kins",
+    "name_en": "Koosh Kins",
+    "category": "toy"
+  },
+  {
+    "slug": "kota-the-triceratops",
+    "name": "Kota the triceratops",
+    "name_en": "Kota the triceratops",
+    "category": "toy"
   }
 ]
