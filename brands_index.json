@@ -8362,5 +8362,65 @@
     "name": "Delvaux (company)",
     "name_en": "Delvaux (company)",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "dennison-watch",
+    "name": "Dennison Watch",
+    "name_en": "Dennison Watch",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "deus-ex-machina-company",
+    "name": "Deus Ex Machina (company)",
+    "name_en": "Deus Ex Machina (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dickins-jones",
+    "name": "Dickins & Jones",
+    "name_en": "Dickins & Jones",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "diffus-design",
+    "name": "Diffus Design",
+    "name_en": "Diffus Design",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "diptyque",
+    "name": "Diptyque",
+    "name_en": "Diptyque",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dolcegabbana-beauty",
+    "name": "Dolce&Gabbana Beauty",
+    "name_en": "Dolce&Gabbana Beauty",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dom-prignon",
+    "name": "Dom Pérignon",
+    "name_en": "Dom Pérignon",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "adolfo-domnguez",
+    "name": "Adolfo Domínguez",
+    "name_en": "Adolfo Domínguez",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dover-street-market",
+    "name": "Dover Street Market",
+    "name_en": "Dover Street Market",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "drumohr",
+    "name": "Drumohr",
+    "name_en": "Drumohr",
+    "category": "fashion-luxury"
   }
 ]
