@@ -6622,5 +6622,65 @@
     "name": "Amorino (gelato)",
     "name_en": "Amorino (gelato)",
     "category": "general"
+  },
+  {
+    "slug": "bobst-company",
+    "name": "Bobst (company)",
+    "name_en": "Bobst (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bolex",
+    "name": "Bolex",
+    "name_en": "Bolex",
+    "category": "general"
+  },
+  {
+    "slug": "bron-elektronik",
+    "name": "Bron Elektronik",
+    "name_en": "Bron Elektronik",
+    "category": "general"
+  },
+  {
+    "slug": "cailler",
+    "name": "Cailler",
+    "name_en": "Cailler",
+    "category": "general"
+  },
+  {
+    "slug": "calanda-bru",
+    "name": "Calanda Bräu",
+    "name_en": "Calanda Bräu",
+    "category": "general"
+  },
+  {
+    "slug": "camille-bloch",
+    "name": "Camille Bloch",
+    "name_en": "Camille Bloch",
+    "category": "general"
+  },
+  {
+    "slug": "caran-dache-company",
+    "name": "Caran d'Ache (company)",
+    "name_en": "Caran d'Ache (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cardinal-brewery",
+    "name": "Cardinal Brewery",
+    "name_en": "Cardinal Brewery",
+    "category": "general"
+  },
+  {
+    "slug": "chocolat-frey",
+    "name": "Chocolat Frey",
+    "name_en": "Chocolat Frey",
+    "category": "general"
+  },
+  {
+    "slug": "chocolat-kohler",
+    "name": "Chocolat Kohler",
+    "name_en": "Chocolat Kohler",
+    "category": "general"
   }
 ]
