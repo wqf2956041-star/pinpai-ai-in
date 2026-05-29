@@ -8062,5 +8062,65 @@
     "name": "Coogi",
     "name_en": "Coogi",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "funskool",
+    "name": "Funskool",
+    "name_en": "Funskool",
+    "category": "toy"
+  },
+  {
+    "slug": "galaxy-serie",
+    "name": "Galaxy Serie",
+    "name_en": "Galaxy Serie",
+    "category": "toy"
+  },
+  {
+    "slug": "gamda-koor-sabra",
+    "name": "Gamda Koor Sabra",
+    "name_en": "Gamda Koor Sabra",
+    "category": "toy"
+  },
+  {
+    "slug": "gamewright-games",
+    "name": "Gamewright Games",
+    "name_en": "Gamewright Games",
+    "category": "toy"
+  },
+  {
+    "slug": "greenlight-collectibles",
+    "name": "Greenlight Collectibles",
+    "name_en": "Greenlight Collectibles",
+    "category": "toy"
+  },
+  {
+    "slug": "gund",
+    "name": "Gund",
+    "name_en": "Gund",
+    "category": "toy"
+  },
+  {
+    "slug": "hama-beads",
+    "name": "Hama beads",
+    "name_en": "Hama beads",
+    "category": "toy"
+  },
+  {
+    "slug": "hamilton-invaders",
+    "name": "Hamilton Invaders",
+    "name_en": "Hamilton Invaders",
+    "category": "toy"
+  },
+  {
+    "slug": "happy-meal",
+    "name": "Happy Meal",
+    "name_en": "Happy Meal",
+    "category": "toy"
+  },
+  {
+    "slug": "harrods-christmas-bear",
+    "name": "Harrods Christmas bear",
+    "name_en": "Harrods Christmas bear",
+    "category": "toy"
   }
 ]
