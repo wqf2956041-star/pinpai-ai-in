@@ -8482,5 +8482,65 @@
     "name": "Arturia",
     "name_en": "Arturia",
     "category": "general"
+  },
+  {
+    "slug": "lassociation",
+    "name": "L'Association",
+    "name_en": "L'Association",
+    "category": "general"
+  },
+  {
+    "slug": "asteelflash-group",
+    "name": "Asteelflash Group",
+    "name_en": "Asteelflash Group",
+    "category": "general"
+  },
+  {
+    "slug": "at-internet",
+    "name": "AT Internet",
+    "name_en": "AT Internet",
+    "category": "general"
+  },
+  {
+    "slug": "atac",
+    "name": "Atac",
+    "name_en": "Atac",
+    "category": "general"
+  },
+  {
+    "slug": "atari",
+    "name": "Atari",
+    "name_en": "Atari",
+    "category": "general"
+  },
+  {
+    "slug": "atos",
+    "name": "Atos",
+    "name_en": "Atos",
+    "category": "general"
+  },
+  {
+    "slug": "au-dpart",
+    "name": "Au Départ",
+    "name_en": "Au Départ",
+    "category": "general"
+  },
+  {
+    "slug": "auchan",
+    "name": "Auchan",
+    "name_en": "Auchan",
+    "category": "general"
+  },
+  {
+    "slug": "dominique-aurientis",
+    "name": "Dominique Aurientis",
+    "name_en": "Dominique Aurientis",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-chatenet",
+    "name": "Automobiles Chatenet",
+    "name_en": "Automobiles Chatenet",
+    "category": "general"
   }
 ]
