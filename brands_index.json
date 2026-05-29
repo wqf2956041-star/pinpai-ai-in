@@ -9742,5 +9742,65 @@
     "name": "General Motors",
     "name_en": "General Motors",
     "category": "general"
+  },
+  {
+    "slug": "big-baller-brand",
+    "name": "Big Baller Brand",
+    "name_en": "Big Baller Brand",
+    "category": "sportswear"
+  },
+  {
+    "slug": "big-dog-company",
+    "name": "Big Dog (company)",
+    "name_en": "Big Dog (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bike-athletic-company",
+    "name": "BIKE Athletic Company",
+    "name_en": "BIKE Athletic Company",
+    "category": "sportswear"
+  },
+  {
+    "slug": "dirk-bikkembergs",
+    "name": "Dirk Bikkembergs",
+    "name_en": "Dirk Bikkembergs",
+    "category": "sportswear"
+  },
+  {
+    "slug": "billabong-clothing",
+    "name": "Billabong (clothing)",
+    "name_en": "Billabong (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bjrn-borg-brand",
+    "name": "Björn Borg (brand)",
+    "name_en": "Björn Borg (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "blk-sportswear",
+    "name": "BLK (sportswear)",
+    "name_en": "BLK (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bodyrock-sport",
+    "name": "BodyRock Sport",
+    "name_en": "BodyRock Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "boxa",
+    "name": "Boxa",
+    "name_en": "Boxa",
+    "category": "sportswear"
+  },
+  {
+    "slug": "boxeur-des-rues",
+    "name": "Boxeur Des Rues",
+    "name_en": "Boxeur Des Rues",
+    "category": "sportswear"
   }
 ]
