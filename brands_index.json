@@ -6562,5 +6562,65 @@
     "name": "Air Caraïbes",
     "name_en": "Air Caraïbes",
     "category": "general"
+  },
+  {
+    "slug": "air-liquide",
+    "name": "Air Liquide",
+    "name_en": "Air Liquide",
+    "category": "general"
+  },
+  {
+    "slug": "aixam",
+    "name": "Aixam",
+    "name_en": "Aixam",
+    "category": "general"
+  },
+  {
+    "slug": "albingia",
+    "name": "Albingia",
+    "name_en": "Albingia",
+    "category": "general"
+  },
+  {
+    "slug": "allary-ditions",
+    "name": "Allary Éditions",
+    "name_en": "Allary Éditions",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-alpine",
+    "name": "Automobiles Alpine",
+    "name_en": "Automobiles Alpine",
+    "category": "general"
+  },
+  {
+    "slug": "alstom",
+    "name": "Alstom",
+    "name_en": "Alstom",
+    "category": "general"
+  },
+  {
+    "slug": "alter-eco",
+    "name": "Alter Eco",
+    "name_en": "Alter Eco",
+    "category": "general"
+  },
+  {
+    "slug": "amilcar",
+    "name": "Amilcar",
+    "name_en": "Amilcar",
+    "category": "general"
+  },
+  {
+    "slug": "amora-mustard",
+    "name": "Amora (mustard)",
+    "name_en": "Amora (mustard)",
+    "category": "general"
+  },
+  {
+    "slug": "amorino-gelato",
+    "name": "Amorino (gelato)",
+    "name_en": "Amorino (gelato)",
+    "category": "general"
   }
 ]
