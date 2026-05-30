@@ -69,6 +69,32 @@ try:
     else:
         print(f"\n⏸️ No new brands this cycle (total: {total_after})")
 
+    # Step 5: Sync gh-pages branch
+    print("🔄 Syncing gh-pages branch...")
+    subprocess.run(["git", "config", "user.email", "robot@pinpai.ai.in"],
+                   capture_output=True, text=True)
+    subprocess.run(["git", "config", "user.name", "Brand Bot"],
+                   capture_output=True, text=True)
+
+    # Commit and push main first
+    subprocess.run(["git", "add", "-A", "."], capture_output=True, text=True)
+    result_commit = subprocess.run(["git", "commit", "-m", f"auto: cycle +{added} brands"],
+                                   capture_output=True, text=True)
+    if result_commit.returncode == 0 or "nothing to commit" in result_commit.stdout:
+        subprocess.run(["git", "push", "origin", "main"],
+                       capture_output=True, text=True, timeout=30)
+        print("✅ main pushed")
+
+    # Sync gh-pages: force push main to gh-pages (deploy branch, discard history)
+    result = subprocess.run(
+        ["git", "push", "origin", "main:gh-pages", "--force"],
+        capture_output=True, text=True, timeout=30
+    )
+    if "forced update" in result.stdout or "Everything up-to-date" in result.stdout:
+        print("✅ gh-pages synced (forced)")
+    else:
+        print(f"⚠️ gh-pages sync issue: {result.stdout[:200]}")
+
 finally:
     if os.path.exists(LOCK_FILE):
         os.remove(LOCK_FILE)
