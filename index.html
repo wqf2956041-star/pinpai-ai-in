@@ -2333,18 +2333,18 @@ var brandsData = [
 {name:"Daimaru",name_en:"Daimaru",slug:"daimaru",category:"general",t:1},
 {name:"Daiso",name_en:"Daiso",slug:"daiso",category:"general",t:1},
 {name:"Datsun",name_en:"Datsun",slug:"datsun",category:"general",t:1},
-{name:"DeNA",name_en:"DeNA",slug:"dena",category:"general",t:1}
-.classList.add('active');
-        }
-    }
-    renderBrands(lang);
-}
-
-function searchBrand() {
-    var q = document.getElementById('search-input').value.toLowerCase().trim();
-    var cards = document.querySelectorAll('.brand-card');
-    for(var i = 0; i < cards.length; i++) {
-        var card = cards[i];
+{name:"DeNA",name_en:"DeNA",slug:"dena",category:"general",t:1},
+{name:"Denka",name_en:"Denka",slug:"denka",category:"general",t:1},
+{name:"Denon",name_en:"Denon",slug:"denon",category:"general",t:1},
+{name:"Denso",name_en:"Denso",slug:"denso",category:"general",t:1},
+{name:"DHC Corporation",name_en:"DHC Corporation",slug:"dhc-corporation",category:"general",t:1},
+{name:"DIGI Group",name_en:"DIGI Group",slug:"digi-group",category:"general",t:1},
+{name:"Digital do MaiN",name_en:"Digital do MaiN",slug:"digital-do-main",category:"general",t:1},
+{name:"DirectLOGIC",name_en:"DirectLOGIC",slug:"directlogic",category:"general",t:1},
+{name:"Disco Corporation",name_en:"Disco Corporation",slug:"disco-corporation",category:"general",t:1},
+{name:"DMG Mori Seiki Co.",name_en:"DMG Mori Seiki Co.",slug:"dmg-mori-seiki-co",category:"general",t:1},
+{name:"Dogo Beer",name_en:"Dogo Beer",slug:"dogo-beer",category:"general",t:1}
+;
         var text = card.textContent.toLowerCase();
         if(!q || text.includes(q)) {
             card.style.display = '';

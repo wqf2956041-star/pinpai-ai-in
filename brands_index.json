@@ -13162,5 +13162,65 @@
     "name": "DeNA",
     "name_en": "DeNA",
     "category": "general"
+  },
+  {
+    "slug": "denka",
+    "name": "Denka",
+    "name_en": "Denka",
+    "category": "general"
+  },
+  {
+    "slug": "denon",
+    "name": "Denon",
+    "name_en": "Denon",
+    "category": "general"
+  },
+  {
+    "slug": "denso",
+    "name": "Denso",
+    "name_en": "Denso",
+    "category": "general"
+  },
+  {
+    "slug": "dhc-corporation",
+    "name": "DHC Corporation",
+    "name_en": "DHC Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "digi-group",
+    "name": "DIGI Group",
+    "name_en": "DIGI Group",
+    "category": "general"
+  },
+  {
+    "slug": "digital-do-main",
+    "name": "Digital do MaiN",
+    "name_en": "Digital do MaiN",
+    "category": "general"
+  },
+  {
+    "slug": "directlogic",
+    "name": "DirectLOGIC",
+    "name_en": "DirectLOGIC",
+    "category": "general"
+  },
+  {
+    "slug": "disco-corporation",
+    "name": "Disco Corporation",
+    "name_en": "Disco Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "dmg-mori-seiki-co",
+    "name": "DMG Mori Seiki Co.",
+    "name_en": "DMG Mori Seiki Co.",
+    "category": "general"
+  },
+  {
+    "slug": "dogo-beer",
+    "name": "Dogo Beer",
+    "name_en": "Dogo Beer",
+    "category": "general"
   }
 ]

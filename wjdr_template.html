@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITLE}} | {{DOMAIN}}</title>
+<meta name="description" content="{{DESC}}">
+<meta name="keywords" content="{{GAME}},{{TYPE}},GM招募,游戏托,内测号,充值折扣,内部通道">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#f5f0e0;color:#333;font-family:"Microsoft YaHei",sans-serif}
+.topbar{background:linear-gradient(90deg,#ffcc00,#ff8800,#ffcc00);padding:5px 0;text-align:center;font-size:12px;color:#000;font-weight:bold}
+.content{max-width:960px;margin:0 auto;padding:15px}
+.header{background:linear-gradient(135deg,#ffcc00,#ff9900);border:3px solid #cc6600;padding:20px;text-align:center;margin-bottom:15px;border-radius:5px;position:relative}
+.header h1{color:#000;font-size:30px;text-shadow:2px 2px 0 #ffdd66;margin:0}
+.header .sub{color:#333;font-size:14px;margin-top:8px;font-weight:bold}
+.header .tel{display:inline-block;margin-top:10px;background:#fff;color:#000;padding:8px 30px;border-radius:20px;font-size:16px;font-weight:bold;border:2px solid #cc6600}
+.article{background:#fff;border:2px solid #ddd8c8;padding:20px;margin-bottom:15px;border-radius:5px;position:relative}
+.article::before{content:'&#127775;';position:absolute;top:-10px;right:-10px;font-size:24px}
+.article h2{color:#cc6600;font-size:20px;border-bottom:2px dashed #ffcc00;padding-bottom:8px;margin-bottom:12px}
+.article .meta{color:#999;font-size:12px;margin-bottom:10px}
+.article .meta span{color:#cc6600}
+.article p{color:#444;line-height:1.8;margin-bottom:10px;font-size:14px}
+.game-img{width:100%;max-height:250px;object-fit:cover;margin-bottom:12px;border:2px solid #ddd8c8;border-radius:3px}
+.features{background:#fffdef;border:2px solid #ffcc00;border-left:6px solid #ff8800;padding:12px 15px;margin:12px 0;border-radius:3px}
+.features ul{list-style:none;padding:0}
+.features li{color:#333;padding:5px 0;border-bottom:1px dashed #eee;font-size:14px}
+.features li:last-child{border:none}
+.features li::before{content:'&#9989;';margin-right:8px}
+.cta-box{background:linear-gradient(135deg,#ffcc00,#ffaa00);border:2px solid #cc6600;padding:18px;text-align:center;margin:15px 0;border-radius:8px;font-weight:bold}
+.cta-box .big{font-size:22px;color:#000;margin-bottom:5px}
+.cta-box .tg-link{display:block;font-size:16px;color:#000;text-decoration:none;margin-top:8px}
+.cta-box .tg-link:hover{text-decoration:underline}
+.cta-box .small{font-size:12px;color:#666;margin-top:5px}
+.gm-badge{background:linear-gradient(90deg,#ffcc00,#ff8800);color:#000;padding:3px 12px;border-radius:10px;font-size:12px;font-weight:bold}
+.hot-tag{background:#ff3300;color:#fff;padding:2px 8px;border-radius:3px;font-size:10px;margin-left:5px}
+.footer{text-align:center;padding:15px;color:#999;font-size:12px;border-top:1px solid #eee;margin-top:20px}
+.recruit-float{position:fixed;left:0;top:50%;z-index:9999;background:linear-gradient(135deg,#ffcc00,#ff8800);padding:15px 10px;border-radius:0 10px 10px 0;text-align:center;border:2px solid #cc6600;border-left:none}
+.recruit-float a{color:#000;text-decoration:none;font-size:14px;font-weight:bold;display:block}
+.recruit-float .icon{font-size:26px;display:block;margin-bottom:5px}
+@keyframes glow{0%,100%{box-shadow:0 0 5px rgba(255,200,0,0.3)}50%{box-shadow:0 0 20px rgba(255,200,0,0.7)}}
+.recruit-float{animation:glow 2s ease-in-out infinite}
+</style>
+</head>
+<body>
+<div class="topbar">&#127775; GM内部名额限时开放！每日限量100名，先到先得！&#127775;</div>
+
+<div class="recruit-float">
+<a href="{{TG_LINK}}" target="_blank">
+<span class="icon">&#128293;</span>
+GM招募<br>在线
+</a>
+</div>
+
+<div class="content">
+<div class="header">
+<h1>&#128293; {{DOMAIN}} &#128293;</h1>
+<div class="sub">&#127775; 官方合作内测号申请平台 | 每日更新GM名额 &#127775;</div>
+<div class="tel">GM客服: {{TG_ID}}</div>
+</div>
+
+<div class="article">
+<div class="meta">&#128197; <span>{{DATE}}</span> | &#128218; <span>{{TYPE}}</span> | &#127918; <span>{{GAME}}</span> <span class="hot-tag">HOT</span></div>
+<h2>{{TITLE}} <span class="gm-badge">GM直招</span></h2>
+<img class="game-img" src="{{IMG}}" alt="{{GAME}}招募">
+<p>{{INTRO1}}</p>
+<p>{{INTRO2}}</p>
+
+<div class="cta-box">
+<div class="big">&#128681; 内部名额限时开放！</div>
+<a class="tg-link" href="{{TG_LINK}}" target="_blank">&#9993; 立即联系GM客服: {{TG_ID}}</a>
+<div class="small">每日限量100名 | 先到先得 | 全程免费</div>
+</div>
+
+<div class="features">
+<ul>
+{{FEATURES}}
+</ul>
+</div>
+
+<p>&#9200; 截止日期：{{DATE}} {{TIME}} — 长期有效，每天更新！</p>
+<p>&#128172; GM客服TG：{{TG_ID}}（24小时在线，秒回！）</p>
+<p>&#128279; 更多内测名额：https://{{DOMAIN}}</p>
+</div>
+
+<div class="footer">
+<p>{{DOMAIN}} — 游戏内测号/GM招募/充值折扣/游戏托平台</p>
+<p>联系GM：{{TG_ID}} | 更新时间：每日9:00</p>
+<p style="margin-top:8px;color:#ccc">声明：本站仅提供信息发布平台，一切交易行为请自行甄别</p>
+</div>
+</div>
+</body>
+</html>
