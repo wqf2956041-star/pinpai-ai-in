@@ -11542,5 +11542,65 @@
     "name": "Massimo Zanetti Beverage Group",
     "name_en": "Massimo Zanetti Beverage Group",
     "category": "food"
+  },
+  {
+    "slug": "joseph-fashion-brand",
+    "name": "Joseph (fashion brand)",
+    "name_en": "Joseph (fashion brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "karl-kani",
+    "name": "Karl Kani",
+    "name_en": "Karl Kani",
+    "category": "fashion"
+  },
+  {
+    "slug": "kidiliz",
+    "name": "Kidiliz",
+    "name_en": "Kidiliz",
+    "category": "fashion"
+  },
+  {
+    "slug": "takeo-kikuchi",
+    "name": "Takeo Kikuchi",
+    "name_en": "Takeo Kikuchi",
+    "category": "fashion"
+  },
+  {
+    "slug": "andr-kim",
+    "name": "André Kim",
+    "name_en": "André Kim",
+    "category": "fashion"
+  },
+  {
+    "slug": "elaine-kim-fashion-designer",
+    "name": "Elaine Kim (fashion designer)",
+    "name_en": "Elaine Kim (fashion designer)",
+    "category": "fashion"
+  },
+  {
+    "slug": "maison-kitsun",
+    "name": "Maison Kitsuné",
+    "name_en": "Maison Kitsuné",
+    "category": "fashion"
+  },
+  {
+    "slug": "kookai",
+    "name": "Kookai",
+    "name_en": "Kookai",
+    "category": "fashion"
+  },
+  {
+    "slug": "la-bonneterie-cevenole",
+    "name": "La Bonneterie Cevenole",
+    "name_en": "La Bonneterie Cevenole",
+    "category": "fashion"
+  },
+  {
+    "slug": "levi-strauss-co",
+    "name": "Levi Strauss & Co.",
+    "name_en": "Levi Strauss & Co.",
+    "category": "fashion"
   }
 ]
