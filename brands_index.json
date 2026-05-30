@@ -12202,5 +12202,65 @@
     "name": "Banca Caripe",
     "name_en": "Banca Caripe",
     "category": "general"
+  },
+  {
+    "slug": "banca-leonardo",
+    "name": "Banca Leonardo",
+    "name_en": "Banca Leonardo",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-crema",
+    "name": "Banca Popolare di Crema",
+    "name_en": "Banca Popolare di Crema",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-lodi",
+    "name": "Banca Popolare di Lodi",
+    "name_en": "Banca Popolare di Lodi",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-novara",
+    "name": "Banca Popolare di Novara",
+    "name_en": "Banca Popolare di Novara",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-verona",
+    "name": "Banca Popolare di Verona",
+    "name_en": "Banca Popolare di Verona",
+    "category": "general"
+  },
+  {
+    "slug": "banca-tercas",
+    "name": "Banca Tercas",
+    "name_en": "Banca Tercas",
+    "category": "general"
+  },
+  {
+    "slug": "banco-popolare-siciliano",
+    "name": "Banco Popolare Siciliano",
+    "name_en": "Banco Popolare Siciliano",
+    "category": "general"
+  },
+  {
+    "slug": "barbanera",
+    "name": "Barbanera",
+    "name_en": "Barbanera",
+    "category": "general"
+  },
+  {
+    "slug": "barilla-company",
+    "name": "Barilla (company)",
+    "name_en": "Barilla (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bassetti",
+    "name": "Bassetti",
+    "name_en": "Bassetti",
+    "category": "general"
   }
 ]
