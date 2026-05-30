@@ -10402,5 +10402,65 @@
     "name": "Georgia (coffee)",
     "name_en": "Georgia (coffee)",
     "category": "food"
+  },
+  {
+    "slug": "gevalia",
+    "name": "Gevalia",
+    "name_en": "Gevalia",
+    "category": "food"
+  },
+  {
+    "slug": "gregorys-coffee",
+    "name": "Gregorys Coffee",
+    "name_en": "Gregorys Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "guglielmo-caff",
+    "name": "Guglielmo Caffè",
+    "name_en": "Guglielmo Caffè",
+    "category": "food"
+  },
+  {
+    "slug": "high-point-coffee",
+    "name": "High Point (coffee)",
+    "name_en": "High Point (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "highlands-coffee",
+    "name": "Highlands Coffee",
+    "name_en": "Highlands Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "hogood-coffee",
+    "name": "Hogood Coffee",
+    "name_en": "Hogood Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "horn-hardart",
+    "name": "Horn & Hardart",
+    "name_en": "Horn & Hardart",
+    "category": "food"
+  },
+  {
+    "slug": "illy",
+    "name": "Illy",
+    "name_en": "Illy",
+    "category": "food"
+  },
+  {
+    "slug": "intelligentsia-coffee-tea",
+    "name": "Intelligentsia Coffee & Tea",
+    "name_en": "Intelligentsia Coffee & Tea",
+    "category": "food"
+  },
+  {
+    "slug": "jacobs-coffee",
+    "name": "Jacobs (coffee)",
+    "name_en": "Jacobs (coffee)",
+    "category": "food"
   }
 ]
