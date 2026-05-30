@@ -13042,5 +13042,65 @@
     "name": "FBT (company)",
     "name_en": "FBT (company)",
     "category": "fashion"
+  },
+  {
+    "slug": "feit",
+    "name": "FEIT",
+    "name_en": "FEIT",
+    "category": "fashion"
+  },
+  {
+    "slug": "feiyue",
+    "name": "Feiyue",
+    "name_en": "Feiyue",
+    "category": "fashion"
+  },
+  {
+    "slug": "fila",
+    "name": "Fila",
+    "name_en": "Fila",
+    "category": "fashion"
+  },
+  {
+    "slug": "john-fluevog",
+    "name": "John Fluevog",
+    "name_en": "John Fluevog",
+    "category": "fashion"
+  },
+  {
+    "slug": "foot-locker",
+    "name": "Foot Locker",
+    "name_en": "Foot Locker",
+    "category": "fashion"
+  },
+  {
+    "slug": "foreva",
+    "name": "Foreva",
+    "name_en": "Foreva",
+    "category": "fashion"
+  },
+  {
+    "slug": "geox",
+    "name": "Geox",
+    "name_en": "Geox",
+    "category": "fashion"
+  },
+  {
+    "slug": "givova",
+    "name": "Givova",
+    "name_en": "Givova",
+    "category": "fashion"
+  },
+  {
+    "slug": "globe-international",
+    "name": "Globe International",
+    "name_en": "Globe International",
+    "category": "fashion"
+  },
+  {
+    "slug": "golden-goose-company",
+    "name": "Golden Goose (company)",
+    "name_en": "Golden Goose (company)",
+    "category": "fashion"
   }
 ]
