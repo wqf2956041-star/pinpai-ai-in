@@ -10522,5 +10522,65 @@
     "name": "NZG Models",
     "name_en": "NZG Models",
     "category": "toy"
+  },
+  {
+    "slug": "omnibot",
+    "name": "Omnibot",
+    "name_en": "Omnibot",
+    "category": "toy"
+  },
+  {
+    "slug": "onell-design",
+    "name": "Onell Design",
+    "name_en": "Onell Design",
+    "category": "toy"
+  },
+  {
+    "slug": "pal-mickey",
+    "name": "Pal Mickey",
+    "name_en": "Pal Mickey",
+    "category": "toy"
+  },
+  {
+    "slug": "pastime-puzzles",
+    "name": "Pastime Puzzles",
+    "name_en": "Pastime Puzzles",
+    "category": "toy"
+  },
+  {
+    "slug": "paw-patrol",
+    "name": "Paw Patrol",
+    "name_en": "Paw Patrol",
+    "category": "toy"
+  },
+  {
+    "slug": "perler-beads",
+    "name": "Perler beads",
+    "name_en": "Perler beads",
+    "category": "toy"
+  },
+  {
+    "slug": "pillow-pets",
+    "name": "Pillow Pets",
+    "name_en": "Pillow Pets",
+    "category": "toy"
+  },
+  {
+    "slug": "plasticville",
+    "name": "Plasticville",
+    "name_en": "Plasticville",
+    "category": "toy"
+  },
+  {
+    "slug": "playart",
+    "name": "Playart",
+    "name_en": "Playart",
+    "category": "toy"
+  },
+  {
+    "slug": "playmates-toys",
+    "name": "Playmates Toys",
+    "name_en": "Playmates Toys",
+    "category": "toy"
   }
 ]
