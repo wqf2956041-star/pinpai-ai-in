@@ -11242,5 +11242,65 @@
     "name": "Julius Baer Group",
     "name_en": "Julius Baer Group",
     "category": "general"
+  },
+  {
+    "slug": "jura-elektroapparate",
+    "name": "Jura Elektroapparate",
+    "name_en": "Jura Elektroapparate",
+    "category": "general"
+  },
+  {
+    "slug": "kgi-shne",
+    "name": "Kägi Söhne",
+    "name_en": "Kägi Söhne",
+    "category": "general"
+  },
+  {
+    "slug": "kambly",
+    "name": "Kambly",
+    "name_en": "Kambly",
+    "category": "general"
+  },
+  {
+    "slug": "kistler-group",
+    "name": "Kistler Group",
+    "name_en": "Kistler Group",
+    "category": "general"
+  },
+  {
+    "slug": "kudelski-group",
+    "name": "Kudelski Group",
+    "name_en": "Kudelski Group",
+    "category": "general"
+  },
+  {
+    "slug": "lepe-clocks",
+    "name": "L'Epée Clocks",
+    "name_en": "L'Epée Clocks",
+    "category": "general"
+  },
+  {
+    "slug": "lckerli-huus",
+    "name": "Läckerli Huus",
+    "name_en": "Läckerli Huus",
+    "category": "general"
+  },
+  {
+    "slug": "lderach",
+    "name": "Läderach",
+    "name_en": "Läderach",
+    "category": "general"
+  },
+  {
+    "slug": "laurastar",
+    "name": "Laurastar",
+    "name_en": "Laurastar",
+    "category": "general"
+  },
+  {
+    "slug": "lehni-ag",
+    "name": "Lehni AG",
+    "name_en": "Lehni AG",
+    "category": "general"
   }
 ]
