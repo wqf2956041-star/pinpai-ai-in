@@ -191,7 +191,7 @@ try:
                     b['name'], b.get('name_en', ''), b['slug'], b.get('category', ''), t
                 )
                 lines.append(line)
-            new_data = "\n".join(lines)
+            new_data = ",\n".join(lines)
             before = html[:start + len("var brandsData = [")]
             after = html[old_end + 1:]
             html = before + "\n" + new_data + "\n" + after

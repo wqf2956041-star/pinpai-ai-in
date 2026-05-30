@@ -85,27 +85,15 @@ try:
                        capture_output=True, text=True, timeout=30)
         print("✅ main pushed")
 
-    # Sync gh-pages: checkout, merge main, push
+    # Sync gh-pages: force push main to gh-pages (deploy branch, discard history)
     result = subprocess.run(
-        ["git", "push", "origin", "main:gh-pages"],
+        ["git", "push", "origin", "main:gh-pages", "--force"],
         capture_output=True, text=True, timeout=30
     )
-    if result.returncode == 0:
-        print("✅ gh-pages synced (fast-forward)")
+    if "forced update" in result.stdout or "Everything up-to-date" in result.stdout:
+        print("✅ gh-pages synced (forced)")
     else:
-        # If fast-forward fails, do proper merge
-        subprocess.run(["git", "fetch", "origin", "gh-pages"],
-                       capture_output=True, text=True)
-        subprocess.run(["git", "checkout", "gh-pages"],
-                       capture_output=True, text=True)
-        merge = subprocess.run(["git", "merge", "main"],
-                               capture_output=True, text=True)
-        print(merge.stdout.strip() if merge.stdout else "merge done")
-        subprocess.run(["git", "push", "origin", "gh-pages"],
-                       capture_output=True, text=True, timeout=30)
-        subprocess.run(["git", "checkout", "main"],
-                       capture_output=True, text=True)
-        print("✅ gh-pages synced (merge)")
+        print(f"⚠️ gh-pages sync issue: {result.stdout[:200]}")
 
 finally:
     if os.path.exists(LOCK_FILE):
