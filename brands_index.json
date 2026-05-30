@@ -12982,5 +12982,65 @@
     "name": "Foturan",
     "name_en": "Foturan",
     "category": "general"
+  },
+  {
+    "slug": "dvs-shoes",
+    "name": "DVS Shoes",
+    "name_en": "DVS Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "eblens",
+    "name": "EbLens",
+    "name_en": "EbLens",
+    "category": "fashion"
+  },
+  {
+    "slug": "ecco",
+    "name": "ECCO",
+    "name_en": "ECCO",
+    "category": "fashion"
+  },
+  {
+    "slug": "edward-green-co",
+    "name": "Edward Green & Co.",
+    "name_en": "Edward Green & Co.",
+    "category": "fashion"
+  },
+  {
+    "slug": "emu-australia",
+    "name": "EMU Australia",
+    "name_en": "EMU Australia",
+    "category": "fashion"
+  },
+  {
+    "slug": "etnies",
+    "name": "Etnies",
+    "name_en": "Etnies",
+    "category": "fashion"
+  },
+  {
+    "slug": "falc",
+    "name": "Falc",
+    "name_en": "Falc",
+    "category": "fashion"
+  },
+  {
+    "slug": "fallen-footwear",
+    "name": "Fallen Footwear",
+    "name_en": "Fallen Footwear",
+    "category": "fashion"
+  },
+  {
+    "slug": "famolare",
+    "name": "Famolare",
+    "name_en": "Famolare",
+    "category": "fashion"
+  },
+  {
+    "slug": "fbt-company",
+    "name": "FBT (company)",
+    "name_en": "FBT (company)",
+    "category": "fashion"
   }
 ]
