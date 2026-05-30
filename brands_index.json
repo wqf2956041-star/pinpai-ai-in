@@ -11782,5 +11782,65 @@
     "name": "L3Harris",
     "name_en": "L3Harris",
     "category": "general"
+  },
+  {
+    "slug": "philippe-dufour",
+    "name": "Philippe Dufour",
+    "name_en": "Philippe Dufour",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eckhaus-latta",
+    "name": "Eckhaus Latta",
+    "name_en": "Eckhaus Latta",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "edelweiss-pianos",
+    "name": "Edelweiss Pianos",
+    "name_en": "Edelweiss Pianos",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eisenberg-paris",
+    "name": "Eisenberg Paris",
+    "name_en": "Eisenberg Paris",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eliseyevsky",
+    "name": "Eliseyevsky",
+    "name_en": "Eliseyevsky",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "engineered-garments",
+    "name": "Engineered Garments",
+    "name_en": "Engineered Garments",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eton-shirts",
+    "name": "Eton Shirts",
+    "name_en": "Eton Shirts",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ettinger-british-company",
+    "name": "Ettinger (British company)",
+    "name_en": "Ettinger (British company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "d-h-evans",
+    "name": "D H Evans",
+    "name_en": "D H Evans",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "timothy-everest",
+    "name": "Timothy Everest",
+    "name_en": "Timothy Everest",
+    "category": "fashion-luxury"
   }
 ]
