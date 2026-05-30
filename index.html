@@ -2273,23 +2273,28 @@ var brandsData = [
 {name:"Pilatus Aircraft",name_en:"Pilatus Aircraft",slug:"pilatus-aircraft",category:"general",t:1},
 {name:"Proton Mail",name_en:"Proton Mail",slug:"proton-mail",category:"general",t:1},
 {name:"Renata (battery)",name_en:"Renata (battery)",slug:"renata-battery",category:"general",t:1},
-{name:"Revox",name_en:"Revox",slug:"revox",category:"general",t:1}
+{name:"Revox",name_en:"Revox",slug:"revox",category:"general",t:1},
+{name:"Beta (motorcycle manufacturer)",name_en:"Beta (motorcycle manufacturer)",slug:"beta-motorcycle-manufacturer",category:"general",t:1},
+{name:"Bialetti",name_en:"Bialetti",slug:"bialetti",category:"general",t:1},
+{name:"Bianchi (company)",name_en:"Bianchi (company)",slug:"bianchi-company",category:"general",t:1},
+{name:"Bimota",name_en:"Bimota",slug:"bimota",category:"general",t:1},
+{name:"Binda Group",name_en:"Binda Group",slug:"binda-group",category:"general",t:1},
+{name:"Biocell Center",name_en:"Biocell Center",slug:"biocell-center",category:"general",t:1},
+{name:"Birel",name_en:"Birel",slug:"birel",category:"general",t:1},
+{name:"Blue Panorama Airlines",name_en:"Blue Panorama Airlines",slug:"blue-panorama-airlines",category:"general",t:1},
+{name:"Blutec",name_en:"Blutec",slug:"blutec",category:"general",t:1},
+{name:"Boglioli",name_en:"Boglioli",slug:"boglioli",category:"general",t:1},
+{name:"F. Dick",name_en:"F. Dick",slug:"f-dick",category:"general",t:1},
+{name:"Fa (brand)",name_en:"Fa (brand)",slug:"fa-brand",category:"general",t:1},
+{name:"Faber-Castell",name_en:"Faber-Castell",slug:"faber-castell",category:"general",t:1},
+{name:"Staatl. Fachingen",name_en:"Staatl. Fachingen",slug:"staatl-fachingen",category:"general",t:1},
+{name:"FALKE Group",name_en:"FALKE Group",slug:"falke-group",category:"general",t:1},
+{name:"Faller",name_en:"Faller",slug:"faller",category:"general",t:1},
+{name:"Fein (company)",name_en:"Fein (company)",slug:"fein-company",category:"general",t:1},
+{name:"Festo",name_en:"Festo",slug:"festo",category:"general",t:1},
+{name:"Festool",name_en:"Festool",slug:"festool",category:"general",t:1},
+{name:"Feurich",name_en:"Feurich",slug:"feurich",category:"general",t:1}
 ;
-
-var categoryLabels = {
-    'general':'\u7EFC\u5408','technology':'\u79D1\u6280','finance':'\u91D1\u878D','telecom':'\u901A\u4FE1',
-    'beverage':'\u996E\u54C1','food':'\u98DF\u54C1','airline':'\u822A\u7A7A','retail':'\u96F6\u552E',
-    'fashion-luxury':'\u65F6\u5C1A\u5962\u4F88','beauty':'\u7F8E\u5986','sport':'\u4F53\u80B2','materials':'\u6750\u6599',
-    'watch':'\u8155\u8868','automotive':'\u6C7D\u8F66','sportswear':'\u8FD0\u52A8\u670D\u9970','cosmetics':'\u5316\u5986\u54C1',
-    'consumer-goods':'\u6D88\u8D39\u54C1','healthcare':'\u533B\u7597','media':'\u4F20\u5A92'
-};
-
-function renderBrands(lang) {
-    var container = document.getElementById('brand-list');
-    var html = '';
-    var count = 0;
-    for(var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i];
         var nameDisplay = b.name;
         var catLabel = categoryLabels[b.category] || b.category;
         html += '<a href="/' + b.slug + '/" class="brand-card">' +

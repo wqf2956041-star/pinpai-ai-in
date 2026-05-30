@@ -12862,5 +12862,65 @@
     "name": "Boglioli",
     "name_en": "Boglioli",
     "category": "general"
+  },
+  {
+    "slug": "f-dick",
+    "name": "F. Dick",
+    "name_en": "F. Dick",
+    "category": "general"
+  },
+  {
+    "slug": "fa-brand",
+    "name": "Fa (brand)",
+    "name_en": "Fa (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "faber-castell",
+    "name": "Faber-Castell",
+    "name_en": "Faber-Castell",
+    "category": "general"
+  },
+  {
+    "slug": "staatl-fachingen",
+    "name": "Staatl. Fachingen",
+    "name_en": "Staatl. Fachingen",
+    "category": "general"
+  },
+  {
+    "slug": "falke-group",
+    "name": "FALKE Group",
+    "name_en": "FALKE Group",
+    "category": "general"
+  },
+  {
+    "slug": "faller",
+    "name": "Faller",
+    "name_en": "Faller",
+    "category": "general"
+  },
+  {
+    "slug": "fein-company",
+    "name": "Fein (company)",
+    "name_en": "Fein (company)",
+    "category": "general"
+  },
+  {
+    "slug": "festo",
+    "name": "Festo",
+    "name_en": "Festo",
+    "category": "general"
+  },
+  {
+    "slug": "festool",
+    "name": "Festool",
+    "name_en": "Festool",
+    "category": "general"
+  },
+  {
+    "slug": "feurich",
+    "name": "Feurich",
+    "name_en": "Feurich",
+    "category": "general"
   }
 ]
