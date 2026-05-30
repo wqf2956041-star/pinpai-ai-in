@@ -13642,5 +13642,65 @@
     "name": "Fuchs SE",
     "name_en": "Fuchs SE",
     "category": "general"
+  },
+  {
+    "slug": "g-data-cyberdefense",
+    "name": "G Data CyberDefense",
+    "name_en": "G Data CyberDefense",
+    "category": "general"
+  },
+  {
+    "slug": "gaggenau-hausgerte",
+    "name": "Gaggenau Hausgeräte",
+    "name_en": "Gaggenau Hausgeräte",
+    "category": "general"
+  },
+  {
+    "slug": "gardena-company",
+    "name": "Gardena (company)",
+    "name_en": "Gardena (company)",
+    "category": "general"
+  },
+  {
+    "slug": "gedore",
+    "name": "Gedore",
+    "name_en": "Gedore",
+    "category": "general"
+  },
+  {
+    "slug": "georg-neumann",
+    "name": "Georg Neumann",
+    "name_en": "Georg Neumann",
+    "category": "general"
+  },
+  {
+    "slug": "germanwings",
+    "name": "Germanwings",
+    "name_en": "Germanwings",
+    "category": "general"
+  },
+  {
+    "slug": "gerolsteiner-brunnen",
+    "name": "Gerolsteiner Brunnen",
+    "name_en": "Gerolsteiner Brunnen",
+    "category": "general"
+  },
+  {
+    "slug": "gigaset",
+    "name": "Gigaset",
+    "name_en": "Gigaset",
+    "category": "general"
+  },
+  {
+    "slug": "gigaset-communications",
+    "name": "Gigaset Communications",
+    "name_en": "Gigaset Communications",
+    "category": "general"
+  },
+  {
+    "slug": "glasfabrik-lamberts",
+    "name": "Glasfabrik Lamberts",
+    "name_en": "Glasfabrik Lamberts",
+    "category": "general"
   }
 ]
