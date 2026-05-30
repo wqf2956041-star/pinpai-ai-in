@@ -10702,5 +10702,65 @@
     "name": "The Faction Collective",
     "name_en": "The Faction Collective",
     "category": "sportswear"
+  },
+  {
+    "slug": "cirquent",
+    "name": "Cirquent",
+    "name_en": "Cirquent",
+    "category": "general"
+  },
+  {
+    "slug": "claas",
+    "name": "Claas",
+    "name_en": "Claas",
+    "category": "general"
+  },
+  {
+    "slug": "comdirect-bank",
+    "name": "Comdirect Bank",
+    "name_en": "Comdirect Bank",
+    "category": "general"
+  },
+  {
+    "slug": "commerzbank",
+    "name": "Commerzbank",
+    "name_en": "Commerzbank",
+    "category": "general"
+  },
+  {
+    "slug": "condomi",
+    "name": "Condomi",
+    "name_en": "Condomi",
+    "category": "general"
+  },
+  {
+    "slug": "conergy",
+    "name": "Conergy",
+    "name_en": "Conergy",
+    "category": "general"
+  },
+  {
+    "slug": "congstar",
+    "name": "Congstar",
+    "name_en": "Congstar",
+    "category": "general"
+  },
+  {
+    "slug": "constructa-neff",
+    "name": "Constructa-Neff",
+    "name_en": "Constructa-Neff",
+    "category": "general"
+  },
+  {
+    "slug": "continental-ag",
+    "name": "Continental AG",
+    "name_en": "Continental AG",
+    "category": "general"
+  },
+  {
+    "slug": "coppenrath-wiese",
+    "name": "Coppenrath & Wiese",
+    "name_en": "Coppenrath & Wiese",
+    "category": "general"
   }
 ]
