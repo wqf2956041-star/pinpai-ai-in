@@ -13522,5 +13522,65 @@
     "name": "Sang Bleu",
     "name_en": "Sang Bleu",
     "category": "general"
+  },
+  {
+    "slug": "sauber-motorsport",
+    "name": "Sauber Motorsport",
+    "name_en": "Sauber Motorsport",
+    "category": "general"
+  },
+  {
+    "slug": "saurer",
+    "name": "Saurer",
+    "name_en": "Saurer",
+    "category": "general"
+  },
+  {
+    "slug": "sbarro-automobile",
+    "name": "Sbarro (automobile)",
+    "name_en": "Sbarro (automobile)",
+    "category": "general"
+  },
+  {
+    "slug": "scandit",
+    "name": "Scandit",
+    "name_en": "Scandit",
+    "category": "general"
+  },
+  {
+    "slug": "schindler-group",
+    "name": "Schindler Group",
+    "name_en": "Schindler Group",
+    "category": "general"
+  },
+  {
+    "slug": "scott-sports",
+    "name": "Scott Sports",
+    "name_en": "Scott Sports",
+    "category": "general"
+  },
+  {
+    "slug": "selecta-company",
+    "name": "Selecta (company)",
+    "name_en": "Selecta (company)",
+    "category": "general"
+  },
+  {
+    "slug": "sig-group",
+    "name": "SIG Group",
+    "name_en": "SIG Group",
+    "category": "general"
+  },
+  {
+    "slug": "sika-ag",
+    "name": "Sika AG",
+    "name_en": "Sika AG",
+    "category": "general"
+  },
+  {
+    "slug": "silent-circle-software",
+    "name": "Silent Circle (software)",
+    "name_en": "Silent Circle (software)",
+    "category": "general"
   }
 ]
