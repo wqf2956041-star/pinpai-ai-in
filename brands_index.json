@@ -14062,5 +14062,65 @@
     "name": "Torrefazione Italia",
     "name_en": "Torrefazione Italia",
     "category": "food"
+  },
+  {
+    "slug": "coloroll",
+    "name": "Coloroll",
+    "name_en": "Coloroll",
+    "category": "general"
+  },
+  {
+    "slug": "comfort-fabric-softener",
+    "name": "Comfort (fabric softener)",
+    "name_en": "Comfort (fabric softener)",
+    "category": "general"
+  },
+  {
+    "slug": "jasper-conran",
+    "name": "Jasper Conran",
+    "name_en": "Jasper Conran",
+    "category": "general"
+  },
+  {
+    "slug": "cooke-optics",
+    "name": "Cooke Optics",
+    "name_en": "Cooke Optics",
+    "category": "general"
+  },
+  {
+    "slug": "cotswolds-distillery",
+    "name": "Cotswolds Distillery",
+    "name_en": "Cotswolds Distillery",
+    "category": "general"
+  },
+  {
+    "slug": "country-store",
+    "name": "Country Store",
+    "name_en": "Country Store",
+    "category": "general"
+  },
+  {
+    "slug": "the-coventry-motor-company",
+    "name": "The Coventry Motor Company",
+    "name_en": "The Coventry Motor Company",
+    "category": "general"
+  },
+  {
+    "slug": "craghoppers",
+    "name": "Craghoppers",
+    "name_en": "Craghoppers",
+    "category": "general"
+  },
+  {
+    "slug": "critchley-light-car",
+    "name": "Critchley Light car",
+    "name_en": "Critchley Light car",
+    "category": "general"
+  },
+  {
+    "slug": "cutler-and-gross",
+    "name": "Cutler and Gross",
+    "name_en": "Cutler and Gross",
+    "category": "general"
   }
 ]
