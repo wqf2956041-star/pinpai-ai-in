@@ -12022,5 +12022,65 @@
     "name": "Exakta",
     "name_en": "Exakta",
     "category": "general"
+  },
+  {
+    "slug": "matari-coffee",
+    "name": "Matari Coffee",
+    "name_en": "Matari Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "matthew-algie",
+    "name": "Matthew Algie",
+    "name_en": "Matthew Algie",
+    "category": "food"
+  },
+  {
+    "slug": "maxwell-house",
+    "name": "Maxwell House",
+    "name_en": "Maxwell House",
+    "category": "food"
+  },
+  {
+    "slug": "mega-mgc-coffee",
+    "name": "Mega MGC Coffee",
+    "name_en": "Mega MGC Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "melitta",
+    "name": "Melitta",
+    "name_en": "Melitta",
+    "category": "food"
+  },
+  {
+    "slug": "mellower-coffee",
+    "name": "Mellower Coffee",
+    "name_en": "Mellower Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "millstone-coffee",
+    "name": "Millstone Coffee",
+    "name_en": "Millstone Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "mr-brown-coffee",
+    "name": "Mr. Brown Coffee",
+    "name_en": "Mr. Brown Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "mjb-coffee",
+    "name": "MJB (coffee)",
+    "name_en": "MJB (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "moccona",
+    "name": "Moccona",
+    "name_en": "Moccona",
+    "category": "food"
   }
 ]
