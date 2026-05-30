@@ -11722,5 +11722,65 @@
     "name": "Kinetic Concepts",
     "name_en": "Kinetic Concepts",
     "category": "general"
+  },
+  {
+    "slug": "koch-inc",
+    "name": "Koch, Inc.",
+    "name_en": "Koch, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "kodak",
+    "name": "Kodak",
+    "name_en": "Kodak",
+    "category": "general"
+  },
+  {
+    "slug": "kontoor-brands",
+    "name": "Kontoor Brands",
+    "name_en": "Kontoor Brands",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-foods",
+    "name": "Kraft Foods",
+    "name_en": "Kraft Foods",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-foods-inc",
+    "name": "Kraft Foods Inc.",
+    "name_en": "Kraft Foods Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-heinz",
+    "name": "Kraft Heinz",
+    "name_en": "Kraft Heinz",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-natural-cheese",
+    "name": "Kraft Natural Cheese",
+    "name_en": "Kraft Natural Cheese",
+    "category": "general"
+  },
+  {
+    "slug": "kronos-incorporated",
+    "name": "Kronos Incorporated",
+    "name_en": "Kronos Incorporated",
+    "category": "general"
+  },
+  {
+    "slug": "krrb",
+    "name": "Krrb",
+    "name_en": "Krrb",
+    "category": "general"
+  },
+  {
+    "slug": "l3harris",
+    "name": "L3Harris",
+    "name_en": "L3Harris",
+    "category": "general"
   }
 ]
