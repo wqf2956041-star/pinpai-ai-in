@@ -12322,5 +12322,65 @@
     "name": "Grant Macdonald",
     "name_en": "Grant Macdonald",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "china-telecom",
+    "name": "China Telecom",
+    "name_en": "China Telecom",
+    "category": "general"
+  },
+  {
+    "slug": "china-telecommunications-corporation",
+    "name": "China Telecommunications Corporation",
+    "name_en": "China Telecommunications Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-time-honored-brand",
+    "name": "China Time-honored Brand",
+    "name_en": "China Time-honored Brand",
+    "category": "general"
+  },
+  {
+    "slug": "china-top-brand",
+    "name": "China Top Brand",
+    "name_en": "China Top Brand",
+    "category": "general"
+  },
+  {
+    "slug": "china-unicom",
+    "name": "China Unicom",
+    "name_en": "China Unicom",
+    "category": "general"
+  },
+  {
+    "slug": "china-united-airlines",
+    "name": "China United Airlines",
+    "name_en": "China United Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-zheshang-bank",
+    "name": "China Zheshang Bank",
+    "name_en": "China Zheshang Bank",
+    "category": "general"
+  },
+  {
+    "slug": "chinacache",
+    "name": "ChinaCache",
+    "name_en": "ChinaCache",
+    "category": "general"
+  },
+  {
+    "slug": "chipolbrok",
+    "name": "Chipolbrok",
+    "name_en": "Chipolbrok",
+    "category": "general"
+  },
+  {
+    "slug": "choi-heong-yuen-bakery",
+    "name": "Choi Heong Yuen Bakery",
+    "name_en": "Choi Heong Yuen Bakery",
+    "category": "general"
   }
 ]
