@@ -14002,5 +14002,65 @@
     "name": "SPR Coffee",
     "name_en": "SPR Coffee",
     "category": "food"
+  },
+  {
+    "slug": "strauss-group",
+    "name": "Strauss Group",
+    "name_en": "Strauss Group",
+    "category": "food"
+  },
+  {
+    "slug": "stumptown-coffee-roasters",
+    "name": "Stumptown Coffee Roasters",
+    "name_en": "Stumptown Coffee Roasters",
+    "category": "food"
+  },
+  {
+    "slug": "tassimo",
+    "name": "Tassimo",
+    "name_en": "Tassimo",
+    "category": "food"
+  },
+  {
+    "slug": "tata-starbucks",
+    "name": "Tata Starbucks",
+    "name_en": "Tata Starbucks",
+    "category": "food"
+  },
+  {
+    "slug": "tchibo",
+    "name": "Tchibo",
+    "name_en": "Tchibo",
+    "category": "food"
+  },
+  {
+    "slug": "tim-hortons",
+    "name": "Tim Hortons",
+    "name_en": "Tim Hortons",
+    "category": "food"
+  },
+  {
+    "slug": "timothys-world-coffee",
+    "name": "Timothy's World Coffee",
+    "name_en": "Timothy's World Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "tom-n-toms",
+    "name": "Tom N Toms",
+    "name_en": "Tom N Toms",
+    "category": "food"
+  },
+  {
+    "slug": "tomoca-coffee",
+    "name": "Tomoca Coffee",
+    "name_en": "Tomoca Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "torrefazione-italia",
+    "name": "Torrefazione Italia",
+    "name_en": "Torrefazione Italia",
+    "category": "food"
   }
 ]
