@@ -12802,5 +12802,65 @@
     "name": "Revox",
     "name_en": "Revox",
     "category": "general"
+  },
+  {
+    "slug": "beta-motorcycle-manufacturer",
+    "name": "Beta (motorcycle manufacturer)",
+    "name_en": "Beta (motorcycle manufacturer)",
+    "category": "general"
+  },
+  {
+    "slug": "bialetti",
+    "name": "Bialetti",
+    "name_en": "Bialetti",
+    "category": "general"
+  },
+  {
+    "slug": "bianchi-company",
+    "name": "Bianchi (company)",
+    "name_en": "Bianchi (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bimota",
+    "name": "Bimota",
+    "name_en": "Bimota",
+    "category": "general"
+  },
+  {
+    "slug": "binda-group",
+    "name": "Binda Group",
+    "name_en": "Binda Group",
+    "category": "general"
+  },
+  {
+    "slug": "biocell-center",
+    "name": "Biocell Center",
+    "name_en": "Biocell Center",
+    "category": "general"
+  },
+  {
+    "slug": "birel",
+    "name": "Birel",
+    "name_en": "Birel",
+    "category": "general"
+  },
+  {
+    "slug": "blue-panorama-airlines",
+    "name": "Blue Panorama Airlines",
+    "name_en": "Blue Panorama Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "blutec",
+    "name": "Blutec",
+    "name_en": "Blutec",
+    "category": "general"
+  },
+  {
+    "slug": "boglioli",
+    "name": "Boglioli",
+    "name_en": "Boglioli",
+    "category": "general"
   }
 ]
