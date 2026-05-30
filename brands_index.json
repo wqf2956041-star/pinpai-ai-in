@@ -11482,5 +11482,65 @@
     "name": "Krispy Kreme UK",
     "name_en": "Krispy Kreme UK",
     "category": "food"
+  },
+  {
+    "slug": "kumbakonam-degree-coffee",
+    "name": "Kumbakonam Degree Coffee",
+    "name_en": "Kumbakonam Degree Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "la-colombe-coffee-roasters",
+    "name": "La Colombe Coffee Roasters",
+    "name_en": "La Colombe Coffee Roasters",
+    "category": "food"
+  },
+  {
+    "slug": "lavazza",
+    "name": "Lavazza",
+    "name_en": "Lavazza",
+    "category": "food"
+  },
+  {
+    "slug": "levista-coffee",
+    "name": "Levista (coffee)",
+    "name_en": "Levista (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "lfbergs",
+    "name": "Löfbergs",
+    "name_en": "Löfbergs",
+    "category": "food"
+  },
+  {
+    "slug": "loumidis",
+    "name": "Loumidis",
+    "name_en": "Loumidis",
+    "category": "food"
+  },
+  {
+    "slug": "machwitz-kaffee",
+    "name": "Machwitz Kaffee",
+    "name_en": "Machwitz Kaffee",
+    "category": "food"
+  },
+  {
+    "slug": "manhattan-special",
+    "name": "Manhattan Special",
+    "name_en": "Manhattan Special",
+    "category": "food"
+  },
+  {
+    "slug": "maraba-coffee",
+    "name": "Maraba coffee",
+    "name_en": "Maraba coffee",
+    "category": "food"
+  },
+  {
+    "slug": "massimo-zanetti-beverage-group",
+    "name": "Massimo Zanetti Beverage Group",
+    "name_en": "Massimo Zanetti Beverage Group",
+    "category": "food"
   }
 ]
