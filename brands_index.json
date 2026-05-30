@@ -11362,5 +11362,65 @@
     "name": "Mettler Toledo",
     "name_en": "Mettler Toledo",
     "category": "general"
+  },
+  {
+    "slug": "meyer-burger",
+    "name": "Meyer Burger",
+    "name_en": "Meyer Burger",
+    "category": "general"
+  },
+  {
+    "slug": "migros",
+    "name": "Migros",
+    "name_en": "Migros",
+    "category": "general"
+  },
+  {
+    "slug": "mikroton-recordings",
+    "name": "Mikroton Recordings",
+    "name_en": "Mikroton Recordings",
+    "category": "general"
+  },
+  {
+    "slug": "milka",
+    "name": "Milka",
+    "name_en": "Milka",
+    "category": "general"
+  },
+  {
+    "slug": "molkosan",
+    "name": "Molkosan",
+    "name_en": "Molkosan",
+    "category": "general"
+  },
+  {
+    "slug": "motorex",
+    "name": "Motorex",
+    "name_en": "Motorex",
+    "category": "general"
+  },
+  {
+    "slug": "mouawad",
+    "name": "Mouawad",
+    "name_en": "Mouawad",
+    "category": "general"
+  },
+  {
+    "slug": "mvenpick-ice-cream",
+    "name": "Mövenpick Ice Cream",
+    "name_en": "Mövenpick Ice Cream",
+    "category": "general"
+  },
+  {
+    "slug": "mvenpick-hotels-resorts",
+    "name": "Mövenpick Hotels & Resorts",
+    "name_en": "Mövenpick Hotels & Resorts",
+    "category": "general"
+  },
+  {
+    "slug": "mowag-ortsdienstwagen",
+    "name": "Mowag Ortsdienstwagen",
+    "name_en": "Mowag Ortsdienstwagen",
+    "category": "general"
   }
 ]
