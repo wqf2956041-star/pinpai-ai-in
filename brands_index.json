@@ -10822,5 +10822,65 @@
     "name": "Deutsche Bank",
     "name_en": "Deutsche Bank",
     "category": "general"
+  },
+  {
+    "slug": "cateye",
+    "name": "CatEye",
+    "name_en": "CatEye",
+    "category": "general"
+  },
+  {
+    "slug": "century-marque",
+    "name": "Century (marque)",
+    "name_en": "Century (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "chichibu-distillery",
+    "name": "Chichibu distillery",
+    "name_en": "Chichibu distillery",
+    "category": "general"
+  },
+  {
+    "slug": "chita-distillery",
+    "name": "Chita distillery",
+    "name_en": "Chita distillery",
+    "category": "general"
+  },
+  {
+    "slug": "chiyoda-corporation",
+    "name": "Chiyoda Corporation",
+    "name_en": "Chiyoda Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "citizen-watch",
+    "name": "Citizen Watch",
+    "name_en": "Citizen Watch",
+    "category": "general"
+  },
+  {
+    "slug": "clarino",
+    "name": "Clarino",
+    "name_en": "Clarino",
+    "category": "general"
+  },
+  {
+    "slug": "clarion-company",
+    "name": "Clarion (company)",
+    "name_en": "Clarion (company)",
+    "category": "general"
+  },
+  {
+    "slug": "comme-des-garons",
+    "name": "Comme des Garçons",
+    "name_en": "Comme des Garçons",
+    "category": "general"
+  },
+  {
+    "slug": "comsys",
+    "name": "Comsys",
+    "name_en": "Comsys",
+    "category": "general"
   }
 ]
