@@ -12562,5 +12562,65 @@
     "name": "Colorcoat",
     "name_en": "Colorcoat",
     "category": "general"
+  },
+  {
+    "slug": "shepherds-beer",
+    "name": "Shepherds Beer",
+    "name_en": "Shepherds Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "singha",
+    "name": "Singha",
+    "name_en": "Singha",
+    "category": "beverage"
+  },
+  {
+    "slug": "skopsko-beer",
+    "name": "Skopsko beer",
+    "name_en": "Skopsko beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "speights",
+    "name": "Speight's",
+    "name_en": "Speight's",
+    "category": "beverage"
+  },
+  {
+    "slug": "star-lager",
+    "name": "STAR Lager",
+    "name_en": "STAR Lager",
+    "category": "beverage"
+  },
+  {
+    "slug": "steinlager",
+    "name": "Steinlager",
+    "name_en": "Steinlager",
+    "category": "beverage"
+  },
+  {
+    "slug": "strela-beer",
+    "name": "Strela (beer)",
+    "name_en": "Strela (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "super-bock",
+    "name": "Super Bock",
+    "name_en": "Super Bock",
+    "category": "beverage"
+  },
+  {
+    "slug": "taedonggang",
+    "name": "Taedonggang",
+    "name_en": "Taedonggang",
+    "category": "beverage"
+  },
+  {
+    "slug": "taybeh-brewery",
+    "name": "Taybeh Brewery",
+    "name_en": "Taybeh Brewery",
+    "category": "beverage"
   }
 ]
