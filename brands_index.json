@@ -13822,5 +13822,65 @@
     "name": "Carapelli",
     "name_en": "Carapelli",
     "category": "general"
+  },
+  {
+    "slug": "gom-player",
+    "name": "GOM Player",
+    "name_en": "GOM Player",
+    "category": "general"
+  },
+  {
+    "slug": "green-cross-south-korean-company",
+    "name": "Green Cross (South Korean company)",
+    "name_en": "Green Cross (South Korean company)",
+    "category": "general"
+  },
+  {
+    "slug": "gs-group",
+    "name": "GS Group",
+    "name_en": "GS Group",
+    "category": "general"
+  },
+  {
+    "slug": "gs25",
+    "name": "GS25",
+    "name_en": "GS25",
+    "category": "general"
+  },
+  {
+    "slug": "haitai",
+    "name": "Haitai",
+    "name_en": "Haitai",
+    "category": "general"
+  },
+  {
+    "slug": "hana-financial-group",
+    "name": "Hana Financial Group",
+    "name_en": "Hana Financial Group",
+    "category": "general"
+  },
+  {
+    "slug": "hana-micron",
+    "name": "Hana Micron",
+    "name_en": "Hana Micron",
+    "category": "general"
+  },
+  {
+    "slug": "hancom",
+    "name": "Hancom",
+    "name_en": "Hancom",
+    "category": "general"
+  },
+  {
+    "slug": "hanil-cement",
+    "name": "Hanil Cement",
+    "name_en": "Hanil Cement",
+    "category": "general"
+  },
+  {
+    "slug": "hanjin",
+    "name": "Hanjin",
+    "name_en": "Hanjin",
+    "category": "general"
   }
 ]
