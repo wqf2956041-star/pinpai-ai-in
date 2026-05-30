@@ -12262,5 +12262,65 @@
     "name": "Bassetti",
     "name_en": "Bassetti",
     "category": "general"
+  },
+  {
+    "slug": "garrard-co",
+    "name": "Garrard & Co",
+    "name_en": "Garrard & Co",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "geo-f-trumper",
+    "name": "Geo. F. Trumper",
+    "name_en": "Geo. F. Trumper",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "georg-jensen-as",
+    "name": "Georg Jensen A/S",
+    "name_en": "Georg Jensen A/S",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "gerald-charles",
+    "name": "Gerald Charles",
+    "name_en": "Gerald Charles",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "gerald-genta-watch-brand",
+    "name": "Gerald Genta (watch brand)",
+    "name_en": "Gerald Genta (watch brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "girard-perregaux",
+    "name": "Girard-Perregaux",
+    "name_en": "Girard-Perregaux",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "glass-lps",
+    "name": "Glass LPS",
+    "name_en": "Glass LPS",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "goldpfeil",
+    "name": "Goldpfeil",
+    "name_en": "Goldpfeil",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "graff-jewellers",
+    "name": "Graff (jewellers)",
+    "name_en": "Graff (jewellers)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "grant-macdonald",
+    "name": "Grant Macdonald",
+    "name_en": "Grant Macdonald",
+    "category": "fashion-luxury"
   }
 ]
