@@ -13342,5 +13342,65 @@
     "name": "Eneos",
     "name_en": "Eneos",
     "category": "general"
+  },
+  {
+    "slug": "basso-bikes",
+    "name": "Basso Bikes",
+    "name_en": "Basso Bikes",
+    "category": "general"
+  },
+  {
+    "slug": "bburago",
+    "name": "Bburago",
+    "name_en": "Bburago",
+    "category": "general"
+  },
+  {
+    "slug": "be-charge",
+    "name": "Be Charge",
+    "name_en": "Be Charge",
+    "category": "general"
+  },
+  {
+    "slug": "benelli-motorcycles",
+    "name": "Benelli (motorcycles)",
+    "name_en": "Benelli (motorcycles)",
+    "category": "general"
+  },
+  {
+    "slug": "benelli-armi",
+    "name": "Benelli Armi",
+    "name_en": "Benelli Armi",
+    "category": "general"
+  },
+  {
+    "slug": "benetti",
+    "name": "Benetti",
+    "name_en": "Benetti",
+    "category": "general"
+  },
+  {
+    "slug": "bennet-supermarket",
+    "name": "Bennet (supermarket)",
+    "name_en": "Bennet (supermarket)",
+    "category": "general"
+  },
+  {
+    "slug": "berco-company",
+    "name": "Berco (company)",
+    "name_en": "Berco (company)",
+    "category": "general"
+  },
+  {
+    "slug": "beretta",
+    "name": "Beretta",
+    "name_en": "Beretta",
+    "category": "general"
+  },
+  {
+    "slug": "bertagni",
+    "name": "Bertagni",
+    "name_en": "Bertagni",
+    "category": "general"
   }
 ]
