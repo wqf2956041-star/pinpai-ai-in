@@ -11062,5 +11062,65 @@
     "name": "San Miguel Brewery",
     "name_en": "San Miguel Brewery",
     "category": "beverage"
+  },
+  {
+    "slug": "deutsche-kreditbank",
+    "name": "Deutsche Kreditbank",
+    "name_en": "Deutsche Kreditbank",
+    "category": "general"
+  },
+  {
+    "slug": "deutsche-post",
+    "name": "Deutsche Post",
+    "name_en": "Deutsche Post",
+    "category": "general"
+  },
+  {
+    "slug": "deutsche-telekom",
+    "name": "Deutsche Telekom",
+    "name_en": "Deutsche Telekom",
+    "category": "general"
+  },
+  {
+    "slug": "deutscher-herold",
+    "name": "Deutscher Herold",
+    "name_en": "Deutscher Herold",
+    "category": "general"
+  },
+  {
+    "slug": "deutz-ag",
+    "name": "Deutz AG",
+    "name_en": "Deutz AG",
+    "category": "general"
+  },
+  {
+    "slug": "dg-flugzeugbau",
+    "name": "DG Flugzeugbau",
+    "name_en": "DG Flugzeugbau",
+    "category": "general"
+  },
+  {
+    "slug": "diezel",
+    "name": "Diezel",
+    "name_en": "Diezel",
+    "category": "general"
+  },
+  {
+    "slug": "dm-drogerie-markt",
+    "name": "Dm-drogerie markt",
+    "name_en": "Dm-drogerie markt",
+    "category": "general"
+  },
+  {
+    "slug": "doll-co",
+    "name": "Doll & Co.",
+    "name_en": "Doll & Co.",
+    "category": "general"
+  },
+  {
+    "slug": "dolmar",
+    "name": "Dolmar",
+    "name_en": "Dolmar",
+    "category": "general"
   }
 ]
