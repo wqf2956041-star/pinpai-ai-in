@@ -13942,5 +13942,65 @@
     "name": "HiteJinro",
     "name_en": "HiteJinro",
     "category": "general"
+  },
+  {
+    "slug": "revolver-co-operative",
+    "name": "Revolver Co-operative",
+    "name_en": "Revolver Co-operative",
+    "category": "food"
+  },
+  {
+    "slug": "ricor",
+    "name": "Ricoré",
+    "name_en": "Ricoré",
+    "category": "food"
+  },
+  {
+    "slug": "rodds",
+    "name": "Rodd's",
+    "name_en": "Rodd's",
+    "category": "food"
+  },
+  {
+    "slug": "sacarellos",
+    "name": "Sacarello's",
+    "name_en": "Sacarello's",
+    "category": "food"
+  },
+  {
+    "slug": "sandellas-flatbread-caf",
+    "name": "Sandella's Flatbread Café",
+    "name_en": "Sandella's Flatbread Café",
+    "category": "food"
+  },
+  {
+    "slug": "sanka",
+    "name": "Sanka",
+    "name_en": "Sanka",
+    "category": "food"
+  },
+  {
+    "slug": "seattles-best-coffee",
+    "name": "Seattle's Best Coffee",
+    "name_en": "Seattle's Best Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "second-cup",
+    "name": "Second Cup",
+    "name_en": "Second Cup",
+    "category": "food"
+  },
+  {
+    "slug": "senseo",
+    "name": "Senseo",
+    "name_en": "Senseo",
+    "category": "food"
+  },
+  {
+    "slug": "spr-coffee",
+    "name": "SPR Coffee",
+    "name_en": "SPR Coffee",
+    "category": "food"
   }
 ]
