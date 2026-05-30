@@ -11002,5 +11002,65 @@
     "name": "Murree beer",
     "name_en": "Murree beer",
     "category": "beverage"
+  },
+  {
+    "slug": "nam-nam-alley",
+    "name": "Nam Nam Alley",
+    "name_en": "Nam Nam Alley",
+    "category": "beverage"
+  },
+  {
+    "slug": "new-belgium-brewing-company",
+    "name": "New Belgium Brewing Company",
+    "name_en": "New Belgium Brewing Company",
+    "category": "beverage"
+  },
+  {
+    "slug": "phjala-brewery",
+    "name": "Põhjala Brewery",
+    "name_en": "Põhjala Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "presidente-beer",
+    "name": "Presidente (beer)",
+    "name_en": "Presidente (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "prestige-beer",
+    "name": "Prestige (beer)",
+    "name_en": "Prestige (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "red-horse-beer",
+    "name": "Red Horse Beer",
+    "name_en": "Red Horse Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "red-stripe",
+    "name": "Red Stripe",
+    "name_en": "Red Stripe",
+    "category": "beverage"
+  },
+  {
+    "slug": "royal-swinkels",
+    "name": "Royal Swinkels",
+    "name_en": "Royal Swinkels",
+    "category": "beverage"
+  },
+  {
+    "slug": "san-miguel-beer",
+    "name": "San Miguel Beer",
+    "name_en": "San Miguel Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "san-miguel-brewery",
+    "name": "San Miguel Brewery",
+    "name_en": "San Miguel Brewery",
+    "category": "beverage"
   }
 ]
