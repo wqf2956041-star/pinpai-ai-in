@@ -10882,5 +10882,65 @@
     "name": "Comsys",
     "name_en": "Comsys",
     "category": "general"
+  },
+  {
+    "slug": "copic",
+    "name": "Copic",
+    "name_en": "Copic",
+    "category": "general"
+  },
+  {
+    "slug": "corega",
+    "name": "Corega",
+    "name_en": "Corega",
+    "category": "general"
+  },
+  {
+    "slug": "cosina",
+    "name": "Cosina",
+    "name_en": "Cosina",
+    "category": "general"
+  },
+  {
+    "slug": "cosina-voigtlnder",
+    "name": "Cosina Voigtländer",
+    "name_en": "Cosina Voigtländer",
+    "category": "general"
+  },
+  {
+    "slug": "cosmo-oil-company",
+    "name": "Cosmo Oil Company",
+    "name_en": "Cosmo Oil Company",
+    "category": "general"
+  },
+  {
+    "slug": "cusco-japan",
+    "name": "CUSCO Japan",
+    "name_en": "CUSCO Japan",
+    "category": "general"
+  },
+  {
+    "slug": "cyberagent",
+    "name": "CyberAgent",
+    "name_en": "CyberAgent",
+    "category": "general"
+  },
+  {
+    "slug": "cyberdyne-inc",
+    "name": "Cyberdyne Inc.",
+    "name_en": "Cyberdyne Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "daiichi-life",
+    "name": "Daiichi Life",
+    "name_en": "Daiichi Life",
+    "category": "general"
+  },
+  {
+    "slug": "daicel",
+    "name": "Daicel",
+    "name_en": "Daicel",
+    "category": "general"
   }
 ]
