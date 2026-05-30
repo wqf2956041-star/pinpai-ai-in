@@ -12,31 +12,37 @@ WWW = "/var/www/pinpai"
 LOCK_FILE = os.path.join(BASE, ".heartbeat.lock")
 
 def _update_index_html():
-    """Regenerate brandsData in index.html from brands_index.json with proper escaping."""
+    """Regenerate brandsData in index.html from brands_index.json with proper escaping.
+    Uses regex to find the exact brandsData array bounds."""
     with open(os.path.join(BASE, "brands_index.json")) as f:
         idx = json.load(f)
     with open(os.path.join(BASE, "index.html")) as f:
         html = f.read()
-    start = html.find("var brandsData = [")
-    if start >= 0:
-        old_end = html.find("]", start + 18)
-        if old_end > 0:
-            lines = []
-            for b in idx:
-                t = b.get('t', 1)
-                def esc(s):
-                    return s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\r", "\\r")
-                line = '{{name:"{0}",name_en:"{1}",slug:"{2}",category:"{3}",t:{4}}}'.format(
-                    esc(b['name']), esc(b.get('name_en', '')), esc(b['slug']), esc(b.get('category', '')), t
-                )
-                lines.append(line)
-            new_data = ",\n".join(lines)
-            before = html[:start + len("var brandsData = [")]
-            after = html[old_end + 1:]
-            html = before + "\n" + new_data + "\n" + after
-            with open(os.path.join(BASE, "index.html"), "w") as f:
-                f.write(html)
-            print("   index.html updated (" + str(len(idx)) + " brands)")
+
+    # Use regex to find the exact brandsData array
+    match = re.search(r'var brandsData = \[([\s\S]*?)\];', html)
+    if match:
+        start = match.start()
+        end = match.end()
+        lines = []
+        for b in reversed(idx):
+            t = b.get('t', 1)
+            def esc(s):
+                return s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\r", "\\r")
+            line = ('{name:"' + esc(b['name']) +
+                    '",name_en:"' + esc(b.get('name_en', '')) +
+                    '",slug:"' + esc(b['slug']) +
+                    '",category:"' + esc(b.get('category', '')) +
+                    '",t:' + str(t) + '}')
+            lines.append(line)
+        new_data = ",\n".join(lines)
+        new_block = "var brandsData = [\n" + new_data + "\n];"
+        html = html[:start] + new_block + html[end:]
+        with open(os.path.join(BASE, "index.html"), "w") as f:
+            f.write(html)
+        print("   index.html updated (" + str(len(idx)) + " brands)")
+    else:
+        print("   ERROR: could not find var brandsData = [...] in index.html")
 
 # Lock to prevent concurrent runs
 if os.path.exists(LOCK_FILE):
