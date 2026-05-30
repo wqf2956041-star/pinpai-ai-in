@@ -13402,5 +13402,65 @@
     "name": "Bertagni",
     "name_en": "Bertagni",
     "category": "general"
+  },
+  {
+    "slug": "bombrini-parodi-delfino",
+    "name": "Bombrini-Parodi-Delfino",
+    "name_en": "Bombrini-Parodi-Delfino",
+    "category": "general"
+  },
+  {
+    "slug": "bontempi",
+    "name": "Bontempi",
+    "name_en": "Bontempi",
+    "category": "general"
+  },
+  {
+    "slug": "luigi-borgato",
+    "name": "Luigi Borgato",
+    "name_en": "Luigi Borgato",
+    "category": "general"
+  },
+  {
+    "slug": "borile",
+    "name": "Borile",
+    "name_en": "Borile",
+    "category": "general"
+  },
+  {
+    "slug": "bormioli-rocco",
+    "name": "Bormioli Rocco",
+    "name_en": "Bormioli Rocco",
+    "category": "general"
+  },
+  {
+    "slug": "borrani",
+    "name": "Borrani",
+    "name_en": "Borrani",
+    "category": "general"
+  },
+  {
+    "slug": "bortolo-nardini",
+    "name": "Bortolo Nardini",
+    "name_en": "Bortolo Nardini",
+    "category": "general"
+  },
+  {
+    "slug": "bottecchia",
+    "name": "Bottecchia",
+    "name_en": "Bottecchia",
+    "category": "general"
+  },
+  {
+    "slug": "bracco-company",
+    "name": "Bracco (company)",
+    "name_en": "Bracco (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bravo-company",
+    "name": "Bravo (company)",
+    "name_en": "Bravo (company)",
+    "category": "general"
   }
 ]
