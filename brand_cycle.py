@@ -69,6 +69,44 @@ try:
     else:
         print(f"\n⏸️ No new brands this cycle (total: {total_after})")
 
+    # Step 5: Sync gh-pages branch
+    print("🔄 Syncing gh-pages branch...")
+    subprocess.run(["git", "config", "user.email", "robot@pinpai.ai.in"],
+                   capture_output=True, text=True)
+    subprocess.run(["git", "config", "user.name", "Brand Bot"],
+                   capture_output=True, text=True)
+
+    # Commit and push main first
+    subprocess.run(["git", "add", "-A", "."], capture_output=True, text=True)
+    result_commit = subprocess.run(["git", "commit", "-m", f"auto: cycle +{added} brands"],
+                                   capture_output=True, text=True)
+    if result_commit.returncode == 0 or "nothing to commit" in result_commit.stdout:
+        subprocess.run(["git", "push", "origin", "main"],
+                       capture_output=True, text=True, timeout=30)
+        print("✅ main pushed")
+
+    # Sync gh-pages: checkout, merge main, push
+    result = subprocess.run(
+        ["git", "push", "origin", "main:gh-pages"],
+        capture_output=True, text=True, timeout=30
+    )
+    if result.returncode == 0:
+        print("✅ gh-pages synced (fast-forward)")
+    else:
+        # If fast-forward fails, do proper merge
+        subprocess.run(["git", "fetch", "origin", "gh-pages"],
+                       capture_output=True, text=True)
+        subprocess.run(["git", "checkout", "gh-pages"],
+                       capture_output=True, text=True)
+        merge = subprocess.run(["git", "merge", "main"],
+                               capture_output=True, text=True)
+        print(merge.stdout.strip() if merge.stdout else "merge done")
+        subprocess.run(["git", "push", "origin", "gh-pages"],
+                       capture_output=True, text=True, timeout=30)
+        subprocess.run(["git", "checkout", "main"],
+                       capture_output=True, text=True)
+        print("✅ gh-pages synced (merge)")
+
 finally:
     if os.path.exists(LOCK_FILE):
         os.remove(LOCK_FILE)
