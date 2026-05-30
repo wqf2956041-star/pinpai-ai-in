@@ -11662,5 +11662,65 @@
     "name": "Marimekko",
     "name_en": "Marimekko",
     "category": "fashion"
+  },
+  {
+    "slug": "jn-international-medical-corporation",
+    "name": "JN-International Medical Corporation",
+    "name_en": "JN-International Medical Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "s-c-johnson-son",
+    "name": "S. C. Johnson & Son",
+    "name_en": "S. C. Johnson & Son",
+    "category": "general"
+  },
+  {
+    "slug": "joyson-safety-systems",
+    "name": "Joyson Safety Systems",
+    "name_en": "Joyson Safety Systems",
+    "category": "general"
+  },
+  {
+    "slug": "jpmorgan-chase",
+    "name": "JPMorgan Chase",
+    "name_en": "JPMorgan Chase",
+    "category": "general"
+  },
+  {
+    "slug": "juniper-networks",
+    "name": "Juniper Networks",
+    "name_en": "Juniper Networks",
+    "category": "general"
+  },
+  {
+    "slug": "kap7",
+    "name": "KAP7",
+    "name_en": "KAP7",
+    "category": "general"
+  },
+  {
+    "slug": "kellanova",
+    "name": "Kellanova",
+    "name_en": "Kellanova",
+    "category": "general"
+  },
+  {
+    "slug": "kelloggs",
+    "name": "Kellogg's",
+    "name_en": "Kellogg's",
+    "category": "general"
+  },
+  {
+    "slug": "kimberly-clark",
+    "name": "Kimberly-Clark",
+    "name_en": "Kimberly-Clark",
+    "category": "general"
+  },
+  {
+    "slug": "kinetic-concepts",
+    "name": "Kinetic Concepts",
+    "name_en": "Kinetic Concepts",
+    "category": "general"
   }
 ]
