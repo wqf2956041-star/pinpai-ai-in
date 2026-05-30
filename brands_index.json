@@ -13582,5 +13582,65 @@
     "name": "Silent Circle (software)",
     "name_en": "Silent Circle (software)",
     "category": "general"
+  },
+  {
+    "slug": "freenet-ag",
+    "name": "Freenet AG",
+    "name_en": "Freenet AG",
+    "category": "general"
+  },
+  {
+    "slug": "freenow",
+    "name": "Freenow",
+    "name_en": "Freenow",
+    "category": "general"
+  },
+  {
+    "slug": "freibahn",
+    "name": "Freibahn",
+    "name_en": "Freibahn",
+    "category": "general"
+  },
+  {
+    "slug": "fresenius-company",
+    "name": "Fresenius (company)",
+    "name_en": "Fresenius (company)",
+    "category": "general"
+  },
+  {
+    "slug": "friesland-porzellan",
+    "name": "Friesland Porzellan",
+    "name_en": "Friesland Porzellan",
+    "category": "general"
+  },
+  {
+    "slug": "frister-rossmann",
+    "name": "Frister & Rossmann",
+    "name_en": "Frister & Rossmann",
+    "category": "general"
+  },
+  {
+    "slug": "fritz-kola",
+    "name": "Fritz-kola",
+    "name_en": "Fritz-kola",
+    "category": "general"
+  },
+  {
+    "slug": "fritz",
+    "name": "Fritz!",
+    "name_en": "Fritz!",
+    "category": "general"
+  },
+  {
+    "slug": "frosta-ag",
+    "name": "Frosta AG",
+    "name_en": "Frosta AG",
+    "category": "general"
+  },
+  {
+    "slug": "fuchs-se",
+    "name": "Fuchs SE",
+    "name_en": "Fuchs SE",
+    "category": "general"
   }
 ]
