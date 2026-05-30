@@ -11962,5 +11962,65 @@
     "name": "Elac",
     "name_en": "Elac",
     "category": "general"
+  },
+  {
+    "slug": "elmos-semiconductor",
+    "name": "Elmos Semiconductor",
+    "name_en": "Elmos Semiconductor",
+    "category": "general"
+  },
+  {
+    "slug": "emsa-company",
+    "name": "Emsa (company)",
+    "name_en": "Emsa (company)",
+    "category": "general"
+  },
+  {
+    "slug": "enbw",
+    "name": "EnBW",
+    "name_en": "EnBW",
+    "category": "general"
+  },
+  {
+    "slug": "enercity",
+    "name": "Enercity",
+    "name_en": "Enercity",
+    "category": "general"
+  },
+  {
+    "slug": "enercon",
+    "name": "Enercon",
+    "name_en": "Enercon",
+    "category": "general"
+  },
+  {
+    "slug": "ensinger-company",
+    "name": "Ensinger (company)",
+    "name_en": "Ensinger (company)",
+    "category": "general"
+  },
+  {
+    "slug": "envisiontec",
+    "name": "EnvisionTEC",
+    "name_en": "EnvisionTEC",
+    "category": "general"
+  },
+  {
+    "slug": "espenlaub-automobile",
+    "name": "Espenlaub (automobile)",
+    "name_en": "Espenlaub (automobile)",
+    "category": "general"
+  },
+  {
+    "slug": "eurowings",
+    "name": "Eurowings",
+    "name_en": "Eurowings",
+    "category": "general"
+  },
+  {
+    "slug": "exakta",
+    "name": "Exakta",
+    "name_en": "Exakta",
+    "category": "general"
   }
 ]
