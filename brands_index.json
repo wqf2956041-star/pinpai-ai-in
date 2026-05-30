@@ -12442,5 +12442,65 @@
     "name": "COFCO Group",
     "name_en": "COFCO Group",
     "category": "general"
+  },
+  {
+    "slug": "card-factory",
+    "name": "Card Factory",
+    "name_en": "Card Factory",
+    "category": "general"
+  },
+  {
+    "slug": "carrs",
+    "name": "Carr's",
+    "name_en": "Carr's",
+    "category": "general"
+  },
+  {
+    "slug": "castrol",
+    "name": "Castrol",
+    "name_en": "Castrol",
+    "category": "general"
+  },
+  {
+    "slug": "cat-in-a-flat",
+    "name": "Cat in a Flat",
+    "name_en": "Cat in a Flat",
+    "category": "general"
+  },
+  {
+    "slug": "cavendish-pianos",
+    "name": "Cavendish Pianos",
+    "name_en": "Cavendish Pianos",
+    "category": "general"
+  },
+  {
+    "slug": "celestion",
+    "name": "Celestion",
+    "name_en": "Celestion",
+    "category": "general"
+  },
+  {
+    "slug": "ceravision",
+    "name": "Ceravision",
+    "name_en": "Ceravision",
+    "category": "general"
+  },
+  {
+    "slug": "charbonnel-et-walker",
+    "name": "Charbonnel et Walker",
+    "name_en": "Charbonnel et Walker",
+    "category": "general"
+  },
+  {
+    "slug": "chase-brothers-motorcycle",
+    "name": "Chase Brothers Motorcycle",
+    "name_en": "Chase Brothers Motorcycle",
+    "category": "general"
+  },
+  {
+    "slug": "chase-distillery",
+    "name": "Chase Distillery",
+    "name_en": "Chase Distillery",
+    "category": "general"
   }
 ]
