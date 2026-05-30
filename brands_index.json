@@ -12742,5 +12742,65 @@
     "name": "On (company)",
     "name_en": "On (company)",
     "category": "general"
+  },
+  {
+    "slug": "orell-fssli",
+    "name": "Orell Füssli",
+    "name_en": "Orell Füssli",
+    "category": "general"
+  },
+  {
+    "slug": "pantene",
+    "name": "Pantene",
+    "name_en": "Pantene",
+    "category": "general"
+  },
+  {
+    "slug": "pb-swiss-tools",
+    "name": "PB Swiss Tools",
+    "name_en": "PB Swiss Tools",
+    "category": "general"
+  },
+  {
+    "slug": "peters-chocolate",
+    "name": "Peter's Chocolate",
+    "name_en": "Peter's Chocolate",
+    "category": "general"
+  },
+  {
+    "slug": "phoenix-mecano",
+    "name": "Phoenix Mecano",
+    "name_en": "Phoenix Mecano",
+    "category": "general"
+  },
+  {
+    "slug": "pich-automotive",
+    "name": "Piëch Automotive",
+    "name_en": "Piëch Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "pilatus-aircraft",
+    "name": "Pilatus Aircraft",
+    "name_en": "Pilatus Aircraft",
+    "category": "general"
+  },
+  {
+    "slug": "proton-mail",
+    "name": "Proton Mail",
+    "name_en": "Proton Mail",
+    "category": "general"
+  },
+  {
+    "slug": "renata-battery",
+    "name": "Renata (battery)",
+    "name_en": "Renata (battery)",
+    "category": "general"
+  },
+  {
+    "slug": "revox",
+    "name": "Revox",
+    "name_en": "Revox",
+    "category": "general"
   }
 ]
