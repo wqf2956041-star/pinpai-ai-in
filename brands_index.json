@@ -12382,5 +12382,65 @@
     "name": "Choi Heong Yuen Bakery",
     "name_en": "Choi Heong Yuen Bakery",
     "category": "general"
+  },
+  {
+    "slug": "chongqing-airlines",
+    "name": "Chongqing Airlines",
+    "name_en": "Chongqing Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "chtc-marque",
+    "name": "CHTC (marque)",
+    "name_en": "CHTC (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "chufeng",
+    "name": "Chufeng",
+    "name_en": "Chufeng",
+    "category": "general"
+  },
+  {
+    "slug": "chunlan-group",
+    "name": "Chunlan Group",
+    "name_en": "Chunlan Group",
+    "category": "general"
+  },
+  {
+    "slug": "chuwi-company",
+    "name": "Chuwi (company)",
+    "name_en": "Chuwi (company)",
+    "category": "general"
+  },
+  {
+    "slug": "citic-group",
+    "name": "CITIC Group",
+    "name_en": "CITIC Group",
+    "category": "general"
+  },
+  {
+    "slug": "ciwei",
+    "name": "Ciwei",
+    "name_en": "Ciwei",
+    "category": "general"
+  },
+  {
+    "slug": "cloudwalk-technology",
+    "name": "CloudWalk Technology",
+    "name_en": "CloudWalk Technology",
+    "category": "general"
+  },
+  {
+    "slug": "club-factory",
+    "name": "Club Factory",
+    "name_en": "Club Factory",
+    "category": "general"
+  },
+  {
+    "slug": "cofco-group",
+    "name": "COFCO Group",
+    "name_en": "COFCO Group",
+    "category": "general"
   }
 ]
