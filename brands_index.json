@@ -13882,5 +13882,65 @@
     "name": "Hanjin",
     "name_en": "Hanjin",
     "category": "general"
+  },
+  {
+    "slug": "hankook",
+    "name": "Hankook",
+    "name_en": "Hankook",
+    "category": "general"
+  },
+  {
+    "slug": "hanmi-pharm",
+    "name": "Hanmi Pharm",
+    "name_en": "Hanmi Pharm",
+    "category": "general"
+  },
+  {
+    "slug": "hanwha-group",
+    "name": "Hanwha Group",
+    "name_en": "Hanwha Group",
+    "category": "general"
+  },
+  {
+    "slug": "hanwha-ocean",
+    "name": "Hanwha Ocean",
+    "name_en": "Hanwha Ocean",
+    "category": "general"
+  },
+  {
+    "slug": "hanwha-vision",
+    "name": "Hanwha Vision",
+    "name_en": "Hanwha Vision",
+    "category": "general"
+  },
+  {
+    "slug": "hct-co-ltd",
+    "name": "HCT Co., Ltd.",
+    "name_en": "HCT Co., Ltd.",
+    "category": "general"
+  },
+  {
+    "slug": "hd-hyundai-heavy-industries",
+    "name": "HD Hyundai Heavy Industries",
+    "name_en": "HD Hyundai Heavy Industries",
+    "category": "general"
+  },
+  {
+    "slug": "hd-hyundai-robotics",
+    "name": "HD Hyundai Robotics",
+    "name_en": "HD Hyundai Robotics",
+    "category": "general"
+  },
+  {
+    "slug": "hite-brewery",
+    "name": "Hite Brewery",
+    "name_en": "Hite Brewery",
+    "category": "general"
+  },
+  {
+    "slug": "hitejinro",
+    "name": "HiteJinro",
+    "name_en": "HiteJinro",
+    "category": "general"
   }
 ]
