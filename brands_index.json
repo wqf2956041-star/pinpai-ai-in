@@ -11602,5 +11602,65 @@
     "name": "Levi Strauss & Co.",
     "name_en": "Levi Strauss & Co.",
     "category": "fashion"
+  },
+  {
+    "slug": "jlindeberg",
+    "name": "J.Lindeberg",
+    "name_en": "J.Lindeberg",
+    "category": "fashion"
+  },
+  {
+    "slug": "lonely-fashion-label",
+    "name": "Lonely (fashion label)",
+    "name_en": "Lonely (fashion label)",
+    "category": "fashion"
+  },
+  {
+    "slug": "louis-philippe-brand",
+    "name": "Louis Philippe (brand)",
+    "name_en": "Louis Philippe (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "lover-clothing",
+    "name": "Lover (clothing)",
+    "name_en": "Lover (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "loyandford",
+    "name": "Loyandford",
+    "name_en": "Loyandford",
+    "category": "fashion"
+  },
+  {
+    "slug": "lyle-scott",
+    "name": "Lyle & Scott",
+    "name_en": "Lyle & Scott",
+    "category": "fashion"
+  },
+  {
+    "slug": "madhappy",
+    "name": "Madhappy",
+    "name_en": "Madhappy",
+    "category": "fashion"
+  },
+  {
+    "slug": "madonna-fashion-brands",
+    "name": "Madonna fashion brands",
+    "name_en": "Madonna fashion brands",
+    "category": "fashion"
+  },
+  {
+    "slug": "mango-retailer",
+    "name": "Mango (retailer)",
+    "name_en": "Mango (retailer)",
+    "category": "fashion"
+  },
+  {
+    "slug": "marimekko",
+    "name": "Marimekko",
+    "name_en": "Marimekko",
+    "category": "fashion"
   }
 ]
