@@ -11902,5 +11902,65 @@
     "name": "Fornasetti",
     "name_en": "Fornasetti",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "drkopp-adler",
+    "name": "Dürkopp Adler",
+    "name_en": "Dürkopp Adler",
+    "category": "general"
+  },
+  {
+    "slug": "dws-group",
+    "name": "DWS Group",
+    "name_en": "DWS Group",
+    "category": "general"
+  },
+  {
+    "slug": "dz-bank",
+    "name": "DZ Bank",
+    "name_en": "DZ Bank",
+    "category": "general"
+  },
+  {
+    "slug": "e-plus",
+    "name": "E-Plus",
+    "name_en": "E-Plus",
+    "category": "general"
+  },
+  {
+    "slug": "eon",
+    "name": "E.ON",
+    "name_en": "E.ON",
+    "category": "general"
+  },
+  {
+    "slug": "ed-meier",
+    "name": "Ed Meier",
+    "name_en": "Ed Meier",
+    "category": "general"
+  },
+  {
+    "slug": "edeka",
+    "name": "Edeka",
+    "name_en": "Edeka",
+    "category": "general"
+  },
+  {
+    "slug": "eibach-company",
+    "name": "Eibach (company)",
+    "name_en": "Eibach (company)",
+    "category": "general"
+  },
+  {
+    "slug": "einhell",
+    "name": "Einhell",
+    "name_en": "Einhell",
+    "category": "general"
+  },
+  {
+    "slug": "elac",
+    "name": "Elac",
+    "name_en": "Elac",
+    "category": "general"
   }
 ]
