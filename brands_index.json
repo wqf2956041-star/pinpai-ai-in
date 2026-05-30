@@ -10942,5 +10942,65 @@
     "name": "Daicel",
     "name_en": "Daicel",
     "category": "general"
+  },
+  {
+    "slug": "tan-qindong-incident",
+    "name": "Tan Qindong incident",
+    "name_en": "Tan Qindong incident",
+    "category": "healthcare"
+  },
+  {
+    "slug": "xbiotech",
+    "name": "XBiotech",
+    "name_en": "XBiotech",
+    "category": "healthcare"
+  },
+  {
+    "slug": "leon-beer",
+    "name": "Leon Beer",
+    "name_en": "Leon Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "lion-red",
+    "name": "Lion Red",
+    "name_en": "Lion Red",
+    "category": "beverage"
+  },
+  {
+    "slug": "lone-tree-brewery",
+    "name": "Lone Tree Brewery",
+    "name_en": "Lone Tree Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "carlsberg-britvic",
+    "name": "Carlsberg Britvic",
+    "name_en": "Carlsberg Britvic",
+    "category": "beverage"
+  },
+  {
+    "slug": "mccashins-brewery",
+    "name": "McCashin's Brewery",
+    "name_en": "McCashin's Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "mosi-beer",
+    "name": "Mosi (beer)",
+    "name_en": "Mosi (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "murau-brewery",
+    "name": "Murau Brewery",
+    "name_en": "Murau Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "murree-beer",
+    "name": "Murree beer",
+    "name_en": "Murree beer",
+    "category": "beverage"
   }
 ]
