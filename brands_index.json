@@ -11182,5 +11182,65 @@
     "name": "Duravit",
     "name_en": "Duravit",
     "category": "general"
+  },
+  {
+    "slug": "helsana",
+    "name": "Helsana",
+    "name_en": "Helsana",
+    "category": "general"
+  },
+  {
+    "slug": "hero-group",
+    "name": "Hero Group",
+    "name_en": "Hero Group",
+    "category": "general"
+  },
+  {
+    "slug": "carrosserie-hess",
+    "name": "Carrosserie Hess",
+    "name_en": "Carrosserie Hess",
+    "category": "general"
+  },
+  {
+    "slug": "holcim",
+    "name": "Holcim",
+    "name_en": "Holcim",
+    "category": "general"
+  },
+  {
+    "slug": "hrlimann-brewery",
+    "name": "Hürlimann Brewery",
+    "name_en": "Hürlimann Brewery",
+    "category": "general"
+  },
+  {
+    "slug": "immuniweb",
+    "name": "ImmuniWeb",
+    "name_en": "ImmuniWeb",
+    "category": "general"
+  },
+  {
+    "slug": "inca-machine-brand",
+    "name": "INCA (machine brand)",
+    "name_en": "INCA (machine brand)",
+    "category": "general"
+  },
+  {
+    "slug": "intersport",
+    "name": "Intersport",
+    "name_en": "Intersport",
+    "category": "general"
+  },
+  {
+    "slug": "iqair",
+    "name": "IQAir",
+    "name_en": "IQAir",
+    "category": "general"
+  },
+  {
+    "slug": "julius-baer-group",
+    "name": "Julius Baer Group",
+    "name_en": "Julius Baer Group",
+    "category": "general"
   }
 ]
