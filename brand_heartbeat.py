@@ -187,11 +187,13 @@ try:
             lines = []
             for b in index:
                 t = b.get('t', 1)
+                def esc(s):
+                    return s.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n').replace('\r', '\\r')
                 line = '{{name:"{0}",name_en:"{1}",slug:"{2}",category:"{3}",t:{4}}}'.format(
-                    b['name'], b.get('name_en', ''), b['slug'], b.get('category', ''), t
+                    esc(b['name']), esc(b.get('name_en', '')), esc(b['slug']), esc(b.get('category', '')), t
                 )
                 lines.append(line)
-            new_data = "\n".join(lines)
+            new_data = ",\n".join(lines)
             before = html[:start + len("var brandsData = [")]
             after = html[old_end + 1:]
             html = before + "\n" + new_data + "\n" + after
