@@ -13222,5 +13222,65 @@
     "name": "Dogo Beer",
     "name_en": "Dogo Beer",
     "category": "general"
+  },
+  {
+    "slug": "don-quijote-store",
+    "name": "Don Quijote (store)",
+    "name_en": "Don Quijote (store)",
+    "category": "general"
+  },
+  {
+    "slug": "dragon-quest",
+    "name": "Dragon Quest",
+    "name_en": "Dragon Quest",
+    "category": "general"
+  },
+  {
+    "slug": "dragontrail",
+    "name": "Dragontrail",
+    "name_en": "Dragontrail",
+    "category": "general"
+  },
+  {
+    "slug": "drecom",
+    "name": "Drecom",
+    "name_en": "Drecom",
+    "category": "general"
+  },
+  {
+    "slug": "dynabook-inc",
+    "name": "Dynabook Inc.",
+    "name_en": "Dynabook Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "dynic-corporation",
+    "name": "Dynic Corporation",
+    "name_en": "Dynic Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "ebara-corporation",
+    "name": "Ebara Corporation",
+    "name_en": "Ebara Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "echo-tools",
+    "name": "Echo tools",
+    "name_en": "Echo tools",
+    "category": "general"
+  },
+  {
+    "slug": "edion-corporation",
+    "name": "EDION Corporation",
+    "name_en": "EDION Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "edy",
+    "name": "Edy",
+    "name_en": "Edy",
+    "category": "general"
   }
 ]
