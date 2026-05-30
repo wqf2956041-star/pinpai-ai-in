@@ -12682,5 +12682,65 @@
     "name": "Wells & Young's Brewery",
     "name_en": "Wells & Young's Brewery",
     "category": "beverage"
+  },
+  {
+    "slug": "muller-martini",
+    "name": "Muller Martini",
+    "name_en": "Muller Martini",
+    "category": "general"
+  },
+  {
+    "slug": "nagra",
+    "name": "Nagra",
+    "name_en": "Nagra",
+    "category": "general"
+  },
+  {
+    "slug": "nanosurf",
+    "name": "Nanosurf",
+    "name_en": "Nanosurf",
+    "category": "general"
+  },
+  {
+    "slug": "nanoworld",
+    "name": "NanoWorld",
+    "name_en": "NanoWorld",
+    "category": "general"
+  },
+  {
+    "slug": "nesquik",
+    "name": "Nesquik",
+    "name_en": "Nesquik",
+    "category": "general"
+  },
+  {
+    "slug": "nobel-biocare",
+    "name": "Nobel Biocare",
+    "name_en": "Nobel Biocare",
+    "category": "general"
+  },
+  {
+    "slug": "northsouth-books",
+    "name": "NorthSouth Books",
+    "name_en": "NorthSouth Books",
+    "category": "general"
+  },
+  {
+    "slug": "numbrs-personal-finance",
+    "name": "Numbrs Personal Finance",
+    "name_en": "Numbrs Personal Finance",
+    "category": "general"
+  },
+  {
+    "slug": "oc-oerlikon",
+    "name": "OC Oerlikon",
+    "name_en": "OC Oerlikon",
+    "category": "general"
+  },
+  {
+    "slug": "on-company",
+    "name": "On (company)",
+    "name_en": "On (company)",
+    "category": "general"
   }
 ]
