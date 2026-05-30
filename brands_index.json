@@ -11302,5 +11302,65 @@
     "name": "Lehni AG",
     "name_en": "Lehni AG",
     "category": "general"
+  },
+  {
+    "slug": "liebherr",
+    "name": "Liebherr",
+    "name_en": "Liebherr",
+    "category": "general"
+  },
+  {
+    "slug": "lindt",
+    "name": "Lindt",
+    "name_en": "Lindt",
+    "category": "general"
+  },
+  {
+    "slug": "logitech",
+    "name": "Logitech",
+    "name_en": "Logitech",
+    "category": "general"
+  },
+  {
+    "slug": "luzi-ag",
+    "name": "Luzi AG",
+    "name_en": "Luzi AG",
+    "category": "general"
+  },
+  {
+    "slug": "maestrani",
+    "name": "Maestrani",
+    "name_en": "Maestrani",
+    "category": "general"
+  },
+  {
+    "slug": "maggi",
+    "name": "Maggi",
+    "name_en": "Maggi",
+    "category": "general"
+  },
+  {
+    "slug": "mammut-sports-group",
+    "name": "Mammut Sports Group",
+    "name_en": "Mammut Sports Group",
+    "category": "general"
+  },
+  {
+    "slug": "matisa",
+    "name": "MATISA",
+    "name_en": "MATISA",
+    "category": "general"
+  },
+  {
+    "slug": "max-felchlin",
+    "name": "Max Felchlin",
+    "name_en": "Max Felchlin",
+    "category": "general"
+  },
+  {
+    "slug": "mettler-toledo",
+    "name": "Mettler Toledo",
+    "name_en": "Mettler Toledo",
+    "category": "general"
   }
 ]
