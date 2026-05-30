@@ -12142,5 +12142,65 @@
     "name": "Revelator Coffee",
     "name_en": "Revelator Coffee",
     "category": "food"
+  },
+  {
+    "slug": "avio",
+    "name": "Avio",
+    "name_en": "Avio",
+    "category": "general"
+  },
+  {
+    "slug": "aviointeriors",
+    "name": "Aviointeriors",
+    "name_en": "Aviointeriors",
+    "category": "general"
+  },
+  {
+    "slug": "azimut-yachts",
+    "name": "Azimut Yachts",
+    "name_en": "Azimut Yachts",
+    "category": "general"
+  },
+  {
+    "slug": "b-p-battioni-e-pagani-spa",
+    "name": "B-P Battioni e Pagani S.p.A.",
+    "name_en": "B-P Battioni e Pagani S.p.A.",
+    "category": "general"
+  },
+  {
+    "slug": "baglietto",
+    "name": "Baglietto",
+    "name_en": "Baglietto",
+    "category": "general"
+  },
+  {
+    "slug": "baldelli-ceramics",
+    "name": "Baldelli ceramics",
+    "name_en": "Baldelli ceramics",
+    "category": "general"
+  },
+  {
+    "slug": "baldini-castoldi",
+    "name": "Baldini & Castoldi",
+    "name_en": "Baldini & Castoldi",
+    "category": "general"
+  },
+  {
+    "slug": "balocco-company",
+    "name": "Balocco (company)",
+    "name_en": "Balocco (company)",
+    "category": "general"
+  },
+  {
+    "slug": "banca-akros",
+    "name": "Banca Akros",
+    "name_en": "Banca Akros",
+    "category": "general"
+  },
+  {
+    "slug": "banca-caripe",
+    "name": "Banca Caripe",
+    "name_en": "Banca Caripe",
+    "category": "general"
   }
 ]
