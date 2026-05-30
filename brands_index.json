@@ -12922,5 +12922,65 @@
     "name": "Feurich",
     "name_en": "Feurich",
     "category": "general"
+  },
+  {
+    "slug": "fielmann-ag",
+    "name": "Fielmann AG",
+    "name_en": "Fielmann AG",
+    "category": "general"
+  },
+  {
+    "slug": "fischertechnik",
+    "name": "Fischertechnik",
+    "name_en": "Fischertechnik",
+    "category": "general"
+  },
+  {
+    "slug": "fischerwerke",
+    "name": "Fischerwerke",
+    "name_en": "Fischerwerke",
+    "category": "general"
+  },
+  {
+    "slug": "fissler",
+    "name": "Fissler",
+    "name_en": "Fissler",
+    "category": "general"
+  },
+  {
+    "slug": "fleischmann-model-railroads",
+    "name": "Fleischmann (model railroads)",
+    "name_en": "Fleischmann (model railroads)",
+    "category": "general"
+  },
+  {
+    "slug": "flex-elektrowerkzeuge",
+    "name": "Flex-Elektrowerkzeuge",
+    "name_en": "Flex-Elektrowerkzeuge",
+    "category": "general"
+  },
+  {
+    "slug": "flixbus",
+    "name": "FlixBus",
+    "name_en": "FlixBus",
+    "category": "general"
+  },
+  {
+    "slug": "focus-bikes",
+    "name": "Focus Bikes",
+    "name_en": "Focus Bikes",
+    "category": "general"
+  },
+  {
+    "slug": "august-frster",
+    "name": "August Förster",
+    "name_en": "August Förster",
+    "category": "general"
+  },
+  {
+    "slug": "foturan",
+    "name": "Foturan",
+    "name_en": "Foturan",
+    "category": "general"
   }
 ]
