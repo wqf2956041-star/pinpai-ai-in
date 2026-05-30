@@ -11,6 +11,33 @@ BASE = "/workspace/pinpai-ai-in"
 WWW = "/var/www/pinpai"
 LOCK_FILE = os.path.join(BASE, ".heartbeat.lock")
 
+def _update_index_html():
+    """Regenerate brandsData in index.html from brands_index.json with proper escaping."""
+    with open(os.path.join(BASE, "brands_index.json")) as f:
+        idx = json.load(f)
+    with open(os.path.join(BASE, "index.html")) as f:
+        html = f.read()
+    start = html.find("var brandsData = [")
+    if start >= 0:
+        old_end = html.find("]", start + 18)
+        if old_end > 0:
+            lines = []
+            for b in idx:
+                t = b.get('t', 1)
+                def esc(s):
+                    return s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\r", "\\r")
+                line = '{{name:"{0}",name_en:"{1}",slug:"{2}",category:"{3}",t:{4}}}'.format(
+                    esc(b['name']), esc(b.get('name_en', '')), esc(b['slug']), esc(b.get('category', '')), t
+                )
+                lines.append(line)
+            new_data = ",\n".join(lines)
+            before = html[:start + len("var brandsData = [")]
+            after = html[old_end + 1:]
+            html = before + "\n" + new_data + "\n" + after
+            with open(os.path.join(BASE, "index.html"), "w") as f:
+                f.write(html)
+            print("   index.html updated (" + str(len(idx)) + " brands)")
+
 # Lock to prevent concurrent runs
 if os.path.exists(LOCK_FILE):
     import time
@@ -153,6 +180,8 @@ try:
     if added_count == 0:
         print("No brands were generated this cycle")
         os.remove(LOCK_FILE)
+        # Still update index.html (ensure esc() applied to all brands)
+        _update_index_html()
         sys.exit(0)
 
     # --- STEP 5: Write to brands_index.json (ONLY for successfully deployed brands) ---
@@ -177,29 +206,7 @@ try:
             ])
 
     # --- STEP 7: Update index.html brandsData ---
-    with open(os.path.join(BASE, "index.html")) as f:
-        html = f.read()
-
-    start = html.find("var brandsData = [")
-    if start >= 0:
-        old_end = html.find("]", start + 18)
-        if old_end > 0:
-            lines = []
-            for b in index:
-                t = b.get('t', 1)
-                def esc(s):
-                    return s.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n').replace('\r', '\\r')
-                line = '{{name:"{0}",name_en:"{1}",slug:"{2}",category:"{3}",t:{4}}}'.format(
-                    esc(b['name']), esc(b.get('name_en', '')), esc(b['slug']), esc(b.get('category', '')), t
-                )
-                lines.append(line)
-            new_data = ",\n".join(lines)
-            before = html[:start + len("var brandsData = [")]
-            after = html[old_end + 1:]
-            html = before + "\n" + new_data + "\n" + after
-            with open(os.path.join(BASE, "index.html"), "w") as f:
-                f.write(html)
-            print("   index.html updated (" + str(len(index)) + " brands)")
+    _update_index_html()
 
     # --- STEP 8: Git add, commit, push ---
     os.chdir(BASE)
