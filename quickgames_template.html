@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITLE}} | {{DOMAIN}}</title>
+<meta name="description" content="{{DESC}}">
+<meta name="keywords" content="{{GAME}},{{TYPE}},私服下载,外挂免费,破解版,兑换码,辅助工具,游戏托">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0000;color:#cc0000;font-family:"Microsoft YaHei",sans-serif;overflow-x:hidden}
+body::before{content:'';position:fixed;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(0deg,rgba(255,0,0,0.03) 0px,rgba(255,0,0,0.03) 2px,transparent 2px,transparent 4px);pointer-events:none;z-index:9999}
+.container{max-width:960px;margin:0 auto;padding:20px}
+.header{background:linear-gradient(135deg,#1a0000,#0d0d0d,#1a0000);border:2px solid #ff0000;padding:20px;text-align:center;margin-bottom:20px;position:relative;overflow:hidden}
+.header::before{content:'';position:absolute;top:-50%;left:-50%;width:200%;height:200%;background:radial-gradient(circle,rgba(255,0,0,0.1),transparent 70%);animation:pulse 3s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}
+.header h1{color:#ff0000;font-size:28px;text-shadow:0 0 20px #ff0000,0 0 40px #ff0000;animation:blink 1.5s ease-in-out infinite;position:relative}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0.7}}
+.header .sub{color:#ff6600;font-size:14px;margin-top:10px}
+.scroll-ann{background:#0d0d0d;border:1px solid #ff3300;padding:10px;margin-bottom:15px;overflow:hidden;white-space:nowrap}
+.scroll-ann marquee{color:#00ff00;font-size:16px;font-weight:bold}
+.article{background:#0a0a0a;border:1px solid #330000;padding:25px;margin-bottom:20px;position:relative}
+.article h2{color:#ff0000;font-size:22px;border-bottom:2px solid #ff0000;padding-bottom:10px;margin-bottom:15px;text-shadow:0 0 10px rgba(255,0,0,0.5)}
+.article .meta{color:#666;font-size:12px;margin-bottom:15px}
+.article .meta span{color:#ff6600}
+.article p{color:#cccccc;line-height:1.8;margin-bottom:12px;font-size:14px}
+.article .features{background:#111;border:1px solid #333;border-left:4px solid #ff0000;padding:15px;margin:15px 0;list-style:none}
+.article .features li{color:#ffcc00;padding:6px 0;border-bottom:1px solid #222;font-size:14px}
+.article .features li:last-child{border:none}
+.game-img{width:100%;max-height:300px;object-fit:cover;margin-bottom:15px;border:1px solid #333}
+.cta-btn{display:block;width:100%;padding:18px;background:linear-gradient(135deg,#cc0000,#ff3300);color:#fff;text-align:center;font-size:22px;font-weight:bold;text-decoration:none;margin:20px 0;border-radius:5px;animation:pulse 2s ease-in-out infinite;cursor:pointer}
+.cta-btn:hover{background:linear-gradient(135deg,#ff3300,#ff6600)}
+.cta-btn small{display:block;font-size:12px;color:#ffcc00;margin-top:5px}
+.tg-float{position:fixed;right:0;top:40%;z-index:9999;background:linear-gradient(135deg,#cc0000,#ff3300);padding:12px 8px;border-radius:8px 0 0 8px;text-align:center;animation:floatGlow 2s ease-in-out infinite}
+.tg-float a{color:#fff;text-decoration:none;font-size:13px;display:block;text-align:center}
+.tg-float .icon{font-size:28px;display:block;margin-bottom:3px}
+@keyframes floatGlow{0%,100%{box-shadow:0 0 10px rgba(255,0,0,0.3)}50%{box-shadow:0 0 30px rgba(255,0,0,0.8)}}
+.popup-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9998;display:none;justify-content:center;align-items:center}
+.popup{background:#111;border:3px solid #ff0000;padding:40px;max-width:400px;text-align:center;position:relative;box-shadow:0 0 50px rgba(255,0,0,0.3)}
+.popup h2{color:#ff0000;font-size:24px;margin-bottom:15px}
+.popup p{color:#ccc;font-size:14px;margin-bottom:20px}
+.popup .close{position:absolute;top:10px;right:15px;color:#666;cursor:pointer;font-size:20px}
+.popup .tg-btn{display:inline-block;background:#0088cc;color:#fff;padding:15px 40px;text-decoration:none;font-size:18px;border-radius:5px;font-weight:bold}
+.popup .tg-btn:hover{background:#00aaff}
+.footer{text-align:center;padding:20px;color:#333;font-size:12px;border-top:1px solid #111}
+</style>
+</head>
+<body>
+
+<div class="tg-float">
+<a href="{{TG_LINK}}" target="_blank"><span class="icon">✈️</span>客服<br>在线</a>
+</div>
+
+<div class="popup-overlay" id="popup">
+<div class="popup">
+<span class="close" onclick="document.getElementById('popup').style.display='none'">✕</span>
+<h2>⚠️ 注意！</h2>
+<p>当前页面资源仅限今日免费领取！<br>每日限量100份，先到先得！</p>
+<a class="tg-btn" href="{{TG_LINK}}" target="_blank">✈️ 联系TG客服领取</a>
+<p style="margin-top:15px;color:#ff6600;font-size:12px">{{TG_ID}}</p>
+</div>
+</div>
+
+<div class="container">
+<div class="header">
+<h1>⚡ {{DOMAIN}} ⚡</h1>
+<div class="sub">全网最全外挂私服破解站 · 每日更新 · 永久免费</div>
+</div>
+
+<div class="scroll-ann">
+<marquee behavior="scroll" direction="left" scrollamount="5">
+🔥 {{DATE}} 最新更新！{{TITLE}} — 免费下载 | 外挂 | 辅助 | 破解 | 兑换码 | 联系TG: {{TG_ID}} 🔥
+</marquee>
+</div>
+
+<div class="article">
+<div class="meta">📅 <span>{{DATE}}</span> | 📂 <span>{{TYPE}}</span> | 🎮 <span>{{GAME}}</span></div>
+<h2>{{TITLE}}</h2>
+<img class="game-img" src="{{IMG}}" alt="{{GAME}}性感动漫美女">
+<p>{{INTRO1}}</p>
+<p>{{INTRO2}}</p>
+<p>📥 【下载方式】联系TG客服 {{TG_ID}} 即可获取最新下载链接！每天仅限前100名免费领取，手慢无！</p>
+
+<div class="features">
+<ul>
+{{FEATURES}}
+</ul>
+</div>
+
+<p>⏰ 截止日期：{{DATE}} {{TIME}} — 长期有效，每天更新！</p>
+<p>💬 客服TG：{{TG_ID}}（24小时在线，秒回！）</p>
+<p>🔗 更多资源：https://{{DOMAIN}}</p>
+
+<a class="cta-btn" href="{{TG_LINK}}" target="_blank">
+✈️ 联系TG客服免费领取
+<small>{{TG_ID}} · 24小时在线</small>
+</a>
+
+<p style="color:#333;font-size:12px;margin-top:20px">⚠️ 声明：本站所有资源仅供学习交流，请于24小时内删除。如果喜欢请支持正版游戏。</p>
+</div>
+
+<div class="footer">
+<p>{{DOMAIN}} — 每日更新外挂/私服/破解版/兑换码/辅助工具</p>
+<p>联系客服：{{TG_ID}} | 更新时间：每日9:00</p>
+<p style="margin-top:10px;color:#222">本站声明：所有资源仅供学习交流，请于24小时内删除</p>
+</div>
+</div>
+
+<script>
+setTimeout(function(){document.getElementById('popup').style.display='flex'}, 3000);
+document.getElementById('popup').onclick = function(e){if(e.target==this)this.style.display='none'};
+</script>
+</body>
+</html>

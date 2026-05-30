@@ -13102,5 +13102,65 @@
     "name": "Golden Goose (company)",
     "name_en": "Golden Goose (company)",
     "category": "fashion"
+  },
+  {
+    "slug": "daiei",
+    "name": "Daiei",
+    "name_en": "Daiei",
+    "category": "general"
+  },
+  {
+    "slug": "daifuku-company",
+    "name": "Daifuku (company)",
+    "name_en": "Daifuku (company)",
+    "category": "general"
+  },
+  {
+    "slug": "daihatsu",
+    "name": "Daihatsu",
+    "name_en": "Daihatsu",
+    "category": "general"
+  },
+  {
+    "slug": "daiichi-kosho-company",
+    "name": "Daiichi Kosho Company",
+    "name_en": "Daiichi Kosho Company",
+    "category": "general"
+  },
+  {
+    "slug": "daiichi-sankyo",
+    "name": "Daiichi Sankyo",
+    "name_en": "Daiichi Sankyo",
+    "category": "general"
+  },
+  {
+    "slug": "daikin",
+    "name": "Daikin",
+    "name_en": "Daikin",
+    "category": "general"
+  },
+  {
+    "slug": "daimaru",
+    "name": "Daimaru",
+    "name_en": "Daimaru",
+    "category": "general"
+  },
+  {
+    "slug": "daiso",
+    "name": "Daiso",
+    "name_en": "Daiso",
+    "category": "general"
+  },
+  {
+    "slug": "datsun",
+    "name": "Datsun",
+    "name_en": "Datsun",
+    "category": "general"
+  },
+  {
+    "slug": "dena",
+    "name": "DeNA",
+    "name_en": "DeNA",
+    "category": "general"
   }
 ]
