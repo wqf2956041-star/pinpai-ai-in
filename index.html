@@ -2253,23 +2253,18 @@ var brandsData = [
 {name:"Bennet (supermarket)",name_en:"Bennet (supermarket)",slug:"bennet-supermarket",category:"general",t:1},
 {name:"Berco (company)",name_en:"Berco (company)",slug:"berco-company",category:"general",t:1},
 {name:"Beretta",name_en:"Beretta",slug:"beretta",category:"general",t:1},
-{name:"Bertagni",name_en:"Bertagni",slug:"bertagni",category:"general",t:1}
+{name:"Bertagni",name_en:"Bertagni",slug:"bertagni",category:"general",t:1},
+{name:"Beta (motorcycle manufacturer)",name_en:"Beta (motorcycle manufacturer)",slug:"beta-motorcycle-manufacturer",category:"general",t:1},
+{name:"Bialetti",name_en:"Bialetti",slug:"bialetti",category:"general",t:1},
+{name:"Bianchi (company)",name_en:"Bianchi (company)",slug:"bianchi-company",category:"general",t:1},
+{name:"Bimota",name_en:"Bimota",slug:"bimota",category:"general",t:1},
+{name:"Binda Group",name_en:"Binda Group",slug:"binda-group",category:"general",t:1},
+{name:"Biocell Center",name_en:"Biocell Center",slug:"biocell-center",category:"general",t:1},
+{name:"Birel",name_en:"Birel",slug:"birel",category:"general",t:1},
+{name:"Blue Panorama Airlines",name_en:"Blue Panorama Airlines",slug:"blue-panorama-airlines",category:"general",t:1},
+{name:"Blutec",name_en:"Blutec",slug:"blutec",category:"general",t:1},
+{name:"Boglioli",name_en:"Boglioli",slug:"boglioli",category:"general",t:1}
 ;
-
-var categoryLabels = {
-    'general':'\u7EFC\u5408','technology':'\u79D1\u6280','finance':'\u91D1\u878D','telecom':'\u901A\u4FE1',
-    'beverage':'\u996E\u54C1','food':'\u98DF\u54C1','airline':'\u822A\u7A7A','retail':'\u96F6\u552E',
-    'fashion-luxury':'\u65F6\u5C1A\u5962\u4F88','beauty':'\u7F8E\u5986','sport':'\u4F53\u80B2','materials':'\u6750\u6599',
-    'watch':'\u8155\u8868','automotive':'\u6C7D\u8F66','sportswear':'\u8FD0\u52A8\u670D\u9970','cosmetics':'\u5316\u5986\u54C1',
-    'consumer-goods':'\u6D88\u8D39\u54C1','healthcare':'\u533B\u7597','media':'\u4F20\u5A92'
-};
-
-function renderBrands(lang) {
-    var container = document.getElementById('brand-list');
-    var html = '';
-    var count = 0;
-    for(var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i];
         var nameDisplay = b.name;
         var catLabel = categoryLabels[b.category] || b.category;
         html += '<a href="/' + b.slug + '/" class="brand-card">' +
