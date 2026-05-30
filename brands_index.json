@@ -13282,5 +13282,65 @@
     "name": "Edy",
     "name_en": "Edy",
     "category": "general"
+  },
+  {
+    "slug": "eiken-chemical",
+    "name": "Eiken Chemical",
+    "name_en": "Eiken Chemical",
+    "category": "general"
+  },
+  {
+    "slug": "eiki",
+    "name": "Eiki",
+    "name_en": "Eiki",
+    "category": "general"
+  },
+  {
+    "slug": "eisai-company",
+    "name": "Eisai (company)",
+    "name_en": "Eisai (company)",
+    "category": "general"
+  },
+  {
+    "slug": "eisaku-noro-company",
+    "name": "Eisaku Noro Company",
+    "name_en": "Eisaku Noro Company",
+    "category": "general"
+  },
+  {
+    "slug": "eizo",
+    "name": "Eizo",
+    "name_en": "Eizo",
+    "category": "general"
+  },
+  {
+    "slug": "elecom",
+    "name": "Elecom",
+    "name_en": "Elecom",
+    "category": "general"
+  },
+  {
+    "slug": "elmo-company",
+    "name": "Elmo (company)",
+    "name_en": "Elmo (company)",
+    "category": "general"
+  },
+  {
+    "slug": "elna-japanese-company",
+    "name": "Elna (Japanese company)",
+    "name_en": "Elna (Japanese company)",
+    "category": "general"
+  },
+  {
+    "slug": "eneloop",
+    "name": "Eneloop",
+    "name_en": "Eneloop",
+    "category": "general"
+  },
+  {
+    "slug": "eneos",
+    "name": "Eneos",
+    "name_en": "Eneos",
+    "category": "general"
   }
 ]
