@@ -13702,5 +13702,65 @@
     "name": "Glasfabrik Lamberts",
     "name_en": "Glasfabrik Lamberts",
     "category": "general"
+  },
+  {
+    "slug": "societ-italiana-ernesto-breda",
+    "name": "Società Italiana Ernesto Breda",
+    "name_en": "Società Italiana Ernesto Breda",
+    "category": "general"
+  },
+  {
+    "slug": "bredamenarinibus",
+    "name": "BredaMenarinibus",
+    "name_en": "BredaMenarinibus",
+    "category": "general"
+  },
+  {
+    "slug": "bremach",
+    "name": "Bremach",
+    "name_en": "Bremach",
+    "category": "general"
+  },
+  {
+    "slug": "brembo",
+    "name": "Brembo",
+    "name_en": "Brembo",
+    "category": "general"
+  },
+  {
+    "slug": "breton-company",
+    "name": "Breton (company)",
+    "name_en": "Breton (company)",
+    "category": "general"
+  },
+  {
+    "slug": "the-bridge-brand",
+    "name": "The Bridge (brand)",
+    "name_en": "The Bridge (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "brionvega",
+    "name": "Brionvega",
+    "name_en": "Brionvega",
+    "category": "general"
+  },
+  {
+    "slug": "brondi-company",
+    "name": "Brondi (company)",
+    "name_en": "Brondi (company)",
+    "category": "general"
+  },
+  {
+    "slug": "brunello-cucinelli-brand",
+    "name": "Brunello Cucinelli (brand)",
+    "name_en": "Brunello Cucinelli (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "bticino",
+    "name": "Bticino",
+    "name_en": "Bticino",
+    "category": "general"
   }
 ]
