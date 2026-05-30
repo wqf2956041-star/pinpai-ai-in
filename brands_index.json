@@ -4282,5 +4282,8285 @@
     "name": "Baldinini",
     "name_en": "Baldinini",
     "category": "fashion"
+  },
+  {
+    "slug": "banana-republic",
+    "name": "Banana Republic",
+    "name_en": "Banana Republic",
+    "category": "fashion"
+  },
+  {
+    "slug": "bearpaw-brand",
+    "name": "Bearpaw (brand)",
+    "name_en": "Bearpaw (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "belle-international",
+    "name": "Belle International",
+    "name_en": "Belle International",
+    "category": "fashion"
+  },
+  {
+    "slug": "bettanin-venturi",
+    "name": "Bettanin & Venturi",
+    "name_en": "Bettanin & Venturi",
+    "category": "fashion"
+  },
+  {
+    "slug": "birkenstock",
+    "name": "Birkenstock",
+    "name_en": "Birkenstock",
+    "category": "fashion"
+  },
+  {
+    "slug": "blackstock-weber",
+    "name": "Blackstock & Weber",
+    "name_en": "Blackstock & Weber",
+    "category": "fashion"
+  },
+  {
+    "slug": "bontoni",
+    "name": "Bontoni",
+    "name_en": "Bontoni",
+    "category": "fashion"
+  },
+  {
+    "slug": "bucketfeet",
+    "name": "Bucketfeet",
+    "name_en": "Bucketfeet",
+    "category": "fashion"
+  },
+  {
+    "slug": "caleres",
+    "name": "Caleres",
+    "name_en": "Caleres",
+    "category": "fashion"
+  },
+  {
+    "slug": "calvin-klein-fashion-house",
+    "name": "Calvin Klein (fashion house)",
+    "name_en": "Calvin Klein (fashion house)",
+    "category": "fashion"
+  },
+  {
+    "slug": "ad-company",
+    "name": "A&D Company",
+    "name_en": "A&D Company",
+    "category": "general"
+  },
+  {
+    "slug": "access-company",
+    "name": "Access (company)",
+    "name_en": "Access (company)",
+    "category": "general"
+  },
+  {
+    "slug": "accuphase",
+    "name": "Accuphase",
+    "name_en": "Accuphase",
+    "category": "general"
+  },
+  {
+    "slug": "acura",
+    "name": "Acura",
+    "name_en": "Acura",
+    "category": "general"
+  },
+  {
+    "slug": "advantest",
+    "name": "Advantest",
+    "name_en": "Advantest",
+    "category": "general"
+  },
+  {
+    "slug": "aeon-company",
+    "name": "Aeon (company)",
+    "name_en": "Aeon (company)",
+    "category": "general"
+  },
+  {
+    "slug": "afeela",
+    "name": "Afeela",
+    "name_en": "Afeela",
+    "category": "general"
+  },
+  {
+    "slug": "agc-inc",
+    "name": "AGC Inc.",
+    "name_en": "AGC Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ah-software",
+    "name": "AH-Software",
+    "name_en": "AH-Software",
+    "category": "general"
+  },
+  {
+    "slug": "aichi-small-elevator-manufacturing-corporation",
+    "name": "Aichi small-elevator manufacturing corporation",
+    "name_en": "Aichi small-elevator manufacturing corporation",
+    "category": "general"
+  },
+  {
+    "slug": "aichi-steel",
+    "name": "Aichi Steel",
+    "name_en": "Aichi Steel",
+    "category": "general"
+  },
+  {
+    "slug": "air-do",
+    "name": "Air Do",
+    "name_en": "Air Do",
+    "category": "general"
+  },
+  {
+    "slug": "aisin",
+    "name": "Aisin",
+    "name_en": "Aisin",
+    "category": "general"
+  },
+  {
+    "slug": "aiwa",
+    "name": "Aiwa",
+    "name_en": "Aiwa",
+    "category": "general"
+  },
+  {
+    "slug": "akai",
+    "name": "Akai",
+    "name_en": "Akai",
+    "category": "general"
+  },
+  {
+    "slug": "akai-s1000",
+    "name": "Akai S1000",
+    "name_en": "Akai S1000",
+    "category": "general"
+  },
+  {
+    "slug": "akai-s3000xl",
+    "name": "Akai S3000XL",
+    "name_en": "Akai S3000XL",
+    "category": "general"
+  },
+  {
+    "slug": "akebono-brake-industry",
+    "name": "Akebono Brake Industry",
+    "name_en": "Akebono Brake Industry",
+    "category": "general"
+  },
+  {
+    "slug": "akkeshi-distillery",
+    "name": "Akkeshi distillery",
+    "name_en": "Akkeshi distillery",
+    "category": "general"
+  },
+  {
+    "slug": "alaxala-networks",
+    "name": "Alaxala Networks",
+    "name_en": "Alaxala Networks",
+    "category": "general"
+  },
+  {
+    "slug": "travelodge",
+    "name": "Travelodge",
+    "name_en": "Travelodge",
+    "category": "hotel"
+  },
+  {
+    "slug": "tune-hotels",
+    "name": "Tune Hotels",
+    "name_en": "Tune Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "virgin-hotels",
+    "name": "Virgin Hotels",
+    "name_en": "Virgin Hotels",
+    "category": "hotel"
+  },
+  {
+    "slug": "westin-hotels-resorts",
+    "name": "Westin Hotels & Resorts",
+    "name_en": "Westin Hotels & Resorts",
+    "category": "hotel"
+  },
+  {
+    "slug": "yotel",
+    "name": "Yotel",
+    "name_en": "Yotel",
+    "category": "hotel"
+  },
+  {
+    "slug": "media-conglomerate",
+    "name": "Media conglomerate",
+    "name_en": "Media conglomerate",
+    "category": "media"
+  },
+  {
+    "slug": "academy-plastic-model",
+    "name": "Academy Plastic Model",
+    "name_en": "Academy Plastic Model",
+    "category": "toy"
+  },
+  {
+    "slug": "actimates",
+    "name": "ActiMates",
+    "name_en": "ActiMates",
+    "category": "toy"
+  },
+  {
+    "slug": "aggretsuko",
+    "name": "Aggretsuko",
+    "name_en": "Aggretsuko",
+    "category": "toy"
+  },
+  {
+    "slug": "airgamboys",
+    "name": "Airgamboys",
+    "name_en": "Airgamboys",
+    "category": "toy"
+  },
+  {
+    "slug": "angel-cat-sugar",
+    "name": "Angel Cat Sugar",
+    "name_en": "Angel Cat Sugar",
+    "category": "toy"
+  },
+  {
+    "slug": "applause-toy-company",
+    "name": "Applause (toy company)",
+    "name_en": "Applause (toy company)",
+    "category": "toy"
+  },
+  {
+    "slug": "atlantic-company",
+    "name": "Atlantic (company)",
+    "name_en": "Atlantic (company)",
+    "category": "toy"
+  },
+  {
+    "slug": "automodello",
+    "name": "Automodello",
+    "name_en": "Automodello",
+    "category": "toy"
+  },
+  {
+    "slug": "bandai",
+    "name": "Bandai",
+    "name_en": "Bandai",
+    "category": "toy"
+  },
+  {
+    "slug": "bandai-spirits",
+    "name": "Bandai Spirits",
+    "name_en": "Bandai Spirits",
+    "category": "toy"
+  },
+  {
+    "slug": "barclay-manufacturing-company",
+    "name": "Barclay Manufacturing Company",
+    "name_en": "Barclay Manufacturing Company",
+    "category": "toy"
+  },
+  {
+    "slug": "baseball-talk",
+    "name": "Baseball Talk",
+    "name_en": "Baseball Talk",
+    "category": "toy"
+  },
+  {
+    "slug": "bayko",
+    "name": "Bayko",
+    "name_en": "Bayko",
+    "category": "toy"
+  },
+  {
+    "slug": "benbros",
+    "name": "Benbros",
+    "name_en": "Benbros",
+    "category": "toy"
+  },
+  {
+    "slug": "kite-pharma",
+    "name": "Kite Pharma",
+    "name_en": "Kite Pharma",
+    "category": "healthcare"
+  },
+  {
+    "slug": "korea-pugang-corporation",
+    "name": "Korea Pugang Corporation",
+    "name_en": "Korea Pugang Corporation",
+    "category": "healthcare"
+  },
+  {
+    "slug": "kyntra-bio",
+    "name": "Kyntra Bio",
+    "name_en": "Kyntra Bio",
+    "category": "healthcare"
+  },
+  {
+    "slug": "kyowa-kirin",
+    "name": "Kyowa Kirin",
+    "name_en": "Kyowa Kirin",
+    "category": "healthcare"
+  },
+  {
+    "slug": "medivation",
+    "name": "Medivation",
+    "name_en": "Medivation",
+    "category": "healthcare"
+  },
+  {
+    "slug": "molecular-partners",
+    "name": "Molecular Partners",
+    "name_en": "Molecular Partners",
+    "category": "healthcare"
+  },
+  {
+    "slug": "nektar-therapeutics",
+    "name": "Nektar Therapeutics",
+    "name_en": "Nektar Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "neuland-laboratories",
+    "name": "Neuland Laboratories",
+    "name_en": "Neuland Laboratories",
+    "category": "healthcare"
+  },
+  {
+    "slug": "owl-drug-co-ltd",
+    "name": "Owl Drug Co. Ltd.",
+    "name_en": "Owl Drug Co. Ltd.",
+    "category": "healthcare"
+  },
+  {
+    "slug": "pugang-pharmaceutic-company",
+    "name": "Pugang Pharmaceutic Company",
+    "name_en": "Pugang Pharmaceutic Company",
+    "category": "healthcare"
+  },
+  {
+    "slug": "relief-therapeutics",
+    "name": "Relief Therapeutics",
+    "name_en": "Relief Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "rentschler-company",
+    "name": "Rentschler (company)",
+    "name_en": "Rentschler (company)",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sarr-family",
+    "name": "Sarrá family",
+    "name_en": "Sarrá family",
+    "category": "healthcare"
+  },
+  {
+    "slug": "seagen",
+    "name": "Seagen",
+    "name_en": "Seagen",
+    "category": "healthcare"
+  },
+  {
+    "slug": "siegfried-holding-ag",
+    "name": "Siegfried Holding AG",
+    "name_en": "Siegfried Holding AG",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sinovac-biotech",
+    "name": "Sinovac Biotech",
+    "name_en": "Sinovac Biotech",
+    "category": "healthcare"
+  },
+  {
+    "slug": "spark-therapeutics",
+    "name": "Spark Therapeutics",
+    "name_en": "Spark Therapeutics",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sphere-bio",
+    "name": "Sphere Bio",
+    "name_en": "Sphere Bio",
+    "category": "healthcare"
+  },
+  {
+    "slug": "sunovion",
+    "name": "Sunovion",
+    "name_en": "Sunovion",
+    "category": "healthcare"
+  },
+  {
+    "slug": "synthaverse-sa",
+    "name": "Synthaverse S.A.",
+    "name_en": "Synthaverse S.A.",
+    "category": "healthcare"
+  },
+  {
+    "slug": "caf-du-monde",
+    "name": "Café du Monde",
+    "name_en": "Café du Monde",
+    "category": "food"
+  },
+  {
+    "slug": "caf-grumpy",
+    "name": "Café Grumpy",
+    "name_en": "Café Grumpy",
+    "category": "food"
+  },
+  {
+    "slug": "caf-hag",
+    "name": "Café HAG",
+    "name_en": "Café HAG",
+    "category": "food"
+  },
+  {
+    "slug": "caf-neo",
+    "name": "Café Neo",
+    "name_en": "Café Neo",
+    "category": "food"
+  },
+  {
+    "slug": "caf-puro",
+    "name": "Café Puro",
+    "name_en": "Café Puro",
+    "category": "food"
+  },
+  {
+    "slug": "caf-rico",
+    "name": "Café Rico",
+    "name_en": "Café Rico",
+    "category": "food"
+  },
+  {
+    "slug": "cafdirect",
+    "name": "Cafédirect",
+    "name_en": "Cafédirect",
+    "category": "food"
+  },
+  {
+    "slug": "caffe-bene",
+    "name": "Caffe Bene",
+    "name_en": "Caffe Bene",
+    "category": "food"
+  },
+  {
+    "slug": "caff-concerto",
+    "name": "Caffè Concerto",
+    "name_en": "Caffè Concerto",
+    "category": "food"
+  },
+  {
+    "slug": "caff-nero",
+    "name": "Caffè Nero",
+    "name_en": "Caffè Nero",
+    "category": "food"
+  },
+  {
+    "slug": "caff-pascucci",
+    "name": "Caffè Pascucci",
+    "name_en": "Caffè Pascucci",
+    "category": "food"
+  },
+  {
+    "slug": "caff-ritazza",
+    "name": "Caffè Ritazza",
+    "name_en": "Caffè Ritazza",
+    "category": "food"
+  },
+  {
+    "slug": "caffeine-coffeehouse-chain",
+    "name": "Caffeine (coffeehouse chain)",
+    "name_en": "Caffeine (coffeehouse chain)",
+    "category": "food"
+  },
+  {
+    "slug": "caffiato",
+    "name": "Caffiato",
+    "name_en": "Caffiato",
+    "category": "food"
+  },
+  {
+    "slug": "camerons-coffee",
+    "name": "Cameron's Coffee",
+    "name_en": "Cameron's Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "caribou-coffee",
+    "name": "Caribou Coffee",
+    "name_en": "Caribou Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "carmelite-monks",
+    "name": "Carmelite Monks",
+    "name_en": "Carmelite Monks",
+    "category": "food"
+  },
+  {
+    "slug": "chock-full-onuts",
+    "name": "Chock full o'Nuts",
+    "name_en": "Chock full o'Nuts",
+    "category": "food"
+  },
+  {
+    "slug": "coava-coffee-roasters",
+    "name": "Coava Coffee Roasters",
+    "name_en": "Coava Coffee Roasters",
+    "category": "food"
+  },
+  {
+    "slug": "coffee-island",
+    "name": "Coffee Island",
+    "name_en": "Coffee Island",
+    "category": "food"
+  },
+  {
+    "slug": "castle-lager",
+    "name": "Castle Lager",
+    "name_en": "Castle Lager",
+    "category": "beverage"
+  },
+  {
+    "slug": "celtia",
+    "name": "Celtia",
+    "name_en": "Celtia",
+    "category": "beverage"
+  },
+  {
+    "slug": "champion-breweries",
+    "name": "Champion Breweries",
+    "name_en": "Champion Breweries",
+    "category": "beverage"
+  },
+  {
+    "slug": "chibuku-shake-shake",
+    "name": "Chibuku Shake Shake",
+    "name_en": "Chibuku Shake Shake",
+    "category": "beverage"
+  },
+  {
+    "slug": "choukachou",
+    "name": "Choukachou",
+    "name_en": "Choukachou",
+    "category": "beverage"
+  },
+  {
+    "slug": "cuca-beer",
+    "name": "Cuca (beer)",
+    "name_en": "Cuca (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "duvel-moortgat-brewery",
+    "name": "Duvel Moortgat Brewery",
+    "name_en": "Duvel Moortgat Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "fantme-beer",
+    "name": "Fantôme (beer)",
+    "name_en": "Fantôme (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "floreffe-beer",
+    "name": "Floreffe (beer)",
+    "name_en": "Floreffe (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "fruli",
+    "name": "Fruli",
+    "name_en": "Fruli",
+    "category": "beverage"
+  },
+  {
+    "slug": "hangzhou-qiandaohu",
+    "name": "Hangzhou Qiandaohu",
+    "name_en": "Hangzhou Qiandaohu",
+    "category": "beverage"
+  },
+  {
+    "slug": "hanoi-beer",
+    "name": "Hanoi Beer",
+    "name_en": "Hanoi Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "hatuey-beer",
+    "name": "Hatuey (beer)",
+    "name_en": "Hatuey (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "hirter",
+    "name": "Hirter",
+    "name_en": "Hirter",
+    "category": "beverage"
+  },
+  {
+    "slug": "huda-beer",
+    "name": "Huda Beer",
+    "name_en": "Huda Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "hu-beer",
+    "name": "Huế Beer",
+    "name_en": "Huế Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "hunter-bangladeshi-beer",
+    "name": "Hunter (Bangladeshi beer)",
+    "name_en": "Hunter (Bangladeshi beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "imperial-beer",
+    "name": "Imperial (beer)",
+    "name_en": "Imperial (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "jax-brewing-company",
+    "name": "Jax Brewing Company",
+    "name_en": "Jax Brewing Company",
+    "category": "beverage"
+  },
+  {
+    "slug": "keo-beer",
+    "name": "KEO (beer)",
+    "name_en": "KEO (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "air-busan",
+    "name": "Air Busan",
+    "name_en": "Air Busan",
+    "category": "general"
+  },
+  {
+    "slug": "air-premia",
+    "name": "Air Premia",
+    "name_en": "Air Premia",
+    "category": "general"
+  },
+  {
+    "slug": "air-seoul",
+    "name": "Air Seoul",
+    "name_en": "Air Seoul",
+    "category": "general"
+  },
+  {
+    "slug": "akom",
+    "name": "AKOM",
+    "name_en": "AKOM",
+    "category": "general"
+  },
+  {
+    "slug": "amorepacific-corporation",
+    "name": "Amorepacific Corporation",
+    "name_en": "Amorepacific Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "anycall",
+    "name": "Anycall",
+    "name_en": "Anycall",
+    "category": "general"
+  },
+  {
+    "slug": "asia-cement",
+    "name": "Asia Cement",
+    "name_en": "Asia Cement",
+    "category": "general"
+  },
+  {
+    "slug": "asiana-airlines",
+    "name": "Asiana Airlines",
+    "name_en": "Asiana Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "astell-kern",
+    "name": "Astell & Kern",
+    "name_en": "Astell & Kern",
+    "category": "general"
+  },
+  {
+    "slug": "bexel",
+    "name": "Bexel",
+    "name_en": "Bexel",
+    "category": "general"
+  },
+  {
+    "slug": "blue-elephant-corporation",
+    "name": "Blue Elephant Corporation",
+    "name_en": "Blue Elephant Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "bohae",
+    "name": "Bohae",
+    "name_en": "Bohae",
+    "category": "general"
+  },
+  {
+    "slug": "bullsone",
+    "name": "Bullsone",
+    "name_en": "Bullsone",
+    "category": "general"
+  },
+  {
+    "slug": "ca-sega-joypolis",
+    "name": "CA Sega Joypolis",
+    "name_en": "CA Sega Joypolis",
+    "category": "general"
+  },
+  {
+    "slug": "camp-mobile",
+    "name": "Camp Mobile",
+    "name_en": "Camp Mobile",
+    "category": "general"
+  },
+  {
+    "slug": "cas-corporation",
+    "name": "CAS Corporation",
+    "name_en": "CAS Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "celltrion",
+    "name": "Celltrion",
+    "name_en": "Celltrion",
+    "category": "general"
+  },
+  {
+    "slug": "cheil-worldwide",
+    "name": "Cheil Worldwide",
+    "name_en": "Cheil Worldwide",
+    "category": "general"
+  },
+  {
+    "slug": "chipsmedia",
+    "name": "Chips&Media",
+    "name_en": "Chips&Media",
+    "category": "general"
+  },
+  {
+    "slug": "cj-cheiljedang",
+    "name": "CJ CheilJedang",
+    "name_en": "CJ CheilJedang",
+    "category": "general"
+  },
+  {
+    "slug": "baic-group",
+    "name": "BAIC Group",
+    "name_en": "BAIC Group",
+    "category": "general"
+  },
+  {
+    "slug": "baic-ruixiang",
+    "name": "BAIC Ruixiang",
+    "name_en": "BAIC Ruixiang",
+    "category": "general"
+  },
+  {
+    "slug": "bambu-lab",
+    "name": "Bambu Lab",
+    "name_en": "Bambu Lab",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-beijing",
+    "name": "Bank of Beijing",
+    "name_en": "Bank of Beijing",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-china",
+    "name": "Bank of China",
+    "name_en": "Bank of China",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-communications",
+    "name": "Bank of Communications",
+    "name_en": "Bank of Communications",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-handan",
+    "name": "Bank of Handan",
+    "name_en": "Bank of Handan",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-shanghai",
+    "name": "Bank of Shanghai",
+    "name_en": "Bank of Shanghai",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-weifang",
+    "name": "Bank of Weifang",
+    "name_en": "Bank of Weifang",
+    "category": "general"
+  },
+  {
+    "slug": "baofeng-uv-5r",
+    "name": "Baofeng UV-5R",
+    "name_en": "Baofeng UV-5R",
+    "category": "general"
+  },
+  {
+    "slug": "baojun",
+    "name": "Baojun",
+    "name_en": "Baojun",
+    "category": "general"
+  },
+  {
+    "slug": "baotian-motorcycle-company",
+    "name": "Baotian Motorcycle Company",
+    "name_en": "Baotian Motorcycle Company",
+    "category": "general"
+  },
+  {
+    "slug": "baowu",
+    "name": "Baowu",
+    "name_en": "Baowu",
+    "category": "general"
+  },
+  {
+    "slug": "bawang-shampoo",
+    "name": "Bawang Shampoo",
+    "name_en": "Bawang Shampoo",
+    "category": "general"
+  },
+  {
+    "slug": "bbk-electronics",
+    "name": "BBK Electronics",
+    "name_en": "BBK Electronics",
+    "category": "general"
+  },
+  {
+    "slug": "bbmg",
+    "name": "BBMG",
+    "name_en": "BBMG",
+    "category": "general"
+  },
+  {
+    "slug": "beiben-truck",
+    "name": "BeiBen Truck",
+    "name_en": "BeiBen Truck",
+    "category": "general"
+  },
+  {
+    "slug": "beijing-capital-airlines",
+    "name": "Beijing Capital Airlines",
+    "name_en": "Beijing Capital Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "beijing-galloping-horse-group",
+    "name": "Beijing Galloping Horse Group",
+    "name_en": "Beijing Galloping Horse Group",
+    "category": "general"
+  },
+  {
+    "slug": "beijing-hongxing",
+    "name": "Beijing Hongxing",
+    "name_en": "Beijing Hongxing",
+    "category": "general"
+  },
+  {
+    "slug": "coffee-world",
+    "name": "Coffee World",
+    "name_en": "Coffee World",
+    "category": "food"
+  },
+  {
+    "slug": "coffeeheaven",
+    "name": "Coffeeheaven",
+    "name_en": "Coffeeheaven",
+    "category": "food"
+  },
+  {
+    "slug": "coffine-gurunaru",
+    "name": "Coffine Gurunaru",
+    "name_en": "Coffine Gurunaru",
+    "category": "food"
+  },
+  {
+    "slug": "colectivo-coffee-roasters",
+    "name": "Colectivo Coffee Roasters",
+    "name_en": "Colectivo Coffee Roasters",
+    "category": "food"
+  },
+  {
+    "slug": "cometeer-coffee",
+    "name": "Cometeer Coffee",
+    "name_en": "Cometeer Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "coop-kaffe",
+    "name": "Coop Kaffe",
+    "name_en": "Coop Kaffe",
+    "category": "food"
+  },
+  {
+    "slug": "costa-coffee",
+    "name": "Costa Coffee",
+    "name_en": "Costa Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "dallmayr",
+    "name": "Dallmayr",
+    "name_en": "Dallmayr",
+    "category": "food"
+  },
+  {
+    "slug": "dancing-goats-coffee",
+    "name": "Dancing Goats Coffee",
+    "name_en": "Dancing Goats Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "delta-cafs",
+    "name": "Delta Cafés",
+    "name_en": "Delta Cafés",
+    "category": "food"
+  },
+  {
+    "slug": "diedrich-coffee",
+    "name": "Diedrich Coffee",
+    "name_en": "Diedrich Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "doutor-coffee",
+    "name": "Doutor Coffee",
+    "name_en": "Doutor Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "douwe-egberts",
+    "name": "Douwe Egberts",
+    "name_en": "Douwe Egberts",
+    "category": "food"
+  },
+  {
+    "slug": "dulce-caf",
+    "name": "Dulce Café",
+    "name_en": "Dulce Café",
+    "category": "food"
+  },
+  {
+    "slug": "dunkin-donuts",
+    "name": "Dunkin' Donuts",
+    "name_en": "Dunkin' Donuts",
+    "category": "food"
+  },
+  {
+    "slug": "dunn-brothers-coffee",
+    "name": "Dunn Brothers Coffee",
+    "name_en": "Dunn Brothers Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "easy-serving-espresso-pod",
+    "name": "Easy Serving Espresso Pod",
+    "name_en": "Easy Serving Espresso Pod",
+    "category": "food"
+  },
+  {
+    "slug": "ediya-coffee",
+    "name": "Ediya Coffee",
+    "name_en": "Ediya Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "eight-oclock-coffee",
+    "name": "Eight O'Clock Coffee",
+    "name_en": "Eight O'Clock Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "espresso-vivace",
+    "name": "Espresso Vivace",
+    "name_en": "Espresso Vivace",
+    "category": "food"
+  },
+  {
+    "slug": "carbrini-sportswear",
+    "name": "Carbrini Sportswear",
+    "name_en": "Carbrini Sportswear",
+    "category": "fashion"
+  },
+  {
+    "slug": "cassidi",
+    "name": "Cassidi",
+    "name_en": "Cassidi",
+    "category": "fashion"
+  },
+  {
+    "slug": "castro-clothing",
+    "name": "Castro (clothing)",
+    "name_en": "Castro (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "celine-brand",
+    "name": "Celine (brand)",
+    "name_en": "Celine (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "le-chteau",
+    "name": "Le Château",
+    "name_en": "Le Château",
+    "category": "fashion"
+  },
+  {
+    "slug": "claudia-strter",
+    "name": "Claudia Sträter",
+    "name_en": "Claudia Sträter",
+    "category": "fashion"
+  },
+  {
+    "slug": "cockpit-usa",
+    "name": "Cockpit USA",
+    "name_en": "Cockpit USA",
+    "category": "fashion"
+  },
+  {
+    "slug": "comptoir-des-cotonniers",
+    "name": "Comptoir des Cotonniers",
+    "name_en": "Comptoir des Cotonniers",
+    "category": "fashion"
+  },
+  {
+    "slug": "cos-fashion-brand",
+    "name": "COS (fashion brand)",
+    "name_en": "COS (fashion brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "countess-mara",
+    "name": "Countess Mara",
+    "name_en": "Countess Mara",
+    "category": "fashion"
+  },
+  {
+    "slug": "croc-o-shirt",
+    "name": "Croc O' Shirt",
+    "name_en": "Croc O' Shirt",
+    "category": "fashion"
+  },
+  {
+    "slug": "crocodile-international",
+    "name": "Crocodile International",
+    "name_en": "Crocodile International",
+    "category": "fashion"
+  },
+  {
+    "slug": "cropp-brand",
+    "name": "Cropp (brand)",
+    "name_en": "Cropp (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "cvlt-nation",
+    "name": "CVLT Nation",
+    "name_en": "CVLT Nation",
+    "category": "fashion"
+  },
+  {
+    "slug": "dale-of-norway",
+    "name": "Dale of Norway",
+    "name_en": "Dale of Norway",
+    "category": "fashion"
+  },
+  {
+    "slug": "kostio-de-war",
+    "name": "Kostio de War",
+    "name_en": "Kostio de War",
+    "category": "fashion"
+  },
+  {
+    "slug": "design-for-all-product-line",
+    "name": "Design For All (product line)",
+    "name_en": "Design For All (product line)",
+    "category": "fashion"
+  },
+  {
+    "slug": "desigual",
+    "name": "Desigual",
+    "name_en": "Desigual",
+    "category": "fashion"
+  },
+  {
+    "slug": "dolfin-swimwear",
+    "name": "Dolfin Swimwear",
+    "name_en": "Dolfin Swimwear",
+    "category": "fashion"
+  },
+  {
+    "slug": "ken-done",
+    "name": "Ken Done",
+    "name_en": "Ken Done",
+    "category": "fashion"
+  },
+  {
+    "slug": "beijing-hualian-group",
+    "name": "Beijing Hualian Group",
+    "name_en": "Beijing Hualian Group",
+    "category": "general"
+  },
+  {
+    "slug": "bgi-group",
+    "name": "BGI Group",
+    "name_en": "BGI Group",
+    "category": "general"
+  },
+  {
+    "slug": "bianyifang",
+    "name": "Bianyifang",
+    "name_en": "Bianyifang",
+    "category": "general"
+  },
+  {
+    "slug": "bilibili",
+    "name": "Bilibili",
+    "name_en": "Bilibili",
+    "category": "general"
+  },
+  {
+    "slug": "bisu-marque",
+    "name": "Bisu (marque)",
+    "name_en": "Bisu (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "boe-technology",
+    "name": "BOE Technology",
+    "name_en": "BOE Technology",
+    "category": "general"
+  },
+  {
+    "slug": "bonluck",
+    "name": "Bonluck",
+    "name_en": "Bonluck",
+    "category": "general"
+  },
+  {
+    "slug": "bordrin",
+    "name": "Bordrin",
+    "name_en": "Bordrin",
+    "category": "general"
+  },
+  {
+    "slug": "borntea",
+    "name": "Borntea",
+    "name_en": "Borntea",
+    "category": "general"
+  },
+  {
+    "slug": "borqs",
+    "name": "Borqs",
+    "name_en": "Borqs",
+    "category": "general"
+  },
+  {
+    "slug": "bright-food",
+    "name": "Bright Food",
+    "name_en": "Bright Food",
+    "category": "general"
+  },
+  {
+    "slug": "brilliance-auto-group",
+    "name": "Brilliance Auto Group",
+    "name_en": "Brilliance Auto Group",
+    "category": "general"
+  },
+  {
+    "slug": "broad-group",
+    "name": "Broad Group",
+    "name_en": "Broad Group",
+    "category": "general"
+  },
+  {
+    "slug": "btg-homeinns",
+    "name": "BTG Homeinns",
+    "name_en": "BTG Homeinns",
+    "category": "general"
+  },
+  {
+    "slug": "byd-auto",
+    "name": "BYD Auto",
+    "name_en": "BYD Auto",
+    "category": "general"
+  },
+  {
+    "slug": "byd-company",
+    "name": "BYD Company",
+    "name_en": "BYD Company",
+    "category": "general"
+  },
+  {
+    "slug": "byton-company",
+    "name": "Byton (company)",
+    "name_en": "Byton (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cada-bricks",
+    "name": "CaDA Bricks",
+    "name_en": "CaDA Bricks",
+    "category": "general"
+  },
+  {
+    "slug": "calb",
+    "name": "CALB",
+    "name_en": "CALB",
+    "category": "general"
+  },
+  {
+    "slug": "cansino-biologics",
+    "name": "CanSino Biologics",
+    "name_en": "CanSino Biologics",
+    "category": "general"
+  },
+  {
+    "slug": "duchamp-clothing",
+    "name": "Duchamp (clothing)",
+    "name_en": "Duchamp (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "dunlop-sport",
+    "name": "Dunlop Sport",
+    "name_en": "Dunlop Sport",
+    "category": "fashion"
+  },
+  {
+    "slug": "duvelleroy",
+    "name": "Duvelleroy",
+    "name_en": "Duvelleroy",
+    "category": "fashion"
+  },
+  {
+    "slug": "dynamite-clothing",
+    "name": "Dynamite Clothing",
+    "name_en": "Dynamite Clothing",
+    "category": "fashion"
+  },
+  {
+    "slug": "edun",
+    "name": "EDUN",
+    "name_en": "EDUN",
+    "category": "fashion"
+  },
+  {
+    "slug": "escada",
+    "name": "Escada",
+    "name_en": "Escada",
+    "category": "fashion"
+  },
+  {
+    "slug": "ethika",
+    "name": "Ethika",
+    "name_en": "Ethika",
+    "category": "fashion"
+  },
+  {
+    "slug": "fenchurch-clothing",
+    "name": "Fenchurch (clothing)",
+    "name_en": "Fenchurch (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "florence-by-mills",
+    "name": "Florence by Mills",
+    "name_en": "Florence by Mills",
+    "category": "fashion"
+  },
+  {
+    "slug": "fox-clothing",
+    "name": "Fox (clothing)",
+    "name_en": "Fox (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "g-star-company",
+    "name": "G-Star (company)",
+    "name_en": "G-Star (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "gant-company",
+    "name": "Gant (company)",
+    "name_en": "Gant (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "garage-clothing-retailer",
+    "name": "Garage (clothing retailer)",
+    "name_en": "Garage (clothing retailer)",
+    "category": "fashion"
+  },
+  {
+    "slug": "garanimals",
+    "name": "Garanimals",
+    "name_en": "Garanimals",
+    "category": "fashion"
+  },
+  {
+    "slug": "gebrder-stitch",
+    "name": "Gebrüder Stitch",
+    "name_en": "Gebrüder Stitch",
+    "category": "fashion"
+  },
+  {
+    "slug": "go-international",
+    "name": "Go International",
+    "name_en": "Go International",
+    "category": "fashion"
+  },
+  {
+    "slug": "grishko",
+    "name": "Grishko",
+    "name_en": "Grishko",
+    "category": "fashion"
+  },
+  {
+    "slug": "gunhild-clothing",
+    "name": "Gunhild (clothing)",
+    "name_en": "Gunhild (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "gunne-sax",
+    "name": "Gunne Sax",
+    "name_en": "Gunne Sax",
+    "category": "fashion"
+  },
+  {
+    "slug": "gunze",
+    "name": "Gunze",
+    "name_en": "Gunze",
+    "category": "fashion"
+  },
+  {
+    "slug": "cathay-pacific",
+    "name": "Cathay Pacific",
+    "name_en": "Cathay Pacific",
+    "category": "general"
+  },
+  {
+    "slug": "catl",
+    "name": "CATL",
+    "name_en": "CATL",
+    "category": "general"
+  },
+  {
+    "slug": "cfmoto",
+    "name": "CFMoto",
+    "name_en": "CFMoto",
+    "category": "general"
+  },
+  {
+    "slug": "chang-jiang-motorcycle",
+    "name": "Chang Jiang (motorcycle)",
+    "name_en": "Chang Jiang (motorcycle)",
+    "category": "general"
+  },
+  {
+    "slug": "changan-automobile",
+    "name": "Changan Automobile",
+    "name_en": "Changan Automobile",
+    "category": "general"
+  },
+  {
+    "slug": "changfeng-motor",
+    "name": "Changfeng Motor",
+    "name_en": "Changfeng Motor",
+    "category": "general"
+  },
+  {
+    "slug": "changhong",
+    "name": "Changhong",
+    "name_en": "Changhong",
+    "category": "general"
+  },
+  {
+    "slug": "changjiang-ev",
+    "name": "ChangJiang EV",
+    "name_en": "ChangJiang EV",
+    "category": "general"
+  },
+  {
+    "slug": "changjiang-securities",
+    "name": "Changjiang Securities",
+    "name_en": "Changjiang Securities",
+    "category": "general"
+  },
+  {
+    "slug": "changsheng-bio-technology",
+    "name": "Changsheng Bio-Technology",
+    "name_en": "Changsheng Bio-Technology",
+    "category": "general"
+  },
+  {
+    "slug": "changxin-memory-technologies",
+    "name": "ChangXin Memory Technologies",
+    "name_en": "ChangXin Memory Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "changyu",
+    "name": "Changyu",
+    "name_en": "Changyu",
+    "category": "general"
+  },
+  {
+    "slug": "cheetah-mobile",
+    "name": "Cheetah Mobile",
+    "name_en": "Cheetah Mobile",
+    "category": "general"
+  },
+  {
+    "slug": "chemchina",
+    "name": "ChemChina",
+    "name_en": "ChemChina",
+    "category": "general"
+  },
+  {
+    "slug": "chengdu-airlines",
+    "name": "Chengdu Airlines",
+    "name_en": "Chengdu Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "chenming-paper",
+    "name": "Chenming Paper",
+    "name_en": "Chenming Paper",
+    "category": "general"
+  },
+  {
+    "slug": "chery",
+    "name": "Chery",
+    "name_en": "Chery",
+    "category": "general"
+  },
+  {
+    "slug": "chery-tiggo",
+    "name": "Chery Tiggo",
+    "name_en": "Chery Tiggo",
+    "category": "general"
+  },
+  {
+    "slug": "chi-forest",
+    "name": "Chi Forest",
+    "name_en": "Chi Forest",
+    "category": "general"
+  },
+  {
+    "slug": "chicecream",
+    "name": "Chicecream",
+    "name_en": "Chicecream",
+    "category": "general"
+  },
+  {
+    "slug": "abokado",
+    "name": "Abokado",
+    "name_en": "Abokado",
+    "category": "general"
+  },
+  {
+    "slug": "aga-cooker",
+    "name": "AGA cooker",
+    "name_en": "AGA cooker",
+    "category": "general"
+  },
+  {
+    "slug": "ahmad-tea",
+    "name": "Ahmad Tea",
+    "name_en": "Ahmad Tea",
+    "category": "general"
+  },
+  {
+    "slug": "ainsworths",
+    "name": "Ainsworths",
+    "name_en": "Ainsworths",
+    "category": "general"
+  },
+  {
+    "slug": "airbus-uk",
+    "name": "Airbus UK",
+    "name_en": "Airbus UK",
+    "category": "general"
+  },
+  {
+    "slug": "alba-electronics",
+    "name": "Alba (electronics)",
+    "name_en": "Alba (electronics)",
+    "category": "general"
+  },
+  {
+    "slug": "alfred-dunhill-limited",
+    "name": "Alfred Dunhill Limited",
+    "name_en": "Alfred Dunhill Limited",
+    "category": "general"
+  },
+  {
+    "slug": "amber-leaf",
+    "name": "Amber Leaf",
+    "name_en": "Amber Leaf",
+    "category": "general"
+  },
+  {
+    "slug": "ambra-personal-computers",
+    "name": "Ambra Personal Computers",
+    "name_en": "Ambra Personal Computers",
+    "category": "general"
+  },
+  {
+    "slug": "ambrosia-food-brand",
+    "name": "Ambrosia (food brand)",
+    "name_en": "Ambrosia (food brand)",
+    "category": "general"
+  },
+  {
+    "slug": "anglepoise-lamp",
+    "name": "Anglepoise lamp",
+    "name_en": "Anglepoise lamp",
+    "category": "general"
+  },
+  {
+    "slug": "aniventure",
+    "name": "Aniventure",
+    "name_en": "Aniventure",
+    "category": "general"
+  },
+  {
+    "slug": "antler-brand",
+    "name": "Antler (brand)",
+    "name_en": "Antler (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "antoria",
+    "name": "Antoria",
+    "name_en": "Antoria",
+    "category": "general"
+  },
+  {
+    "slug": "aon-company",
+    "name": "Aon (company)",
+    "name_en": "Aon (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ap-diving",
+    "name": "AP Diving",
+    "name_en": "AP Diving",
+    "category": "general"
+  },
+  {
+    "slug": "argos-retailer",
+    "name": "Argos (retailer)",
+    "name_en": "Argos (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "ariel-detergent",
+    "name": "Ariel (detergent)",
+    "name_en": "Ariel (detergent)",
+    "category": "general"
+  },
+  {
+    "slug": "ariella-fashion-house",
+    "name": "Ariella Fashion House",
+    "name_en": "Ariella Fashion House",
+    "category": "general"
+  },
+  {
+    "slug": "arkells-brewery",
+    "name": "Arkell's Brewery",
+    "name_en": "Arkell's Brewery",
+    "category": "general"
+  },
+  {
+    "slug": "ni-srus",
+    "name": "Nói Síríus",
+    "name_en": "Nói Síríus",
+    "category": "food"
+  },
+  {
+    "slug": "pyongyang-chewing-gum-factory",
+    "name": "Pyongyang Chewing Gum Factory",
+    "name_en": "Pyongyang Chewing Gum Factory",
+    "category": "food"
+  },
+  {
+    "slug": "robern-menz",
+    "name": "Robern Menz",
+    "name_en": "Robern Menz",
+    "category": "food"
+  },
+  {
+    "slug": "lker",
+    "name": "Ülker",
+    "name_en": "Ülker",
+    "category": "food"
+  },
+  {
+    "slug": "united-confectioners",
+    "name": "United Confectioners",
+    "name_en": "United Confectioners",
+    "category": "food"
+  },
+  {
+    "slug": "vidal-golosinas",
+    "name": "Vidal Golosinas",
+    "name_en": "Vidal Golosinas",
+    "category": "food"
+  },
+  {
+    "slug": "voortman-cookies",
+    "name": "Voortman Cookies",
+    "name_en": "Voortman Cookies",
+    "category": "food"
+  },
+  {
+    "slug": "4711",
+    "name": "4711",
+    "name_en": "4711",
+    "category": "general"
+  },
+  {
+    "slug": "ao-hostels",
+    "name": "A&O Hostels",
+    "name_en": "A&O Hostels",
+    "category": "general"
+  },
+  {
+    "slug": "abas-erp",
+    "name": "Abas ERP",
+    "name_en": "Abas ERP",
+    "category": "general"
+  },
+  {
+    "slug": "ableton",
+    "name": "Ableton",
+    "name_en": "Ableton",
+    "category": "general"
+  },
+  {
+    "slug": "about-you-company",
+    "name": "About You (company)",
+    "name_en": "About You (company)",
+    "category": "general"
+  },
+  {
+    "slug": "abus",
+    "name": "ABUS",
+    "name_en": "ABUS",
+    "category": "general"
+  },
+  {
+    "slug": "accentus-music",
+    "name": "Accentus Music",
+    "name_en": "Accentus Music",
+    "category": "general"
+  },
+  {
+    "slug": "adinotec",
+    "name": "Adinotec",
+    "name_en": "Adinotec",
+    "category": "general"
+  },
+  {
+    "slug": "adox",
+    "name": "ADOX",
+    "name_en": "ADOX",
+    "category": "general"
+  },
+  {
+    "slug": "aeg-brand",
+    "name": "AEG (brand)",
+    "name_en": "AEG (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "aeg-german-company",
+    "name": "AEG (German company)",
+    "name_en": "AEG (German company)",
+    "category": "general"
+  },
+  {
+    "slug": "agfa",
+    "name": "Agfa",
+    "name_en": "Agfa",
+    "category": "general"
+  },
+  {
+    "slug": "air-berlin",
+    "name": "Air Berlin",
+    "name_en": "Air Berlin",
+    "category": "general"
+  },
+  {
+    "slug": "alb-leisa",
+    "name": "Alb-Leisa",
+    "name_en": "Alb-Leisa",
+    "category": "general"
+  },
+  {
+    "slug": "aldi",
+    "name": "Aldi",
+    "name_en": "Aldi",
+    "category": "general"
+  },
+  {
+    "slug": "aleo-solar",
+    "name": "Aleo Solar",
+    "name_en": "Aleo Solar",
+    "category": "general"
+  },
+  {
+    "slug": "allianz",
+    "name": "Allianz",
+    "name_en": "Allianz",
+    "category": "general"
+  },
+  {
+    "slug": "allianz-trade",
+    "name": "Allianz Trade",
+    "name_en": "Allianz Trade",
+    "category": "general"
+  },
+  {
+    "slug": "altana",
+    "name": "Altana",
+    "name_en": "Altana",
+    "category": "general"
+  },
+  {
+    "slug": "altendorf-gmbh",
+    "name": "Altendorf GmbH",
+    "name_en": "Altendorf GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "analytik-jena",
+    "name": "Analytik Jena",
+    "name_en": "Analytik Jena",
+    "category": "general"
+  },
+  {
+    "slug": "schuler-group",
+    "name": "Schuler Group",
+    "name_en": "Schuler Group",
+    "category": "general"
+  },
+  {
+    "slug": "apetito",
+    "name": "Apetito",
+    "name_en": "Apetito",
+    "category": "general"
+  },
+  {
+    "slug": "apollinaris-water",
+    "name": "Apollinaris (water)",
+    "name_en": "Apollinaris (water)",
+    "category": "general"
+  },
+  {
+    "slug": "apollo-automobil",
+    "name": "Apollo Automobil",
+    "name_en": "Apollo Automobil",
+    "category": "general"
+  },
+  {
+    "slug": "arag-se",
+    "name": "ARAG SE",
+    "name_en": "ARAG SE",
+    "category": "general"
+  },
+  {
+    "slug": "aral-ag",
+    "name": "Aral AG",
+    "name_en": "Aral AG",
+    "category": "general"
+  },
+  {
+    "slug": "arburg",
+    "name": "Arburg",
+    "name_en": "Arburg",
+    "category": "general"
+  },
+  {
+    "slug": "arcor-telecommunications",
+    "name": "Arcor (telecommunications)",
+    "name_en": "Arcor (telecommunications)",
+    "category": "general"
+  },
+  {
+    "slug": "armacell",
+    "name": "Armacell",
+    "name_en": "Armacell",
+    "category": "general"
+  },
+  {
+    "slug": "armedangels",
+    "name": "Armedangels",
+    "name_en": "Armedangels",
+    "category": "general"
+  },
+  {
+    "slug": "arri",
+    "name": "Arri",
+    "name_en": "Arri",
+    "category": "general"
+  },
+  {
+    "slug": "artega-automobile",
+    "name": "Artega Automobile",
+    "name_en": "Artega Automobile",
+    "category": "general"
+  },
+  {
+    "slug": "hm",
+    "name": "H&M",
+    "name_en": "H&M",
+    "category": "fashion"
+  },
+  {
+    "slug": "han-kjbenhavn",
+    "name": "Han Kjøbenhavn",
+    "name_en": "Han Kjøbenhavn",
+    "category": "fashion"
+  },
+  {
+    "slug": "antthony-mark-hankins",
+    "name": "Antthony Mark Hankins",
+    "name_en": "Antthony Mark Hankins",
+    "category": "fashion"
+  },
+  {
+    "slug": "hatley-brand",
+    "name": "Hatley (brand)",
+    "name_en": "Hatley (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "haus-alkire",
+    "name": "Haus Alkire",
+    "name_en": "Haus Alkire",
+    "category": "fashion"
+  },
+  {
+    "slug": "helmut-lang-fashion-brand",
+    "name": "Helmut Lang (fashion brand)",
+    "name_en": "Helmut Lang (fashion brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "herv-lger",
+    "name": "Hervé Léger",
+    "name_en": "Hervé Léger",
+    "category": "fashion"
+  },
+  {
+    "slug": "anne-t-hill",
+    "name": "Anne T. Hill",
+    "name_en": "Anne T. Hill",
+    "category": "fashion"
+  },
+  {
+    "slug": "holzweiler",
+    "name": "Holzweiler",
+    "name_en": "Holzweiler",
+    "category": "fashion"
+  },
+  {
+    "slug": "honigman-clothing-company",
+    "name": "Honigman (clothing company)",
+    "name_en": "Honigman (clothing company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "house-brand",
+    "name": "House (brand)",
+    "name_en": "House (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "house-of-harlow",
+    "name": "House of Harlow",
+    "name_en": "House of Harlow",
+    "category": "fashion"
+  },
+  {
+    "slug": "hypercolor",
+    "name": "Hypercolor",
+    "name_en": "Hypercolor",
+    "category": "fashion"
+  },
+  {
+    "slug": "i-r-morley",
+    "name": "I. & R. Morley",
+    "name_en": "I. & R. Morley",
+    "category": "fashion"
+  },
+  {
+    "slug": "isko-clothing-company",
+    "name": "ISKO (clothing company)",
+    "name_en": "ISKO (clothing company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "izod-lacoste",
+    "name": "Izod Lacoste",
+    "name_en": "Izod Lacoste",
+    "category": "fashion"
+  },
+  {
+    "slug": "j-wear",
+    "name": "J-Wear",
+    "name_en": "J-Wear",
+    "category": "fashion"
+  },
+  {
+    "slug": "jako",
+    "name": "Jako",
+    "name_en": "Jako",
+    "category": "fashion"
+  },
+  {
+    "slug": "jenny-hellstrm",
+    "name": "Jenny Hellström",
+    "name_en": "Jenny Hellström",
+    "category": "fashion"
+  },
+  {
+    "slug": "joe-fresh",
+    "name": "Joe Fresh",
+    "name_en": "Joe Fresh",
+    "category": "fashion"
+  },
+  {
+    "slug": "chimelong",
+    "name": "Chimelong",
+    "name_en": "Chimelong",
+    "category": "general"
+  },
+  {
+    "slug": "china-aerospace-science-and-industry-corporation",
+    "name": "China Aerospace Science and Industry Corporation",
+    "name_en": "China Aerospace Science and Industry Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-aerospace-science-and-technology-corporation",
+    "name": "China Aerospace Science and Technology Corporation",
+    "name_en": "China Aerospace Science and Technology Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-agri-industries-holdings",
+    "name": "China Agri-Industries Holdings",
+    "name_en": "China Agri-Industries Holdings",
+    "category": "general"
+  },
+  {
+    "slug": "china-bluechemical",
+    "name": "China BlueChemical",
+    "name_en": "China BlueChemical",
+    "category": "general"
+  },
+  {
+    "slug": "china-citic-bank",
+    "name": "China CITIC Bank",
+    "name_en": "China CITIC Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-cnr",
+    "name": "China CNR",
+    "name_en": "China CNR",
+    "category": "general"
+  },
+  {
+    "slug": "china-construction-bank",
+    "name": "China Construction Bank",
+    "name_en": "China Construction Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-development-bank",
+    "name": "China Development Bank",
+    "name_en": "China Development Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-dongxiang",
+    "name": "China Dongxiang",
+    "name_en": "China Dongxiang",
+    "category": "general"
+  },
+  {
+    "slug": "china-eastern-airlines",
+    "name": "China Eastern Airlines",
+    "name_en": "China Eastern Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-energine",
+    "name": "China Energine",
+    "name_en": "China Energine",
+    "category": "general"
+  },
+  {
+    "slug": "china-everbright-bank",
+    "name": "China Everbright Bank",
+    "name_en": "China Everbright Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-film-group-corporation",
+    "name": "China Film Group Corporation",
+    "name_en": "China Film Group Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-foods-limited",
+    "name": "China Foods Limited",
+    "name_en": "China Foods Limited",
+    "category": "general"
+  },
+  {
+    "slug": "china-hi-tech-group-co-ltd",
+    "name": "China Hi-Tech Group Co., Ltd.",
+    "name_en": "China Hi-Tech Group Co., Ltd.",
+    "category": "general"
+  },
+  {
+    "slug": "china-high-speed-transmission",
+    "name": "China High Speed Transmission",
+    "name_en": "China High Speed Transmission",
+    "category": "general"
+  },
+  {
+    "slug": "china-hualu-group",
+    "name": "China Hualu Group",
+    "name_en": "China Hualu Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-huaneng-group",
+    "name": "China Huaneng Group",
+    "name_en": "China Huaneng Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-life-insurance-company",
+    "name": "China Life Insurance Company",
+    "name_en": "China Life Insurance Company",
+    "category": "general"
+  },
+  {
+    "slug": "armitage-shanks",
+    "name": "Armitage Shanks",
+    "name_en": "Armitage Shanks",
+    "category": "general"
+  },
+  {
+    "slug": "ascend-cutlery-works",
+    "name": "Ascend Cutlery Works",
+    "name_en": "Ascend Cutlery Works",
+    "category": "general"
+  },
+  {
+    "slug": "asos-retailer",
+    "name": "ASOS (retailer)",
+    "name_en": "ASOS (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "astrazeneca",
+    "name": "AstraZeneca",
+    "name_en": "AstraZeneca",
+    "category": "general"
+  },
+  {
+    "slug": "athena-retailer",
+    "name": "Athena (retailer)",
+    "name_en": "Athena (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "atkinsons-of-london",
+    "name": "Atkinsons of London",
+    "name_en": "Atkinsons of London",
+    "category": "general"
+  },
+  {
+    "slug": "autotune-rishton",
+    "name": "Autotune (Rishton)",
+    "name_en": "Autotune (Rishton)",
+    "category": "general"
+  },
+  {
+    "slug": "avalon-guitars",
+    "name": "Avalon Guitars",
+    "name_en": "Avalon Guitars",
+    "category": "general"
+  },
+  {
+    "slug": "aviva",
+    "name": "Aviva",
+    "name_en": "Aviva",
+    "category": "general"
+  },
+  {
+    "slug": "avon-technologies",
+    "name": "Avon Technologies",
+    "name_en": "Avon Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "bq",
+    "name": "B&Q",
+    "name_en": "B&Q",
+    "category": "general"
+  },
+  {
+    "slug": "babycham",
+    "name": "Babycham",
+    "name_en": "Babycham",
+    "category": "general"
+  },
+  {
+    "slug": "bae-systems",
+    "name": "BAE Systems",
+    "name_en": "BAE Systems",
+    "category": "general"
+  },
+  {
+    "slug": "bg",
+    "name": "B&G",
+    "name_en": "B&G",
+    "category": "general"
+  },
+  {
+    "slug": "barclays",
+    "name": "Barclays",
+    "name_en": "Barclays",
+    "category": "general"
+  },
+  {
+    "slug": "barleycup",
+    "name": "Barleycup",
+    "name_en": "Barleycup",
+    "category": "general"
+  },
+  {
+    "slug": "baxi",
+    "name": "Baxi",
+    "name_en": "Baxi",
+    "category": "general"
+  },
+  {
+    "slug": "be-ro",
+    "name": "Be-Ro",
+    "name_en": "Be-Ro",
+    "category": "general"
+  },
+  {
+    "slug": "beltona-resonator-instruments",
+    "name": "Beltona Resonator Instruments",
+    "name_en": "Beltona Resonator Instruments",
+    "category": "general"
+  },
+  {
+    "slug": "ben-sherman",
+    "name": "Ben Sherman",
+    "name_en": "Ben Sherman",
+    "category": "general"
+  },
+  {
+    "slug": "12-bis",
+    "name": "12 bis",
+    "name_en": "12 bis",
+    "category": "general"
+  },
+  {
+    "slug": "alb-watches",
+    "name": "A.L.B (Watches)",
+    "name_en": "A.L.B (Watches)",
+    "category": "general"
+  },
+  {
+    "slug": "acmat",
+    "name": "ACMAT",
+    "name_en": "ACMAT",
+    "category": "general"
+  },
+  {
+    "slug": "actes-sud",
+    "name": "Actes Sud",
+    "name_en": "Actes Sud",
+    "category": "general"
+  },
+  {
+    "slug": "activia",
+    "name": "Activia",
+    "name_en": "Activia",
+    "category": "general"
+  },
+  {
+    "slug": "arospatiale",
+    "name": "Aérospatiale",
+    "name_en": "Aérospatiale",
+    "category": "general"
+  },
+  {
+    "slug": "ag2r-la-mondiale",
+    "name": "AG2R La Mondiale",
+    "name_en": "AG2R La Mondiale",
+    "category": "general"
+  },
+  {
+    "slug": "agrial",
+    "name": "Agrial",
+    "name_en": "Agrial",
+    "category": "general"
+  },
+  {
+    "slug": "aigle-company",
+    "name": "Aigle (company)",
+    "name_en": "Aigle (company)",
+    "category": "general"
+  },
+  {
+    "slug": "air-carabes",
+    "name": "Air Caraïbes",
+    "name_en": "Air Caraïbes",
+    "category": "general"
+  },
+  {
+    "slug": "air-liquide",
+    "name": "Air Liquide",
+    "name_en": "Air Liquide",
+    "category": "general"
+  },
+  {
+    "slug": "aixam",
+    "name": "Aixam",
+    "name_en": "Aixam",
+    "category": "general"
+  },
+  {
+    "slug": "albingia",
+    "name": "Albingia",
+    "name_en": "Albingia",
+    "category": "general"
+  },
+  {
+    "slug": "allary-ditions",
+    "name": "Allary Éditions",
+    "name_en": "Allary Éditions",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-alpine",
+    "name": "Automobiles Alpine",
+    "name_en": "Automobiles Alpine",
+    "category": "general"
+  },
+  {
+    "slug": "alstom",
+    "name": "Alstom",
+    "name_en": "Alstom",
+    "category": "general"
+  },
+  {
+    "slug": "alter-eco",
+    "name": "Alter Eco",
+    "name_en": "Alter Eco",
+    "category": "general"
+  },
+  {
+    "slug": "amilcar",
+    "name": "Amilcar",
+    "name_en": "Amilcar",
+    "category": "general"
+  },
+  {
+    "slug": "amora-mustard",
+    "name": "Amora (mustard)",
+    "name_en": "Amora (mustard)",
+    "category": "general"
+  },
+  {
+    "slug": "amorino-gelato",
+    "name": "Amorino (gelato)",
+    "name_en": "Amorino (gelato)",
+    "category": "general"
+  },
+  {
+    "slug": "bobst-company",
+    "name": "Bobst (company)",
+    "name_en": "Bobst (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bolex",
+    "name": "Bolex",
+    "name_en": "Bolex",
+    "category": "general"
+  },
+  {
+    "slug": "bron-elektronik",
+    "name": "Bron Elektronik",
+    "name_en": "Bron Elektronik",
+    "category": "general"
+  },
+  {
+    "slug": "cailler",
+    "name": "Cailler",
+    "name_en": "Cailler",
+    "category": "general"
+  },
+  {
+    "slug": "calanda-bru",
+    "name": "Calanda Bräu",
+    "name_en": "Calanda Bräu",
+    "category": "general"
+  },
+  {
+    "slug": "camille-bloch",
+    "name": "Camille Bloch",
+    "name_en": "Camille Bloch",
+    "category": "general"
+  },
+  {
+    "slug": "caran-dache-company",
+    "name": "Caran d'Ache (company)",
+    "name_en": "Caran d'Ache (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cardinal-brewery",
+    "name": "Cardinal Brewery",
+    "name_en": "Cardinal Brewery",
+    "category": "general"
+  },
+  {
+    "slug": "chocolat-frey",
+    "name": "Chocolat Frey",
+    "name_en": "Chocolat Frey",
+    "category": "general"
+  },
+  {
+    "slug": "chocolat-kohler",
+    "name": "Chocolat Kohler",
+    "name_en": "Chocolat Kohler",
+    "category": "general"
+  },
+  {
+    "slug": "chocolat-suchard",
+    "name": "Chocolat Suchard",
+    "name_en": "Chocolat Suchard",
+    "category": "general"
+  },
+  {
+    "slug": "chocolats-halba",
+    "name": "Chocolats Halba",
+    "name_en": "Chocolats Halba",
+    "category": "general"
+  },
+  {
+    "slug": "claro-fair-trade",
+    "name": "Claro fair trade",
+    "name_en": "Claro fair trade",
+    "category": "general"
+  },
+  {
+    "slug": "clearblue",
+    "name": "Clearblue",
+    "name_en": "Clearblue",
+    "category": "general"
+  },
+  {
+    "slug": "credit-suisse",
+    "name": "Credit Suisse",
+    "name_en": "Credit Suisse",
+    "category": "general"
+  },
+  {
+    "slug": "dali-everyday-grocery",
+    "name": "Dali Everyday Grocery",
+    "name_en": "Dali Everyday Grocery",
+    "category": "general"
+  },
+  {
+    "slug": "davidoff",
+    "name": "Davidoff",
+    "name_en": "Davidoff",
+    "category": "general"
+  },
+  {
+    "slug": "dectris",
+    "name": "Dectris",
+    "name_en": "Dectris",
+    "category": "general"
+  },
+  {
+    "slug": "doppelmayrgaraventa-group",
+    "name": "Doppelmayr/Garaventa Group",
+    "name_en": "Doppelmayr/Garaventa Group",
+    "category": "general"
+  },
+  {
+    "slug": "dormakaba",
+    "name": "Dormakaba",
+    "name_en": "Dormakaba",
+    "category": "general"
+  },
+  {
+    "slug": "big-loo",
+    "name": "Big Loo",
+    "name_en": "Big Loo",
+    "category": "toy"
+  },
+  {
+    "slug": "big-mouth-billy-bass",
+    "name": "Big Mouth Billy Bass",
+    "name_en": "Big Mouth Billy Bass",
+    "category": "toy"
+  },
+  {
+    "slug": "bobby-car",
+    "name": "Bobby Car",
+    "name_en": "Bobby Car",
+    "category": "toy"
+  },
+  {
+    "slug": "boyds-bears",
+    "name": "Boyds Bears",
+    "name_en": "Boyds Bears",
+    "category": "toy"
+  },
+  {
+    "slug": "brave-series",
+    "name": "Brave series",
+    "name_en": "Brave series",
+    "category": "toy"
+  },
+  {
+    "slug": "britains",
+    "name": "Britains",
+    "name_en": "Britains",
+    "category": "toy"
+  },
+  {
+    "slug": "britains-deetail",
+    "name": "Britains Deetail",
+    "name_en": "Britains Deetail",
+    "category": "toy"
+  },
+  {
+    "slug": "brumm",
+    "name": "Brumm",
+    "name_en": "Brumm",
+    "category": "toy"
+  },
+  {
+    "slug": "buby-toys",
+    "name": "Buby toys",
+    "name_en": "Buby toys",
+    "category": "toy"
+  },
+  {
+    "slug": "budgie-toys",
+    "name": "Budgie Toys",
+    "name_en": "Budgie Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "buzz-bee-toys",
+    "name": "Buzz Bee Toys",
+    "name_en": "Buzz Bee Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "chad-valley-toy-brand",
+    "name": "Chad Valley (toy brand)",
+    "name_en": "Chad Valley (toy brand)",
+    "category": "toy"
+  },
+  {
+    "slug": "chicco",
+    "name": "Chicco",
+    "name_en": "Chicco",
+    "category": "toy"
+  },
+  {
+    "slug": "cinema-of-fear",
+    "name": "Cinema of Fear",
+    "name_en": "Cinema of Fear",
+    "category": "toy"
+  },
+  {
+    "slug": "cleversticks",
+    "name": "Cleversticks",
+    "name_en": "Cleversticks",
+    "category": "toy"
+  },
+  {
+    "slug": "colorforms",
+    "name": "Colorforms",
+    "name_en": "Colorforms",
+    "category": "toy"
+  },
+  {
+    "slug": "conrad-models",
+    "name": "Conrad Models",
+    "name_en": "Conrad Models",
+    "category": "toy"
+  },
+  {
+    "slug": "convertors",
+    "name": "Convertors",
+    "name_en": "Convertors",
+    "category": "toy"
+  },
+  {
+    "slug": "corgi-toys",
+    "name": "Corgi Toys",
+    "name_en": "Corgi Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "cox-models",
+    "name": "Cox Models",
+    "name_en": "Cox Models",
+    "category": "toy"
+  },
+  {
+    "slug": "arvato",
+    "name": "Arvato",
+    "name_en": "Arvato",
+    "category": "general"
+  },
+  {
+    "slug": "august-faller-gmbh-co-kg",
+    "name": "August Faller GmbH & Co. KG",
+    "name_en": "August Faller GmbH & Co. KG",
+    "category": "general"
+  },
+  {
+    "slug": "aumund-company",
+    "name": "Aumund (company)",
+    "name_en": "Aumund (company)",
+    "category": "general"
+  },
+  {
+    "slug": "automobili-pininfarina",
+    "name": "Automobili Pininfarina",
+    "name_en": "Automobili Pininfarina",
+    "category": "general"
+  },
+  {
+    "slug": "avira",
+    "name": "Avira",
+    "name_en": "Avira",
+    "category": "general"
+  },
+  {
+    "slug": "b-braun",
+    "name": "B. Braun",
+    "name_en": "B. Braun",
+    "category": "general"
+  },
+  {
+    "slug": "bae-batterien",
+    "name": "BAE Batterien",
+    "name_en": "BAE Batterien",
+    "category": "general"
+  },
+  {
+    "slug": "bahlsen",
+    "name": "Bahlsen",
+    "name_en": "Bahlsen",
+    "category": "general"
+  },
+  {
+    "slug": "brenfang",
+    "name": "Bärenfang",
+    "name_en": "Bärenfang",
+    "category": "general"
+  },
+  {
+    "slug": "bartec",
+    "name": "Bartec",
+    "name_en": "Bartec",
+    "category": "general"
+  },
+  {
+    "slug": "basler-fashion",
+    "name": "Basler (fashion)",
+    "name_en": "Basler (fashion)",
+    "category": "general"
+  },
+  {
+    "slug": "basse-und-selve",
+    "name": "Basse und Selve",
+    "name_en": "Basse und Selve",
+    "category": "general"
+  },
+  {
+    "slug": "bavaria-film",
+    "name": "Bavaria Film",
+    "name_en": "Bavaria Film",
+    "category": "general"
+  },
+  {
+    "slug": "bavaria-yachtbau",
+    "name": "Bavaria Yachtbau",
+    "name_en": "Bavaria Yachtbau",
+    "category": "general"
+  },
+  {
+    "slug": "bbs-autotechnik",
+    "name": "BBS Autotechnik",
+    "name_en": "BBS Autotechnik",
+    "category": "general"
+  },
+  {
+    "slug": "be-quiet",
+    "name": "Be quiet!",
+    "name_en": "Be quiet!",
+    "category": "general"
+  },
+  {
+    "slug": "c-bechstein",
+    "name": "C. Bechstein",
+    "name_en": "C. Bechstein",
+    "category": "general"
+  },
+  {
+    "slug": "beiersdorf",
+    "name": "Beiersdorf",
+    "name_en": "Beiersdorf",
+    "category": "general"
+  },
+  {
+    "slug": "berentzen",
+    "name": "Berentzen",
+    "name_en": "Berentzen",
+    "category": "general"
+  },
+  {
+    "slug": "bergfrst",
+    "name": "Bergfürst",
+    "name_en": "Bergfürst",
+    "category": "general"
+  },
+  {
+    "slug": "apis-automobiles",
+    "name": "APIS (automobiles)",
+    "name_en": "APIS (automobiles)",
+    "category": "general"
+  },
+  {
+    "slug": "aprilia",
+    "name": "Aprilia",
+    "name_en": "Aprilia",
+    "category": "general"
+  },
+  {
+    "slug": "arbos",
+    "name": "Arbos",
+    "name_en": "Arbos",
+    "category": "general"
+  },
+  {
+    "slug": "arclinea",
+    "name": "Arclinea",
+    "name_en": "Arclinea",
+    "category": "general"
+  },
+  {
+    "slug": "arflex",
+    "name": "Arflex",
+    "name_en": "Arflex",
+    "category": "general"
+  },
+  {
+    "slug": "argo-italian-company",
+    "name": "Argo (Italian company)",
+    "name_en": "Argo (Italian company)",
+    "category": "general"
+  },
+  {
+    "slug": "ariston-company",
+    "name": "Ariston (company)",
+    "name_en": "Ariston (company)",
+    "category": "general"
+  },
+  {
+    "slug": "armi-jager",
+    "name": "Armi Jager",
+    "name_en": "Armi Jager",
+    "category": "general"
+  },
+  {
+    "slug": "artemide",
+    "name": "Artemide",
+    "name_en": "Artemide",
+    "category": "general"
+  },
+  {
+    "slug": "as-labruna",
+    "name": "AS Labruna",
+    "name_en": "AS Labruna",
+    "category": "general"
+  },
+  {
+    "slug": "askoll",
+    "name": "Askoll",
+    "name_en": "Askoll",
+    "category": "general"
+  },
+  {
+    "slug": "assicurazioni-generali",
+    "name": "Assicurazioni Generali",
+    "name_en": "Assicurazioni Generali",
+    "category": "general"
+  },
+  {
+    "slug": "astaldi",
+    "name": "Astaldi",
+    "name_en": "Astaldi",
+    "category": "general"
+  },
+  {
+    "slug": "astra-veicoli-industriali",
+    "name": "Astra Veicoli Industriali",
+    "name_en": "Astra Veicoli Industriali",
+    "category": "general"
+  },
+  {
+    "slug": "atala-company",
+    "name": "Atala (company)",
+    "name_en": "Atala (company)",
+    "category": "general"
+  },
+  {
+    "slug": "audio-analogue",
+    "name": "Audio Analogue",
+    "name_en": "Audio Analogue",
+    "category": "general"
+  },
+  {
+    "slug": "audison",
+    "name": "Audison",
+    "name_en": "Audison",
+    "category": "general"
+  },
+  {
+    "slug": "auricchio",
+    "name": "Auricchio",
+    "name_en": "Auricchio",
+    "category": "general"
+  },
+  {
+    "slug": "aurora-pen-manufacturer",
+    "name": "Aurora (pen manufacturer)",
+    "name_en": "Aurora (pen manufacturer)",
+    "category": "general"
+  },
+  {
+    "slug": "automobili-estrema",
+    "name": "Automobili Estrema",
+    "name_en": "Automobili Estrema",
+    "category": "general"
+  },
+  {
+    "slug": "bianchet",
+    "name": "Bianchet",
+    "name_en": "Bianchet",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "biartis",
+    "name": "BiArtis",
+    "name_en": "BiArtis",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "black-astrum",
+    "name": "Black Astrum",
+    "name_en": "Black Astrum",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "blanchet-watch",
+    "name": "Blanchet (watch)",
+    "name_en": "Blanchet (watch)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "blancpain",
+    "name": "Blancpain",
+    "name_en": "Blancpain",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "blood-diamond",
+    "name": "Blood diamond",
+    "name_en": "Blood diamond",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "boodles-company",
+    "name": "Boodles (company)",
+    "name_en": "Boodles (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bookmarc",
+    "name": "Bookmarc",
+    "name_en": "Bookmarc",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bsendorfer",
+    "name": "Bösendorfer",
+    "name_en": "Bösendorfer",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bovet-fleurier",
+    "name": "Bovet Fleurier",
+    "name_en": "Bovet Fleurier",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "breguet-brand",
+    "name": "Breguet (brand)",
+    "name_en": "Breguet (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "breil-company",
+    "name": "Breil (company)",
+    "name_en": "Breil (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "breitling-sa",
+    "name": "Breitling SA",
+    "name_en": "Breitling SA",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "brooks-brothers",
+    "name": "Brooks Brothers",
+    "name_en": "Brooks Brothers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "buccellati",
+    "name": "Buccellati",
+    "name_en": "Buccellati",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "byredo",
+    "name": "Byredo",
+    "name_en": "Byredo",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "c-hoare-co",
+    "name": "C. Hoare & Co",
+    "name_en": "C. Hoare & Co",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "calibre-menswear",
+    "name": "Calibre (menswear)",
+    "name_en": "Calibre (menswear)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "canali",
+    "name": "Canali",
+    "name_en": "Canali",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "canton-electronics",
+    "name": "Canton Electronics",
+    "name_en": "Canton Electronics",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "crescent-toys",
+    "name": "Crescent Toys",
+    "name_en": "Crescent Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "cube-world-toy",
+    "name": "Cube World (toy)",
+    "name_en": "Cube World (toy)",
+    "category": "toy"
+  },
+  {
+    "slug": "dinky-toys",
+    "name": "Dinky Toys",
+    "name_en": "Dinky Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "disney-fairies",
+    "name": "Disney Fairies",
+    "name_en": "Disney Fairies",
+    "category": "toy"
+  },
+  {
+    "slug": "the-dog-franchise",
+    "name": "The Dog (franchise)",
+    "name_en": "The Dog (franchise)",
+    "category": "toy"
+  },
+  {
+    "slug": "domino-rally",
+    "name": "Domino Rally",
+    "name_en": "Domino Rally",
+    "category": "toy"
+  },
+  {
+    "slug": "dragon-models-limited",
+    "name": "Dragon Models Limited",
+    "name_en": "Dragon Models Limited",
+    "category": "toy"
+  },
+  {
+    "slug": "dugu-miniautotoys",
+    "name": "Dugu Miniautotoys",
+    "name_en": "Dugu Miniautotoys",
+    "category": "toy"
+  },
+  {
+    "slug": "dulcop",
+    "name": "Dulcop",
+    "name_en": "Dulcop",
+    "category": "toy"
+  },
+  {
+    "slug": "dyna-flytes",
+    "name": "Dyna-Flytes",
+    "name_en": "Dyna-Flytes",
+    "category": "toy"
+  },
+  {
+    "slug": "efsi-toys",
+    "name": "Efsi Toys",
+    "name_en": "Efsi Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "elastolin",
+    "name": "Elastolin",
+    "name_en": "Elastolin",
+    "category": "toy"
+  },
+  {
+    "slug": "eldran-series",
+    "name": "Eldran series",
+    "name_en": "Eldran series",
+    "category": "toy"
+  },
+  {
+    "slug": "ertl-company",
+    "name": "Ertl Company",
+    "name_en": "Ertl Company",
+    "category": "toy"
+  },
+  {
+    "slug": "fao-schwarz",
+    "name": "FAO Schwarz",
+    "name_en": "FAO Schwarz",
+    "category": "toy"
+  },
+  {
+    "slug": "j-k-farnell",
+    "name": "J. K. Farnell",
+    "name_en": "J. K. Farnell",
+    "category": "toy"
+  },
+  {
+    "slug": "femisapien",
+    "name": "FemiSapien",
+    "name_en": "FemiSapien",
+    "category": "toy"
+  },
+  {
+    "slug": "fisher-price",
+    "name": "Fisher-Price",
+    "name_en": "Fisher-Price",
+    "category": "toy"
+  },
+  {
+    "slug": "four-horsemen-studios",
+    "name": "Four Horsemen Studios",
+    "name_en": "Four Horsemen Studios",
+    "category": "toy"
+  },
+  {
+    "slug": "franklin-mint-precision-models",
+    "name": "Franklin Mint Precision Models",
+    "name_en": "Franklin Mint Precision Models",
+    "category": "toy"
+  },
+  {
+    "slug": "berlebach",
+    "name": "Berlebach",
+    "name_en": "Berlebach",
+    "category": "general"
+  },
+  {
+    "slug": "bertelsmann",
+    "name": "Bertelsmann",
+    "name_en": "Bertelsmann",
+    "category": "general"
+  },
+  {
+    "slug": "beurer",
+    "name": "Beurer",
+    "name_en": "Beurer",
+    "category": "general"
+  },
+  {
+    "slug": "beyerdynamic",
+    "name": "Beyerdynamic",
+    "name_en": "Beyerdynamic",
+    "category": "general"
+  },
+  {
+    "slug": "biederlack",
+    "name": "Biederlack",
+    "name_en": "Biederlack",
+    "category": "general"
+  },
+  {
+    "slug": "otto-bihler-maschinenfabrik",
+    "name": "Otto Bihler Maschinenfabrik",
+    "name_en": "Otto Bihler Maschinenfabrik",
+    "category": "general"
+  },
+  {
+    "slug": "binder-fbm",
+    "name": "Binder FBM",
+    "name_en": "Binder FBM",
+    "category": "general"
+  },
+  {
+    "slug": "binz-vehicles",
+    "name": "Binz (vehicles)",
+    "name_en": "Binz (vehicles)",
+    "category": "general"
+  },
+  {
+    "slug": "biotronik",
+    "name": "Biotronik",
+    "name_en": "Biotronik",
+    "category": "general"
+  },
+  {
+    "slug": "bito",
+    "name": "Bito",
+    "name_en": "Bito",
+    "category": "general"
+  },
+  {
+    "slug": "bitzer-se",
+    "name": "Bitzer SE",
+    "name_en": "Bitzer SE",
+    "category": "general"
+  },
+  {
+    "slug": "bizerba",
+    "name": "Bizerba",
+    "name_en": "Bizerba",
+    "category": "general"
+  },
+  {
+    "slug": "blau-mobilfunk",
+    "name": "Blau Mobilfunk",
+    "name_en": "Blau Mobilfunk",
+    "category": "general"
+  },
+  {
+    "slug": "blaupunkt",
+    "name": "Blaupunkt",
+    "name_en": "Blaupunkt",
+    "category": "general"
+  },
+  {
+    "slug": "blinkist",
+    "name": "Blinkist",
+    "name_en": "Blinkist",
+    "category": "general"
+  },
+  {
+    "slug": "blohmvoss",
+    "name": "Blohm+Voss",
+    "name_en": "Blohm+Voss",
+    "category": "general"
+  },
+  {
+    "slug": "blue-nun",
+    "name": "Blue Nun",
+    "name_en": "Blue Nun",
+    "category": "general"
+  },
+  {
+    "slug": "blthner",
+    "name": "Blüthner",
+    "name_en": "Blüthner",
+    "category": "general"
+  },
+  {
+    "slug": "blutwurz",
+    "name": "Blutwurz",
+    "name_en": "Blutwurz",
+    "category": "general"
+  },
+  {
+    "slug": "boehringer-ingelheim",
+    "name": "Boehringer Ingelheim",
+    "name_en": "Boehringer Ingelheim",
+    "category": "general"
+  },
+  {
+    "slug": "bker",
+    "name": "Böker",
+    "name_en": "Böker",
+    "category": "general"
+  },
+  {
+    "slug": "bora-lftungstechnik",
+    "name": "Bora Lüftungstechnik",
+    "name_en": "Bora Lüftungstechnik",
+    "category": "general"
+  },
+  {
+    "slug": "bosch-company",
+    "name": "Bosch (company)",
+    "name_en": "Bosch (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bosch-rexroth",
+    "name": "Bosch Rexroth",
+    "name_en": "Bosch Rexroth",
+    "category": "general"
+  },
+  {
+    "slug": "brabus",
+    "name": "Brabus",
+    "name_en": "Brabus",
+    "category": "general"
+  },
+  {
+    "slug": "brandt-company",
+    "name": "Brandt (company)",
+    "name_en": "Brandt (company)",
+    "category": "general"
+  },
+  {
+    "slug": "braun-company",
+    "name": "Braun (company)",
+    "name_en": "Braun (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bresser",
+    "name": "Bresser",
+    "name_en": "Bresser",
+    "category": "general"
+  },
+  {
+    "slug": "brita-company",
+    "name": "Brita (company)",
+    "name_en": "Brita (company)",
+    "category": "general"
+  },
+  {
+    "slug": "brose-fahrzeugteile",
+    "name": "Brose Fahrzeugteile",
+    "name_en": "Brose Fahrzeugteile",
+    "category": "general"
+  },
+  {
+    "slug": "budnikowsky",
+    "name": "Budnikowsky",
+    "name_en": "Budnikowsky",
+    "category": "general"
+  },
+  {
+    "slug": "bullyland",
+    "name": "Bullyland",
+    "name_en": "Bullyland",
+    "category": "general"
+  },
+  {
+    "slug": "brkert",
+    "name": "Bürkert",
+    "name_en": "Bürkert",
+    "category": "general"
+  },
+  {
+    "slug": "c-lorenz-ag",
+    "name": "C. Lorenz AG",
+    "name_en": "C. Lorenz AG",
+    "category": "general"
+  },
+  {
+    "slug": "cg-haenel",
+    "name": "C.G. Haenel",
+    "name_en": "C.G. Haenel",
+    "category": "general"
+  },
+  {
+    "slug": "canyon-bicycles",
+    "name": "Canyon Bicycles",
+    "name_en": "Canyon Bicycles",
+    "category": "general"
+  },
+  {
+    "slug": "casco-schtzhelme",
+    "name": "Casco Schützhelme",
+    "name_en": "Casco Schützhelme",
+    "category": "general"
+  },
+  {
+    "slug": "celemony-software",
+    "name": "Celemony Software",
+    "name_en": "Celemony Software",
+    "category": "general"
+  },
+  {
+    "slug": "grnenthal",
+    "name": "Grünenthal",
+    "name_en": "Grünenthal",
+    "category": "general"
+  },
+  {
+    "slug": "cherry-ag",
+    "name": "Cherry AG",
+    "name_en": "Cherry AG",
+    "category": "general"
+  },
+  {
+    "slug": "benson-clegg",
+    "name": "Benson & Clegg",
+    "name_en": "Benson & Clegg",
+    "category": "general"
+  },
+  {
+    "slug": "benson-hedges",
+    "name": "Benson & Hedges",
+    "name_en": "Benson & Hedges",
+    "category": "general"
+  },
+  {
+    "slug": "berghaus",
+    "name": "Berghaus",
+    "name_en": "Berghaus",
+    "category": "general"
+  },
+  {
+    "slug": "berol",
+    "name": "Berol",
+    "name_en": "Berol",
+    "category": "general"
+  },
+  {
+    "slug": "betterware",
+    "name": "Betterware",
+    "name_en": "Betterware",
+    "category": "general"
+  },
+  {
+    "slug": "beulah-london",
+    "name": "Beulah London",
+    "name_en": "Beulah London",
+    "category": "general"
+  },
+  {
+    "slug": "binatone",
+    "name": "Binatone",
+    "name_en": "Binatone",
+    "category": "general"
+  },
+  {
+    "slug": "bing-soft-drink",
+    "name": "Bing (soft drink)",
+    "name_en": "Bing (soft drink)",
+    "category": "general"
+  },
+  {
+    "slug": "birmingham-battery-and-metal-company",
+    "name": "Birmingham Battery and Metal Company",
+    "name_en": "Birmingham Battery and Metal Company",
+    "category": "general"
+  },
+  {
+    "slug": "birmingham-small-arms-company",
+    "name": "Birmingham Small Arms Company",
+    "name_en": "Birmingham Small Arms Company",
+    "category": "general"
+  },
+  {
+    "slug": "bisto",
+    "name": "Bisto",
+    "name_en": "Bisto",
+    "category": "general"
+  },
+  {
+    "slug": "blackwells",
+    "name": "Blackwell's",
+    "name_en": "Blackwell's",
+    "category": "general"
+  },
+  {
+    "slug": "bluebella",
+    "name": "Bluebella",
+    "name_en": "Bluebella",
+    "category": "general"
+  },
+  {
+    "slug": "bonmarch",
+    "name": "Bonmarché",
+    "name_en": "Bonmarché",
+    "category": "general"
+  },
+  {
+    "slug": "boots-company",
+    "name": "Boots (company)",
+    "name_en": "Boots (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bowers-wilkins",
+    "name": "Bowers & Wilkins",
+    "name_en": "Bowers & Wilkins",
+    "category": "general"
+  },
+  {
+    "slug": "boyces-bakery",
+    "name": "Boyce's Bakery",
+    "name_en": "Boyce's Bakery",
+    "category": "general"
+  },
+  {
+    "slug": "bp",
+    "name": "BP",
+    "name_en": "BP",
+    "category": "general"
+  },
+  {
+    "slug": "brasso",
+    "name": "Brasso",
+    "name_en": "Brasso",
+    "category": "general"
+  },
+  {
+    "slug": "bremont",
+    "name": "Bremont",
+    "name_en": "Bremont",
+    "category": "general"
+  },
+  {
+    "slug": "edenly",
+    "name": "Edenly",
+    "name_en": "Edenly",
+    "category": "general"
+  },
+  {
+    "slug": "elmex",
+    "name": "Elmex",
+    "name_en": "Elmex",
+    "category": "general"
+  },
+  {
+    "slug": "elna-swiss-company",
+    "name": "Elna (Swiss company)",
+    "name_en": "Elna (Swiss company)",
+    "category": "general"
+  },
+  {
+    "slug": "emmi-ag",
+    "name": "Emmi AG",
+    "name_en": "Emmi AG",
+    "category": "general"
+  },
+  {
+    "slug": "endresshauser",
+    "name": "Endress+Hauser",
+    "name_en": "Endress+Hauser",
+    "category": "general"
+  },
+  {
+    "slug": "favarger",
+    "name": "Favarger",
+    "name_en": "Favarger",
+    "category": "general"
+  },
+  {
+    "slug": "fenjal",
+    "name": "Fenjal",
+    "name_en": "Fenjal",
+    "category": "general"
+  },
+  {
+    "slug": "foba",
+    "name": "Foba",
+    "name_en": "Foba",
+    "category": "general"
+  },
+  {
+    "slug": "forbo-holding-ag",
+    "name": "Forbo Holding AG",
+    "name_en": "Forbo Holding AG",
+    "category": "general"
+  },
+  {
+    "slug": "franke-company",
+    "name": "Franke (company)",
+    "name_en": "Franke (company)",
+    "category": "general"
+  },
+  {
+    "slug": "gallus-holding",
+    "name": "Gallus Holding",
+    "name_en": "Gallus Holding",
+    "category": "general"
+  },
+  {
+    "slug": "geberit",
+    "name": "Geberit",
+    "name_en": "Geberit",
+    "category": "general"
+  },
+  {
+    "slug": "gisada",
+    "name": "Gisada",
+    "name_en": "Gisada",
+    "category": "general"
+  },
+  {
+    "slug": "givaudan",
+    "name": "Givaudan",
+    "name_en": "Givaudan",
+    "category": "general"
+  },
+  {
+    "slug": "glasi-hergiswil",
+    "name": "Glasi Hergiswil",
+    "name_en": "Glasi Hergiswil",
+    "category": "general"
+  },
+  {
+    "slug": "goldkenn",
+    "name": "Goldkenn",
+    "name_en": "Goldkenn",
+    "category": "general"
+  },
+  {
+    "slug": "goldvish",
+    "name": "Goldvish",
+    "name_en": "Goldvish",
+    "category": "general"
+  },
+  {
+    "slug": "grethers-pastilles",
+    "name": "Grether's Pastilles",
+    "name_en": "Grether's Pastilles",
+    "category": "general"
+  },
+  {
+    "slug": "hag",
+    "name": "HAG",
+    "name_en": "HAG",
+    "category": "general"
+  },
+  {
+    "slug": "heidicom",
+    "name": "Heidi.com",
+    "name_en": "Heidi.com",
+    "category": "general"
+  },
+  {
+    "slug": "bristan",
+    "name": "Bristan",
+    "name_en": "Bristan",
+    "category": "general"
+  },
+  {
+    "slug": "bristol-cars",
+    "name": "Bristol Cars",
+    "name_en": "Bristol Cars",
+    "category": "general"
+  },
+  {
+    "slug": "britannia-airways",
+    "name": "Britannia Airways",
+    "name_en": "Britannia Airways",
+    "category": "general"
+  },
+  {
+    "slug": "britten-norman",
+    "name": "Britten-Norman",
+    "name_en": "Britten-Norman",
+    "category": "general"
+  },
+  {
+    "slug": "britvic",
+    "name": "Britvic",
+    "name_en": "Britvic",
+    "category": "general"
+  },
+  {
+    "slug": "john-broadwood-sons",
+    "name": "John Broadwood & Sons",
+    "name_en": "John Broadwood & Sons",
+    "category": "general"
+  },
+  {
+    "slug": "brylcreem",
+    "name": "Brylcreem",
+    "name_en": "Brylcreem",
+    "category": "general"
+  },
+  {
+    "slug": "bsa-company",
+    "name": "BSA Company",
+    "name_en": "BSA Company",
+    "category": "general"
+  },
+  {
+    "slug": "bsa-motorcycles",
+    "name": "BSA motorcycles",
+    "name_en": "BSA motorcycles",
+    "category": "general"
+  },
+  {
+    "slug": "buckley-london",
+    "name": "Buckley London",
+    "name_en": "Buckley London",
+    "category": "general"
+  },
+  {
+    "slug": "bugle-car-brand",
+    "name": "Bugle (car brand)",
+    "name_en": "Bugle (car brand)",
+    "category": "general"
+  },
+  {
+    "slug": "bullitt-group",
+    "name": "Bullitt Group",
+    "name_en": "Bullitt Group",
+    "category": "general"
+  },
+  {
+    "slug": "bupa",
+    "name": "Bupa",
+    "name_en": "Bupa",
+    "category": "general"
+  },
+  {
+    "slug": "bush-electronics-brand",
+    "name": "Bush (electronics brand)",
+    "name_en": "Bush (electronics brand)",
+    "category": "general"
+  },
+  {
+    "slug": "clarks-shoe-retailer",
+    "name": "Clarks (shoe retailer)",
+    "name_en": "Clarks (shoe retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "cadbury",
+    "name": "Cadbury",
+    "name_en": "Cadbury",
+    "category": "general"
+  },
+  {
+    "slug": "calor-gas",
+    "name": "Calor Gas",
+    "name_en": "Calor Gas",
+    "category": "general"
+  },
+  {
+    "slug": "cambridge-audio",
+    "name": "Cambridge Audio",
+    "name_en": "Cambridge Audio",
+    "category": "general"
+  },
+  {
+    "slug": "capital-disney",
+    "name": "Capital Disney",
+    "name_en": "Capital Disney",
+    "category": "general"
+  },
+  {
+    "slug": "capstan-cigarette",
+    "name": "Capstan (cigarette)",
+    "name_en": "Capstan (cigarette)",
+    "category": "general"
+  },
+  {
+    "slug": "carl-f-bucherer",
+    "name": "Carl F. Bucherer",
+    "name_en": "Carl F. Bucherer",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cartier-jeweler",
+    "name": "Cartier (jeweler)",
+    "name_en": "Cartier (jeweler)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "castelli-brand",
+    "name": "Castelli (brand)",
+    "name_en": "Castelli (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "caviar-company",
+    "name": "Caviar (company)",
+    "name_en": "Caviar (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cecil-purnell",
+    "name": "Cecil Purnell",
+    "name_en": "Cecil Purnell",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "century-time-gems",
+    "name": "Century Time Gems",
+    "name_en": "Century Time Gems",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "chalhoub-group",
+    "name": "Chalhoub Group",
+    "name_en": "Chalhoub Group",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "charles-keith",
+    "name": "Charles & Keith",
+    "name_en": "Charles & Keith",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "charles-heidsieck-champagne",
+    "name": "Charles Heidsieck (Champagne)",
+    "name_en": "Charles Heidsieck (Champagne)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "charriol",
+    "name": "Charriol",
+    "name_en": "Charriol",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "chteau-cheval-blanc",
+    "name": "Château Cheval Blanc",
+    "name_en": "Château Cheval Blanc",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "chopard",
+    "name": "Chopard",
+    "name_en": "Chopard",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "churchs",
+    "name": "Church's",
+    "name_en": "Church's",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cinnamon-hotels-resorts",
+    "name": "Cinnamon Hotels & Resorts",
+    "name_en": "Cinnamon Hotels & Resorts",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cire-trudon",
+    "name": "Cire Trudon",
+    "name_en": "Cire Trudon",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "clarins",
+    "name": "Clarins",
+    "name_en": "Clarins",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cl-de-peau-beaut",
+    "name": "Clé de Peau Beauté",
+    "name_en": "Clé de Peau Beauté",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "colette-boutique",
+    "name": "Colette (boutique)",
+    "name_en": "Colette (boutique)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "comit-colbert",
+    "name": "Comité Colbert",
+    "name_en": "Comité Colbert",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "coogi",
+    "name": "Coogi",
+    "name_en": "Coogi",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "funskool",
+    "name": "Funskool",
+    "name_en": "Funskool",
+    "category": "toy"
+  },
+  {
+    "slug": "galaxy-serie",
+    "name": "Galaxy Serie",
+    "name_en": "Galaxy Serie",
+    "category": "toy"
+  },
+  {
+    "slug": "gamda-koor-sabra",
+    "name": "Gamda Koor Sabra",
+    "name_en": "Gamda Koor Sabra",
+    "category": "toy"
+  },
+  {
+    "slug": "gamewright-games",
+    "name": "Gamewright Games",
+    "name_en": "Gamewright Games",
+    "category": "toy"
+  },
+  {
+    "slug": "greenlight-collectibles",
+    "name": "Greenlight Collectibles",
+    "name_en": "Greenlight Collectibles",
+    "category": "toy"
+  },
+  {
+    "slug": "gund",
+    "name": "Gund",
+    "name_en": "Gund",
+    "category": "toy"
+  },
+  {
+    "slug": "hama-beads",
+    "name": "Hama beads",
+    "name_en": "Hama beads",
+    "category": "toy"
+  },
+  {
+    "slug": "hamilton-invaders",
+    "name": "Hamilton Invaders",
+    "name_en": "Hamilton Invaders",
+    "category": "toy"
+  },
+  {
+    "slug": "happy-meal",
+    "name": "Happy Meal",
+    "name_en": "Happy Meal",
+    "category": "toy"
+  },
+  {
+    "slug": "harrods-christmas-bear",
+    "name": "Harrods Christmas bear",
+    "name_en": "Harrods Christmas bear",
+    "category": "toy"
+  },
+  {
+    "slug": "hasbro",
+    "name": "Hasbro",
+    "name_en": "Hasbro",
+    "category": "toy"
+  },
+  {
+    "slug": "hatchimals",
+    "name": "Hatchimals",
+    "name_en": "Hatchimals",
+    "category": "toy"
+  },
+  {
+    "slug": "hello-kitty",
+    "name": "Hello Kitty",
+    "name_en": "Hello Kitty",
+    "category": "toy"
+  },
+  {
+    "slug": "herpa",
+    "name": "Herpa",
+    "name_en": "Herpa",
+    "category": "toy"
+  },
+  {
+    "slug": "herpa-wings",
+    "name": "Herpa Wings",
+    "name_en": "Herpa Wings",
+    "category": "toy"
+  },
+  {
+    "slug": "hot-toys",
+    "name": "Hot Toys",
+    "name_en": "Hot Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "hot-wheels",
+    "name": "Hot Wheels",
+    "name_en": "Hot Wheels",
+    "category": "toy"
+  },
+  {
+    "slug": "husky-toy-brand",
+    "name": "Husky (toy brand)",
+    "name_en": "Husky (toy brand)",
+    "category": "toy"
+  },
+  {
+    "slug": "iz-toy",
+    "name": "IZ (toy)",
+    "name_en": "IZ (toy)",
+    "category": "toy"
+  },
+  {
+    "slug": "jellycat",
+    "name": "Jellycat",
+    "name_en": "Jellycat",
+    "category": "toy"
+  },
+  {
+    "slug": "jewelpet",
+    "name": "Jewelpet",
+    "name_en": "Jewelpet",
+    "category": "toy"
+  },
+  {
+    "slug": "john-hill-company",
+    "name": "John Hill & Company",
+    "name_en": "John Hill & Company",
+    "category": "toy"
+  },
+  {
+    "slug": "kakao-friends",
+    "name": "Kakao Friends",
+    "name_en": "Kakao Friends",
+    "category": "toy"
+  },
+  {
+    "slug": "kapla",
+    "name": "Kapla",
+    "name_en": "Kapla",
+    "category": "toy"
+  },
+  {
+    "slug": "keva-planks",
+    "name": "KEVA Planks",
+    "name_en": "KEVA Planks",
+    "category": "toy"
+  },
+  {
+    "slug": "kidrobot",
+    "name": "Kidrobot",
+    "name_en": "Kidrobot",
+    "category": "toy"
+  },
+  {
+    "slug": "kitty-in-my-pocket",
+    "name": "Kitty in My Pocket",
+    "name_en": "Kitty in My Pocket",
+    "category": "toy"
+  },
+  {
+    "slug": "koosh-ball",
+    "name": "Koosh ball",
+    "name_en": "Koosh ball",
+    "category": "toy"
+  },
+  {
+    "slug": "koosh-kins",
+    "name": "Koosh Kins",
+    "name_en": "Koosh Kins",
+    "category": "toy"
+  },
+  {
+    "slug": "kota-the-triceratops",
+    "name": "Kota the triceratops",
+    "name_en": "Kota the triceratops",
+    "category": "toy"
+  },
+  {
+    "slug": "kre-o",
+    "name": "Kre-O",
+    "name_en": "Kre-O",
+    "category": "toy"
+  },
+  {
+    "slug": "labubu",
+    "name": "Labubu",
+    "name_en": "Labubu",
+    "category": "toy"
+  },
+  {
+    "slug": "legendz",
+    "name": "Legendz",
+    "name_en": "Legendz",
+    "category": "toy"
+  },
+  {
+    "slug": "lima-models",
+    "name": "Lima (models)",
+    "name_en": "Lima (models)",
+    "category": "toy"
+  },
+  {
+    "slug": "line-friends",
+    "name": "Line Friends",
+    "name_en": "Line Friends",
+    "category": "toy"
+  },
+  {
+    "slug": "lintoy",
+    "name": "Lintoy",
+    "name_en": "Lintoy",
+    "category": "toy"
+  },
+  {
+    "slug": "little-live-gotta-go-pets-brand",
+    "name": "Little Live \"Gotta Go\" Pets (brand)",
+    "name_en": "Little Live \"Gotta Go\" Pets (brand)",
+    "category": "toy"
+  },
+  {
+    "slug": "littlest-pet-shop",
+    "name": "Littlest Pet Shop",
+    "name_en": "Littlest Pet Shop",
+    "category": "toy"
+  },
+  {
+    "slug": "lledo",
+    "name": "Lledo",
+    "name_en": "Lledo",
+    "category": "toy"
+  },
+  {
+    "slug": "lone-star-toys",
+    "name": "Lone Star Toys",
+    "name_en": "Lone Star Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "cortbert-watch-manufacturer",
+    "name": "Cortébert (watch manufacturer)",
+    "name_en": "Cortébert (watch manufacturer)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "corum-watchmakers",
+    "name": "Corum (watchmakers)",
+    "name_en": "Corum (watchmakers)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cottin-sas",
+    "name": "Cottin SAS",
+    "name_en": "Cottin SAS",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "cunard-line",
+    "name": "Cunard Line",
+    "name_en": "Cunard Line",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "curtis-australia",
+    "name": "Curtis Australia",
+    "name_en": "Curtis Australia",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ds-durga",
+    "name": "D.S. & Durga",
+    "name_en": "D.S. & Durga",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "george-daniels-watchmaker",
+    "name": "George Daniels (watchmaker)",
+    "name_en": "George Daniels (watchmaker)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "de-beers",
+    "name": "De Beers",
+    "name_en": "De Beers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "de-grisogono",
+    "name": "De Grisogono",
+    "name_en": "De Grisogono",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "delvaux-company",
+    "name": "Delvaux (company)",
+    "name_en": "Delvaux (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dennison-watch",
+    "name": "Dennison Watch",
+    "name_en": "Dennison Watch",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "deus-ex-machina-company",
+    "name": "Deus Ex Machina (company)",
+    "name_en": "Deus Ex Machina (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dickins-jones",
+    "name": "Dickins & Jones",
+    "name_en": "Dickins & Jones",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "diffus-design",
+    "name": "Diffus Design",
+    "name_en": "Diffus Design",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "diptyque",
+    "name": "Diptyque",
+    "name_en": "Diptyque",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dolcegabbana-beauty",
+    "name": "Dolce&Gabbana Beauty",
+    "name_en": "Dolce&Gabbana Beauty",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dom-prignon",
+    "name": "Dom Pérignon",
+    "name_en": "Dom Pérignon",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "adolfo-domnguez",
+    "name": "Adolfo Domínguez",
+    "name_en": "Adolfo Domínguez",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "dover-street-market",
+    "name": "Dover Street Market",
+    "name_en": "Dover Street Market",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "drumohr",
+    "name": "Drumohr",
+    "name_en": "Drumohr",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "amundi",
+    "name": "Amundi",
+    "name_en": "Amundi",
+    "category": "general"
+  },
+  {
+    "slug": "andros-company",
+    "name": "Andros (company)",
+    "name_en": "Andros (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ankama",
+    "name": "Ankama",
+    "name_en": "Ankama",
+    "category": "general"
+  },
+  {
+    "slug": "arc-holdings",
+    "name": "Arc Holdings",
+    "name_en": "Arc Holdings",
+    "category": "general"
+  },
+  {
+    "slug": "archos",
+    "name": "Archos",
+    "name_en": "Archos",
+    "category": "general"
+  },
+  {
+    "slug": "areva",
+    "name": "Areva",
+    "name_en": "Areva",
+    "category": "general"
+  },
+  {
+    "slug": "arkema",
+    "name": "Arkema",
+    "name_en": "Arkema",
+    "category": "general"
+  },
+  {
+    "slug": "armand-colin",
+    "name": "Armand Colin",
+    "name_en": "Armand Colin",
+    "category": "general"
+  },
+  {
+    "slug": "armand-de-brignac",
+    "name": "Armand de Brignac",
+    "name_en": "Armand de Brignac",
+    "category": "general"
+  },
+  {
+    "slug": "arturia",
+    "name": "Arturia",
+    "name_en": "Arturia",
+    "category": "general"
+  },
+  {
+    "slug": "lassociation",
+    "name": "L'Association",
+    "name_en": "L'Association",
+    "category": "general"
+  },
+  {
+    "slug": "asteelflash-group",
+    "name": "Asteelflash Group",
+    "name_en": "Asteelflash Group",
+    "category": "general"
+  },
+  {
+    "slug": "at-internet",
+    "name": "AT Internet",
+    "name_en": "AT Internet",
+    "category": "general"
+  },
+  {
+    "slug": "atac",
+    "name": "Atac",
+    "name_en": "Atac",
+    "category": "general"
+  },
+  {
+    "slug": "atari",
+    "name": "Atari",
+    "name_en": "Atari",
+    "category": "general"
+  },
+  {
+    "slug": "atos",
+    "name": "Atos",
+    "name_en": "Atos",
+    "category": "general"
+  },
+  {
+    "slug": "au-dpart",
+    "name": "Au Départ",
+    "name_en": "Au Départ",
+    "category": "general"
+  },
+  {
+    "slug": "auchan",
+    "name": "Auchan",
+    "name_en": "Auchan",
+    "category": "general"
+  },
+  {
+    "slug": "dominique-aurientis",
+    "name": "Dominique Aurientis",
+    "name_en": "Dominique Aurientis",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-chatenet",
+    "name": "Automobiles Chatenet",
+    "name_en": "Automobiles Chatenet",
+    "category": "general"
+  },
+  {
+    "slug": "cj-enm-films-television",
+    "name": "CJ ENM Films & Television",
+    "name_en": "CJ ENM Films & Television",
+    "category": "general"
+  },
+  {
+    "slug": "cj-group",
+    "name": "CJ Group",
+    "name_en": "CJ Group",
+    "category": "general"
+  },
+  {
+    "slug": "cort-guitars",
+    "name": "Cort Guitars",
+    "name_en": "Cort Guitars",
+    "category": "general"
+  },
+  {
+    "slug": "coupang",
+    "name": "Coupang",
+    "name_en": "Coupang",
+    "category": "general"
+  },
+  {
+    "slug": "cowon",
+    "name": "Cowon",
+    "name_en": "Cowon",
+    "category": "general"
+  },
+  {
+    "slug": "crown-confectionery",
+    "name": "Crown Confectionery",
+    "name_en": "Crown Confectionery",
+    "category": "general"
+  },
+  {
+    "slug": "crucialtec",
+    "name": "CrucialTec",
+    "name_en": "CrucialTec",
+    "category": "general"
+  },
+  {
+    "slug": "ctt-united",
+    "name": "CT&T United",
+    "name_en": "CT&T United",
+    "category": "general"
+  },
+  {
+    "slug": "cu-store",
+    "name": "CU (store)",
+    "name_en": "CU (store)",
+    "category": "general"
+  },
+  {
+    "slug": "cuckoo-electronics",
+    "name": "Cuckoo Electronics",
+    "name_en": "Cuckoo Electronics",
+    "category": "general"
+  },
+  {
+    "slug": "daedong-company",
+    "name": "Daedong (company)",
+    "name_en": "Daedong (company)",
+    "category": "general"
+  },
+  {
+    "slug": "daewon-media",
+    "name": "Daewon Media",
+    "name_en": "Daewon Media",
+    "category": "general"
+  },
+  {
+    "slug": "daewoo",
+    "name": "Daewoo",
+    "name_en": "Daewoo",
+    "category": "general"
+  },
+  {
+    "slug": "dasan-networks",
+    "name": "DASAN Networks",
+    "name_en": "DASAN Networks",
+    "category": "general"
+  },
+  {
+    "slug": "daum-web-portal",
+    "name": "Daum (web portal)",
+    "name_en": "Daum (web portal)",
+    "category": "general"
+  },
+  {
+    "slug": "dawonsys",
+    "name": "Dawonsys",
+    "name_en": "Dawonsys",
+    "category": "general"
+  },
+  {
+    "slug": "db-hitek",
+    "name": "DB HiTek",
+    "name_en": "DB HiTek",
+    "category": "general"
+  },
+  {
+    "slug": "db-insurance",
+    "name": "DB Insurance",
+    "name_en": "DB Insurance",
+    "category": "general"
+  },
+  {
+    "slug": "di-corporation",
+    "name": "DI Corporation",
+    "name_en": "DI Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "dl-ec",
+    "name": "DL E&C",
+    "name_en": "DL E&C",
+    "category": "general"
+  },
+  {
+    "slug": "alba-watch",
+    "name": "Alba (watch)",
+    "name_en": "Alba (watch)",
+    "category": "general"
+  },
+  {
+    "slug": "alinco",
+    "name": "Alinco",
+    "name_en": "Alinco",
+    "category": "general"
+  },
+  {
+    "slug": "all-nippon-airways",
+    "name": "All Nippon Airways",
+    "name_en": "All Nippon Airways",
+    "category": "general"
+  },
+  {
+    "slug": "allied-telesis",
+    "name": "Allied Telesis",
+    "name_en": "Allied Telesis",
+    "category": "general"
+  },
+  {
+    "slug": "alpine-electronics",
+    "name": "Alpine Electronics",
+    "name_en": "Alpine Electronics",
+    "category": "general"
+  },
+  {
+    "slug": "alps-alpine",
+    "name": "Alps Alpine",
+    "name_en": "Alps Alpine",
+    "category": "general"
+  },
+  {
+    "slug": "amada-company",
+    "name": "Amada (company)",
+    "name_en": "Amada (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ana-hotels",
+    "name": "ANA Hotels",
+    "name_en": "ANA Hotels",
+    "category": "general"
+  },
+  {
+    "slug": "ando-cloisonn-company",
+    "name": "Ando Cloisonné Company",
+    "name_en": "Ando Cloisonné Company",
+    "category": "general"
+  },
+  {
+    "slug": "anest-iwata",
+    "name": "Anest Iwata",
+    "name_en": "Anest Iwata",
+    "category": "general"
+  },
+  {
+    "slug": "anritsu",
+    "name": "Anritsu",
+    "name_en": "Anritsu",
+    "category": "general"
+  },
+  {
+    "slug": "aor-company",
+    "name": "AOR (company)",
+    "name_en": "AOR (company)",
+    "category": "general"
+  },
+  {
+    "slug": "apa-group-japan",
+    "name": "APA Group (Japan)",
+    "name_en": "APA Group (Japan)",
+    "category": "general"
+  },
+  {
+    "slug": "arai-helmet",
+    "name": "Arai Helmet",
+    "name_en": "Arai Helmet",
+    "category": "general"
+  },
+  {
+    "slug": "aria-guitar-company",
+    "name": "Aria (guitar company)",
+    "name_en": "Aria (guitar company)",
+    "category": "general"
+  },
+  {
+    "slug": "aritsugu",
+    "name": "Aritsugu",
+    "name_en": "Aritsugu",
+    "category": "general"
+  },
+  {
+    "slug": "asahi-breweries",
+    "name": "Asahi Breweries",
+    "name_en": "Asahi Breweries",
+    "category": "general"
+  },
+  {
+    "slug": "asahi-kasei",
+    "name": "Asahi Kasei",
+    "name_en": "Asahi Kasei",
+    "category": "general"
+  },
+  {
+    "slug": "asaka-distillery",
+    "name": "Asaka distillery",
+    "name_en": "Asaka distillery",
+    "category": "general"
+  },
+  {
+    "slug": "asmik-ace",
+    "name": "Asmik Ace",
+    "name_en": "Asmik Ace",
+    "category": "general"
+  },
+  {
+    "slug": "china-lucky-film",
+    "name": "China Lucky Film",
+    "name_en": "China Lucky Film",
+    "category": "general"
+  },
+  {
+    "slug": "china-medical-technologies",
+    "name": "China Medical Technologies",
+    "name_en": "China Medical Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "china-merchants-bank",
+    "name": "China Merchants Bank",
+    "name_en": "China Merchants Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-minsheng-bank",
+    "name": "China Minsheng Bank",
+    "name_en": "China Minsheng Bank",
+    "category": "general"
+  },
+  {
+    "slug": "china-mobile",
+    "name": "China Mobile",
+    "name_en": "China Mobile",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-aviation-corporation",
+    "name": "China National Aviation Corporation",
+    "name_en": "China National Aviation Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-erzhong-group",
+    "name": "China National Erzhong Group",
+    "name_en": "China National Erzhong Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-heavy-duty-truck-group",
+    "name": "China National Heavy Duty Truck Group",
+    "name_en": "China National Heavy Duty Truck Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-national-machinery-industry-corporation",
+    "name": "China National Machinery Industry Corporation",
+    "name_en": "China National Machinery Industry Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-nepstar",
+    "name": "China Nepstar",
+    "name_en": "China Nepstar",
+    "category": "general"
+  },
+  {
+    "slug": "china-pacific-insurance-company",
+    "name": "China Pacific Insurance Company",
+    "name_en": "China Pacific Insurance Company",
+    "category": "general"
+  },
+  {
+    "slug": "china-post",
+    "name": "China Post",
+    "name_en": "China Post",
+    "category": "general"
+  },
+  {
+    "slug": "china-railway",
+    "name": "China Railway",
+    "name_en": "China Railway",
+    "category": "general"
+  },
+  {
+    "slug": "china-shipbuilding-industry-corporation",
+    "name": "China Shipbuilding Industry Corporation",
+    "name_en": "China Shipbuilding Industry Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-south-industries-group",
+    "name": "China South Industries Group",
+    "name_en": "China South Industries Group",
+    "category": "general"
+  },
+  {
+    "slug": "china-southern-airlines",
+    "name": "China Southern Airlines",
+    "name_en": "China Southern Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-southern-power-grid",
+    "name": "China Southern Power Grid",
+    "name_en": "China Southern Power Grid",
+    "category": "general"
+  },
+  {
+    "slug": "china-southwest-airlines",
+    "name": "China Southwest Airlines",
+    "name_en": "China Southwest Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-state-shipbuilding-corporation",
+    "name": "China State Shipbuilding Corporation",
+    "name_en": "China State Shipbuilding Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-sunergy",
+    "name": "China Sunergy",
+    "name_en": "China Sunergy",
+    "category": "general"
+  },
+  {
+    "slug": "lulu-the-piggy",
+    "name": "LuLu the Piggy",
+    "name_en": "LuLu the Piggy",
+    "category": "toy"
+  },
+  {
+    "slug": "madballs",
+    "name": "Madballs",
+    "name_en": "Madballs",
+    "category": "toy"
+  },
+  {
+    "slug": "maisto",
+    "name": "Maisto",
+    "name_en": "Maisto",
+    "category": "toy"
+  },
+  {
+    "slug": "majorette-toy-manufacturer",
+    "name": "Majorette (toy manufacturer)",
+    "name_en": "Majorette (toy manufacturer)",
+    "category": "toy"
+  },
+  {
+    "slug": "mamod",
+    "name": "Mamod",
+    "name_en": "Mamod",
+    "category": "toy"
+  },
+  {
+    "slug": "manoil-manufacturing-co",
+    "name": "Manoil Manufacturing Co.",
+    "name_en": "Manoil Manufacturing Co.",
+    "category": "toy"
+  },
+  {
+    "slug": "matador-toy",
+    "name": "Matador (toy)",
+    "name_en": "Matador (toy)",
+    "category": "toy"
+  },
+  {
+    "slug": "matchbox-brand",
+    "name": "Matchbox (brand)",
+    "name_en": "Matchbox (brand)",
+    "category": "toy"
+  },
+  {
+    "slug": "mattel",
+    "name": "Mattel",
+    "name_en": "Mattel",
+    "category": "toy"
+  },
+  {
+    "slug": "mebetoys",
+    "name": "Mebetoys",
+    "name_en": "Mebetoys",
+    "category": "toy"
+  },
+  {
+    "slug": "merrythought",
+    "name": "Merrythought",
+    "name_en": "Merrythought",
+    "category": "toy"
+  },
+  {
+    "slug": "metosul",
+    "name": "Metosul",
+    "name_en": "Metosul",
+    "category": "toy"
+  },
+  {
+    "slug": "mettoy",
+    "name": "Mettoy",
+    "name_en": "Mettoy",
+    "category": "toy"
+  },
+  {
+    "slug": "micro-machines",
+    "name": "Micro Machines",
+    "name_en": "Micro Machines",
+    "category": "toy"
+  },
+  {
+    "slug": "mighty-beanz",
+    "name": "Mighty Beanz",
+    "name_en": "Mighty Beanz",
+    "category": "toy"
+  },
+  {
+    "slug": "mikro67",
+    "name": "Mikro'67",
+    "name_en": "Mikro'67",
+    "category": "toy"
+  },
+  {
+    "slug": "mini-brands",
+    "name": "Mini Brands",
+    "name_en": "Mini Brands",
+    "category": "toy"
+  },
+  {
+    "slug": "minibrix",
+    "name": "Minibrix",
+    "name_en": "Minibrix",
+    "category": "toy"
+  },
+  {
+    "slug": "minimates",
+    "name": "Minimates",
+    "name_en": "Minimates",
+    "category": "toy"
+  },
+  {
+    "slug": "monkgomery",
+    "name": "Monkgomery",
+    "name_en": "Monkgomery",
+    "category": "toy"
+  },
+  {
+    "slug": "7saber",
+    "name": "7SABER",
+    "name_en": "7SABER",
+    "category": "sportswear"
+  },
+  {
+    "slug": "altra-running",
+    "name": "Altra Running",
+    "name_en": "Altra Running",
+    "category": "sportswear"
+  },
+  {
+    "slug": "and1",
+    "name": "AND1",
+    "name_en": "AND1",
+    "category": "sportswear"
+  },
+  {
+    "slug": "arena-swimwear",
+    "name": "Arena (swimwear)",
+    "name_en": "Arena (swimwear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "aritzia",
+    "name": "Aritzia",
+    "name_en": "Aritzia",
+    "category": "sportswear"
+  },
+  {
+    "slug": "armani",
+    "name": "Armani",
+    "name_en": "Armani",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ashworth-clothing",
+    "name": "Ashworth (clothing)",
+    "name_en": "Ashworth (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "atak-sportswear",
+    "name": "ATAK Sportswear",
+    "name_en": "ATAK Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "athleta-company",
+    "name": "Athleta (company)",
+    "name_en": "Athleta (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "athleta-fashion",
+    "name": "Athleta (fashion)",
+    "name_en": "Athleta (fashion)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "athletic-dna",
+    "name": "Athletic DNA",
+    "name_en": "Athletic DNA",
+    "category": "sportswear"
+  },
+  {
+    "slug": "atletica",
+    "name": "Atletica",
+    "name_en": "Atletica",
+    "category": "sportswear"
+  },
+  {
+    "slug": "audimas",
+    "name": "Audimas",
+    "name_en": "Audimas",
+    "category": "sportswear"
+  },
+  {
+    "slug": "aussiebum",
+    "name": "AussieBum",
+    "name_en": "AussieBum",
+    "category": "sportswear"
+  },
+  {
+    "slug": "babolat",
+    "name": "Babolat",
+    "name_en": "Babolat",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bad-boy-brand",
+    "name": "Bad Boy (brand)",
+    "name_en": "Bad Boy (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "basutoland-ink",
+    "name": "Basutoland Ink",
+    "name_en": "Basutoland Ink",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bauerfeind",
+    "name": "Bauerfeind",
+    "name_en": "Bauerfeind",
+    "category": "sportswear"
+  },
+  {
+    "slug": "beyond-yoga",
+    "name": "Beyond Yoga",
+    "name_en": "Beyond Yoga",
+    "category": "sportswear"
+  },
+  {
+    "slug": "big-5-sporting-goods",
+    "name": "Big 5 Sporting Goods",
+    "name_en": "Big 5 Sporting Goods",
+    "category": "sportswear"
+  },
+  {
+    "slug": "automobiles-erad",
+    "name": "Automobiles ERAD",
+    "name_en": "Automobiles ERAD",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-hotchkiss",
+    "name": "Automobiles Hotchkiss",
+    "name_en": "Automobiles Hotchkiss",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-l-rosengart",
+    "name": "Automobiles L. Rosengart",
+    "name_en": "Automobiles L. Rosengart",
+    "category": "general"
+  },
+  {
+    "slug": "automobiles-talbot-france",
+    "name": "Automobiles Talbot France",
+    "name_en": "Automobiles Talbot France",
+    "category": "general"
+  },
+  {
+    "slug": "avenir-telecom",
+    "name": "Avenir Telecom",
+    "name_en": "Avenir Telecom",
+    "category": "general"
+  },
+  {
+    "slug": "avions-voisin",
+    "name": "Avions Voisin",
+    "name_en": "Avions Voisin",
+    "category": "general"
+  },
+  {
+    "slug": "axa",
+    "name": "Axa",
+    "name_en": "Axa",
+    "category": "general"
+  },
+  {
+    "slug": "babybel",
+    "name": "Babybel",
+    "name_en": "Babybel",
+    "category": "general"
+  },
+  {
+    "slug": "babyliss",
+    "name": "BaByliss",
+    "name_en": "BaByliss",
+    "category": "general"
+  },
+  {
+    "slug": "bac-films",
+    "name": "BAC Films",
+    "name_en": "BAC Films",
+    "category": "general"
+  },
+  {
+    "slug": "baccarat-company",
+    "name": "Baccarat (company)",
+    "name_en": "Baccarat (company)",
+    "category": "general"
+  },
+  {
+    "slug": "badoit",
+    "name": "Badoit",
+    "name_en": "Badoit",
+    "category": "general"
+  },
+  {
+    "slug": "balmain-fashion-house",
+    "name": "Balmain (fashion house)",
+    "name_en": "Balmain (fashion house)",
+    "category": "general"
+  },
+  {
+    "slug": "bamsemums",
+    "name": "Bamsemums",
+    "name_en": "Bamsemums",
+    "category": "general"
+  },
+  {
+    "slug": "banania",
+    "name": "Banania",
+    "name_en": "Banania",
+    "category": "general"
+  },
+  {
+    "slug": "bb-hotels",
+    "name": "B&B Hotels",
+    "name_en": "B&B Hotels",
+    "category": "general"
+  },
+  {
+    "slug": "banque-palatine",
+    "name": "Banque Palatine",
+    "name_en": "Banque Palatine",
+    "category": "general"
+  },
+  {
+    "slug": "la-banque-postale",
+    "name": "La Banque postale",
+    "name_en": "La Banque postale",
+    "category": "general"
+  },
+  {
+    "slug": "barclay-record-label",
+    "name": "Barclay (record label)",
+    "name_en": "Barclay (record label)",
+    "category": "general"
+  },
+  {
+    "slug": "baron-de-lestac",
+    "name": "Baron de Lestac",
+    "name_en": "Baron de Lestac",
+    "category": "general"
+  },
+  {
+    "slug": "camper-company",
+    "name": "Camper (company)",
+    "name_en": "Camper (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "cariuma",
+    "name": "Cariuma",
+    "name_en": "Cariuma",
+    "category": "fashion"
+  },
+  {
+    "slug": "cats-paw-brand",
+    "name": "Cat's Paw (brand)",
+    "name_en": "Cat's Paw (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "chaco-footwear",
+    "name": "Chaco (footwear)",
+    "name_en": "Chaco (footwear)",
+    "category": "fashion"
+  },
+  {
+    "slug": "charles-david-company",
+    "name": "Charles David (company)",
+    "name_en": "Charles David (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "circa-company",
+    "name": "Circa (company)",
+    "name_en": "Circa (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "colchester-rubber-co",
+    "name": "Colchester Rubber Co.",
+    "name_en": "Colchester Rubber Co.",
+    "category": "fashion"
+  },
+  {
+    "slug": "cole-haan",
+    "name": "Cole Haan",
+    "name_en": "Cole Haan",
+    "category": "fashion"
+  },
+  {
+    "slug": "columbia-montrail",
+    "name": "Columbia Montrail",
+    "name_en": "Columbia Montrail",
+    "category": "fashion"
+  },
+  {
+    "slug": "columbia-sportswear",
+    "name": "Columbia Sportswear",
+    "name_en": "Columbia Sportswear",
+    "category": "fashion"
+  },
+  {
+    "slug": "common-projects",
+    "name": "Common Projects",
+    "name_en": "Common Projects",
+    "category": "fashion"
+  },
+  {
+    "slug": "crocs",
+    "name": "Crocs",
+    "name_en": "Crocs",
+    "category": "fashion"
+  },
+  {
+    "slug": "dc-shoes",
+    "name": "DC Shoes",
+    "name_en": "DC Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "mohamed-dia",
+    "name": "Mohamed Dia",
+    "name_en": "Mohamed Dia",
+    "category": "fashion"
+  },
+  {
+    "slug": "diadora",
+    "name": "Diadora",
+    "name_en": "Diadora",
+    "category": "fashion"
+  },
+  {
+    "slug": "dr-kong-brand",
+    "name": "Dr. Kong (brand)",
+    "name_en": "Dr. Kong (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "dr-martens",
+    "name": "Dr. Martens",
+    "name_en": "Dr. Martens",
+    "category": "fashion"
+  },
+  {
+    "slug": "duarig",
+    "name": "Duarig",
+    "name_en": "Duarig",
+    "category": "fashion"
+  },
+  {
+    "slug": "dune-london",
+    "name": "Dune London",
+    "name_en": "Dune London",
+    "category": "fashion"
+  },
+  {
+    "slug": "dunlop-sport-australia",
+    "name": "Dunlop Sport (Australia)",
+    "name_en": "Dunlop Sport (Australia)",
+    "category": "fashion"
+  },
+  {
+    "slug": "bel-group",
+    "name": "Bel Group",
+    "name_en": "Bel Group",
+    "category": "general"
+  },
+  {
+    "slug": "bellanger-automobile",
+    "name": "Bellanger (automobile)",
+    "name_en": "Bellanger (automobile)",
+    "category": "general"
+  },
+  {
+    "slug": "bergger",
+    "name": "Bergger",
+    "name_en": "Bergger",
+    "category": "general"
+  },
+  {
+    "slug": "berliet",
+    "name": "Berliet",
+    "name_en": "Berliet",
+    "category": "general"
+  },
+  {
+    "slug": "berthillon",
+    "name": "Berthillon",
+    "name_en": "Berthillon",
+    "category": "general"
+  },
+  {
+    "slug": "betjeman-barton",
+    "name": "Betjeman & Barton",
+    "name_en": "Betjeman & Barton",
+    "category": "general"
+  },
+  {
+    "slug": "beuchat",
+    "name": "Beuchat",
+    "name_en": "Beuchat",
+    "category": "general"
+  },
+  {
+    "slug": "bic",
+    "name": "Bic",
+    "name_en": "Bic",
+    "category": "general"
+  },
+  {
+    "slug": "bire-de-garde",
+    "name": "Bière de Garde",
+    "name_en": "Bière de Garde",
+    "category": "general"
+  },
+  {
+    "slug": "bignan-automobile",
+    "name": "Bignan (automobile)",
+    "name_en": "Bignan (automobile)",
+    "category": "general"
+  },
+  {
+    "slug": "bioderma",
+    "name": "Bioderma",
+    "name_en": "Bioderma",
+    "category": "general"
+  },
+  {
+    "slug": "biomrieux",
+    "name": "BioMérieux",
+    "name_en": "BioMérieux",
+    "category": "general"
+  },
+  {
+    "slug": "bnp-paribas",
+    "name": "BNP Paribas",
+    "name_en": "BNP Paribas",
+    "category": "general"
+  },
+  {
+    "slug": "boiron",
+    "name": "Boiron",
+    "name_en": "Boiron",
+    "category": "general"
+  },
+  {
+    "slug": "bollack-netter-and-co",
+    "name": "Bollack Netter and Co",
+    "name_en": "Bollack Netter and Co",
+    "category": "general"
+  },
+  {
+    "slug": "bollor",
+    "name": "Bolloré",
+    "name_en": "Bolloré",
+    "category": "general"
+  },
+  {
+    "slug": "bonduelle",
+    "name": "Bonduelle",
+    "name_en": "Bonduelle",
+    "category": "general"
+  },
+  {
+    "slug": "bonnat-chocolates",
+    "name": "Bonnat Chocolates",
+    "name_en": "Bonnat Chocolates",
+    "category": "general"
+  },
+  {
+    "slug": "bonne-maman",
+    "name": "Bonne Maman",
+    "name_en": "Bonne Maman",
+    "category": "general"
+  },
+  {
+    "slug": "bookeen",
+    "name": "Bookeen",
+    "name_en": "Bookeen",
+    "category": "general"
+  },
+  {
+    "slug": "dn-automotive",
+    "name": "DN Automotive",
+    "name_en": "DN Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "dna-motors",
+    "name": "DNA Motors",
+    "name_en": "DNA Motors",
+    "category": "general"
+  },
+  {
+    "slug": "dohwa",
+    "name": "Dohwa",
+    "name_en": "Dohwa",
+    "category": "general"
+  },
+  {
+    "slug": "dong-ah-geological-engineering",
+    "name": "Dong-Ah Geological Engineering",
+    "name_en": "Dong-Ah Geological Engineering",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-corporation",
+    "name": "Doosan Corporation",
+    "name_en": "Doosan Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-group",
+    "name": "Doosan Group",
+    "name_en": "Doosan Group",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-enerbility",
+    "name": "Doosan Enerbility",
+    "name_en": "Doosan Enerbility",
+    "category": "general"
+  },
+  {
+    "slug": "doosan-robotics",
+    "name": "Doosan Robotics",
+    "name_en": "Doosan Robotics",
+    "category": "general"
+  },
+  {
+    "slug": "dr-jart",
+    "name": "Dr. Jart+",
+    "name_en": "Dr. Jart+",
+    "category": "general"
+  },
+  {
+    "slug": "e-land-group",
+    "name": "E-Land Group",
+    "name_en": "E-Land Group",
+    "category": "general"
+  },
+  {
+    "slug": "eastar-jet",
+    "name": "Eastar Jet",
+    "name_en": "Eastar Jet",
+    "category": "general"
+  },
+  {
+    "slug": "estsoft",
+    "name": "ESTsoft",
+    "name_en": "ESTsoft",
+    "category": "general"
+  },
+  {
+    "slug": "eukor",
+    "name": "EUKOR",
+    "name_en": "EUKOR",
+    "category": "general"
+  },
+  {
+    "slug": "exr-clothing",
+    "name": "EXR (clothing)",
+    "name_en": "EXR (clothing)",
+    "category": "general"
+  },
+  {
+    "slug": "freenex",
+    "name": "Freenex",
+    "name_en": "Freenex",
+    "category": "general"
+  },
+  {
+    "slug": "genematrix",
+    "name": "GeneMatrix",
+    "name_en": "GeneMatrix",
+    "category": "general"
+  },
+  {
+    "slug": "genesis-motor",
+    "name": "Genesis Motor",
+    "name_en": "Genesis Motor",
+    "category": "general"
+  },
+  {
+    "slug": "gentle-monster",
+    "name": "Gentle Monster",
+    "name_en": "Gentle Monster",
+    "category": "general"
+  },
+  {
+    "slug": "giga-island",
+    "name": "GiGA Island",
+    "name_en": "GiGA Island",
+    "category": "general"
+  },
+  {
+    "slug": "gin-gliders",
+    "name": "Gin Gliders",
+    "name_en": "Gin Gliders",
+    "category": "general"
+  },
+  {
+    "slug": "excite-web-portal",
+    "name": "Excite (web portal)",
+    "name_en": "Excite (web portal)",
+    "category": "general"
+  },
+  {
+    "slug": "expeditors-international",
+    "name": "Expeditors International",
+    "name_en": "Expeditors International",
+    "category": "general"
+  },
+  {
+    "slug": "exponent-inc",
+    "name": "Exponent, Inc.",
+    "name_en": "Exponent, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "exxonmobil",
+    "name": "ExxonMobil",
+    "name_en": "ExxonMobil",
+    "category": "general"
+  },
+  {
+    "slug": "farrow-customs-brokerage",
+    "name": "Farrow (customs brokerage)",
+    "name_en": "Farrow (customs brokerage)",
+    "category": "general"
+  },
+  {
+    "slug": "fedex",
+    "name": "FedEx",
+    "name_en": "FedEx",
+    "category": "general"
+  },
+  {
+    "slug": "fico",
+    "name": "FICO",
+    "name_en": "FICO",
+    "category": "general"
+  },
+  {
+    "slug": "fidelity-investments",
+    "name": "Fidelity Investments",
+    "name_en": "Fidelity Investments",
+    "category": "general"
+  },
+  {
+    "slug": "fis-company",
+    "name": "FIS (company)",
+    "name_en": "FIS (company)",
+    "category": "general"
+  },
+  {
+    "slug": "fiserv",
+    "name": "Fiserv",
+    "name_en": "Fiserv",
+    "category": "general"
+  },
+  {
+    "slug": "fluor-corporation",
+    "name": "Fluor Corporation",
+    "name_en": "Fluor Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "ford-motor-company",
+    "name": "Ford Motor Company",
+    "name_en": "Ford Motor Company",
+    "category": "general"
+  },
+  {
+    "slug": "ga-telesis",
+    "name": "GA Telesis",
+    "name_en": "GA Telesis",
+    "category": "general"
+  },
+  {
+    "slug": "gap-inc",
+    "name": "Gap Inc.",
+    "name_en": "Gap Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ge-vernova",
+    "name": "GE Vernova",
+    "name_en": "GE Vernova",
+    "category": "general"
+  },
+  {
+    "slug": "gen-digital",
+    "name": "Gen Digital",
+    "name_en": "Gen Digital",
+    "category": "general"
+  },
+  {
+    "slug": "general-dynamics",
+    "name": "General Dynamics",
+    "name_en": "General Dynamics",
+    "category": "general"
+  },
+  {
+    "slug": "general-electric",
+    "name": "General Electric",
+    "name_en": "General Electric",
+    "category": "general"
+  },
+  {
+    "slug": "general-mills",
+    "name": "General Mills",
+    "name_en": "General Mills",
+    "category": "general"
+  },
+  {
+    "slug": "general-motors",
+    "name": "General Motors",
+    "name_en": "General Motors",
+    "category": "general"
+  },
+  {
+    "slug": "big-baller-brand",
+    "name": "Big Baller Brand",
+    "name_en": "Big Baller Brand",
+    "category": "sportswear"
+  },
+  {
+    "slug": "big-dog-company",
+    "name": "Big Dog (company)",
+    "name_en": "Big Dog (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bike-athletic-company",
+    "name": "BIKE Athletic Company",
+    "name_en": "BIKE Athletic Company",
+    "category": "sportswear"
+  },
+  {
+    "slug": "dirk-bikkembergs",
+    "name": "Dirk Bikkembergs",
+    "name_en": "Dirk Bikkembergs",
+    "category": "sportswear"
+  },
+  {
+    "slug": "billabong-clothing",
+    "name": "Billabong (clothing)",
+    "name_en": "Billabong (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bjrn-borg-brand",
+    "name": "Björn Borg (brand)",
+    "name_en": "Björn Borg (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "blk-sportswear",
+    "name": "BLK (sportswear)",
+    "name_en": "BLK (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bodyrock-sport",
+    "name": "BodyRock Sport",
+    "name_en": "BodyRock Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "boxa",
+    "name": "Boxa",
+    "name_en": "Boxa",
+    "category": "sportswear"
+  },
+  {
+    "slug": "boxeur-des-rues",
+    "name": "Boxeur Des Rues",
+    "name_en": "Boxeur Des Rues",
+    "category": "sportswear"
+  },
+  {
+    "slug": "brine-brand",
+    "name": "Brine (brand)",
+    "name_en": "Brine (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "british-cricket-balls-ltd",
+    "name": "British Cricket Balls Ltd",
+    "name_en": "British Cricket Balls Ltd",
+    "category": "sportswear"
+  },
+  {
+    "slug": "british-knights",
+    "name": "British Knights",
+    "name_en": "British Knights",
+    "category": "sportswear"
+  },
+  {
+    "slug": "brooks-sports",
+    "name": "Brooks Sports",
+    "name_en": "Brooks Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bukta",
+    "name": "Bukta",
+    "name_en": "Bukta",
+    "category": "sportswear"
+  },
+  {
+    "slug": "burley-sekem",
+    "name": "Burley-Sekem",
+    "name_en": "Burley-Sekem",
+    "category": "sportswear"
+  },
+  {
+    "slug": "burrda-sport",
+    "name": "Burrda Sport",
+    "name_en": "Burrda Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "george-g-bussey-co",
+    "name": "George G. Bussey & Co.",
+    "name_en": "George G. Bussey & Co.",
+    "category": "sportswear"
+  },
+  {
+    "slug": "butterfly-brand",
+    "name": "Butterfly (brand)",
+    "name_en": "Butterfly (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ca-sports",
+    "name": "CA Sports",
+    "name_en": "CA Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bouchara-trademark",
+    "name": "Bouchara (trademark)",
+    "name_en": "Bouchara (trademark)",
+    "category": "general"
+  },
+  {
+    "slug": "boucheron",
+    "name": "Boucheron",
+    "name_en": "Boucheron",
+    "category": "general"
+  },
+  {
+    "slug": "bourjois",
+    "name": "Bourjois",
+    "name_en": "Bourjois",
+    "category": "general"
+  },
+  {
+    "slug": "bouygues-telecom",
+    "name": "Bouygues Telecom",
+    "name_en": "Bouygues Telecom",
+    "category": "general"
+  },
+  {
+    "slug": "bpce-group",
+    "name": "BPCE Group",
+    "name_en": "BPCE Group",
+    "category": "general"
+  },
+  {
+    "slug": "brandt-brand",
+    "name": "Brandt (brand)",
+    "name_en": "Brandt (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "brasserie-de-saint-sylvestre",
+    "name": "Brasserie de Saint-Sylvestre",
+    "name_en": "Brasserie de Saint-Sylvestre",
+    "category": "general"
+  },
+  {
+    "slug": "brasserie-thiriez",
+    "name": "Brasserie Thiriez",
+    "name_en": "Brasserie Thiriez",
+    "category": "general"
+  },
+  {
+    "slug": "bricomarch",
+    "name": "Bricomarché",
+    "name_en": "Bricomarché",
+    "category": "general"
+  },
+  {
+    "slug": "bricostore",
+    "name": "Bricostore",
+    "name_en": "Bricostore",
+    "category": "general"
+  },
+  {
+    "slug": "bruay-mining-company",
+    "name": "Bruay Mining Company",
+    "name_en": "Bruay Mining Company",
+    "category": "general"
+  },
+  {
+    "slug": "buffet-crampon",
+    "name": "Buffet Crampon",
+    "name_en": "Buffet Crampon",
+    "category": "general"
+  },
+  {
+    "slug": "bugatti-automobiles",
+    "name": "Bugatti Automobiles",
+    "name_en": "Bugatti Automobiles",
+    "category": "general"
+  },
+  {
+    "slug": "but-retailer",
+    "name": "BUT (retailer)",
+    "name_en": "BUT (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "cabasse-company",
+    "name": "Cabasse (company)",
+    "name_en": "Cabasse (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cacharel",
+    "name": "Cacharel",
+    "name_en": "Cacharel",
+    "category": "general"
+  },
+  {
+    "slug": "calmann-lvy",
+    "name": "Calmann-Lévy",
+    "name_en": "Calmann-Lévy",
+    "category": "general"
+  },
+  {
+    "slug": "camaeu-company",
+    "name": "Camaïeu (company)",
+    "name_en": "Camaïeu (company)",
+    "category": "general"
+  },
+  {
+    "slug": "cameca",
+    "name": "CAMECA",
+    "name_en": "CAMECA",
+    "category": "general"
+  },
+  {
+    "slug": "campingaz",
+    "name": "Campingaz",
+    "name_en": "Campingaz",
+    "category": "general"
+  },
+  {
+    "slug": "genesys-company",
+    "name": "Genesys (company)",
+    "name_en": "Genesys (company)",
+    "category": "general"
+  },
+  {
+    "slug": "goodyear-tire-and-rubber-company",
+    "name": "Goodyear Tire and Rubber Company",
+    "name_en": "Goodyear Tire and Rubber Company",
+    "category": "general"
+  },
+  {
+    "slug": "griffon-corporation",
+    "name": "Griffon Corporation",
+    "name_en": "Griffon Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "guidance-software",
+    "name": "Guidance Software",
+    "name_en": "Guidance Software",
+    "category": "general"
+  },
+  {
+    "slug": "hanesbrands",
+    "name": "Hanesbrands",
+    "name_en": "Hanesbrands",
+    "category": "general"
+  },
+  {
+    "slug": "harris-corporation",
+    "name": "Harris Corporation",
+    "name_en": "Harris Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "heinz",
+    "name": "Heinz",
+    "name_en": "Heinz",
+    "category": "general"
+  },
+  {
+    "slug": "hewlett-packard-enterprise",
+    "name": "Hewlett Packard Enterprise",
+    "name_en": "Hewlett Packard Enterprise",
+    "category": "general"
+  },
+  {
+    "slug": "hill-knowlton",
+    "name": "Hill & Knowlton",
+    "name_en": "Hill & Knowlton",
+    "category": "general"
+  },
+  {
+    "slug": "home-box-office-inc",
+    "name": "Home Box Office, Inc.",
+    "name_en": "Home Box Office, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "hp-inc",
+    "name": "HP Inc.",
+    "name_en": "HP Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ibex-global",
+    "name": "Ibex Global",
+    "name_en": "Ibex Global",
+    "category": "general"
+  },
+  {
+    "slug": "infogix-inc",
+    "name": "Infogix, Inc.",
+    "name_en": "Infogix, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ingredion",
+    "name": "Ingredion",
+    "name_en": "Ingredion",
+    "category": "general"
+  },
+  {
+    "slug": "insight-enterprises",
+    "name": "Insight Enterprises",
+    "name_en": "Insight Enterprises",
+    "category": "general"
+  },
+  {
+    "slug": "instacart",
+    "name": "Instacart",
+    "name_en": "Instacart",
+    "category": "general"
+  },
+  {
+    "slug": "interactive-brokers",
+    "name": "Interactive Brokers",
+    "name_en": "Interactive Brokers",
+    "category": "general"
+  },
+  {
+    "slug": "international-paper",
+    "name": "International Paper",
+    "name_en": "International Paper",
+    "category": "general"
+  },
+  {
+    "slug": "iyuno",
+    "name": "Iyuno",
+    "name_en": "Iyuno",
+    "category": "general"
+  },
+  {
+    "slug": "jacobs-solutions",
+    "name": "Jacobs Solutions",
+    "name_en": "Jacobs Solutions",
+    "category": "general"
+  },
+  {
+    "slug": "aspark",
+    "name": "Aspark",
+    "name_en": "Aspark",
+    "category": "general"
+  },
+  {
+    "slug": "astellas-pharma",
+    "name": "Astellas Pharma",
+    "name_en": "Astellas Pharma",
+    "category": "general"
+  },
+  {
+    "slug": "au-mobile-phone-company",
+    "name": "Au (mobile phone company)",
+    "name_en": "Au (mobile phone company)",
+    "category": "general"
+  },
+  {
+    "slug": "audio-technica",
+    "name": "Audio-Technica",
+    "name_en": "Audio-Technica",
+    "category": "general"
+  },
+  {
+    "slug": "autech",
+    "name": "Autech",
+    "name_en": "Autech",
+    "category": "general"
+  },
+  {
+    "slug": "bandai-namco-entertainment",
+    "name": "Bandai Namco Entertainment",
+    "name_en": "Bandai Namco Entertainment",
+    "category": "general"
+  },
+  {
+    "slug": "bh-lifes",
+    "name": "B&H Lifes",
+    "name_en": "B&H Lifes",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-yokohama",
+    "name": "Bank of Yokohama",
+    "name_en": "Bank of Yokohama",
+    "category": "general"
+  },
+  {
+    "slug": "banpresto",
+    "name": "Banpresto",
+    "name_en": "Banpresto",
+    "category": "general"
+  },
+  {
+    "slug": "bic-camera",
+    "name": "Bic Camera",
+    "name_en": "Bic Camera",
+    "category": "general"
+  },
+  {
+    "slug": "blitz-company",
+    "name": "Blitz (company)",
+    "name_en": "Blitz (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bonbon-drop-stickers",
+    "name": "Bonbon Drop stickers",
+    "name_en": "Bonbon Drop stickers",
+    "category": "general"
+  },
+  {
+    "slug": "atelier-bow-wow",
+    "name": "Atelier Bow-Wow",
+    "name_en": "Atelier Bow-Wow",
+    "category": "general"
+  },
+  {
+    "slug": "bridgestone",
+    "name": "Bridgestone",
+    "name_en": "Bridgestone",
+    "category": "general"
+  },
+  {
+    "slug": "bronica",
+    "name": "Bronica",
+    "name_en": "Bronica",
+    "category": "general"
+  },
+  {
+    "slug": "brother-industries",
+    "name": "Brother Industries",
+    "name_en": "Brother Industries",
+    "category": "general"
+  },
+  {
+    "slug": "canon-inc",
+    "name": "Canon Inc.",
+    "name_en": "Canon Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "canon-eos",
+    "name": "Canon EOS",
+    "name_en": "Canon EOS",
+    "category": "general"
+  },
+  {
+    "slug": "capcom",
+    "name": "Capcom",
+    "name_en": "Capcom",
+    "category": "general"
+  },
+  {
+    "slug": "casio",
+    "name": "Casio",
+    "name_en": "Casio",
+    "category": "general"
+  },
+  {
+    "slug": "callaway-golf-company",
+    "name": "Callaway Golf Company",
+    "name_en": "Callaway Golf Company",
+    "category": "sportswear"
+  },
+  {
+    "slug": "capelli-sport",
+    "name": "Capelli Sport",
+    "name_en": "Capelli Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "castore",
+    "name": "Castore",
+    "name_en": "Castore",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ccm-ice-hockey",
+    "name": "CCM (ice hockey)",
+    "name_en": "CCM (ice hockey)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "celio-retailer",
+    "name": "Celio (retailer)",
+    "name_en": "Celio (retailer)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "choeusu",
+    "name": "Ch'oeusu",
+    "name_en": "Ch'oeusu",
+    "category": "sportswear"
+  },
+  {
+    "slug": "champion-sportswear",
+    "name": "Champion (sportswear)",
+    "name_en": "Champion (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "champs-brand",
+    "name": "Champs (brand)",
+    "name_en": "Champs (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "charly-brand",
+    "name": "Charly (brand)",
+    "name_en": "Charly (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ciesse-piumini",
+    "name": "Ciesse Piumini",
+    "name_en": "Ciesse Piumini",
+    "category": "sportswear"
+  },
+  {
+    "slug": "cimalp",
+    "name": "Cimalp",
+    "name_en": "Cimalp",
+    "category": "sportswear"
+  },
+  {
+    "slug": "classic-football-shirts",
+    "name": "Classic Football Shirts",
+    "name_en": "Classic Football Shirts",
+    "category": "sportswear"
+  },
+  {
+    "slug": "classic-sportswear",
+    "name": "Classic Sportswear",
+    "name_en": "Classic Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "colnago",
+    "name": "Colnago",
+    "name_en": "Colnago",
+    "category": "sportswear"
+  },
+  {
+    "slug": "converse-brand",
+    "name": "Converse (brand)",
+    "name_en": "Converse (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "le-coq-sportif",
+    "name": "Le Coq Sportif",
+    "name_en": "Le Coq Sportif",
+    "category": "sportswear"
+  },
+  {
+    "slug": "cosco-india-limited",
+    "name": "Cosco (India) Limited",
+    "name_en": "Cosco (India) Limited",
+    "category": "sportswear"
+  },
+  {
+    "slug": "cotton-on-group",
+    "name": "Cotton On Group",
+    "name_en": "Cotton On Group",
+    "category": "sportswear"
+  },
+  {
+    "slug": "craft-sportswear",
+    "name": "Craft Sportswear",
+    "name_en": "Craft Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "crons",
+    "name": "Crons",
+    "name_en": "Crons",
+    "category": "sportswear"
+  },
+  {
+    "slug": "farmers-union-iced-coffee",
+    "name": "Farmers Union Iced Coffee",
+    "name_en": "Farmers Union Iced Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "figaro-coffee",
+    "name": "Figaro Coffee",
+    "name_en": "Figaro Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "fire-department-coffee",
+    "name": "Fire Department Coffee",
+    "name_en": "Fire Department Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "flocaf",
+    "name": "Flocafé",
+    "name_en": "Flocafé",
+    "category": "food"
+  },
+  {
+    "slug": "folgers",
+    "name": "Folgers",
+    "name_en": "Folgers",
+    "category": "food"
+  },
+  {
+    "slug": "franck-company",
+    "name": "Franck (company)",
+    "name_en": "Franck (company)",
+    "category": "food"
+  },
+  {
+    "slug": "the-freaky-bean-coffee-company",
+    "name": "The Freaky Bean Coffee Company",
+    "name_en": "The Freaky Bean Coffee Company",
+    "category": "food"
+  },
+  {
+    "slug": "friele",
+    "name": "Friele",
+    "name_en": "Friele",
+    "category": "food"
+  },
+  {
+    "slug": "gavia-gourmet-coffee",
+    "name": "Gaviña Gourmet Coffee",
+    "name_en": "Gaviña Gourmet Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "georgia-coffee",
+    "name": "Georgia (coffee)",
+    "name_en": "Georgia (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "gevalia",
+    "name": "Gevalia",
+    "name_en": "Gevalia",
+    "category": "food"
+  },
+  {
+    "slug": "gregorys-coffee",
+    "name": "Gregorys Coffee",
+    "name_en": "Gregorys Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "guglielmo-caff",
+    "name": "Guglielmo Caffè",
+    "name_en": "Guglielmo Caffè",
+    "category": "food"
+  },
+  {
+    "slug": "high-point-coffee",
+    "name": "High Point (coffee)",
+    "name_en": "High Point (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "highlands-coffee",
+    "name": "Highlands Coffee",
+    "name_en": "Highlands Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "hogood-coffee",
+    "name": "Hogood Coffee",
+    "name_en": "Hogood Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "horn-hardart",
+    "name": "Horn & Hardart",
+    "name_en": "Horn & Hardart",
+    "category": "food"
+  },
+  {
+    "slug": "illy",
+    "name": "Illy",
+    "name_en": "Illy",
+    "category": "food"
+  },
+  {
+    "slug": "intelligentsia-coffee-tea",
+    "name": "Intelligentsia Coffee & Tea",
+    "name_en": "Intelligentsia Coffee & Tea",
+    "category": "food"
+  },
+  {
+    "slug": "jacobs-coffee",
+    "name": "Jacobs (coffee)",
+    "name_en": "Jacobs (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "montini-toy",
+    "name": "Montini (toy)",
+    "name_en": "Montini (toy)",
+    "category": "toy"
+  },
+  {
+    "slug": "morestone-toys",
+    "name": "Morestone toys",
+    "name_en": "Morestone toys",
+    "category": "toy"
+  },
+  {
+    "slug": "muky",
+    "name": "Muky",
+    "name_en": "Muky",
+    "category": "toy"
+  },
+  {
+    "slug": "my-little-pony",
+    "name": "My Little Pony",
+    "name_en": "My Little Pony",
+    "category": "toy"
+  },
+  {
+    "slug": "needoh",
+    "name": "NeeDoh",
+    "name_en": "NeeDoh",
+    "category": "toy"
+  },
+  {
+    "slug": "nelsonic-industries",
+    "name": "Nelsonic Industries",
+    "name_en": "Nelsonic Industries",
+    "category": "toy"
+  },
+  {
+    "slug": "norev",
+    "name": "Norev",
+    "name_en": "Norev",
+    "category": "toy"
+  },
+  {
+    "slug": "nosco-plastics",
+    "name": "Nosco Plastics",
+    "name_en": "Nosco Plastics",
+    "category": "toy"
+  },
+  {
+    "slug": "nutty-mads",
+    "name": "Nutty Mads",
+    "name_en": "Nutty Mads",
+    "category": "toy"
+  },
+  {
+    "slug": "nzg-models",
+    "name": "NZG Models",
+    "name_en": "NZG Models",
+    "category": "toy"
+  },
+  {
+    "slug": "omnibot",
+    "name": "Omnibot",
+    "name_en": "Omnibot",
+    "category": "toy"
+  },
+  {
+    "slug": "onell-design",
+    "name": "Onell Design",
+    "name_en": "Onell Design",
+    "category": "toy"
+  },
+  {
+    "slug": "pal-mickey",
+    "name": "Pal Mickey",
+    "name_en": "Pal Mickey",
+    "category": "toy"
+  },
+  {
+    "slug": "pastime-puzzles",
+    "name": "Pastime Puzzles",
+    "name_en": "Pastime Puzzles",
+    "category": "toy"
+  },
+  {
+    "slug": "paw-patrol",
+    "name": "Paw Patrol",
+    "name_en": "Paw Patrol",
+    "category": "toy"
+  },
+  {
+    "slug": "perler-beads",
+    "name": "Perler beads",
+    "name_en": "Perler beads",
+    "category": "toy"
+  },
+  {
+    "slug": "pillow-pets",
+    "name": "Pillow Pets",
+    "name_en": "Pillow Pets",
+    "category": "toy"
+  },
+  {
+    "slug": "plasticville",
+    "name": "Plasticville",
+    "name_en": "Plasticville",
+    "category": "toy"
+  },
+  {
+    "slug": "playart",
+    "name": "Playart",
+    "name_en": "Playart",
+    "category": "toy"
+  },
+  {
+    "slug": "playmates-toys",
+    "name": "Playmates Toys",
+    "name_en": "Playmates Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "curry-brand",
+    "name": "Curry Brand",
+    "name_en": "Curry Brand",
+    "category": "sportswear"
+  },
+  {
+    "slug": "danskin-brand",
+    "name": "Danskin (brand)",
+    "name_en": "Danskin (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "de-marchi-clothing",
+    "name": "De Marchi (clothing)",
+    "name_en": "De Marchi (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "decathlon-retailer",
+    "name": "Decathlon (retailer)",
+    "name_en": "Decathlon (retailer)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "delfina-sport",
+    "name": "Delfina Sport",
+    "name_en": "Delfina Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "descente",
+    "name": "Descente",
+    "name_en": "Descente",
+    "category": "sportswear"
+  },
+  {
+    "slug": "deuter-sport",
+    "name": "Deuter Sport",
+    "name_en": "Deuter Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "diapolo",
+    "name": "Diapolo",
+    "name_en": "Diapolo",
+    "category": "sportswear"
+  },
+  {
+    "slug": "donnay",
+    "name": "Donnay",
+    "name_en": "Donnay",
+    "category": "sportswear"
+  },
+  {
+    "slug": "dryworld",
+    "name": "Dryworld",
+    "name_en": "Dryworld",
+    "category": "sportswear"
+  },
+  {
+    "slug": "dw-sports-fitness",
+    "name": "DW Sports Fitness",
+    "name_en": "DW Sports Fitness",
+    "category": "sportswear"
+  },
+  {
+    "slug": "elephant-surf",
+    "name": "Elephant Surf",
+    "name_en": "Elephant Surf",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ellesse",
+    "name": "Ellesse",
+    "name_en": "Ellesse",
+    "category": "sportswear"
+  },
+  {
+    "slug": "erigo",
+    "name": "Erigo",
+    "name_en": "Erigo",
+    "category": "sportswear"
+  },
+  {
+    "slug": "erke-brand",
+    "name": "Erke (brand)",
+    "name_en": "Erke (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "erre",
+    "name": "Erreà",
+    "name_en": "Erreà",
+    "category": "sportswear"
+  },
+  {
+    "slug": "everlast-brand",
+    "name": "Everlast (brand)",
+    "name_en": "Everlast (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ewing-athletics",
+    "name": "Ewing Athletics",
+    "name_en": "Ewing Athletics",
+    "category": "sportswear"
+  },
+  {
+    "slug": "fabletics",
+    "name": "Fabletics",
+    "name_en": "Fabletics",
+    "category": "sportswear"
+  },
+  {
+    "slug": "the-faction-collective",
+    "name": "The Faction Collective",
+    "name_en": "The Faction Collective",
+    "category": "sportswear"
+  },
+  {
+    "slug": "cirquent",
+    "name": "Cirquent",
+    "name_en": "Cirquent",
+    "category": "general"
+  },
+  {
+    "slug": "claas",
+    "name": "Claas",
+    "name_en": "Claas",
+    "category": "general"
+  },
+  {
+    "slug": "comdirect-bank",
+    "name": "Comdirect Bank",
+    "name_en": "Comdirect Bank",
+    "category": "general"
+  },
+  {
+    "slug": "commerzbank",
+    "name": "Commerzbank",
+    "name_en": "Commerzbank",
+    "category": "general"
+  },
+  {
+    "slug": "condomi",
+    "name": "Condomi",
+    "name_en": "Condomi",
+    "category": "general"
+  },
+  {
+    "slug": "conergy",
+    "name": "Conergy",
+    "name_en": "Conergy",
+    "category": "general"
+  },
+  {
+    "slug": "congstar",
+    "name": "Congstar",
+    "name_en": "Congstar",
+    "category": "general"
+  },
+  {
+    "slug": "constructa-neff",
+    "name": "Constructa-Neff",
+    "name_en": "Constructa-Neff",
+    "category": "general"
+  },
+  {
+    "slug": "continental-ag",
+    "name": "Continental AG",
+    "name_en": "Continental AG",
+    "category": "general"
+  },
+  {
+    "slug": "coppenrath-wiese",
+    "name": "Coppenrath & Wiese",
+    "name_en": "Coppenrath & Wiese",
+    "category": "general"
+  },
+  {
+    "slug": "creme-21",
+    "name": "Creme 21",
+    "name_en": "Creme 21",
+    "category": "general"
+  },
+  {
+    "slug": "cube-bikes",
+    "name": "Cube Bikes",
+    "name_en": "Cube Bikes",
+    "category": "general"
+  },
+  {
+    "slug": "damasko",
+    "name": "Damasko",
+    "name_en": "Damasko",
+    "category": "general"
+  },
+  {
+    "slug": "dango-dienenthal",
+    "name": "Dango & Dienenthal",
+    "name_en": "Dango & Dienenthal",
+    "category": "general"
+  },
+  {
+    "slug": "dear-reality",
+    "name": "Dear Reality",
+    "name_en": "Dear Reality",
+    "category": "general"
+  },
+  {
+    "slug": "delo-industrial-adhesives",
+    "name": "DELO Industrial Adhesives",
+    "name_en": "DELO Industrial Adhesives",
+    "category": "general"
+  },
+  {
+    "slug": "demag",
+    "name": "Demag",
+    "name_en": "Demag",
+    "category": "general"
+  },
+  {
+    "slug": "derby-cycle",
+    "name": "Derby Cycle",
+    "name_en": "Derby Cycle",
+    "category": "general"
+  },
+  {
+    "slug": "deutsche-bahn",
+    "name": "Deutsche Bahn",
+    "name_en": "Deutsche Bahn",
+    "category": "general"
+  },
+  {
+    "slug": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "name_en": "Deutsche Bank",
+    "category": "general"
+  },
+  {
+    "slug": "cateye",
+    "name": "CatEye",
+    "name_en": "CatEye",
+    "category": "general"
+  },
+  {
+    "slug": "century-marque",
+    "name": "Century (marque)",
+    "name_en": "Century (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "chichibu-distillery",
+    "name": "Chichibu distillery",
+    "name_en": "Chichibu distillery",
+    "category": "general"
+  },
+  {
+    "slug": "chita-distillery",
+    "name": "Chita distillery",
+    "name_en": "Chita distillery",
+    "category": "general"
+  },
+  {
+    "slug": "chiyoda-corporation",
+    "name": "Chiyoda Corporation",
+    "name_en": "Chiyoda Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "citizen-watch",
+    "name": "Citizen Watch",
+    "name_en": "Citizen Watch",
+    "category": "general"
+  },
+  {
+    "slug": "clarino",
+    "name": "Clarino",
+    "name_en": "Clarino",
+    "category": "general"
+  },
+  {
+    "slug": "clarion-company",
+    "name": "Clarion (company)",
+    "name_en": "Clarion (company)",
+    "category": "general"
+  },
+  {
+    "slug": "comme-des-garons",
+    "name": "Comme des Garçons",
+    "name_en": "Comme des Garçons",
+    "category": "general"
+  },
+  {
+    "slug": "comsys",
+    "name": "Comsys",
+    "name_en": "Comsys",
+    "category": "general"
+  },
+  {
+    "slug": "copic",
+    "name": "Copic",
+    "name_en": "Copic",
+    "category": "general"
+  },
+  {
+    "slug": "corega",
+    "name": "Corega",
+    "name_en": "Corega",
+    "category": "general"
+  },
+  {
+    "slug": "cosina",
+    "name": "Cosina",
+    "name_en": "Cosina",
+    "category": "general"
+  },
+  {
+    "slug": "cosina-voigtlnder",
+    "name": "Cosina Voigtländer",
+    "name_en": "Cosina Voigtländer",
+    "category": "general"
+  },
+  {
+    "slug": "cosmo-oil-company",
+    "name": "Cosmo Oil Company",
+    "name_en": "Cosmo Oil Company",
+    "category": "general"
+  },
+  {
+    "slug": "cusco-japan",
+    "name": "CUSCO Japan",
+    "name_en": "CUSCO Japan",
+    "category": "general"
+  },
+  {
+    "slug": "cyberagent",
+    "name": "CyberAgent",
+    "name_en": "CyberAgent",
+    "category": "general"
+  },
+  {
+    "slug": "cyberdyne-inc",
+    "name": "Cyberdyne Inc.",
+    "name_en": "Cyberdyne Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "daiichi-life",
+    "name": "Daiichi Life",
+    "name_en": "Daiichi Life",
+    "category": "general"
+  },
+  {
+    "slug": "daicel",
+    "name": "Daicel",
+    "name_en": "Daicel",
+    "category": "general"
+  },
+  {
+    "slug": "tan-qindong-incident",
+    "name": "Tan Qindong incident",
+    "name_en": "Tan Qindong incident",
+    "category": "healthcare"
+  },
+  {
+    "slug": "xbiotech",
+    "name": "XBiotech",
+    "name_en": "XBiotech",
+    "category": "healthcare"
+  },
+  {
+    "slug": "leon-beer",
+    "name": "Leon Beer",
+    "name_en": "Leon Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "lion-red",
+    "name": "Lion Red",
+    "name_en": "Lion Red",
+    "category": "beverage"
+  },
+  {
+    "slug": "lone-tree-brewery",
+    "name": "Lone Tree Brewery",
+    "name_en": "Lone Tree Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "carlsberg-britvic",
+    "name": "Carlsberg Britvic",
+    "name_en": "Carlsberg Britvic",
+    "category": "beverage"
+  },
+  {
+    "slug": "mccashins-brewery",
+    "name": "McCashin's Brewery",
+    "name_en": "McCashin's Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "mosi-beer",
+    "name": "Mosi (beer)",
+    "name_en": "Mosi (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "murau-brewery",
+    "name": "Murau Brewery",
+    "name_en": "Murau Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "murree-beer",
+    "name": "Murree beer",
+    "name_en": "Murree beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "nam-nam-alley",
+    "name": "Nam Nam Alley",
+    "name_en": "Nam Nam Alley",
+    "category": "beverage"
+  },
+  {
+    "slug": "new-belgium-brewing-company",
+    "name": "New Belgium Brewing Company",
+    "name_en": "New Belgium Brewing Company",
+    "category": "beverage"
+  },
+  {
+    "slug": "phjala-brewery",
+    "name": "Põhjala Brewery",
+    "name_en": "Põhjala Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "presidente-beer",
+    "name": "Presidente (beer)",
+    "name_en": "Presidente (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "prestige-beer",
+    "name": "Prestige (beer)",
+    "name_en": "Prestige (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "red-horse-beer",
+    "name": "Red Horse Beer",
+    "name_en": "Red Horse Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "red-stripe",
+    "name": "Red Stripe",
+    "name_en": "Red Stripe",
+    "category": "beverage"
+  },
+  {
+    "slug": "royal-swinkels",
+    "name": "Royal Swinkels",
+    "name_en": "Royal Swinkels",
+    "category": "beverage"
+  },
+  {
+    "slug": "san-miguel-beer",
+    "name": "San Miguel Beer",
+    "name_en": "San Miguel Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "san-miguel-brewery",
+    "name": "San Miguel Brewery",
+    "name_en": "San Miguel Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "deutsche-kreditbank",
+    "name": "Deutsche Kreditbank",
+    "name_en": "Deutsche Kreditbank",
+    "category": "general"
+  },
+  {
+    "slug": "deutsche-post",
+    "name": "Deutsche Post",
+    "name_en": "Deutsche Post",
+    "category": "general"
+  },
+  {
+    "slug": "deutsche-telekom",
+    "name": "Deutsche Telekom",
+    "name_en": "Deutsche Telekom",
+    "category": "general"
+  },
+  {
+    "slug": "deutscher-herold",
+    "name": "Deutscher Herold",
+    "name_en": "Deutscher Herold",
+    "category": "general"
+  },
+  {
+    "slug": "deutz-ag",
+    "name": "Deutz AG",
+    "name_en": "Deutz AG",
+    "category": "general"
+  },
+  {
+    "slug": "dg-flugzeugbau",
+    "name": "DG Flugzeugbau",
+    "name_en": "DG Flugzeugbau",
+    "category": "general"
+  },
+  {
+    "slug": "diezel",
+    "name": "Diezel",
+    "name_en": "Diezel",
+    "category": "general"
+  },
+  {
+    "slug": "dm-drogerie-markt",
+    "name": "Dm-drogerie markt",
+    "name_en": "Dm-drogerie markt",
+    "category": "general"
+  },
+  {
+    "slug": "doll-co",
+    "name": "Doll & Co.",
+    "name_en": "Doll & Co.",
+    "category": "general"
+  },
+  {
+    "slug": "dolmar",
+    "name": "Dolmar",
+    "name_en": "Dolmar",
+    "category": "general"
+  },
+  {
+    "slug": "dnnhoff",
+    "name": "Dönnhoff",
+    "name_en": "Dönnhoff",
+    "category": "general"
+  },
+  {
+    "slug": "dooleys",
+    "name": "Dooley's",
+    "name_en": "Dooley's",
+    "category": "general"
+  },
+  {
+    "slug": "douglas-company",
+    "name": "Douglas (company)",
+    "name_en": "Douglas (company)",
+    "category": "general"
+  },
+  {
+    "slug": "drager-company",
+    "name": "Drager (company)",
+    "name_en": "Drager (company)",
+    "category": "general"
+  },
+  {
+    "slug": "drger-company",
+    "name": "Dräger (company)",
+    "name_en": "Dräger (company)",
+    "category": "general"
+  },
+  {
+    "slug": "drxlmaier-group",
+    "name": "Dräxlmaier Group",
+    "name_en": "Dräxlmaier Group",
+    "category": "general"
+  },
+  {
+    "slug": "dresdner-bank",
+    "name": "Dresdner Bank",
+    "name_en": "Dresdner Bank",
+    "category": "general"
+  },
+  {
+    "slug": "dual-brand",
+    "name": "Dual (brand)",
+    "name_en": "Dual (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "duran-glass",
+    "name": "Duran (glass)",
+    "name_en": "Duran (glass)",
+    "category": "general"
+  },
+  {
+    "slug": "duravit",
+    "name": "Duravit",
+    "name_en": "Duravit",
+    "category": "general"
+  },
+  {
+    "slug": "helsana",
+    "name": "Helsana",
+    "name_en": "Helsana",
+    "category": "general"
+  },
+  {
+    "slug": "hero-group",
+    "name": "Hero Group",
+    "name_en": "Hero Group",
+    "category": "general"
+  },
+  {
+    "slug": "carrosserie-hess",
+    "name": "Carrosserie Hess",
+    "name_en": "Carrosserie Hess",
+    "category": "general"
+  },
+  {
+    "slug": "holcim",
+    "name": "Holcim",
+    "name_en": "Holcim",
+    "category": "general"
+  },
+  {
+    "slug": "hrlimann-brewery",
+    "name": "Hürlimann Brewery",
+    "name_en": "Hürlimann Brewery",
+    "category": "general"
+  },
+  {
+    "slug": "immuniweb",
+    "name": "ImmuniWeb",
+    "name_en": "ImmuniWeb",
+    "category": "general"
+  },
+  {
+    "slug": "inca-machine-brand",
+    "name": "INCA (machine brand)",
+    "name_en": "INCA (machine brand)",
+    "category": "general"
+  },
+  {
+    "slug": "intersport",
+    "name": "Intersport",
+    "name_en": "Intersport",
+    "category": "general"
+  },
+  {
+    "slug": "iqair",
+    "name": "IQAir",
+    "name_en": "IQAir",
+    "category": "general"
+  },
+  {
+    "slug": "julius-baer-group",
+    "name": "Julius Baer Group",
+    "name_en": "Julius Baer Group",
+    "category": "general"
+  },
+  {
+    "slug": "jura-elektroapparate",
+    "name": "Jura Elektroapparate",
+    "name_en": "Jura Elektroapparate",
+    "category": "general"
+  },
+  {
+    "slug": "kgi-shne",
+    "name": "Kägi Söhne",
+    "name_en": "Kägi Söhne",
+    "category": "general"
+  },
+  {
+    "slug": "kambly",
+    "name": "Kambly",
+    "name_en": "Kambly",
+    "category": "general"
+  },
+  {
+    "slug": "kistler-group",
+    "name": "Kistler Group",
+    "name_en": "Kistler Group",
+    "category": "general"
+  },
+  {
+    "slug": "kudelski-group",
+    "name": "Kudelski Group",
+    "name_en": "Kudelski Group",
+    "category": "general"
+  },
+  {
+    "slug": "lepe-clocks",
+    "name": "L'Epée Clocks",
+    "name_en": "L'Epée Clocks",
+    "category": "general"
+  },
+  {
+    "slug": "lckerli-huus",
+    "name": "Läckerli Huus",
+    "name_en": "Läckerli Huus",
+    "category": "general"
+  },
+  {
+    "slug": "lderach",
+    "name": "Läderach",
+    "name_en": "Läderach",
+    "category": "general"
+  },
+  {
+    "slug": "laurastar",
+    "name": "Laurastar",
+    "name_en": "Laurastar",
+    "category": "general"
+  },
+  {
+    "slug": "lehni-ag",
+    "name": "Lehni AG",
+    "name_en": "Lehni AG",
+    "category": "general"
+  },
+  {
+    "slug": "liebherr",
+    "name": "Liebherr",
+    "name_en": "Liebherr",
+    "category": "general"
+  },
+  {
+    "slug": "lindt",
+    "name": "Lindt",
+    "name_en": "Lindt",
+    "category": "general"
+  },
+  {
+    "slug": "logitech",
+    "name": "Logitech",
+    "name_en": "Logitech",
+    "category": "general"
+  },
+  {
+    "slug": "luzi-ag",
+    "name": "Luzi AG",
+    "name_en": "Luzi AG",
+    "category": "general"
+  },
+  {
+    "slug": "maestrani",
+    "name": "Maestrani",
+    "name_en": "Maestrani",
+    "category": "general"
+  },
+  {
+    "slug": "maggi",
+    "name": "Maggi",
+    "name_en": "Maggi",
+    "category": "general"
+  },
+  {
+    "slug": "mammut-sports-group",
+    "name": "Mammut Sports Group",
+    "name_en": "Mammut Sports Group",
+    "category": "general"
+  },
+  {
+    "slug": "matisa",
+    "name": "MATISA",
+    "name_en": "MATISA",
+    "category": "general"
+  },
+  {
+    "slug": "max-felchlin",
+    "name": "Max Felchlin",
+    "name_en": "Max Felchlin",
+    "category": "general"
+  },
+  {
+    "slug": "mettler-toledo",
+    "name": "Mettler Toledo",
+    "name_en": "Mettler Toledo",
+    "category": "general"
+  },
+  {
+    "slug": "meyer-burger",
+    "name": "Meyer Burger",
+    "name_en": "Meyer Burger",
+    "category": "general"
+  },
+  {
+    "slug": "migros",
+    "name": "Migros",
+    "name_en": "Migros",
+    "category": "general"
+  },
+  {
+    "slug": "mikroton-recordings",
+    "name": "Mikroton Recordings",
+    "name_en": "Mikroton Recordings",
+    "category": "general"
+  },
+  {
+    "slug": "milka",
+    "name": "Milka",
+    "name_en": "Milka",
+    "category": "general"
+  },
+  {
+    "slug": "molkosan",
+    "name": "Molkosan",
+    "name_en": "Molkosan",
+    "category": "general"
+  },
+  {
+    "slug": "motorex",
+    "name": "Motorex",
+    "name_en": "Motorex",
+    "category": "general"
+  },
+  {
+    "slug": "mouawad",
+    "name": "Mouawad",
+    "name_en": "Mouawad",
+    "category": "general"
+  },
+  {
+    "slug": "mvenpick-ice-cream",
+    "name": "Mövenpick Ice Cream",
+    "name_en": "Mövenpick Ice Cream",
+    "category": "general"
+  },
+  {
+    "slug": "mvenpick-hotels-resorts",
+    "name": "Mövenpick Hotels & Resorts",
+    "name_en": "Mövenpick Hotels & Resorts",
+    "category": "general"
+  },
+  {
+    "slug": "mowag-ortsdienstwagen",
+    "name": "Mowag Ortsdienstwagen",
+    "name_en": "Mowag Ortsdienstwagen",
+    "category": "general"
+  },
+  {
+    "slug": "jittery-joes",
+    "name": "Jittery Joe's",
+    "name_en": "Jittery Joe's",
+    "category": "food"
+  },
+  {
+    "slug": "juan-valdez-caf",
+    "name": "Juan Valdez Café",
+    "name_en": "Juan Valdez Café",
+    "category": "food"
+  },
+  {
+    "slug": "just-us",
+    "name": "Just Us!",
+    "name_en": "Just Us!",
+    "category": "food"
+  },
+  {
+    "slug": "katwijk-suriname",
+    "name": "Katwijk, Suriname",
+    "name_en": "Katwijk, Suriname",
+    "category": "food"
+  },
+  {
+    "slug": "kenco",
+    "name": "Kenco",
+    "name_en": "Kenco",
+    "category": "food"
+  },
+  {
+    "slug": "keurig",
+    "name": "Keurig",
+    "name_en": "Keurig",
+    "category": "food"
+  },
+  {
+    "slug": "keurig-dr-pepper",
+    "name": "Keurig Dr Pepper",
+    "name_en": "Keurig Dr Pepper",
+    "category": "food"
+  },
+  {
+    "slug": "komeda-coffee",
+    "name": "Komeda Coffee",
+    "name_en": "Komeda Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "kopiko-brand",
+    "name": "Kopiko (brand)",
+    "name_en": "Kopiko (brand)",
+    "category": "food"
+  },
+  {
+    "slug": "krispy-kreme-uk",
+    "name": "Krispy Kreme UK",
+    "name_en": "Krispy Kreme UK",
+    "category": "food"
+  },
+  {
+    "slug": "kumbakonam-degree-coffee",
+    "name": "Kumbakonam Degree Coffee",
+    "name_en": "Kumbakonam Degree Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "la-colombe-coffee-roasters",
+    "name": "La Colombe Coffee Roasters",
+    "name_en": "La Colombe Coffee Roasters",
+    "category": "food"
+  },
+  {
+    "slug": "lavazza",
+    "name": "Lavazza",
+    "name_en": "Lavazza",
+    "category": "food"
+  },
+  {
+    "slug": "levista-coffee",
+    "name": "Levista (coffee)",
+    "name_en": "Levista (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "lfbergs",
+    "name": "Löfbergs",
+    "name_en": "Löfbergs",
+    "category": "food"
+  },
+  {
+    "slug": "loumidis",
+    "name": "Loumidis",
+    "name_en": "Loumidis",
+    "category": "food"
+  },
+  {
+    "slug": "machwitz-kaffee",
+    "name": "Machwitz Kaffee",
+    "name_en": "Machwitz Kaffee",
+    "category": "food"
+  },
+  {
+    "slug": "manhattan-special",
+    "name": "Manhattan Special",
+    "name_en": "Manhattan Special",
+    "category": "food"
+  },
+  {
+    "slug": "maraba-coffee",
+    "name": "Maraba coffee",
+    "name_en": "Maraba coffee",
+    "category": "food"
+  },
+  {
+    "slug": "massimo-zanetti-beverage-group",
+    "name": "Massimo Zanetti Beverage Group",
+    "name_en": "Massimo Zanetti Beverage Group",
+    "category": "food"
+  },
+  {
+    "slug": "joseph-fashion-brand",
+    "name": "Joseph (fashion brand)",
+    "name_en": "Joseph (fashion brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "karl-kani",
+    "name": "Karl Kani",
+    "name_en": "Karl Kani",
+    "category": "fashion"
+  },
+  {
+    "slug": "kidiliz",
+    "name": "Kidiliz",
+    "name_en": "Kidiliz",
+    "category": "fashion"
+  },
+  {
+    "slug": "takeo-kikuchi",
+    "name": "Takeo Kikuchi",
+    "name_en": "Takeo Kikuchi",
+    "category": "fashion"
+  },
+  {
+    "slug": "andr-kim",
+    "name": "André Kim",
+    "name_en": "André Kim",
+    "category": "fashion"
+  },
+  {
+    "slug": "elaine-kim-fashion-designer",
+    "name": "Elaine Kim (fashion designer)",
+    "name_en": "Elaine Kim (fashion designer)",
+    "category": "fashion"
+  },
+  {
+    "slug": "maison-kitsun",
+    "name": "Maison Kitsuné",
+    "name_en": "Maison Kitsuné",
+    "category": "fashion"
+  },
+  {
+    "slug": "kookai",
+    "name": "Kookai",
+    "name_en": "Kookai",
+    "category": "fashion"
+  },
+  {
+    "slug": "la-bonneterie-cevenole",
+    "name": "La Bonneterie Cevenole",
+    "name_en": "La Bonneterie Cevenole",
+    "category": "fashion"
+  },
+  {
+    "slug": "levi-strauss-co",
+    "name": "Levi Strauss & Co.",
+    "name_en": "Levi Strauss & Co.",
+    "category": "fashion"
+  },
+  {
+    "slug": "jlindeberg",
+    "name": "J.Lindeberg",
+    "name_en": "J.Lindeberg",
+    "category": "fashion"
+  },
+  {
+    "slug": "lonely-fashion-label",
+    "name": "Lonely (fashion label)",
+    "name_en": "Lonely (fashion label)",
+    "category": "fashion"
+  },
+  {
+    "slug": "louis-philippe-brand",
+    "name": "Louis Philippe (brand)",
+    "name_en": "Louis Philippe (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "lover-clothing",
+    "name": "Lover (clothing)",
+    "name_en": "Lover (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "loyandford",
+    "name": "Loyandford",
+    "name_en": "Loyandford",
+    "category": "fashion"
+  },
+  {
+    "slug": "lyle-scott",
+    "name": "Lyle & Scott",
+    "name_en": "Lyle & Scott",
+    "category": "fashion"
+  },
+  {
+    "slug": "madhappy",
+    "name": "Madhappy",
+    "name_en": "Madhappy",
+    "category": "fashion"
+  },
+  {
+    "slug": "madonna-fashion-brands",
+    "name": "Madonna fashion brands",
+    "name_en": "Madonna fashion brands",
+    "category": "fashion"
+  },
+  {
+    "slug": "mango-retailer",
+    "name": "Mango (retailer)",
+    "name_en": "Mango (retailer)",
+    "category": "fashion"
+  },
+  {
+    "slug": "marimekko",
+    "name": "Marimekko",
+    "name_en": "Marimekko",
+    "category": "fashion"
+  },
+  {
+    "slug": "jn-international-medical-corporation",
+    "name": "JN-International Medical Corporation",
+    "name_en": "JN-International Medical Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "s-c-johnson-son",
+    "name": "S. C. Johnson & Son",
+    "name_en": "S. C. Johnson & Son",
+    "category": "general"
+  },
+  {
+    "slug": "joyson-safety-systems",
+    "name": "Joyson Safety Systems",
+    "name_en": "Joyson Safety Systems",
+    "category": "general"
+  },
+  {
+    "slug": "jpmorgan-chase",
+    "name": "JPMorgan Chase",
+    "name_en": "JPMorgan Chase",
+    "category": "general"
+  },
+  {
+    "slug": "juniper-networks",
+    "name": "Juniper Networks",
+    "name_en": "Juniper Networks",
+    "category": "general"
+  },
+  {
+    "slug": "kap7",
+    "name": "KAP7",
+    "name_en": "KAP7",
+    "category": "general"
+  },
+  {
+    "slug": "kellanova",
+    "name": "Kellanova",
+    "name_en": "Kellanova",
+    "category": "general"
+  },
+  {
+    "slug": "kelloggs",
+    "name": "Kellogg's",
+    "name_en": "Kellogg's",
+    "category": "general"
+  },
+  {
+    "slug": "kimberly-clark",
+    "name": "Kimberly-Clark",
+    "name_en": "Kimberly-Clark",
+    "category": "general"
+  },
+  {
+    "slug": "kinetic-concepts",
+    "name": "Kinetic Concepts",
+    "name_en": "Kinetic Concepts",
+    "category": "general"
+  },
+  {
+    "slug": "koch-inc",
+    "name": "Koch, Inc.",
+    "name_en": "Koch, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "kodak",
+    "name": "Kodak",
+    "name_en": "Kodak",
+    "category": "general"
+  },
+  {
+    "slug": "kontoor-brands",
+    "name": "Kontoor Brands",
+    "name_en": "Kontoor Brands",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-foods",
+    "name": "Kraft Foods",
+    "name_en": "Kraft Foods",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-foods-inc",
+    "name": "Kraft Foods Inc.",
+    "name_en": "Kraft Foods Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-heinz",
+    "name": "Kraft Heinz",
+    "name_en": "Kraft Heinz",
+    "category": "general"
+  },
+  {
+    "slug": "kraft-natural-cheese",
+    "name": "Kraft Natural Cheese",
+    "name_en": "Kraft Natural Cheese",
+    "category": "general"
+  },
+  {
+    "slug": "kronos-incorporated",
+    "name": "Kronos Incorporated",
+    "name_en": "Kronos Incorporated",
+    "category": "general"
+  },
+  {
+    "slug": "krrb",
+    "name": "Krrb",
+    "name_en": "Krrb",
+    "category": "general"
+  },
+  {
+    "slug": "l3harris",
+    "name": "L3Harris",
+    "name_en": "L3Harris",
+    "category": "general"
+  },
+  {
+    "slug": "philippe-dufour",
+    "name": "Philippe Dufour",
+    "name_en": "Philippe Dufour",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eckhaus-latta",
+    "name": "Eckhaus Latta",
+    "name_en": "Eckhaus Latta",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "edelweiss-pianos",
+    "name": "Edelweiss Pianos",
+    "name_en": "Edelweiss Pianos",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eisenberg-paris",
+    "name": "Eisenberg Paris",
+    "name_en": "Eisenberg Paris",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eliseyevsky",
+    "name": "Eliseyevsky",
+    "name_en": "Eliseyevsky",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "engineered-garments",
+    "name": "Engineered Garments",
+    "name_en": "Engineered Garments",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "eton-shirts",
+    "name": "Eton Shirts",
+    "name_en": "Eton Shirts",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ettinger-british-company",
+    "name": "Ettinger (British company)",
+    "name_en": "Ettinger (British company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "d-h-evans",
+    "name": "D H Evans",
+    "name_en": "D H Evans",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "timothy-everest",
+    "name": "Timothy Everest",
+    "name_en": "Timothy Everest",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "faur-le-page",
+    "name": "Fauré Le Page",
+    "name_en": "Fauré Le Page",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "fedeli-company",
+    "name": "Fedeli (company)",
+    "name_en": "Fedeli (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "fenty-fashion-house",
+    "name": "Fenty (fashion house)",
+    "name_en": "Fenty (fashion house)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "fiol-prosecco",
+    "name": "Fiol Prosecco",
+    "name_en": "Fiol Prosecco",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "flexform",
+    "name": "Flexform",
+    "name_en": "Flexform",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "floris-of-london",
+    "name": "Floris of London",
+    "name_en": "Floris of London",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "folli-follie",
+    "name": "Folli Follie",
+    "name_en": "Folli Follie",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "forest-essentials",
+    "name": "Forest Essentials",
+    "name_en": "Forest Essentials",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "forevermark",
+    "name": "Forevermark",
+    "name_en": "Forevermark",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "fornasetti",
+    "name": "Fornasetti",
+    "name_en": "Fornasetti",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "drkopp-adler",
+    "name": "Dürkopp Adler",
+    "name_en": "Dürkopp Adler",
+    "category": "general"
+  },
+  {
+    "slug": "dws-group",
+    "name": "DWS Group",
+    "name_en": "DWS Group",
+    "category": "general"
+  },
+  {
+    "slug": "dz-bank",
+    "name": "DZ Bank",
+    "name_en": "DZ Bank",
+    "category": "general"
+  },
+  {
+    "slug": "e-plus",
+    "name": "E-Plus",
+    "name_en": "E-Plus",
+    "category": "general"
+  },
+  {
+    "slug": "eon",
+    "name": "E.ON",
+    "name_en": "E.ON",
+    "category": "general"
+  },
+  {
+    "slug": "ed-meier",
+    "name": "Ed Meier",
+    "name_en": "Ed Meier",
+    "category": "general"
+  },
+  {
+    "slug": "edeka",
+    "name": "Edeka",
+    "name_en": "Edeka",
+    "category": "general"
+  },
+  {
+    "slug": "eibach-company",
+    "name": "Eibach (company)",
+    "name_en": "Eibach (company)",
+    "category": "general"
+  },
+  {
+    "slug": "einhell",
+    "name": "Einhell",
+    "name_en": "Einhell",
+    "category": "general"
+  },
+  {
+    "slug": "elac",
+    "name": "Elac",
+    "name_en": "Elac",
+    "category": "general"
+  },
+  {
+    "slug": "elmos-semiconductor",
+    "name": "Elmos Semiconductor",
+    "name_en": "Elmos Semiconductor",
+    "category": "general"
+  },
+  {
+    "slug": "emsa-company",
+    "name": "Emsa (company)",
+    "name_en": "Emsa (company)",
+    "category": "general"
+  },
+  {
+    "slug": "enbw",
+    "name": "EnBW",
+    "name_en": "EnBW",
+    "category": "general"
+  },
+  {
+    "slug": "enercity",
+    "name": "Enercity",
+    "name_en": "Enercity",
+    "category": "general"
+  },
+  {
+    "slug": "enercon",
+    "name": "Enercon",
+    "name_en": "Enercon",
+    "category": "general"
+  },
+  {
+    "slug": "ensinger-company",
+    "name": "Ensinger (company)",
+    "name_en": "Ensinger (company)",
+    "category": "general"
+  },
+  {
+    "slug": "envisiontec",
+    "name": "EnvisionTEC",
+    "name_en": "EnvisionTEC",
+    "category": "general"
+  },
+  {
+    "slug": "espenlaub-automobile",
+    "name": "Espenlaub (automobile)",
+    "name_en": "Espenlaub (automobile)",
+    "category": "general"
+  },
+  {
+    "slug": "eurowings",
+    "name": "Eurowings",
+    "name_en": "Eurowings",
+    "category": "general"
+  },
+  {
+    "slug": "exakta",
+    "name": "Exakta",
+    "name_en": "Exakta",
+    "category": "general"
+  },
+  {
+    "slug": "matari-coffee",
+    "name": "Matari Coffee",
+    "name_en": "Matari Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "matthew-algie",
+    "name": "Matthew Algie",
+    "name_en": "Matthew Algie",
+    "category": "food"
+  },
+  {
+    "slug": "maxwell-house",
+    "name": "Maxwell House",
+    "name_en": "Maxwell House",
+    "category": "food"
+  },
+  {
+    "slug": "mega-mgc-coffee",
+    "name": "Mega MGC Coffee",
+    "name_en": "Mega MGC Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "melitta",
+    "name": "Melitta",
+    "name_en": "Melitta",
+    "category": "food"
+  },
+  {
+    "slug": "mellower-coffee",
+    "name": "Mellower Coffee",
+    "name_en": "Mellower Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "millstone-coffee",
+    "name": "Millstone Coffee",
+    "name_en": "Millstone Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "mr-brown-coffee",
+    "name": "Mr. Brown Coffee",
+    "name_en": "Mr. Brown Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "mjb-coffee",
+    "name": "MJB (coffee)",
+    "name_en": "MJB (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "moccona",
+    "name": "Moccona",
+    "name_en": "Moccona",
+    "category": "food"
+  },
+  {
+    "slug": "nabob-coffee",
+    "name": "Nabob (coffee)",
+    "name_en": "Nabob (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "nedelya-pastry-shop",
+    "name": "Nedelya (pastry shop)",
+    "name_en": "Nedelya (pastry shop)",
+    "category": "food"
+  },
+  {
+    "slug": "nescaf",
+    "name": "Nescafé",
+    "name_en": "Nescafé",
+    "category": "food"
+  },
+  {
+    "slug": "paul-bassett",
+    "name": "Paul Bassett",
+    "name_en": "Paul Bassett",
+    "category": "food"
+  },
+  {
+    "slug": "paulig",
+    "name": "Paulig",
+    "name_en": "Paulig",
+    "category": "food"
+  },
+  {
+    "slug": "pjs-coffee",
+    "name": "PJ's Coffee",
+    "name_en": "PJ's Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "proud-mary-coffee",
+    "name": "Proud Mary Coffee",
+    "name_en": "Proud Mary Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "pura-vida-coffee",
+    "name": "Pura Vida Coffee",
+    "name_en": "Pura Vida Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "red-circle-coffee",
+    "name": "Red Circle Coffee",
+    "name_en": "Red Circle Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "revelator-coffee",
+    "name": "Revelator Coffee",
+    "name_en": "Revelator Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "avio",
+    "name": "Avio",
+    "name_en": "Avio",
+    "category": "general"
+  },
+  {
+    "slug": "aviointeriors",
+    "name": "Aviointeriors",
+    "name_en": "Aviointeriors",
+    "category": "general"
+  },
+  {
+    "slug": "azimut-yachts",
+    "name": "Azimut Yachts",
+    "name_en": "Azimut Yachts",
+    "category": "general"
+  },
+  {
+    "slug": "b-p-battioni-e-pagani-spa",
+    "name": "B-P Battioni e Pagani S.p.A.",
+    "name_en": "B-P Battioni e Pagani S.p.A.",
+    "category": "general"
+  },
+  {
+    "slug": "baglietto",
+    "name": "Baglietto",
+    "name_en": "Baglietto",
+    "category": "general"
+  },
+  {
+    "slug": "baldelli-ceramics",
+    "name": "Baldelli ceramics",
+    "name_en": "Baldelli ceramics",
+    "category": "general"
+  },
+  {
+    "slug": "baldini-castoldi",
+    "name": "Baldini & Castoldi",
+    "name_en": "Baldini & Castoldi",
+    "category": "general"
+  },
+  {
+    "slug": "balocco-company",
+    "name": "Balocco (company)",
+    "name_en": "Balocco (company)",
+    "category": "general"
+  },
+  {
+    "slug": "banca-akros",
+    "name": "Banca Akros",
+    "name_en": "Banca Akros",
+    "category": "general"
+  },
+  {
+    "slug": "banca-caripe",
+    "name": "Banca Caripe",
+    "name_en": "Banca Caripe",
+    "category": "general"
+  },
+  {
+    "slug": "banca-leonardo",
+    "name": "Banca Leonardo",
+    "name_en": "Banca Leonardo",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-crema",
+    "name": "Banca Popolare di Crema",
+    "name_en": "Banca Popolare di Crema",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-lodi",
+    "name": "Banca Popolare di Lodi",
+    "name_en": "Banca Popolare di Lodi",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-novara",
+    "name": "Banca Popolare di Novara",
+    "name_en": "Banca Popolare di Novara",
+    "category": "general"
+  },
+  {
+    "slug": "banca-popolare-di-verona",
+    "name": "Banca Popolare di Verona",
+    "name_en": "Banca Popolare di Verona",
+    "category": "general"
+  },
+  {
+    "slug": "banca-tercas",
+    "name": "Banca Tercas",
+    "name_en": "Banca Tercas",
+    "category": "general"
+  },
+  {
+    "slug": "banco-popolare-siciliano",
+    "name": "Banco Popolare Siciliano",
+    "name_en": "Banco Popolare Siciliano",
+    "category": "general"
+  },
+  {
+    "slug": "barbanera",
+    "name": "Barbanera",
+    "name_en": "Barbanera",
+    "category": "general"
+  },
+  {
+    "slug": "barilla-company",
+    "name": "Barilla (company)",
+    "name_en": "Barilla (company)",
+    "category": "general"
+  },
+  {
+    "slug": "bassetti",
+    "name": "Bassetti",
+    "name_en": "Bassetti",
+    "category": "general"
+  },
+  {
+    "slug": "garrard-co",
+    "name": "Garrard & Co",
+    "name_en": "Garrard & Co",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "geo-f-trumper",
+    "name": "Geo. F. Trumper",
+    "name_en": "Geo. F. Trumper",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "georg-jensen-as",
+    "name": "Georg Jensen A/S",
+    "name_en": "Georg Jensen A/S",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "gerald-charles",
+    "name": "Gerald Charles",
+    "name_en": "Gerald Charles",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "gerald-genta-watch-brand",
+    "name": "Gerald Genta (watch brand)",
+    "name_en": "Gerald Genta (watch brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "girard-perregaux",
+    "name": "Girard-Perregaux",
+    "name_en": "Girard-Perregaux",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "glass-lps",
+    "name": "Glass LPS",
+    "name_en": "Glass LPS",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "goldpfeil",
+    "name": "Goldpfeil",
+    "name_en": "Goldpfeil",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "graff-jewellers",
+    "name": "Graff (jewellers)",
+    "name_en": "Graff (jewellers)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "grant-macdonald",
+    "name": "Grant Macdonald",
+    "name_en": "Grant Macdonald",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "china-telecom",
+    "name": "China Telecom",
+    "name_en": "China Telecom",
+    "category": "general"
+  },
+  {
+    "slug": "china-telecommunications-corporation",
+    "name": "China Telecommunications Corporation",
+    "name_en": "China Telecommunications Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "china-time-honored-brand",
+    "name": "China Time-honored Brand",
+    "name_en": "China Time-honored Brand",
+    "category": "general"
+  },
+  {
+    "slug": "china-top-brand",
+    "name": "China Top Brand",
+    "name_en": "China Top Brand",
+    "category": "general"
+  },
+  {
+    "slug": "china-unicom",
+    "name": "China Unicom",
+    "name_en": "China Unicom",
+    "category": "general"
+  },
+  {
+    "slug": "china-united-airlines",
+    "name": "China United Airlines",
+    "name_en": "China United Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "china-zheshang-bank",
+    "name": "China Zheshang Bank",
+    "name_en": "China Zheshang Bank",
+    "category": "general"
+  },
+  {
+    "slug": "chinacache",
+    "name": "ChinaCache",
+    "name_en": "ChinaCache",
+    "category": "general"
+  },
+  {
+    "slug": "chipolbrok",
+    "name": "Chipolbrok",
+    "name_en": "Chipolbrok",
+    "category": "general"
+  },
+  {
+    "slug": "choi-heong-yuen-bakery",
+    "name": "Choi Heong Yuen Bakery",
+    "name_en": "Choi Heong Yuen Bakery",
+    "category": "general"
+  },
+  {
+    "slug": "chongqing-airlines",
+    "name": "Chongqing Airlines",
+    "name_en": "Chongqing Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "chtc-marque",
+    "name": "CHTC (marque)",
+    "name_en": "CHTC (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "chufeng",
+    "name": "Chufeng",
+    "name_en": "Chufeng",
+    "category": "general"
+  },
+  {
+    "slug": "chunlan-group",
+    "name": "Chunlan Group",
+    "name_en": "Chunlan Group",
+    "category": "general"
+  },
+  {
+    "slug": "chuwi-company",
+    "name": "Chuwi (company)",
+    "name_en": "Chuwi (company)",
+    "category": "general"
+  },
+  {
+    "slug": "citic-group",
+    "name": "CITIC Group",
+    "name_en": "CITIC Group",
+    "category": "general"
+  },
+  {
+    "slug": "ciwei",
+    "name": "Ciwei",
+    "name_en": "Ciwei",
+    "category": "general"
+  },
+  {
+    "slug": "cloudwalk-technology",
+    "name": "CloudWalk Technology",
+    "name_en": "CloudWalk Technology",
+    "category": "general"
+  },
+  {
+    "slug": "club-factory",
+    "name": "Club Factory",
+    "name_en": "Club Factory",
+    "category": "general"
+  },
+  {
+    "slug": "cofco-group",
+    "name": "COFCO Group",
+    "name_en": "COFCO Group",
+    "category": "general"
+  },
+  {
+    "slug": "card-factory",
+    "name": "Card Factory",
+    "name_en": "Card Factory",
+    "category": "general"
+  },
+  {
+    "slug": "carrs",
+    "name": "Carr's",
+    "name_en": "Carr's",
+    "category": "general"
+  },
+  {
+    "slug": "castrol",
+    "name": "Castrol",
+    "name_en": "Castrol",
+    "category": "general"
+  },
+  {
+    "slug": "cat-in-a-flat",
+    "name": "Cat in a Flat",
+    "name_en": "Cat in a Flat",
+    "category": "general"
+  },
+  {
+    "slug": "cavendish-pianos",
+    "name": "Cavendish Pianos",
+    "name_en": "Cavendish Pianos",
+    "category": "general"
+  },
+  {
+    "slug": "celestion",
+    "name": "Celestion",
+    "name_en": "Celestion",
+    "category": "general"
+  },
+  {
+    "slug": "ceravision",
+    "name": "Ceravision",
+    "name_en": "Ceravision",
+    "category": "general"
+  },
+  {
+    "slug": "charbonnel-et-walker",
+    "name": "Charbonnel et Walker",
+    "name_en": "Charbonnel et Walker",
+    "category": "general"
+  },
+  {
+    "slug": "chase-brothers-motorcycle",
+    "name": "Chase Brothers Motorcycle",
+    "name_en": "Chase Brothers Motorcycle",
+    "category": "general"
+  },
+  {
+    "slug": "chase-distillery",
+    "name": "Chase Distillery",
+    "name_en": "Chase Distillery",
+    "category": "general"
+  },
+  {
+    "slug": "chase-vodka",
+    "name": "Chase Vodka",
+    "name_en": "Chase Vodka",
+    "category": "general"
+  },
+  {
+    "slug": "the-chelsea-cobbler",
+    "name": "The Chelsea Cobbler",
+    "name_en": "The Chelsea Cobbler",
+    "category": "general"
+  },
+  {
+    "slug": "chicken-tonight",
+    "name": "Chicken Tonight",
+    "name_en": "Chicken Tonight",
+    "category": "general"
+  },
+  {
+    "slug": "christopher-ward-watchmaker",
+    "name": "Christopher Ward (watchmaker)",
+    "name_en": "Christopher Ward (watchmaker)",
+    "category": "general"
+  },
+  {
+    "slug": "clarksons-travel-group",
+    "name": "Clarksons Travel Group",
+    "name_en": "Clarksons Travel Group",
+    "category": "general"
+  },
+  {
+    "slug": "cms-computers",
+    "name": "CMS Computers",
+    "name_en": "CMS Computers",
+    "category": "general"
+  },
+  {
+    "slug": "coast-clothing",
+    "name": "Coast (clothing)",
+    "name_en": "Coast (clothing)",
+    "category": "general"
+  },
+  {
+    "slug": "cobham-limited",
+    "name": "Cobham Limited",
+    "name_en": "Cobham Limited",
+    "category": "general"
+  },
+  {
+    "slug": "colmans",
+    "name": "Colman's",
+    "name_en": "Colman's",
+    "category": "general"
+  },
+  {
+    "slug": "colorcoat",
+    "name": "Colorcoat",
+    "name_en": "Colorcoat",
+    "category": "general"
   }
 ]
