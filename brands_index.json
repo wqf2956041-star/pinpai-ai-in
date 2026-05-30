@@ -12082,5 +12082,65 @@
     "name": "Moccona",
     "name_en": "Moccona",
     "category": "food"
+  },
+  {
+    "slug": "nabob-coffee",
+    "name": "Nabob (coffee)",
+    "name_en": "Nabob (coffee)",
+    "category": "food"
+  },
+  {
+    "slug": "nedelya-pastry-shop",
+    "name": "Nedelya (pastry shop)",
+    "name_en": "Nedelya (pastry shop)",
+    "category": "food"
+  },
+  {
+    "slug": "nescaf",
+    "name": "Nescafé",
+    "name_en": "Nescafé",
+    "category": "food"
+  },
+  {
+    "slug": "paul-bassett",
+    "name": "Paul Bassett",
+    "name_en": "Paul Bassett",
+    "category": "food"
+  },
+  {
+    "slug": "paulig",
+    "name": "Paulig",
+    "name_en": "Paulig",
+    "category": "food"
+  },
+  {
+    "slug": "pjs-coffee",
+    "name": "PJ's Coffee",
+    "name_en": "PJ's Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "proud-mary-coffee",
+    "name": "Proud Mary Coffee",
+    "name_en": "Proud Mary Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "pura-vida-coffee",
+    "name": "Pura Vida Coffee",
+    "name_en": "Pura Vida Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "red-circle-coffee",
+    "name": "Red Circle Coffee",
+    "name_en": "Red Circle Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "revelator-coffee",
+    "name": "Revelator Coffee",
+    "name_en": "Revelator Coffee",
+    "category": "food"
   }
 ]
