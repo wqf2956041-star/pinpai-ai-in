@@ -11122,5 +11122,65 @@
     "name": "Dolmar",
     "name_en": "Dolmar",
     "category": "general"
+  },
+  {
+    "slug": "dnnhoff",
+    "name": "Dönnhoff",
+    "name_en": "Dönnhoff",
+    "category": "general"
+  },
+  {
+    "slug": "dooleys",
+    "name": "Dooley's",
+    "name_en": "Dooley's",
+    "category": "general"
+  },
+  {
+    "slug": "douglas-company",
+    "name": "Douglas (company)",
+    "name_en": "Douglas (company)",
+    "category": "general"
+  },
+  {
+    "slug": "drager-company",
+    "name": "Drager (company)",
+    "name_en": "Drager (company)",
+    "category": "general"
+  },
+  {
+    "slug": "drger-company",
+    "name": "Dräger (company)",
+    "name_en": "Dräger (company)",
+    "category": "general"
+  },
+  {
+    "slug": "drxlmaier-group",
+    "name": "Dräxlmaier Group",
+    "name_en": "Dräxlmaier Group",
+    "category": "general"
+  },
+  {
+    "slug": "dresdner-bank",
+    "name": "Dresdner Bank",
+    "name_en": "Dresdner Bank",
+    "category": "general"
+  },
+  {
+    "slug": "dual-brand",
+    "name": "Dual (brand)",
+    "name_en": "Dual (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "duran-glass",
+    "name": "Duran (glass)",
+    "name_en": "Duran (glass)",
+    "category": "general"
+  },
+  {
+    "slug": "duravit",
+    "name": "Duravit",
+    "name_en": "Duravit",
+    "category": "general"
   }
 ]
