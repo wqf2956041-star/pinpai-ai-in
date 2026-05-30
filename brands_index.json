@@ -10582,5 +10582,65 @@
     "name": "Playmates Toys",
     "name_en": "Playmates Toys",
     "category": "toy"
+  },
+  {
+    "slug": "curry-brand",
+    "name": "Curry Brand",
+    "name_en": "Curry Brand",
+    "category": "sportswear"
+  },
+  {
+    "slug": "danskin-brand",
+    "name": "Danskin (brand)",
+    "name_en": "Danskin (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "de-marchi-clothing",
+    "name": "De Marchi (clothing)",
+    "name_en": "De Marchi (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "decathlon-retailer",
+    "name": "Decathlon (retailer)",
+    "name_en": "Decathlon (retailer)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "delfina-sport",
+    "name": "Delfina Sport",
+    "name_en": "Delfina Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "descente",
+    "name": "Descente",
+    "name_en": "Descente",
+    "category": "sportswear"
+  },
+  {
+    "slug": "deuter-sport",
+    "name": "Deuter Sport",
+    "name_en": "Deuter Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "diapolo",
+    "name": "Diapolo",
+    "name_en": "Diapolo",
+    "category": "sportswear"
+  },
+  {
+    "slug": "donnay",
+    "name": "Donnay",
+    "name_en": "Donnay",
+    "category": "sportswear"
+  },
+  {
+    "slug": "dryworld",
+    "name": "Dryworld",
+    "name_en": "Dryworld",
+    "category": "sportswear"
   }
 ]
