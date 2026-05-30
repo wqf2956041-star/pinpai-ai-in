@@ -12622,5 +12622,65 @@
     "name": "Taybeh Brewery",
     "name_en": "Taybeh Brewery",
     "category": "beverage"
+  },
+  {
+    "slug": "theakston-brewery",
+    "name": "Theakston Brewery",
+    "name_en": "Theakston Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "three-coins-beer",
+    "name": "Three Coins Beer",
+    "name_en": "Three Coins Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "three-horses-beer",
+    "name": "Three Horses Beer",
+    "name_en": "Three Horses Beer",
+    "category": "beverage"
+  },
+  {
+    "slug": "to-l",
+    "name": "To Øl",
+    "name_en": "To Øl",
+    "category": "beverage"
+  },
+  {
+    "slug": "tuborg-red",
+    "name": "Tuborg Red",
+    "name_en": "Tuborg Red",
+    "category": "beverage"
+  },
+  {
+    "slug": "tusker-african-beer",
+    "name": "Tusker (African beer)",
+    "name_en": "Tusker (African beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "united-breweries-group",
+    "name": "United Breweries Group",
+    "name_en": "United Breweries Group",
+    "category": "beverage"
+  },
+  {
+    "slug": "vailima-beer",
+    "name": "Vailima (beer)",
+    "name_en": "Vailima (beer)",
+    "category": "beverage"
+  },
+  {
+    "slug": "waikato-draught",
+    "name": "Waikato Draught",
+    "name_en": "Waikato Draught",
+    "category": "beverage"
+  },
+  {
+    "slug": "wells-youngs-brewery",
+    "name": "Wells & Young's Brewery",
+    "name_en": "Wells & Young's Brewery",
+    "category": "beverage"
   }
 ]
