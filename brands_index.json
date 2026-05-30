@@ -13462,5 +13462,65 @@
     "name": "Bravo (company)",
     "name_en": "Bravo (company)",
     "category": "general"
+  },
+  {
+    "slug": "ricola",
+    "name": "Ricola",
+    "name_en": "Ricola",
+    "category": "general"
+  },
+  {
+    "slug": "rieker-shoes",
+    "name": "Rieker Shoes",
+    "name_en": "Rieker Shoes",
+    "category": "general"
+  },
+  {
+    "slug": "rieter",
+    "name": "Rieter",
+    "name_en": "Rieter",
+    "category": "general"
+  },
+  {
+    "slug": "rinspeed",
+    "name": "Rinspeed",
+    "name_en": "Rinspeed",
+    "category": "general"
+  },
+  {
+    "slug": "rivella",
+    "name": "Rivella",
+    "name_en": "Rivella",
+    "category": "general"
+  },
+  {
+    "slug": "ronal",
+    "name": "Ronal",
+    "name_en": "Ronal",
+    "category": "general"
+  },
+  {
+    "slug": "ruag",
+    "name": "RUAG",
+    "name_en": "RUAG",
+    "category": "general"
+  },
+  {
+    "slug": "saitek",
+    "name": "Saitek",
+    "name_en": "Saitek",
+    "category": "general"
+  },
+  {
+    "slug": "sandoz",
+    "name": "Sandoz",
+    "name_en": "Sandoz",
+    "category": "general"
+  },
+  {
+    "slug": "sang-bleu",
+    "name": "Sang Bleu",
+    "name_en": "Sang Bleu",
+    "category": "general"
   }
 ]
