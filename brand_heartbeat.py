@@ -12,37 +12,39 @@ WWW = "/var/www/pinpai"
 LOCK_FILE = os.path.join(BASE, ".heartbeat.lock")
 
 def _update_index_html():
-    """Regenerate brandsData in index.html from brands_index.json with proper escaping.
-    Uses regex to find the exact brandsData array bounds."""
+    """Regenerate brandsData — remove ALL old var brandsData blocks, then append one at end of </script>."""
     with open(os.path.join(BASE, "brands_index.json")) as f:
         idx = json.load(f)
     with open(os.path.join(BASE, "index.html")) as f:
         html = f.read()
 
-    # Use regex to find the exact brandsData array
-    match = re.search(r'var brandsData = \[([\s\S]*?)\];', html)
-    if match:
-        start = match.start()
-        end = match.end()
-        lines = []
-        for b in reversed(idx):
-            t = b.get('t', 1)
-            def esc(s):
-                return s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\r", "\\r")
-            line = ('{name:"' + esc(b['name']) +
-                    '",name_en:"' + esc(b.get('name_en', '')) +
-                    '",slug:"' + esc(b['slug']) +
-                    '",category:"' + esc(b.get('category', '')) +
-                    '",t:' + str(t) + '}')
-            lines.append(line)
-        new_data = ",\n".join(lines)
-        new_block = "var brandsData = [\n" + new_data + "\n];"
-        html = html[:start] + new_block + html[end:]
-        with open(os.path.join(BASE, "index.html"), "w") as f:
-            f.write(html)
-        print("   index.html updated (" + str(len(idx)) + " brands)")
-    else:
-        print("   ERROR: could not find var brandsData = [...] in index.html")
+    # Remove ALL existing var brandsData = [...]; blocks (there may be duplicates from old bugs)
+    html = re.sub(r'// ===== 品牌数据 =====\s*\nvar brandsData = \[[\s\S]*?\];\s*', '', html)
+
+    # Build new brandsData from JSON index
+    lines = []
+    for b in reversed(idx):
+        t = b.get('t', 1)
+        def esc(s):
+            return s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\r", "\\r")
+        line = ('{name:"' + esc(b['name']) +
+                '",name_en:"' + esc(b.get('name_en', '')) +
+                '",slug:"' + esc(b['slug']) +
+                '",category:"' + esc(b.get('category', '')) +
+                '",t:' + str(t) + '}')
+        lines.append(line)
+    new_data = ",\n".join(lines)
+    new_block = "\n// ===== 品牌数据 =====\nvar brandsData = [\n" + new_data + "\n];\n"
+
+    # Insert before last </script> tag or append before </html>
+    insert_pos = html.rfind('</script>')
+    if insert_pos < 0:
+        insert_pos = html.rfind('</html>')
+    html = html[:insert_pos] + new_block + html[insert_pos:]
+
+    with open(os.path.join(BASE, "index.html"), "w") as f:
+        f.write(html)
+    print("   index.html updated (" + str(len(idx)) + " brands)")
 
 # Lock to prevent concurrent runs
 if os.path.exists(LOCK_FILE):

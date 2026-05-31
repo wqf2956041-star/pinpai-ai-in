@@ -14182,5 +14182,65 @@
     "name": "Cirio",
     "name_en": "Cirio",
     "category": "general"
+  },
+  {
+    "slug": "fancl-corporation",
+    "name": "FANCL Corporation",
+    "name_en": "FANCL Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "fanuc",
+    "name": "FANUC",
+    "name_en": "FANUC",
+    "category": "general"
+  },
+  {
+    "slug": "fdk-corporation",
+    "name": "FDK Corporation",
+    "name_en": "FDK Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "fenrir-inc",
+    "name": "Fenrir Inc",
+    "name_en": "Fenrir Inc",
+    "category": "general"
+  },
+  {
+    "slug": "final-fantasy",
+    "name": "Final Fantasy",
+    "name_en": "Final Fantasy",
+    "category": "general"
+  },
+  {
+    "slug": "fire-emblem",
+    "name": "Fire Emblem",
+    "name_en": "Fire Emblem",
+    "category": "general"
+  },
+  {
+    "slug": "first-kitchen",
+    "name": "First Kitchen",
+    "name_en": "First Kitchen",
+    "category": "general"
+  },
+  {
+    "slug": "for-a",
+    "name": "FOR-A",
+    "name_en": "FOR-A",
+    "category": "general"
+  },
+  {
+    "slug": "fostex",
+    "name": "Fostex",
+    "name_en": "Fostex",
+    "category": "general"
+  },
+  {
+    "slug": "fove",
+    "name": "Fove",
+    "name_en": "Fove",
+    "category": "general"
   }
 ]
