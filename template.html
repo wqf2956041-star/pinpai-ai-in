@@ -132,11 +132,15 @@ $PREMIUM_BADGE$
   $CONTENT$
 </div>
 
-<!-- Similar Brands -->
+<!-- Similar Brands (dynamic: latest brands from index) -->
 <div class="similar-section">
   <h3 id="similar-title">$SIMILAR_TITLE$</h3>
-  <div class="similar-grid">
-    $SIMILAR_BRANDS$
+  <div class="similar-grid" id="similar-grid">
+    <!-- 固定推广位 -->
+    <a href="/escher/" class="similar-card premium"><span class="zh">埃舍尔Escher <span class="badge-premium">品牌推广</span></span><span class="en">埃舍尔Escher</span></a>
+    <a href="/pre-order/" class="similar-card slot-open"><span class="zh">预售坑位 <span class="badge-slot">预留</span></span><span class="en">Pre-Order</span></a>
+    <a href="/sponsor/" class="similar-card slot-open"><span class="zh">赞助商坑位 <span class="badge-slot">预留</span></span><span class="en">Sponsor</span></a>
+    <!-- 动态品牌由JS填充 -->
   </div>
 </div>
 
@@ -157,8 +161,32 @@ $PREMIUM_BADGE$
 // Each language has independent content (rewritten, not translated)
 const BRAND_DATA = $BRAND_JSON$;
 
-// ===== SIMILAR BRANDS =====
-const SIMILAR_BRANDS = $SIMILAR_JSON$;
+function loadDynamicBrands() {
+  // 从 /brands_index.json 取最新品牌填充底部坑位
+  var grid = document.getElementById('similar-grid');
+  if (!grid) return;
+  // 固定前3个坑位 (Escher推广, 预售, 赞助商), 跳过
+  var fixedCount = 3;
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '/brands_index.json', true);
+  xhr.onload = function() {
+    try {
+      var brands = JSON.parse(xhr.responseText);
+      // 取最新 (数组末尾) 品牌, 跳过当前页面
+      var currentSlug = window.location.pathname.replace(/\\//g,'');
+      var html = '';
+      var count = 0;
+      for (var i = brands.length - 1; i >= 0 && count < 15; i--) {
+        var b = brands[i];
+        if (b.slug === currentSlug) continue;
+        html += '<a href=\"/' + b.slug + '/\" class=\"similar-card\"><span class=\"zh\">' + (b.name || '') + '</span><span class=\"en\">' + (b.name_en || b.name || '') + '</span></a>';
+        count++;
+      }
+      grid.innerHTML = grid.children[0].outerHTML + grid.children[1].outerHTML + grid.children[2].outerHTML + html;
+    } catch(e) {}
+  };
+  xhr.send();
+}
 
 function searchBrand() {
   const q = document.getElementById('search-input').value.trim();
@@ -203,6 +231,7 @@ function switchLang(lang) {
 
 // Initialize with Chinese
 switchLang('zh-CN');
+loadDynamicBrands();
 </script>
 </body>
 </html>

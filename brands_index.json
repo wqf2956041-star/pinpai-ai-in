@@ -14302,5 +14302,125 @@
     "name": "Herbert Levine (company)",
     "name_en": "Herbert Levine (company)",
     "category": "fashion"
+  },
+  {
+    "slug": "hi-tec",
+    "name": "Hi-Tec",
+    "name_en": "Hi-Tec",
+    "category": "fashion"
+  },
+  {
+    "slug": "hoka",
+    "name": "Hoka",
+    "name_en": "Hoka",
+    "category": "fashion"
+  },
+  {
+    "slug": "humanic",
+    "name": "Humanic",
+    "name_en": "Humanic",
+    "category": "fashion"
+  },
+  {
+    "slug": "the-hundreds",
+    "name": "The Hundreds",
+    "name_en": "The Hundreds",
+    "category": "fashion"
+  },
+  {
+    "slug": "hunter-boot-ltd",
+    "name": "Hunter Boot Ltd",
+    "name_en": "Hunter Boot Ltd",
+    "category": "fashion"
+  },
+  {
+    "slug": "hush-puppies",
+    "name": "Hush Puppies",
+    "name_en": "Hush Puppies",
+    "category": "fashion"
+  },
+  {
+    "slug": "inch2",
+    "name": "Inch2",
+    "name_en": "Inch2",
+    "category": "fashion"
+  },
+  {
+    "slug": "insolia",
+    "name": "Insolia",
+    "name_en": "Insolia",
+    "category": "fashion"
+  },
+  {
+    "slug": "invicta-company",
+    "name": "Invicta (company)",
+    "name_en": "Invicta (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "ipath-footwear",
+    "name": "IPath Footwear",
+    "name_en": "IPath Footwear",
+    "category": "fashion"
+  },
+  {
+    "slug": "canson",
+    "name": "Canson",
+    "name_en": "Canson",
+    "category": "general"
+  },
+  {
+    "slug": "carambar",
+    "name": "Carambar",
+    "name_en": "Carambar",
+    "category": "general"
+  },
+  {
+    "slug": "carbios",
+    "name": "Carbios",
+    "name_en": "Carbios",
+    "category": "general"
+  },
+  {
+    "slug": "carrefour",
+    "name": "Carrefour",
+    "name_en": "Carrefour",
+    "category": "general"
+  },
+  {
+    "slug": "carrefour-planet",
+    "name": "Carrefour Planet",
+    "name_en": "Carrefour Planet",
+    "category": "general"
+  },
+  {
+    "slug": "groupe-casino",
+    "name": "Groupe Casino",
+    "name_en": "Groupe Casino",
+    "category": "general"
+  },
+  {
+    "slug": "castel-group",
+    "name": "Castel Group",
+    "name_en": "Castel Group",
+    "category": "general"
+  },
+  {
+    "slug": "castorama",
+    "name": "Castorama",
+    "name_en": "Castorama",
+    "category": "general"
+  },
+  {
+    "slug": "caudalie",
+    "name": "Caudalie",
+    "name_en": "Caudalie",
+    "category": "general"
+  },
+  {
+    "slug": "cegelec",
+    "name": "Cegelec",
+    "name_en": "Cegelec",
+    "category": "general"
   }
 ]

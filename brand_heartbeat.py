@@ -91,44 +91,15 @@ document.addEventListener('DOMContentLoaded', function() {
 """
 
 def _update_index_html():
-    """Regenerate brandsData — remove ALL old var brandsData blocks, then append one at end of </script>."""
+    """Sync brands_index.json to www directory (index.html is now fetch-based)."""
+    import shutil, subprocess, json
+    # Only need to sync brands_index.json (index.html fetches from this dynamically)
     with open(os.path.join(BASE, "brands_index.json")) as f:
         idx = json.load(f)
-    with open(os.path.join(BASE, "index.html")) as f:
-        html = f.read()
-
-    # Remove ALL existing var brandsData = [...]; blocks (there may be duplicates from old bugs)
-    html = re.sub(r'// ===== 品牌数据 =====\s*\nvar brandsData = \[[\s\S]*?\];\s*', '', html)
-
-    # Build new brandsData from JSON index
-    lines = []
-    for b in reversed(idx):
-        t = b.get('t', 1)
-        def esc(s):
-            return s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\r", "\\r")
-        line = ('{name:"' + esc(b['name']) +
-                '",name_en:"' + esc(b.get('name_en', '')) +
-                '",slug:"' + esc(b['slug']) +
-                '",category:"' + esc(b.get('category', '')) +
-                '",t:' + str(t) + '}')
-        lines.append(line)
-    new_data = ",\n".join(lines)
-    new_block = ("\n// ===== 品牌数据 =====\nvar brandsData = [\n" + new_data + "\n];\n" + RENDER_JS)
-
-    # Insert before last </script> tag or append before </html>
-    insert_pos = html.rfind('</script>')
-    if insert_pos < 0:
-        insert_pos = html.rfind('</html>')
-    html = html[:insert_pos] + new_block + html[insert_pos:]
-
-    with open(os.path.join(BASE, "index.html"), "w") as f:
-        f.write(html)
-    # CRITICAL: Sync to www directory
-    import shutil, subprocess
-    shutil.copy2(os.path.join(BASE, "index.html"), "/tmp/pinpai_index.html")
-    subprocess.run(["sudo", "cp", "/tmp/pinpai_index.html", os.path.join(WWW, "index.html")], capture_output=True)
-    subprocess.run(["sudo", "chown", "caddy:caddy", os.path.join(WWW, "index.html")], capture_output=True)
-    print("   index.html updated (" + str(len(idx)) + " brands)")
+    shutil.copy2(os.path.join(BASE, "brands_index.json"), "/tmp/pinpai_brands_index.json")
+    subprocess.run(["sudo", "cp", "/tmp/pinpai_brands_index.json", os.path.join(WWW, "brands_index.json")], capture_output=True)
+    subprocess.run(["sudo", "chown", "caddy:caddy", os.path.join(WWW, "brands_index.json")], capture_output=True)
+    print("   brands_index.json synced to www (" + str(len(idx)) + " brands)")
 
 # Lock to prevent concurrent runs
 if os.path.exists(LOCK_FILE):
