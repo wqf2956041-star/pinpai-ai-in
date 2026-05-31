@@ -126,6 +126,10 @@ def _update_index_html():
 
     with open(os.path.join(BASE, "index.html"), "w") as f:
         f.write(html)
+    # CRITICAL: Sync to www directory
+    import shutil
+    shutil.copy2(os.path.join(BASE, "index.html"), os.path.join(WWW, "index.html"))
+    os.system("sudo chown caddy:caddy " + os.path.join(WWW, "index.html") + " 2>/dev/null")
     print("   index.html updated (" + str(len(idx)) + " brands)")
 
 # Lock to prevent concurrent runs
