@@ -96,6 +96,42 @@
 </div>
 
 <script>
+// ===== 动效 =====
+var interval = setInterval(function(){
+    var spinner = document.getElementById('spinner');
+    if (!spinner) return;
+    spinner.className = spinner.className === 'fa-spin' ? '' : 'fa-spin';
+}, 800);
+
+var spinner2 = document.getElementById('spinner2');
+if (spinner2) {
+    var s = 100;
+    setInterval(function(){
+        s = s >= 360 ? 0 : s + 10;
+        spinner2.style.transform = 'rotate(' + s + 'deg)';
+    }, 50);
+}
+
+var circleFrames = ['|','/','-','\\','|','/','-','\\'];
+var ci = 0;
+setInterval(function(){
+    var el = document.getElementById('circle-chars');
+    if (el) {
+        el.textContent = circleFrames[ci];
+        ci = (ci + 1) % circleFrames.length;
+    }
+}, 120);
+
+var progressPercent = 0;
+setInterval(function(){
+    var bar = document.getElementById('progress-bar');
+    if (bar) {
+        progressPercent = (progressPercent + 1) % 101;
+        bar.style.width = progressPercent + '%';
+        bar.textContent = progressPercent + '%';
+    }
+}, 80);
+
 // ===== 品牌数据 =====
 var brandsData = [
 {name:"Fove",name_en:"Fove",slug:"fove",category:"general",t:1},
@@ -2534,5 +2570,6 @@ function searchBrand() {
 document.addEventListener('DOMContentLoaded', function() {
     renderBrands('zh-CN');
 });
-
-</script>>\n</body>\n</html>
+</script>>
+</body>
+</html>
