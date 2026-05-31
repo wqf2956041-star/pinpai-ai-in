@@ -11,87 +11,84 @@ BASE = "/workspace/pinpai-ai-in"
 WWW = "/var/www/pinpai"
 LOCK_FILE = os.path.join(BASE, ".heartbeat.lock")
 
-# JavaScript rendering code injected after brandsData (show 20 + load more)
-RENDER_JS = (
-    "\\n"
-    "\\n// ===== 品牌渲染（仅前20个 + 加载更多） ====="
-    "\\nvar currentLang = 'zh-CN';"
-    "\\nvar DISPLAY_COUNT = 20;"
-    "\\nvar currentCount = DISPLAY_COUNT;"
-    "\\n"
-    "\\nfunction renderBrands(lang) {"
-    "\\n    var list = document.getElementById('brand-list');"
-    "\\n    if (!list) return;"
-    "\\n    var html = '';"
-    "\\n    var count = Math.min(currentCount, brandsData.length);"
-    "\\n    for (var i = 0; i < count; i++) {"
-    "\\n        var b = brandsData[i];"
-    "\\n        var name = b.name;"
-    "\\n        var nameEn = b.name_en || b.name;"
-    "\\n        html += '<a class=\"brand-card\" href=\"/' + b.slug + '/\">';"
-    "\\n        html += '<h2>' + name + '</h2>';"
-    "\\n        html += '<div class=\"en\">' + nameEn + '</div>';"
-    "\\n        if (b.category) html += '<span class=\"cat-tag\">' + b.category + '</span>';"
-    "\\n        html += '</a>';"
-    "\\n    }"
-    "\\n    if (count < brandsData.length) {"
-    "\\n        html += '<div style=\"text-align:center;padding:20px\">';"
-    "\\n        html += '<button onclick=\"loadMore()\" style=\"padding:12px 36px;background:#222;color:#fff;border:none;border-radius:8px;font-size:16px;cursor:pointer\">加载更多品牌 ↓</button>';"
-    "\\n        html += '</div>';"
-    "\\n    }"
-    "\\n    list.innerHTML = html;"
-    "\\n    var el = document.querySelector('.brand-count');"
-    "\\n    if (el) el.textContent = '共 ' + brandsData.length + ' 个品牌 · 显示前 ' + count + ' 个';"
-    "\\n}"
-    "\\n"
-    "\\nfunction loadMore() {"
-    "\\n    currentCount += DISPLAY_COUNT;"
-    "\\n    if (currentCount > brandsData.length) currentCount = brandsData.length;"
-    "\\n    renderBrands(currentLang);"
-    "\\n}"
-    "\\n"
-    "\\nfunction switchLang(lang) {"
-    "\\n    currentLang = lang;"
-    "\\n    var tabs = document.querySelectorAll('.lang-tab');"
-    "\\n    for (var i = 0; i < tabs.length; i++) {"
-    "\\n        tabs[i].classList.remove('active');"
-    "\\n        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {"
-    "\\n            tabs[i].classList.add('active');"
-    "\\n        }"
-    "\\n    }"
-    "\\n    renderBrands(lang);"
-    "\\n}"
-    "\\n"
-    "\\nfunction searchBrand() {"
-    "\\n    var input = document.getElementById('search-input');"
-    "\\n    var query = input.value.toLowerCase().trim();"
-    "\\n    var list = document.getElementById('brand-list');"
-    "\\n    if (!list) return;"
-    "\\n    if (!query) { currentCount = DISPLAY_COUNT; renderBrands(currentLang); return; }"
-    "\\n    var html = '';"
-    "\\n    for (var i = 0; i < brandsData.length; i++) {"
-    "\\n        var b = brandsData[i];"
-    "\\n        var name = (b.name || '').toLowerCase();"
-    "\\n        var nameEn = (b.name_en || '').toLowerCase();"
-    "\\n        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {"
-    "\\n            html += '<a class=\"brand-card\" href=\"/' + b.slug + '/\">';"
-    "\\n            html += '<h2>' + b.name + '</h2>';"
-    "\\n            html += '<div class=\"en\">' + (b.name_en || b.name) + '</div>';"
-    "\\n            if (b.category) html += '<span class=\"cat-tag\">' + b.category + '</span>';"
-    "\\n            html += '</a>';"
-    "\\n        }"
-    "\\n    }"
-    "\\n    if (!html) html = '<div style=\"padding:30px;text-align:center;color:#999\">未找到匹配的品牌</div>';"
-    "\\n    list.innerHTML = html;"
-    "\\n    var el = document.querySelector('.brand-count');"
-    "\\n    if (el) el.textContent = '搜索结果';"
-    "\\n}"
-    "\\n"
-    "\\ndocument.addEventListener('DOMContentLoaded', function() {"
-    "\\n    renderBrands('zh-CN');"
-    "\\n});"
-    "\\n"
-)
+RENDER_JS = """
+// ===== 品牌渲染（仅前20个 + 加载更多） =====
+var currentLang = 'zh-CN';
+var DISPLAY_COUNT = 20;
+var currentCount = DISPLAY_COUNT;
+
+function renderBrands(lang) {
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    var html = '';
+    var count = Math.min(currentCount, brandsData.length);
+    for (var i = 0; i < count; i++) {
+        var b = brandsData[i];
+        var name = b.name;
+        var nameEn = b.name_en || b.name;
+        html += '<a class="brand-card" href="/' + b.slug + '/">';
+        html += '<h2>' + name + '</h2>';
+        html += '<div class="en">' + nameEn + '</div>';
+        if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
+        html += '</a>';
+    }
+    if (count < brandsData.length) {
+        html += '<div style="text-align:center;padding:20px">';
+        html += '<button onclick="loadMore()" style="padding:12px 36px;background:#222;color:#fff;border:none;border-radius:8px;font-size:16px;cursor:pointer">加载更多品牌 ↓</button>';
+        html += '</div>';
+    }
+    list.innerHTML = html;
+    var el = document.querySelector('.brand-count');
+    if (el) el.textContent = '共 ' + brandsData.length + ' 个品牌 · 显示前 ' + count + ' 个';
+}
+
+function loadMore() {
+    currentCount += DISPLAY_COUNT;
+    if (currentCount > brandsData.length) currentCount = brandsData.length;
+    renderBrands(currentLang);
+}
+
+function switchLang(lang) {
+    currentLang = lang;
+    var tabs = document.querySelectorAll('.lang-tab');
+    for (var i = 0; i < tabs.length; i++) {
+        tabs[i].classList.remove('active');
+        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {
+            tabs[i].classList.add('active');
+        }
+    }
+    renderBrands(lang);
+}
+
+function searchBrand() {
+    var input = document.getElementById('search-input');
+    var query = input.value.toLowerCase().trim();
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    if (!query) { currentCount = DISPLAY_COUNT; renderBrands(currentLang); return; }
+    var html = '';
+    for (var i = 0; i < brandsData.length; i++) {
+        var b = brandsData[i];
+        var name = (b.name || '').toLowerCase();
+        var nameEn = (b.name_en || '').toLowerCase();
+        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {
+            html += '<a class="brand-card" href="/' + b.slug + '/">';
+            html += '<h2>' + b.name + '</h2>';
+            html += '<div class="en">' + (b.name_en || b.name) + '</div>';
+            if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
+            html += '</a>';
+        }
+    }
+    if (!html) html = '<div style="padding:30px;text-align:center;color:#999">未找到匹配的品牌</div>';
+    list.innerHTML = html;
+    var el = document.querySelector('.brand-count');
+    if (el) el.textContent = '搜索结果';
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    renderBrands('zh-CN');
+});
+"""
 
 def _update_index_html():
     """Regenerate brandsData — remove ALL old var brandsData blocks, then append one at end of </script>."""
@@ -127,9 +124,10 @@ def _update_index_html():
     with open(os.path.join(BASE, "index.html"), "w") as f:
         f.write(html)
     # CRITICAL: Sync to www directory
-    import shutil
-    shutil.copy2(os.path.join(BASE, "index.html"), os.path.join(WWW, "index.html"))
-    os.system("sudo chown caddy:caddy " + os.path.join(WWW, "index.html") + " 2>/dev/null")
+    import shutil, subprocess
+    shutil.copy2(os.path.join(BASE, "index.html"), "/tmp/pinpai_index.html")
+    subprocess.run(["sudo", "cp", "/tmp/pinpai_index.html", os.path.join(WWW, "index.html")], capture_output=True)
+    subprocess.run(["sudo", "chown", "caddy:caddy", os.path.join(WWW, "index.html")], capture_output=True)
     print("   index.html updated (" + str(len(idx)) + " brands)")
 
 # Lock to prevent concurrent runs
