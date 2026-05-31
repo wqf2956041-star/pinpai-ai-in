@@ -96,75 +96,6 @@
 </div>
 
 <script>
-// ===== 组合动画（最终版） =====
-// 第一行：Braille转圈 + 省略号闪烁
-var brailleFrames = ['\u2818','\u2817','\u283E','\u283D','\u283B','\u283F','\u2833','\u2809'];
-var bi = 0;
-setInterval(function(){
-    document.getElementById('spinner1').textContent = brailleFrames[bi];
-    bi = (bi + 1) % brailleFrames.length;
-}, 120);
-var dotVisible1 = true;
-setInterval(function(){
-    dotVisible1 = !dotVisible1;
-    document.getElementById('dot1').textContent = dotVisible1 ? '\u2026' : ' ';
-}, 500);
-
-// 第二行：一字旋转 + 省略号闪烁
-var lineFrames = ['|','/','-','\\','|','/','-','\\'];
-var li2 = 0;
-setInterval(function(){
-    document.getElementById('spinner2').textContent = lineFrames[li2];
-    li2 = (li2 + 1) % lineFrames.length;
-}, 130);
-var dotVisible2 = true;
-setInterval(function(){
-    dotVisible2 = !dotVisible2;
-    document.getElementById('dot2').textContent = dotVisible2 ? '\u2026' : ' ';
-}, 500);
-
-// 第三行：半圆逐帧转 + 百分号推进
-var circleFrames = ['\u25D2','\u25D0','\u25D3','\u25D1'];
-var ci = 0;
-var progressPercent = 76;
-setInterval(function(){
-    document.getElementById('spinner3').textContent = circleFrames[ci];
-    ci = (ci + 1) % circleFrames.length;
-}, 250);
-setInterval(function(){
-    progressPercent = (progressPercent + 1) % 100;
-    var equals = '';
-    for(var j = 0; j < Math.floor(progressPercent / 4); j++) { equals += '='; }
-    document.getElementById('progress3').textContent = progressPercent + '%' + equals + '>';
-}, 100);
-
-var li2 = 0;
-setInterval(function(){
-    document.getElementById('spinner2').textContent = lineFrames[li2];
-    li2 = (li2 + 1) % lineFrames.length;
-}, 130);
-var dotVisible2 = true;
-setInterval(function(){
-    dotVisible2 = !dotVisible2;
-    document.getElementById('dot2').textContent = dotVisible2 ? '\u2026' : ' ';
-}, 500);
-
-// 第三行：半圆逐帧转 + 百分号推进
-var circleFrames = ['\u25D2','\u25D0','\u25D3','\u25D1'];
-var ci = 0;
-var progressPercent = 76;
-setInterval(function(){
-    document.getElementById('spinner3').textContent = circleFrames[ci];
-    ci = (ci + 1) % circleFrames.length;
-}, 250);
-setInterval(function(){
-    progressPercent = (progressPercent + 1) % 100;
-    var equals = '';
-    for(var j = 0; j < Math.floor(progressPercent / 4); j++) { equals += '='; }
-    document.getElementById('progress3').textContent = progressPercent + '%' + equals + '>';
-}, 100);
-
-
 // ===== 品牌数据 =====
 var brandsData = [
 {name:"Fove",name_en:"Fove",slug:"fove",category:"general",t:1},
@@ -2540,4 +2471,68 @@ var brandsData = [
 {name:"adidas",name_en:"adidas",slug:"adidas",category:"sport",t:1},
 {name:"Acne Studios",name_en:"Acne Studios",slug:"acne-studios",category:"fashion-luxury",t:1},
 {name:"A. Lange & Söhne",name_en:"A. Lange & Söhne",slug:"a--lange-and-s-hne",category:"watch",t:1},
-{name:"3M",name_en:"3M",slug:"3m",category:"materials",t:1}\n];\n\n// ===== 品牌渲染函数 =====\nvar currentLang = 'zh-CN';\n\nfunction renderBrands(lang) {\n    var list = document.getElementById('brand-list');\n    if (!list) return;\n    var html = '';\n    for (var i = 0; i < brandsData.length; i++) {\n        var b = brandsData[i];\n        var name = b.name;\n        var nameEn = b.name_en || b.name;\n        html += '<a class=\"brand-card\" href=\"/' + b.slug + '/\">';\n        html += '<h2>' + name + '</h2>';\n        html += '<div class=\"en\">' + nameEn + '</div>';\n        if (b.category) html += '<span class=\"cat-tag\">' + b.category + '</span>';\n        html += '</a>';\n    }\n    list.innerHTML = html;\n    var count = document.querySelector('.brand-count');\n    if (count) count.textContent = '共 ' + brandsData.length + ' 个品牌';\n}\n\nfunction switchLang(lang) {\n    currentLang = lang;\n    // Toggle active class on tabs\n    var tabs = document.querySelectorAll('.lang-tab');\n    for (var i = 0; i < tabs.length; i++) {\n        tabs[i].classList.remove('active');\n        if (tabs[i].textContent.indexOf(lang) >= 0 || tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {\n            tabs[i].classList.add('active');\n        }\n    }\n    renderBrands(lang);\n}\n\nfunction searchBrand() {\n    var input = document.getElementById('search-input');\n    var query = input.value.toLowerCase().trim();\n    var list = document.getElementById('brand-list');\n    if (!list) return;\n    if (!query) {\n        renderBrands(currentLang);\n        return;\n    }\n    var html = '';\n    for (var i = 0; i < brandsData.length; i++) {\n        var b = brandsData[i];\n        var name = (b.name || '').toLowerCase();\n        var nameEn = (b.name_en || '').toLowerCase();\n        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {\n            html += '<a class=\"brand-card\" href=\"/' + b.slug + '/\">';\n            html += '<h2>' + b.name + '</h2>';\n            html += '<div class=\"en\">' + b.name_en + '</div>';\n            if (b.category) html += '<span class=\"cat-tag\">' + b.category + '</span>';\n            html += '</a>';\n        }\n    }\n    if (!html) html = '<p style=\"color:#999;text-align:center;padding:40px 0\">未找到匹配的品牌</p>';\n    list.innerHTML = html;\n}\n\n// 默认渲染\ndocument.addEventListener('DOMContentLoaded', function() {\n    renderBrands('zh-CN');\n});\n</script>\n</body>\n</html>
+{name:"3M",name_en:"3M",slug:"3m",category:"materials",t:1}
+];
+
+// ===== 品牌渲染函数 =====
+var currentLang = 'zh-CN';
+
+function renderBrands(lang) {
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    var html = '';
+    for (var i = 0; i < brandsData.length; i++) {
+        var b = brandsData[i];
+        var name = b.name;
+        var nameEn = b.name_en || b.name;
+        html += '<a class="brand-card" href="/' + b.slug + '/">';
+        html += '<h2>' + name + '</h2>';
+        html += '<div class="en">' + nameEn + '</div>';
+        if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
+        html += '</a>';
+    }
+    list.innerHTML = html;
+    var count = document.querySelector('.brand-count');
+    if (count) count.textContent = '共 ' + brandsData.length + ' 个品牌';
+}
+
+function switchLang(lang) {
+    currentLang = lang;
+    var tabs = document.querySelectorAll('.lang-tab');
+    for (var i = 0; i < tabs.length; i++) {
+        tabs[i].classList.remove('active');
+        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {
+            tabs[i].classList.add('active');
+        }
+    }
+    renderBrands(lang);
+}
+
+function searchBrand() {
+    var input = document.getElementById('search-input');
+    var query = input.value.toLowerCase().trim();
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    if (!query) { renderBrands(currentLang); return; }
+    var html = '';
+    for (var i = 0; i < brandsData.length; i++) {
+        var b = brandsData[i];
+        var name = (b.name || '').toLowerCase();
+        var nameEn = (b.name_en || '').toLowerCase();
+        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {
+            html += '<a class="brand-card" href="/' + b.slug + '/">';
+            html += '<h2>' + b.name + '</h2>';
+            html += '<div class="en">' + b.name_en + '</div>';
+            if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
+            html += '</a>';
+        }
+    }
+    if (!html) html = '<p style="color:#999;text-align:center;padding:40px 0">未找到匹配的品牌</p>';
+    list.innerHTML = html;
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    renderBrands('zh-CN');
+});
+
+</script>>\n</body>\n</html>
