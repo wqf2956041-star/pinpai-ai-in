@@ -14242,5 +14242,65 @@
     "name": "Fove",
     "name_en": "Fove",
     "category": "general"
+  },
+  {
+    "slug": "goldstar-shoes",
+    "name": "Goldstar shoes",
+    "name_en": "Goldstar shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "goodwill-shoe-company",
+    "name": "Goodwill Shoe Company",
+    "name_en": "Goodwill Shoe Company",
+    "category": "fashion"
+  },
+  {
+    "slug": "grand-sport-group",
+    "name": "Grand Sport Group",
+    "name_en": "Grand Sport Group",
+    "category": "fashion"
+  },
+  {
+    "slug": "gravati",
+    "name": "Gravati",
+    "name_en": "Gravati",
+    "category": "fashion"
+  },
+  {
+    "slug": "grendene",
+    "name": "Grendene",
+    "name_en": "Grendene",
+    "category": "fashion"
+  },
+  {
+    "slug": "hanes-australasia",
+    "name": "Hanes Australasia",
+    "name_en": "Hanes Australasia",
+    "category": "fashion"
+  },
+  {
+    "slug": "hanwag",
+    "name": "Hanwag",
+    "name_en": "Hanwag",
+    "category": "fashion"
+  },
+  {
+    "slug": "havaianas",
+    "name": "Havaianas",
+    "name_en": "Havaianas",
+    "category": "fashion"
+  },
+  {
+    "slug": "heelys",
+    "name": "Heelys",
+    "name_en": "Heelys",
+    "category": "fashion"
+  },
+  {
+    "slug": "herbert-levine-company",
+    "name": "Herbert Levine (company)",
+    "name_en": "Herbert Levine (company)",
+    "category": "fashion"
   }
 ]

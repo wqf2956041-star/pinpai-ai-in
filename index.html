@@ -132,8 +132,139 @@ setInterval(function(){
     }
 }, 80);
 
+// ===== 品牌渲染函数 =====
+var currentLang = 'zh-CN';
+
+function renderBrands(lang) {
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    var html = '';
+    for (var i = 0; i < brandsData.length; i++) {
+        var b = brandsData[i];
+        var name = b.name;
+        var nameEn = b.name_en || b.name;
+        html += '<a class="brand-card" href="/' + b.slug + '/">';
+        html += '<h2>' + name + '</h2>';
+        html += '<div class="en">' + nameEn + '</div>';
+        if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
+        html += '</a>';
+    }
+    list.innerHTML = html;
+    var count = document.querySelector('.brand-count');
+    if (count) count.textContent = '共 ' + brandsData.length + ' 个品牌';
+}
+
+function switchLang(lang) {
+    currentLang = lang;
+    var tabs = document.querySelectorAll('.lang-tab');
+    for (var i = 0; i < tabs.length; i++) {
+        tabs[i].classList.remove('active');
+        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {
+            tabs[i].classList.add('active');
+        }
+    }
+    renderBrands(lang);
+}
+
+function searchBrand() {
+    var input = document.getElementById('search-input');
+    var query = input.value.toLowerCase().trim();
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    if (!query) { renderBrands(currentLang); return; }
+    var html = '';
+    for (var i = 0; i < brandsData.length; i++) {
+        var b = brandsData[i];
+
+// ===== 品牌渲染（仅前20个 + 加载更多） =====
+var currentLang = 'zh-CN';
+var DISPLAY_COUNT = 20;
+var currentCount = DISPLAY_COUNT;
+
+function renderBrands(lang) {
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    var html = '';
+    var count = Math.min(currentCount, brandsData.length);
+    for (var i = 0; i < count; i++) {
+        var b = brandsData[i];
+        var name = b.name;
+        var nameEn = b.name_en || b.name;
+        html += '<a class="brand-card" href="/' + b.slug + '/">';
+        html += '<h2>' + name + '</h2>';
+        html += '<div class="en">' + nameEn + '</div>';
+        if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
+        html += '</a>';
+    }
+    if (count < brandsData.length) {
+        html += '<div style="text-align:center;padding:20px">';
+        html += '<button onclick="loadMore()" style="padding:12px 36px;background:#222;color:#fff;border:none;border-radius:8px;font-size:16px;cursor:pointer">加载更多品牌 ↓</button>';
+        html += '</div>';
+    }
+    list.innerHTML = html;
+    var el = document.querySelector('.brand-count');
+    if (el) el.textContent = '共 ' + brandsData.length + ' 个品牌 · 显示前 ' + count + ' 个';
+}
+
+function loadMore() {
+    currentCount += DISPLAY_COUNT;
+    if (currentCount > brandsData.length) currentCount = brandsData.length;
+    renderBrands(currentLang);
+}
+
+function switchLang(lang) {
+    currentLang = lang;
+    var tabs = document.querySelectorAll('.lang-tab');
+    for (var i = 0; i < tabs.length; i++) {
+        tabs[i].classList.remove('active');
+        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {
+            tabs[i].classList.add('active');
+        }
+    }
+    renderBrands(lang);
+}
+
+function searchBrand() {
+    var input = document.getElementById('search-input');
+    var query = input.value.toLowerCase().trim();
+    var list = document.getElementById('brand-list');
+    if (!list) return;
+    if (!query) { currentCount = DISPLAY_COUNT; renderBrands(currentLang); return; }
+    var html = '';
+    for (var i = 0; i < brandsData.length; i++) {
+        var b = brandsData[i];
+        var name = (b.name || '').toLowerCase();
+        var nameEn = (b.name_en || '').toLowerCase();
+        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {
+            html += '<a class="brand-card" href="/' + b.slug + '/">';
+            html += '<h2>' + b.name + '</h2>';
+            html += '<div class="en">' + (b.name_en || b.name) + '</div>';
+            if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
+            html += '</a>';
+        }
+    }
+    if (!html) html = '<div style="padding:30px;text-align:center;color:#999">未找到匹配的品牌</div>';
+    list.innerHTML = html;
+    var el = document.querySelector('.brand-count');
+    if (el) el.textContent = '搜索结果';
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    renderBrands('zh-CN');
+});
+
 // ===== 品牌数据 =====
 var brandsData = [
+{name:"Herbert Levine (company)",name_en:"Herbert Levine (company)",slug:"herbert-levine-company",category:"fashion",t:1},
+{name:"Heelys",name_en:"Heelys",slug:"heelys",category:"fashion",t:1},
+{name:"Havaianas",name_en:"Havaianas",slug:"havaianas",category:"fashion",t:1},
+{name:"Hanwag",name_en:"Hanwag",slug:"hanwag",category:"fashion",t:1},
+{name:"Hanes Australasia",name_en:"Hanes Australasia",slug:"hanes-australasia",category:"fashion",t:1},
+{name:"Grendene",name_en:"Grendene",slug:"grendene",category:"fashion",t:1},
+{name:"Gravati",name_en:"Gravati",slug:"gravati",category:"fashion",t:1},
+{name:"Grand Sport Group",name_en:"Grand Sport Group",slug:"grand-sport-group",category:"fashion",t:1},
+{name:"Goodwill Shoe Company",name_en:"Goodwill Shoe Company",slug:"goodwill-shoe-company",category:"fashion",t:1},
+{name:"Goldstar shoes",name_en:"Goldstar shoes",slug:"goldstar-shoes",category:"fashion",t:1},
 {name:"Fove",name_en:"Fove",slug:"fove",category:"general",t:1},
 {name:"Fostex",name_en:"Fostex",slug:"fostex",category:"general",t:1},
 {name:"FOR-A",name_en:"FOR-A",slug:"for-a",category:"general",t:1},
@@ -2509,127 +2640,6 @@ var brandsData = [
 {name:"A. Lange & Söhne",name_en:"A. Lange & Söhne",slug:"a--lange-and-s-hne",category:"watch",t:1},
 {name:"3M",name_en:"3M",slug:"3m",category:"materials",t:1}
 ];
-
-// ===== 品牌渲染函数 =====
-var currentLang = 'zh-CN';
-
-function renderBrands(lang) {
-    var list = document.getElementById('brand-list');
-    if (!list) return;
-    var html = '';
-    for (var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i];
-        var name = b.name;
-        var nameEn = b.name_en || b.name;
-        html += '<a class="brand-card" href="/' + b.slug + '/">';
-        html += '<h2>' + name + '</h2>';
-        html += '<div class="en">' + nameEn + '</div>';
-        if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
-        html += '</a>';
-    }
-    list.innerHTML = html;
-    var count = document.querySelector('.brand-count');
-    if (count) count.textContent = '共 ' + brandsData.length + ' 个品牌';
-}
-
-function switchLang(lang) {
-    currentLang = lang;
-    var tabs = document.querySelectorAll('.lang-tab');
-    for (var i = 0; i < tabs.length; i++) {
-        tabs[i].classList.remove('active');
-        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {
-            tabs[i].classList.add('active');
-        }
-    }
-    renderBrands(lang);
-}
-
-function searchBrand() {
-    var input = document.getElementById('search-input');
-    var query = input.value.toLowerCase().trim();
-    var list = document.getElementById('brand-list');
-    if (!list) return;
-    if (!query) { renderBrands(currentLang); return; }
-    var html = '';
-    for (var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i];
-
-// ===== 品牌渲染（仅前20个 + 加载更多） =====
-var currentLang = 'zh-CN';
-var DISPLAY_COUNT = 20;
-var currentCount = DISPLAY_COUNT;
-
-function renderBrands(lang) {
-    var list = document.getElementById('brand-list');
-    if (!list) return;
-    var html = '';
-    var count = Math.min(currentCount, brandsData.length);
-    for (var i = 0; i < count; i++) {
-        var b = brandsData[i];
-        var name = b.name;
-        var nameEn = b.name_en || b.name;
-        html += '<a class="brand-card" href="/' + b.slug + '/">';
-        html += '<h2>' + name + '</h2>';
-        html += '<div class="en">' + nameEn + '</div>';
-        if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
-        html += '</a>';
-    }
-    if (count < brandsData.length) {
-        html += '<div style="text-align:center;padding:20px">';
-        html += '<button onclick="loadMore()" style="padding:12px 36px;background:#222;color:#fff;border:none;border-radius:8px;font-size:16px;cursor:pointer">加载更多品牌 ↓</button>';
-        html += '</div>';
-    }
-    list.innerHTML = html;
-    var el = document.querySelector('.brand-count');
-    if (el) el.textContent = '共 ' + brandsData.length + ' 个品牌 · 显示前 ' + count + ' 个';
-}
-
-function loadMore() {
-    currentCount += DISPLAY_COUNT;
-    if (currentCount > brandsData.length) currentCount = brandsData.length;
-    renderBrands(currentLang);
-}
-
-function switchLang(lang) {
-    currentLang = lang;
-    var tabs = document.querySelectorAll('.lang-tab');
-    for (var i = 0; i < tabs.length; i++) {
-        tabs[i].classList.remove('active');
-        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {
-            tabs[i].classList.add('active');
-        }
-    }
-    renderBrands(lang);
-}
-
-function searchBrand() {
-    var input = document.getElementById('search-input');
-    var query = input.value.toLowerCase().trim();
-    var list = document.getElementById('brand-list');
-    if (!list) return;
-    if (!query) { currentCount = DISPLAY_COUNT; renderBrands(currentLang); return; }
-    var html = '';
-    for (var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i];
-        var name = (b.name || '').toLowerCase();
-        var nameEn = (b.name_en || '').toLowerCase();
-        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {
-            html += '<a class="brand-card" href="/' + b.slug + '/">';
-            html += '<h2>' + b.name + '</h2>';
-            html += '<div class="en">' + (b.name_en || b.name) + '</div>';
-            if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';
-            html += '</a>';
-        }
-    }
-    if (!html) html = '<div style="padding:30px;text-align:center;color:#999">未找到匹配的品牌</div>';
-    list.innerHTML = html;
-    var el = document.querySelector('.brand-count');
-    if (el) el.textContent = '搜索结果';
-}
-
-document.addEventListener('DOMContentLoaded', function() {
-    renderBrands('zh-CN');
-});
-</script>>
+\n\n// ===== 品牌渲染（仅前20个 + 加载更多） =====\nvar currentLang = 'zh-CN';\nvar DISPLAY_COUNT = 20;\nvar currentCount = DISPLAY_COUNT;\n\nfunction renderBrands(lang) {\n    var list = document.getElementById('brand-list');\n    if (!list) return;\n    var html = '';\n    var count = Math.min(currentCount, brandsData.length);\n    for (var i = 0; i < count; i++) {\n        var b = brandsData[i];\n        var name = b.name;\n        var nameEn = b.name_en || b.name;\n        html += '<a class="brand-card" href="/' + b.slug + '/">';\n        html += '<h2>' + name + '</h2>';\n        html += '<div class="en">' + nameEn + '</div>';\n        if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';\n        html += '</a>';\n    }\n    if (count < brandsData.length) {\n        html += '<div style="text-align:center;padding:20px">';\n        html += '<button onclick="loadMore()" style="padding:12px 36px;background:#222;color:#fff;border:none;border-radius:8px;font-size:16px;cursor:pointer">加载更多品牌 ↓</button>';\n        html += '</div>';\n    }\n    list.innerHTML = html;\n    var el = document.querySelector('.brand-count');\n    if (el) el.textContent = '共 ' + brandsData.length + ' 个品牌 · 显示前 ' + count + ' 个';\n}\n\nfunction loadMore() {\n    currentCount += DISPLAY_COUNT;\n    if (currentCount > brandsData.length) currentCount = brandsData.length;\n    renderBrands(currentLang);\n}\n\nfunction switchLang(lang) {\n    currentLang = lang;\n    var tabs = document.querySelectorAll('.lang-tab');\n    for (var i = 0; i < tabs.length; i++) {\n        tabs[i].classList.remove('active');\n        if (tabs[i].getAttribute('onclick').indexOf(lang) >= 0) {\n            tabs[i].classList.add('active');\n        }\n    }\n    renderBrands(lang);\n}\n\nfunction searchBrand() {\n    var input = document.getElementById('search-input');\n    var query = input.value.toLowerCase().trim();\n    var list = document.getElementById('brand-list');\n    if (!list) return;\n    if (!query) { currentCount = DISPLAY_COUNT; renderBrands(currentLang); return; }\n    var html = '';\n    for (var i = 0; i < brandsData.length; i++) {\n        var b = brandsData[i];\n        var name = (b.name || '').toLowerCase();\n        var nameEn = (b.name_en || '').toLowerCase();\n        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {\n            html += '<a class="brand-card" href="/' + b.slug + '/">';\n            html += '<h2>' + b.name + '</h2>';\n            html += '<div class="en">' + (b.name_en || b.name) + '</div>';\n            if (b.category) html += '<span class="cat-tag">' + b.category + '</span>';\n            html += '</a>';\n        }\n    }\n    if (!html) html = '<div style="padding:30px;text-align:center;color:#999">未找到匹配的品牌</div>';\n    list.innerHTML = html;\n    var el = document.querySelector('.brand-count');\n    if (el) el.textContent = '搜索结果';\n}\n\ndocument.addEventListener('DOMContentLoaded', function() {\n    renderBrands('zh-CN');\n});\n</script>>
 </body>
 </html>
