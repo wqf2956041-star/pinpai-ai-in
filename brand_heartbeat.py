@@ -206,9 +206,11 @@ try:
         with open(os.path.join(brand_dir, "brand.json"), "w") as f:
             json.dump(brand_json, f, ensure_ascii=False, indent=2)
 
-        # --- STEP 2: Create index.html from adidas template ---
-        template_dir = os.path.join(BASE, "adidas")
-        template_path = os.path.join(template_dir, "index.html")
+        # --- STEP 2: Create index.html from template with placeholder substitution ---
+        template_path = os.path.join(BASE, "template.html")
+        if not os.path.exists(template_path):
+            # fallback
+            template_path = os.path.join(BASE, "adidas", "index.html")
         if not os.path.exists(template_path):
             print("No template for " + slug + " -- skipping")
             continue
@@ -216,10 +218,21 @@ try:
         with open(template_path) as f:
             template_html = f.read()
 
-        html = template_html.replace("adidas", slug)
-        html = html.replace("阿迪达斯", name_zh)
-        html = html.replace("Adidas", name_en)
-        html = html.replace('category: "sport"', 'category: "' + category + '"')
+        # Build description for meta tags
+        founding_str = ""
+        if b.get("founding_year"):
+            founding_str = "，创立于" + str(b["founding_year"]) + "年"
+        country_str = b.get("country", "")
+        founder_str = b.get("founder", "")
+        founder_meta = ("由" + founder_str + "创立") if founder_str else ""
+        description_zh = name_zh + "（" + name_en + "）是全球知名" + category + "品牌" + founding_str + "。" + founder_meta
+
+        html = template_html
+        html = html.replace("{{SLUG}}", slug)
+        html = html.replace("{{NAME_ZH}}", name_zh)
+        html = html.replace("{{NAME_EN}}", name_en)
+        html = html.replace("{{CATEGORY}}", category)
+        html = html.replace("{{DESCRIPTION_ZH}}", description_zh)
 
         brand_html_path = os.path.join(brand_dir, "index.html")
         with open(brand_html_path, "w") as f:
@@ -249,7 +262,7 @@ try:
 
     # --- STEP 5: Write to brands_index.json (ONLY for successfully deployed brands) ---
     for b in successfully_deployed:
-        index.append({
+        index.insert(0, {
             "slug": b["slug"],
             "name": b["name"],
             "name_en": b.get("name_en", b["name"]),

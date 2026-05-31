@@ -3,13 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>$NAME_ZH$ — $NAME_EN$ | 全球品牌索引 · pinpai.ai.in</title>
-<meta name="description" content="$META_DESC$">
-<meta property="og:title" content="$NAME_ZH$ — $NAME_EN$">
-<meta property="og:description" content="$META_DESC$">
-$PREMIUM_CSS$
-$HREFLANG_TAGS$
-<link rel="canonical" href="https://pinpai.ai.in/$SLUG$/" />
+<title>{{NAME_ZH}} — {{NAME_EN}} | 全球品牌索引 · pinpai.cc.cd</title>
+<meta name="description" content="{{DESCRIPTION_ZH}}">
+<meta property="og:title" content="{{NAME_ZH}} — {{NAME_EN}}">
+<meta property="og:description" content="{{DESCRIPTION_ZH}}">
+
+    <link rel="alternate" hreflang="zh-Hans" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="en" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="fr" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="es" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="de" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="ja" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="ko" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="pt" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="ru" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+    <link rel="alternate" hreflang="ar" href="https://pinpai.cc.cd/{{SLUG}}/"/>
+
+<link rel="canonical" href="https://pinpai.cc.cd/{{SLUG}}/" />
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
@@ -32,7 +42,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 .brand-header{margin-bottom:30px;padding-bottom:20px;border-bottom:2px solid #222}
 .brand-header h1{font-size:32px;margin-bottom:4px;letter-spacing:-0.5px}
 .brand-header .brand-sub{font-size:16px;color:#777}
-$PREMIUM_BADGE$
+
 
 /* --- Brand Info Cards --- */
 .info-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:30px}
@@ -113,40 +123,37 @@ $PREMIUM_BADGE$
 
 <!-- Brand Header -->
 <div class="brand-header">
-  <h1 id="brand-title">$NAME_ZH$ <span style="font-weight:400;font-size:24px;color:#777">— $NAME_EN$</span></h1>
-  <div class="brand-sub" id="brand-sub">$CATEGORY_LABEL$</div>
+  <h1 id="brand-title">{{NAME_ZH}} <span style="font-weight:400;font-size:24px;color:#777">— {{NAME_EN}}</span></h1>
+  <div class="brand-sub" id="brand-sub">{{CATEGORY}}</div>
 </div>
 
 <!-- Info Cards -->
 <div class="info-grid" id="info-grid">
-  <div class="info-card"><div class="label">创立时间 · Founded</div><div class="value">$FOUNDING_YEAR$</div></div>
-  <div class="info-card"><div class="label">创立地点 · Location</div><div class="value">$FOUNDING_LOCATION$</div></div>
-  <div class="info-card"><div class="label">创始人 · Founder</div><div class="value">$FOUNDER$</div></div>
-  <div class="info-card"><div class="label">官网 · Website</div><div class="value"><a href="$WEBSITE$" target="_blank" rel="noopener">$WEBSITE_SHORT$</a></div></div>
-  <div class="info-card"><div class="label">主营业务 · Business</div><div class="value">$MAIN_BUSINESS$</div></div>
-  <div class="info-card"><div class="label">品牌标语 · Slogan</div><div class="value">$SLOGAN$</div></div>
+  <div class="info-card"><div class="label">创立时间 · Founded</div><div class="value" id="val-year"></div></div>
+  <div class="info-card"><div class="label">创立地点 · Location</div><div class="value" id="val-location"></div></div>
+  <div class="info-card"><div class="label">创始人 · Founder</div><div class="value" id="val-founder"></div></div>
+  <div class="info-card"><div class="label">官网 · Website</div><div class="value" id="val-website"></div></div>
+  <div class="info-card"><div class="label">主营业务 · Business</div><div class="value" id="val-business"></div></div>
+  <div class="info-card"><div class="label">品牌标语 · Slogan</div><div class="value" id="val-slogan"></div></div>
 </div>
 
 <!-- Content -->
 <div class="brand-content" id="brand-content">
-  $CONTENT$
+  <p id="content-text"></p>
 </div>
 
-<!-- Similar Brands (dynamic: latest brands from index) -->
+<!-- Similar Brands -->
 <div class="similar-section">
-  <h3 id="similar-title">$SIMILAR_TITLE$</h3>
+  <h3 id="similar-title">类似品牌</h3>
   <div class="similar-grid" id="similar-grid">
-    <!-- 固定推广位 -->
     <a href="/escher/" class="similar-card premium"><span class="zh">埃舍尔Escher <span class="badge-premium">品牌推广</span></span><span class="en">埃舍尔Escher</span></a>
-    <a href="/pre-order/" class="similar-card slot-open"><span class="zh">预售坑位 <span class="badge-slot">预留</span></span><span class="en">Pre-Order</span></a>
-    <a href="/sponsor/" class="similar-card slot-open"><span class="zh">赞助商坑位 <span class="badge-slot">预留</span></span><span class="en">Sponsor</span></a>
-    <!-- 动态品牌由JS填充 -->
+    <div id="dynamic-similars" style="display:contents"></div>
   </div>
 </div>
 
 <!-- Footer -->
 <div class="footer">
-  <p><a href="https://pinpai.ai.in">全球品牌索引 · pinpai.ai.in</a> — 全球品牌大全，10种语言呈现</p>
+  <p><a href="https://pinpai.cc.cd">全球品牌索引 · pinpai.cc.cd</a> — 全球品牌大全，10种语言呈现</p>
 </div>
 
 <!-- 首页按钮 -->
@@ -157,81 +164,158 @@ $PREMIUM_BADGE$
 </div><!-- /container -->
 
 <script>
-// ===== BRAND DATA =====
-// Each language has independent content (rewritten, not translated)
-const BRAND_DATA = $BRAND_JSON$;
+// ===== Load brand data from brand.json =====
+var brandData = null;
+var brandsIndex = [];
 
-function loadDynamicBrands() {
-  // 从 /brands_index.json 取最新品牌填充底部坑位
-  var grid = document.getElementById('similar-grid');
-  if (!grid) return;
-  // 固定前3个坑位 (Escher推广, 预售, 赞助商), 跳过
-  var fixedCount = 3;
+function loadBrandData() {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '/brands_index.json', true);
+  xhr.open('GET', 'brand.json', true);
   xhr.onload = function() {
-    try {
-      var brands = JSON.parse(xhr.responseText);
-      // 取最新 (数组末尾) 品牌, 跳过当前页面
-      var currentSlug = window.location.pathname.replace(/\\//g,'');
-      var html = '';
-      var count = 0;
-      for (var i = brands.length - 1; i >= 0 && count < 15; i--) {
-        var b = brands[i];
-        if (b.slug === currentSlug) continue;
-        html += '<a href=\"/' + b.slug + '/\" class=\"similar-card\"><span class=\"zh\">' + (b.name || '') + '</span><span class=\"en\">' + (b.name_en || b.name || '') + '</span></a>';
-        count++;
-      }
-      grid.innerHTML = grid.children[0].outerHTML + grid.children[1].outerHTML + grid.children[2].outerHTML + html;
-    } catch(e) {}
+    if (xhr.status === 200) {
+      brandData = JSON.parse(xhr.responseText);
+      applyData('zh-CN');
+    }
   };
   xhr.send();
+  // Also load brands index for similar section
+  var xhr2 = new XMLHttpRequest();
+  xhr2.open('GET', '/brands_index.json', true);
+  xhr2.onload = function() {
+    if (xhr2.status === 200) {
+      brandsIndex = JSON.parse(xhr2.responseText);
+      renderSimilarBrands();
+    }
+  };
+  xhr2.send();
 }
 
-function searchBrand() {
-  const q = document.getElementById('search-input').value.trim();
-  if (!q) return;
-  window.location.href = '/search.html?q=' + encodeURIComponent(q);
+function getLangData(lang) {
+  if (!brandData) return null;
+
+  var name = brandData.name_zh || (brandData.names && brandData.names['zh-CN']) || brandData.name_en || '';
+  var name_en = brandData.name_en || (brandData.names && brandData.names['en']) || '';
+  var founding_year = brandData.founding_year || brandData.year || '';
+  var founding_location = brandData.founding_location || brandData.country || '';
+  var founder = brandData.founder || '';
+  var website = brandData.official_website || brandData.website || '';
+  var business = (brandData.main_business || []).join(', ') || brandData.category || '';
+  var slogan = brandData.current_slogan || brandData.slogan || '';
+
+  // Build content from available data
+  var content = '';
+  var zhContent = brandData.description_zh || (brandData.languages && brandData.languages['zh-CN']) || '';
+
+  if (lang === 'zh-CN') {
+    if (zhContent) {
+      content = '<p>' + zhContent.replace(/\n/g, '</p><p>') + '</p>';
+    } else {
+      // Build from available structured data
+      var parts = [];
+      parts.push(name + '（' + name_en + '）是全球知名品牌' + (founding_year ? '，创立于' + founding_year + '年' : '') + '。' + (founder ? '由' + founder + '创立。' : ''));
+      if (founding_location) parts.push('总部位于' + founding_location + '。');
+      if (business) parts.push('主营业务包括' + business + '。');
+      if (brandData.historical_facts && brandData.historical_facts.length > 0) {
+        parts.push('</p><h2>发展历程</h2><p>');
+        for (var k = 0; k < brandData.historical_facts.length; k++) {
+          parts.push(brandData.historical_facts[k] + '。');
+        }
+      }
+      content = '<p>' + parts.join(' ') + '</p>';
+    }
+  } else {
+    var langContent = brandData.languages && brandData.languages[lang];
+    if (langContent) {
+      content = '<p>' + langContent.replace(/\n/g, '</p><p>') + '</p>';
+    } else {
+      content = '<p>' + name_en + ' is a global brand.' + (founding_year ? ' Founded in ' + founding_year + '.' : '') + (founder ? ' Founded by ' + founder + '.' : '') + '</p>';
+    }
+  }
+
+  return {
+    name: lang === 'zh-CN' ? name : name_en,
+    name_en: name_en,
+    founding_year: founding_year,
+    founding_location: founding_location,
+    founder: founder,
+    website: website,
+    business: business,
+    slogan: slogan,
+    content: content,
+    similar_title: '类似品牌'
+  };
+}
+
+function applyData(lang) {
+  var data = getLangData(lang);
+  if (!data) return;
+
+  document.getElementById('brand-title').innerHTML = data.name + (data.name_en ? ' <span style="font-weight:400;font-size:24px;color:#777">— ' + data.name_en + '</span>' : '');
+  
+  // Only show info cards that have data
+  var cardMappings = [
+    {id: 'val-year', label: '创立时间 · Founded', val: data.founding_year},
+    {id: 'val-location', label: '创立地点 · Location', val: data.founding_location},
+    {id: 'val-founder', label: '创始人 · Founder', val: data.founder},
+    {id: 'val-website', label: '官网 · Website', val: data.website},
+    {id: 'val-business', label: '主营业务 · Business', val: data.business},
+    {id: 'val-slogan', label: '品牌标语 · Slogan', val: data.slogan},
+  ];
+  
+  // Hide all info card wrappers first, then show only those with data
+  var allCards = document.getElementById('info-grid').children;
+  for (var i = 0; i < allCards.length; i++) {
+    allCards[i].style.display = 'none';
+  }
+  
+  for (var m = 0; m < cardMappings.length; m++) {
+    var cm = cardMappings[m];
+    var el = document.getElementById(cm.id);
+    if (el && cm.val) {
+      el.textContent = el.tagName === 'DIV' ? cm.val : (cm.val);
+      // Find the parent info-card div and show it
+      var parent = el.closest('.info-card');
+      if (parent) parent.style.display = '';
+    }
+  }
+
+  document.getElementById('content-text').innerHTML = data.content || '';
 }
 
 function switchLang(lang) {
-  // Update active nav
   document.querySelectorAll('.lang-nav a').forEach(function(a) {
     a.classList.toggle('active', a.getAttribute('data-lang') === lang);
   });
   document.documentElement.setAttribute('lang', lang === 'ar' ? 'ar' : 'zh-CN');
   document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
-
-  var data = BRAND_DATA[lang] || BRAND_DATA['zh-CN'];
-
-  // Title
-  document.getElementById('brand-title').innerHTML = data.name + (data.name_en ? ' <span style="font-weight:400;font-size:24px;color:#777">— ' + data.name_en + '</span>' : '');
-
-  // Info cards
-  var cards = document.getElementById('info-grid').children;
-  cards[0].querySelector('.value').textContent = data.founding_year || '';
-  cards[1].querySelector('.value').textContent = data.founding_location || '';
-  cards[2].querySelector('.value').textContent = data.founder || '';
-  var websiteEl = cards[3].querySelector('.value');
-  var url = data.website || '';
-  if (url) {
-    websiteEl.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + url.replace(/^https?:\/\//,'').replace(/\/$/,'') + '</a>';
-  } else {
-    websiteEl.textContent = '';
-  }
-  cards[4].querySelector('.value').textContent = data.business || '';
-  cards[5].querySelector('.value').textContent = data.slogan || '';
-
-  // Content
-  document.getElementById('brand-content').innerHTML = data.content || '';
-
-  // Similar title
-  document.getElementById('similar-title').textContent = data.similar_title || '类似品牌';
+  applyData(lang);
 }
 
-// Initialize with Chinese
-switchLang('zh-CN');
-loadDynamicBrands();
+function searchBrand() {
+  var q = document.getElementById('search-input').value.trim();
+  if (!q) return;
+  window.location.href = '/search.html?q=' + encodeURIComponent(q);
+}
+
+function renderSimilarBrands() {
+  if (!brandsIndex || brandsIndex.length === 0) return;
+  // Get latest brands except current one, max 10
+  var currentSlug = window.location.pathname.split('/').filter(Boolean)[0];
+  var maxSimilars = 10;
+  var count = 0;
+  var html = '';
+  for (var i = 0; i < brandsIndex.length && count < maxSimilars; i++) {
+    var b = brandsIndex[i];
+    if (b.slug === currentSlug) continue;
+    html += '<a href="/' + b.slug + '/" class="similar-card"><span class="zh">' + (b.name || '') + ' </span><span class="en">' + (b.name_en || '') + '</span></a>';
+    count++;
+  }
+  var container = document.getElementById('dynamic-similars');
+  if (container) container.innerHTML = html;
+}
+
+// Initialize
+loadBrandData();
 </script>
 </body>
 </html>

@@ -1,167 +1,321 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>H&M - 品牌百科</title>
-    <link rel="alternate" href="https://pinpai.ai.in/handm/" hreflang="zh-CN" />
-    <link rel="alternate" href="https://pinpai.ai.in/handm/" hreflang="en" />
-    <link rel="alternate" href="https://pinpai.ai.in/handm/" hreflang="x-default" />
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background: #f5f5f7; color: #1d1d1f; line-height: 1.6; }
-        .container { max-width: 820px; margin: 0 auto; padding: 40px 20px; }
-        .card { background: #fff; border-radius: 16px; padding: 40px; box-shadow: 0 2px 12px rgba(0,0,0,0.04); margin-bottom: 24px; }
-        h1 { font-size: 32px; font-weight: 700; margin-bottom: 8px; }
-        .subtitle { color: #6e6e73; font-size: 16px; margin-bottom: 24px; }
-        .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 24px; }
-        .info-item { background: #f5f5f7; border-radius: 12px; padding: 16px; }
-        .info-item .label { font-size: 12px; color: #6e6e73; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px; }
-        .info-item .value { font-size: 16px; font-weight: 500; }
-        .section-title { font-size: 20px; font-weight: 600; margin: 32px 0 16px; }
-        .description { font-size: 16px; color: #333; margin-bottom: 24px; }
-        .lang-section { background: #f5f5f7; border-radius: 12px; padding: 20px; margin-bottom: 16px; }
-        .lang-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
-        .lang-badge { display: inline-block; background: #1d1d1f; color: #fff; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 4px; letter-spacing: 0.3px; }
-        .lang-name { font-weight: 600; font-size: 14px; color: #6e6e73; }
-        .lang-text { font-size: 14px; color: #333; }
-        .tag { display: inline-block; background: #e8e8ed; color: #1d1d1f; font-size: 13px; padding: 4px 12px; border-radius: 20px; margin-right: 6px; margin-bottom: 6px; }
-        .footer { text-align: center; color: #6e6e73; font-size: 13px; padding: 24px 0; }
-        @media (max-width: 600px) { .info-grid { grid-template-columns: 1fr; } .card { padding: 24px; } }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>H&M — H&M | 全球品牌索引 · pinpai.cc.cd</title>
+<meta name="description" content="H&M（H&M）是全球知名时尚品牌，创立于1947年。由厄林·佩尔松（Erling Persson）创立">
+<meta property="og:title" content="H&M — H&M">
+<meta property="og:description" content="H&M（H&M）是全球知名时尚品牌，创立于1947年。由厄林·佩尔松（Erling Persson）创立">
+
+    <link rel="alternate" hreflang="zh-Hans" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="en" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="fr" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="es" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="de" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="ja" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="ko" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="pt" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="ru" href="https://pinpai.cc.cd/handm/"/>
+    <link rel="alternate" hreflang="ar" href="https://pinpai.cc.cd/handm/"/>
+
+<link rel="canonical" href="https://pinpai.cc.cd/handm/" />
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8f9fa;color:#222;line-height:1.7}
+.container{max-width:960px;margin:0 auto;padding:20px}
+
+/* --- Top Bar: Search + Language --- */
+.top-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:30px;flex-wrap:wrap}
+.search-box{flex:1;min-width:200px;display:flex;gap:6px}
+.search-box input{flex:1;padding:8px 14px;border:2px solid #ddd;border-radius:6px;font-size:14px;outline:none}
+.search-box input:focus{border-color:#222}
+.search-box button{padding:8px 16px;background:#222;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px}
+.search-box button:hover{background:#444}
+
+.lang-nav{display:flex;flex-wrap:wrap;gap:4px}
+.lang-nav a{display:inline-block;padding:4px 10px;border-radius:4px;font-size:13px;text-decoration:none;color:#555;border:1px solid #ddd;transition:all 0.2s}
+.lang-nav a:hover{background:#eee}
+.lang-nav a.active{background:#222;color:#fff;border-color:#222;font-weight:600}
+
+/* --- Brand Header --- */
+.brand-header{margin-bottom:30px;padding-bottom:20px;border-bottom:2px solid #222}
+.brand-header h1{font-size:32px;margin-bottom:4px;letter-spacing:-0.5px}
+.brand-header .brand-sub{font-size:16px;color:#777}
+
+
+/* --- Brand Info Cards --- */
+.info-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:30px}
+.info-card{background:#fff;border:1px solid #eee;border-radius:8px;padding:14px 18px}
+.info-card .label{font-size:12px;color:#999;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px}
+.info-card .value{font-size:15px;color:#222;font-weight:500}
+
+/* --- Content Body --- */
+.brand-content{background:#fff;border:1px solid #eee;border-radius:8px;padding:24px;margin-bottom:30px;font-size:15px;line-height:1.8}
+.brand-content h2{font-size:20px;margin:20px 0 10px;padding-bottom:6px;border-bottom:1px solid #eee}
+.brand-content h2:first-child{margin-top:0}
+.brand-content p{margin-bottom:12px}
+
+/* --- Product / Event lists --- */
+.item-list{list-style:none;margin:8px 0 16px}
+.item-list li{padding:6px 0;border-bottom:1px solid #f5f5f5}
+.item-list li:last-child{border:none}
+.item-list .item-year{display:inline-block;background:#222;color:#fff;padding:1px 8px;border-radius:3px;font-size:12px;margin-right:8px;font-weight:600}
+
+/* --- Similar Brands --- */
+.similar-section{margin-bottom:30px}
+.similar-section h3{font-size:16px;margin-bottom:12px;color:#555}
+.similar-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.similar-card{display:block;padding:10px 14px;background:#fff;border:1px solid #eee;border-radius:6px;text-decoration:none;color:#222;font-size:13px;transition:all 0.2s}
+.similar-card:hover{border-color:#222;box-shadow:0 2px 8px rgba(0,0,0,0.06)}
+.similar-card.premium{border:2px solid #d4a844}
+.similar-card.premium .badge-premium{display:inline-block;background:#d4a844;color:#fff;font-size:10px;padding:1px 6px;border-radius:3px;margin-left:4px}
+.similar-card .zh{display:block;font-weight:500}
+.similar-card .en{display:block;font-size:11px;color:#999}
+
+/* --- 预留坑位 (广告位) --- */
+.similar-card.slot-open{border:2px dashed #d4a844;background:#fefcf5;cursor:default}
+.similar-card.slot-open:hover{border-color:#b8922e;box-shadow:0 2px 12px rgba(212,168,68,0.15)}
+.similar-card.slot-open .badge-slot{display:inline-block;background:#d4a844;color:#fff;font-size:10px;padding:1px 6px;border-radius:3px;margin-left:4px}
+.similar-card.slot-open .zh{color:#d4a844;font-style:italic}
+.similar-card.slot-open .en{color:#c9a94e}
+
+/* --- Footer --- */
+.footer{text-align:center;padding:20px 0;font-size:13px;color:#999;border-top:1px solid #eee;margin-top:10px}
+.footer a{color:#555;text-decoration:none}
+.footer a:hover{text-decoration:underline}
+
+/* --- Premium Styles --- */
+.premium-header{border-bottom-color:#d4a844}
+.premium-card{border:2px solid #d4a844 !important}
+.premium-label{display:inline-block;background:#d4a844;color:#fff;font-size:11px;padding:2px 10px;border-radius:4px;margin-left:8px}
+
+/* --- Responsive --- */
+@media(max-width:600px){
+  .top-bar{flex-direction:column;align-items:stretch}
+  .info-grid{grid-template-columns:1fr}
+  .similar-grid{grid-template-columns:repeat(auto-fill,minmax(100px,1fr))}
+}
+</style>
 </head>
 <body>
-    <div class="container">
-        <div class="card">
-            <h1>H&amp;M</h1>
-            <div class="subtitle">Hennes &amp; Mauritz · 瑞典跨国服装零售品牌</div>
+<div class="container">
 
-            <div class="info-grid">
-                <div class="info-item">
-                    <div class="label">分类</div>
-                    <div class="value">时尚（Fashion）</div>
-                </div>
-                <div class="info-item">
-                    <div class="label">成立年份</div>
-                    <div class="value">1947</div>
-                </div>
-                <div class="info-item">
-                    <div class="label">创始人</div>
-                    <div class="value">厄林·佩尔松（Erling Persson）</div>
-                </div>
-                <div class="info-item">
-                    <div class="label">总部</div>
-                    <div class="value">瑞典斯德哥尔摩</div>
-                </div>
-                <div class="info-item">
-                    <div class="label">官网</div>
-                    <div class="value"><a href="https://www.hm.com/" target="_blank" rel="noopener">hm.com</a></div>
-                </div>
-                <div class="info-item">
-                    <div class="label">品牌口号</div>
-                    <div class="value">时尚与品质，最佳价格</div>
-                </div>
-            </div>
+<!-- Top Bar -->
+<div class="top-bar">
+  <div class="search-box">
+    <input type="text" id="search-input" placeholder="搜索品牌 / Search brand..." onkeydown="if(event.key==='Enter')searchBrand()">
+    <button onclick="searchBrand()">🔍</button>
+  </div>
+  <div class="lang-nav" id="lang-nav">
+    <a href="#" data-lang="zh-CN" class="active" onclick="switchLang('zh-CN')">中文</a>
+    <a href="#" data-lang="en" onclick="switchLang('en')">EN</a>
+    <a href="#" data-lang="fr" onclick="switchLang('fr')">FR</a>
+    <a href="#" data-lang="es" onclick="switchLang('es')">ES</a>
+    <a href="#" data-lang="de" onclick="switchLang('de')">DE</a>
+    <a href="#" data-lang="ja" onclick="switchLang('ja')">日本語</a>
+    <a href="#" data-lang="ko" onclick="switchLang('ko')">한국어</a>
+    <a href="#" data-lang="pt" onclick="switchLang('pt')">PT</a>
+    <a href="#" data-lang="ru" onclick="switchLang('ru')">РУ</a>
+    <a href="#" data-lang="ar" onclick="switchLang('ar')">العربية</a>
+  </div>
+</div>
 
-            <div>
-                <span class="label" style="font-size:12px;color:#6e6e73;text-transform:uppercase;letter-spacing:0.5px;">主营业务</span>
-                <div style="margin-top:8px;">
-                    <span class="tag">服装零售</span>
-                    <span class="tag">快时尚</span>
-                </div>
-            </div>
-        </div>
+<!-- Brand Header -->
+<div class="brand-header">
+  <h1 id="brand-title">H&M <span style="font-weight:400;font-size:24px;color:#777">— H&M</span></h1>
+  <div class="brand-sub" id="brand-sub">时尚</div>
+</div>
 
-        <div class="card">
-            <h2 class="section-title">品牌介绍</h2>
-            <div class="description" id="desc-zh-CN">H&M（Hennes &amp; Mauritz）是瑞典跨国服装零售公司，1947年由厄林·佩尔松创立。它是全球第二大服装零售商，以快速响应时尚潮流的快时尚模式著称，产品涵盖男女装、童装、配饰、鞋履及家居用品。H&M在全球超过75个市场设有门店，并积极推动可持续时尚和旧衣回收计划。品牌始终坚持"时尚与品质，最佳价格"的理念，让更多人能够以实惠的价格享受时尚穿搭。</div>
+<!-- Info Cards -->
+<div class="info-grid" id="info-grid">
+  <div class="info-card"><div class="label">创立时间 · Founded</div><div class="value" id="val-year"></div></div>
+  <div class="info-card"><div class="label">创立地点 · Location</div><div class="value" id="val-location"></div></div>
+  <div class="info-card"><div class="label">创始人 · Founder</div><div class="value" id="val-founder"></div></div>
+  <div class="info-card"><div class="label">官网 · Website</div><div class="value" id="val-website"></div></div>
+  <div class="info-card"><div class="label">主营业务 · Business</div><div class="value" id="val-business"></div></div>
+  <div class="info-card"><div class="label">品牌标语 · Slogan</div><div class="value" id="val-slogan"></div></div>
+</div>
 
-            <h3 class="section-title" style="font-size:18px;">多语言介绍</h3>
+<!-- Content -->
+<div class="brand-content" id="brand-content">
+  <p id="content-text"></p>
+</div>
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">ZH-CN</span>
-                    <span class="lang-name">中文</span>
-                </div>
-                <div class="lang-text">H&M（Hennes &amp; Mauritz）是瑞典跨国服装零售公司，1947年由厄林·佩尔松创立。它是全球第二大服装零售商，以快速响应时尚潮流的快时尚模式著称，产品涵盖男女装、童装、配饰、鞋履及家居用品。H&M在全球超过75个市场设有门店，并积极推动可持续时尚和旧衣回收计划。品牌始终坚持"时尚与品质，最佳价格"的理念，让更多人能够以实惠的价格享受时尚穿搭。</div>
-            </div>
+<!-- Similar Brands -->
+<div class="similar-section">
+  <h3 id="similar-title">类似品牌</h3>
+  <div class="similar-grid" id="similar-grid">
+    <a href="/escher/" class="similar-card premium"><span class="zh">埃舍尔Escher <span class="badge-premium">品牌推广</span></span><span class="en">埃舍尔Escher</span></a>
+    <div id="dynamic-similars" style="display:contents"></div>
+  </div>
+</div>
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">EN</span>
-                    <span class="lang-name">English</span>
-                </div>
-                <div class="lang-text">H&amp;M (Hennes &amp; Mauritz) is a Swedish multinational clothing retail company founded by Erling Persson in 1947. It is the world's second-largest clothing retailer, known for its fast fashion model that quickly responds to the latest fashion trends. The product range includes apparel for women, men, and children, as well as accessories, footwear, and home goods. H&amp;M operates stores in over 75 markets worldwide and actively promotes sustainable fashion and garment recycling programs. The brand's philosophy is "Fashion and quality at the best price," making stylish clothing accessible to everyone.</div>
-            </div>
+<!-- Footer -->
+<div class="footer">
+  <p><a href="https://pinpai.cc.cd">全球品牌索引 · pinpai.cc.cd</a> — 全球品牌大全，10种语言呈现</p>
+</div>
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">ES</span>
-                    <span class="lang-name">Español</span>
-                </div>
-                <div class="lang-text">H&amp;M (Hennes &amp; Mauritz) es una empresa minorista de ropa multinacional sueca fundada por Erling Persson en 1947. Es el segundo minorista de ropa más grande del mundo, conocido por su modelo de moda rápida que responde rápidamente a las últimas tendencias. La gama de productos incluye ropa para mujer, hombre y niño, así como accesorios, calzado y artículos para el hogar. H&amp;M opera tiendas en más de 75 mercados en todo el mundo y promueve activamente la moda sostenible y los programas de reciclaje de ropa.</div>
-            </div>
+<!-- 首页按钮 -->
+<div style="text-align:center;margin:30px 0 40px">
+  <a href="/" style="display:inline-block;padding:14px 48px;background:#e53935;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 12px rgba(229,57,53,0.4);transition:all 0.2s;" onmouseover="this.style.background='#c62828';this.style.boxShadow='0 6px 16px rgba(229,57,53,0.6)'" onmouseout="this.style.background='#e53935';this.style.boxShadow='0 4px 12px rgba(229,57,53,0.4)'">🏠 首页</a>
+</div>
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">JA</span>
-                    <span class="lang-name">日本語</span>
-                </div>
-                <div class="lang-text">H&amp;M（Hennes &amp; Mauritz）は、1947年にエルリング・ペルソンによって設立されたスウェーデンの多国籍衣料品小売企業です。世界第2位の衣料品小売業者であり、最新のファッショントレンドに迅速に対応するファストファッションモデルで知られています。婦人服、紳士服、子供服に加え、アクセサリー、靴、ホームグッズを取り扱っています。H&amp;Mは世界75以上の市場で店舗を展開し、サステナブルファッションや衣料品リサイクルプログラムを積極的に推進しています。</div>
-            </div>
+</div><!-- /container -->
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">KO</span>
-                    <span class="lang-name">한국어</span>
-                </div>
-                <div class="lang-text">H&amp;M(Hennes &amp; Mauritz)은 1947년 에를링 페르손이 설립한 스웨덴의 다국적 의류 소매 기업입니다. 세계에서 두 번째로 큰 의류 소매업체로, 최신 패션 트렌드에 신속하게 대응하는 패스트 패션 모델로 유명합니다. 여성복, 남성복, 아동복은 물론 액세서리, 신발, 홈 제품까지 다양한 제품을 제공합니다. H&amp;M은 전 세계 75개 이상의 시장에서 매장을 운영하고 있으며, 지속 가능한 패션과 의류 재활용 프로그램을 적극적으로 추진하고 있습니다.</div>
-            </div>
+<script>
+// ===== Load brand data from brand.json =====
+var brandData = null;
+var brandsIndex = [];
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">FR</span>
-                    <span class="lang-name">Français</span>
-                </div>
-                <div class="lang-text">H&amp;M (Hennes &amp; Mauritz) est une entreprise suédoise multinationale de vente au détail de vêtements fondée par Erling Persson en 1947. C'est le deuxième plus grand détaillant de vêtements au monde, connu pour son modèle de fast fashion qui répond rapidement aux dernières tendances. La gamme de produits comprend des vêtements pour femmes, hommes et enfants, ainsi que des accessoires, chaussures et articles pour la maison. H&amp;M opère dans plus de 75 marchés à travers le monde et promeut activement la mode durable et les programmes de recyclage de vêtements.</div>
-            </div>
+function loadBrandData() {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'brand.json', true);
+  xhr.onload = function() {
+    if (xhr.status === 200) {
+      brandData = JSON.parse(xhr.responseText);
+      applyData('zh-CN');
+    }
+  };
+  xhr.send();
+  // Also load brands index for similar section
+  var xhr2 = new XMLHttpRequest();
+  xhr2.open('GET', '/brands_index.json', true);
+  xhr2.onload = function() {
+    if (xhr2.status === 200) {
+      brandsIndex = JSON.parse(xhr2.responseText);
+      renderSimilarBrands();
+    }
+  };
+  xhr2.send();
+}
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">DE</span>
-                    <span class="lang-name">Deutsch</span>
-                </div>
-                <div class="lang-text">H&amp;M (Hennes &amp; Mauritz) ist ein schwedisches multinationales Bekleidungseinzelhandelsunternehmen, das 1947 von Erling Persson gegründet wurde. Es ist der zweitgrößte Bekleidungseinzelhändler der Welt, bekannt für sein Fast-Fashion-Modell, das schnell auf die neuesten Modetrends reagiert. Das Produktsortiment umfasst Damen-, Herren- und Kinderbekleidung sowie Accessoires, Schuhe und Wohnwaren. H&amp;M betreibt Filialen in über 75 Märkten weltweit und fördert aktiv nachhaltige Mode und Kleidungsrecyclingprogramme.</div>
-            </div>
+function getLangData(lang) {
+  if (!brandData) return null;
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">PT</span>
-                    <span class="lang-name">Português</span>
-                </div>
-                <div class="lang-text">H&amp;M (Hennes &amp; Mauritz) é uma empresa multinacional sueca de varejo de roupas fundada por Erling Persson em 1947. É a segunda maior varejista de roupas do mundo, conhecida por seu modelo de fast fashion que responde rapidamente às últimas tendências. A linha de produtos inclui roupas femininas, masculinas e infantis, além de acessórios, calçados e artigos para o lar. A H&amp;M opera lojas em mais de 75 mercados ao redor do mundo e promove ativamente a moda sustentável e programas de reciclagem de roupas.</div>
-            </div>
+  var name = brandData.name_zh || (brandData.names && brandData.names['zh-CN']) || brandData.name_en || '';
+  var name_en = brandData.name_en || (brandData.names && brandData.names['en']) || '';
+  var founding_year = brandData.founding_year || brandData.year || '';
+  var founding_location = brandData.founding_location || brandData.country || '';
+  var founder = brandData.founder || '';
+  var website = brandData.official_website || brandData.website || '';
+  var business = (brandData.main_business || []).join(', ') || brandData.category || '';
+  var slogan = brandData.current_slogan || brandData.slogan || '';
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">IT</span>
-                    <span class="lang-name">Italiano</span>
-                </div>
-                <div class="lang-text">H&amp;M (Hennes &amp; Mauritz) è un'azienda svedese multinazionale di vendita al dettaglio di abbigliamento fondata da Erling Persson nel 1947. È il secondo rivenditore di abbigliamento più grande al mondo, noto per il suo modello di fast fashion che risponde rapidamente alle ultime tendenze. La gamma di prodotti include abbigliamento per donna, uomo e bambino, oltre ad accessori, calzature e articoli per la casa. H&amp;M opera in oltre 75 mercati in tutto il mondo e promuove attivamente la moda sostenibile e i programmi di riciclo degli indumenti.</div>
-            </div>
+  // Build content from available data
+  var content = '';
+  var zhContent = brandData.description_zh || (brandData.languages && brandData.languages['zh-CN']) || '';
 
-            <div class="lang-section">
-                <div class="lang-header">
-                    <span class="lang-badge">RU</span>
-                    <span class="lang-name">Русский</span>
-                </div>
-                <div class="lang-text">H&amp;M (Hennes &amp; Mauritz) — шведская multinational розничная компания по продаже одежды, основанная Эрлингом Перссоном в 1947 году. Это второй по величине розничный продавец одежды в мире, известный своей моделью быстрой моды (fast fashion), которая быстро реагирует на последние тенденции. Ассортимент продукции включает одежду для женщин, мужчин и детей, а также аксессуары, обувь и товары для дома. H&amp;M работает на более чем 75 рынках по всему миру и активно продвигает устойчивую моду и программы переработки одежды.</div>
-            </div>
-        </div>
+  if (lang === 'zh-CN') {
+    if (zhContent) {
+      content = '<p>' + zhContent.replace(/\n/g, '</p><p>') + '</p>';
+    } else {
+      // Build from available structured data
+      var parts = [];
+      parts.push(name + '（' + name_en + '）是全球知名品牌' + (founding_year ? '，创立于' + founding_year + '年' : '') + '。' + (founder ? '由' + founder + '创立。' : ''));
+      if (founding_location) parts.push('总部位于' + founding_location + '。');
+      if (business) parts.push('主营业务包括' + business + '。');
+      if (brandData.historical_facts && brandData.historical_facts.length > 0) {
+        parts.push('</p><h2>发展历程</h2><p>');
+        for (var k = 0; k < brandData.historical_facts.length; k++) {
+          parts.push(brandData.historical_facts[k] + '。');
+        }
+      }
+      content = '<p>' + parts.join(' ') + '</p>';
+    }
+  } else {
+    var langContent = brandData.languages && brandData.languages[lang];
+    if (langContent) {
+      content = '<p>' + langContent.replace(/\n/g, '</p><p>') + '</p>';
+    } else {
+      content = '<p>' + name_en + ' is a global brand.' + (founding_year ? ' Founded in ' + founding_year + '.' : '') + (founder ? ' Founded by ' + founder + '.' : '') + '</p>';
+    }
+  }
 
-        <div class="footer">
-            <p>品牌百科 · 数据来源：公开资料 · <a href="https://pinpai.ai.in/handm/">pinpai.ai.in/handm/</a></p>
-        </div>
-    </div>
+  return {
+    name: lang === 'zh-CN' ? name : name_en,
+    name_en: name_en,
+    founding_year: founding_year,
+    founding_location: founding_location,
+    founder: founder,
+    website: website,
+    business: business,
+    slogan: slogan,
+    content: content,
+    similar_title: '类似品牌'
+  };
+}
+
+function applyData(lang) {
+  var data = getLangData(lang);
+  if (!data) return;
+
+  document.getElementById('brand-title').innerHTML = data.name + (data.name_en ? ' <span style="font-weight:400;font-size:24px;color:#777">— ' + data.name_en + '</span>' : '');
+  
+  // Only show info cards that have data
+  var cardMappings = [
+    {id: 'val-year', label: '创立时间 · Founded', val: data.founding_year},
+    {id: 'val-location', label: '创立地点 · Location', val: data.founding_location},
+    {id: 'val-founder', label: '创始人 · Founder', val: data.founder},
+    {id: 'val-website', label: '官网 · Website', val: data.website},
+    {id: 'val-business', label: '主营业务 · Business', val: data.business},
+    {id: 'val-slogan', label: '品牌标语 · Slogan', val: data.slogan},
+  ];
+  
+  // Hide all info card wrappers first, then show only those with data
+  var allCards = document.getElementById('info-grid').children;
+  for (var i = 0; i < allCards.length; i++) {
+    allCards[i].style.display = 'none';
+  }
+  
+  for (var m = 0; m < cardMappings.length; m++) {
+    var cm = cardMappings[m];
+    var el = document.getElementById(cm.id);
+    if (el && cm.val) {
+      el.textContent = el.tagName === 'DIV' ? cm.val : (cm.val);
+      // Find the parent info-card div and show it
+      var parent = el.closest('.info-card');
+      if (parent) parent.style.display = '';
+    }
+  }
+
+  document.getElementById('content-text').innerHTML = data.content || '';
+}
+
+function switchLang(lang) {
+  document.querySelectorAll('.lang-nav a').forEach(function(a) {
+    a.classList.toggle('active', a.getAttribute('data-lang') === lang);
+  });
+  document.documentElement.setAttribute('lang', lang === 'ar' ? 'ar' : 'zh-CN');
+  document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+  applyData(lang);
+}
+
+function searchBrand() {
+  var q = document.getElementById('search-input').value.trim();
+  if (!q) return;
+  window.location.href = '/search.html?q=' + encodeURIComponent(q);
+}
+
+function renderSimilarBrands() {
+  if (!brandsIndex || brandsIndex.length === 0) return;
+  // Get latest brands except current one, max 10
+  var currentSlug = window.location.pathname.split('/').filter(Boolean)[0];
+  var maxSimilars = 10;
+  var count = 0;
+  var html = '';
+  for (var i = 0; i < brandsIndex.length && count < maxSimilars; i++) {
+    var b = brandsIndex[i];
+    if (b.slug === currentSlug) continue;
+    html += '<a href="/' + b.slug + '/" class="similar-card"><span class="zh">' + (b.name || '') + ' </span><span class="en">' + (b.name_en || '') + '</span></a>';
+    count++;
+  }
+  var container = document.getElementById('dynamic-similars');
+  if (container) container.innerHTML = html;
+}
+
+// Initialize
+loadBrandData();
+</script>
 </body>
 </html>
