@@ -15592,5 +15592,65 @@
     "name": "Com One group",
     "name_en": "Com One group",
     "category": "general"
+  },
+  {
+    "slug": "domestos",
+    "name": "Domestos",
+    "name_en": "Domestos",
+    "category": "general"
+  },
+  {
+    "slug": "doxy-vibrator",
+    "name": "Doxy (vibrator)",
+    "name_en": "Doxy (vibrator)",
+    "category": "general"
+  },
+  {
+    "slug": "draper-tools",
+    "name": "Draper Tools",
+    "name_en": "Draper Tools",
+    "category": "general"
+  },
+  {
+    "slug": "dress2kill",
+    "name": "Dress2kill",
+    "name_en": "Dress2kill",
+    "category": "general"
+  },
+  {
+    "slug": "dualit",
+    "name": "Dualit",
+    "name_en": "Dualit",
+    "category": "general"
+  },
+  {
+    "slug": "dulux",
+    "name": "Dulux",
+    "name_en": "Dulux",
+    "category": "general"
+  },
+  {
+    "slug": "dunhill-cigarette",
+    "name": "Dunhill (cigarette)",
+    "name_en": "Dunhill (cigarette)",
+    "category": "general"
+  },
+  {
+    "slug": "dyson-company",
+    "name": "Dyson (company)",
+    "name_en": "Dyson (company)",
+    "category": "general"
+  },
+  {
+    "slug": "easyjet",
+    "name": "EasyJet",
+    "name_en": "EasyJet",
+    "category": "general"
+  },
+  {
+    "slug": "eds-easy-diner",
+    "name": "Ed's Easy Diner",
+    "name_en": "Ed's Easy Diner",
+    "category": "general"
   }
 ]
