@@ -15472,5 +15472,65 @@
     "name": "Hitschler (company)",
     "name_en": "Hitschler (company)",
     "category": "general"
+  },
+  {
+    "slug": "cmoi",
+    "name": "Cémoi",
+    "name_en": "Cémoi",
+    "category": "general"
+  },
+  {
+    "slug": "champagne-binet",
+    "name": "Champagne Binet",
+    "name_en": "Champagne Binet",
+    "category": "general"
+  },
+  {
+    "slug": "champagne-bricout",
+    "name": "Champagne Bricout",
+    "name_en": "Champagne Bricout",
+    "category": "general"
+  },
+  {
+    "slug": "champagne-gauthier",
+    "name": "Champagne Gauthier",
+    "name_en": "Champagne Gauthier",
+    "category": "general"
+  },
+  {
+    "slug": "champagne-krug",
+    "name": "Champagne Krug",
+    "name_en": "Champagne Krug",
+    "category": "general"
+  },
+  {
+    "slug": "champagne-mercier",
+    "name": "Champagne Mercier",
+    "name_en": "Champagne Mercier",
+    "category": "general"
+  },
+  {
+    "slug": "champagne-louis-nicaise",
+    "name": "Champagne Louis Nicaise",
+    "name_en": "Champagne Louis Nicaise",
+    "category": "general"
+  },
+  {
+    "slug": "chantelle-lingerie",
+    "name": "Chantelle (lingerie)",
+    "name_en": "Chantelle (lingerie)",
+    "category": "general"
+  },
+  {
+    "slug": "charles-oudin",
+    "name": "Charles Oudin",
+    "name_en": "Charles Oudin",
+    "category": "general"
+  },
+  {
+    "slug": "chlo",
+    "name": "Chloé",
+    "name_en": "Chloé",
+    "category": "general"
   }
 ]
