@@ -14872,5 +14872,65 @@
     "name": "欧莱雅",
     "name_en": "L'Oréal",
     "category": "beauty"
+  },
+  {
+    "slug": "cogobuy",
+    "name": "Cogobuy",
+    "name_en": "Cogobuy",
+    "category": "general"
+  },
+  {
+    "slug": "comac",
+    "name": "Comac",
+    "name_en": "Comac",
+    "category": "general"
+  },
+  {
+    "slug": "coocaa",
+    "name": "Coocaa",
+    "name_en": "Coocaa",
+    "category": "general"
+  },
+  {
+    "slug": "coolpad",
+    "name": "Coolpad",
+    "name_en": "Coolpad",
+    "category": "general"
+  },
+  {
+    "slug": "coros-wearables-inc",
+    "name": "COROS Wearables Inc",
+    "name_en": "COROS Wearables Inc",
+    "category": "general"
+  },
+  {
+    "slug": "cosco",
+    "name": "COSCO",
+    "name_en": "COSCO",
+    "category": "general"
+  },
+  {
+    "slug": "cosco-shipping",
+    "name": "COSCO Shipping",
+    "name_en": "COSCO Shipping",
+    "category": "general"
+  },
+  {
+    "slug": "cosco-shipping-development",
+    "name": "COSCO Shipping Development",
+    "name_en": "COSCO Shipping Development",
+    "category": "general"
+  },
+  {
+    "slug": "cotti-coffee",
+    "name": "Cotti Coffee",
+    "name_en": "Cotti Coffee",
+    "category": "general"
+  },
+  {
+    "slug": "creality",
+    "name": "Creality",
+    "name_en": "Creality",
+    "category": "general"
   }
 ]

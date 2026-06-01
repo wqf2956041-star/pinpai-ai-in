@@ -2576,12 +2576,18 @@ var brandsData = [
 {name:"DAKS",name_en:"DAKS",slug:"daks",category:"fashion",t:1},
 {name:"Fortis Watches",name_en:"Fortis Watches",slug:"fortis-watches",category:"watches",t:1},
 {name:"Liveops",name_en:"Liveops",slug:"liveops",category:"business",t:1},
-{name:"欧莱雅",name_en:"L'Oréal",slug:"loréal",category:"beauty",t:1}
-.t === 1) rich.push(i);
-        else templ.push(i);
-    }
-    var newestCount = Math.min(50, rich.length);
-    var newest = [], older = [];
+{name:"欧莱雅",name_en:"L'Oréal",slug:"loréal",category:"beauty",t:1},
+{name:"Cogobuy",name_en:"Cogobuy",slug:"cogobuy",category:"general",t:1},
+{name:"Comac",name_en:"Comac",slug:"comac",category:"general",t:1},
+{name:"Coocaa",name_en:"Coocaa",slug:"coocaa",category:"general",t:1},
+{name:"Coolpad",name_en:"Coolpad",slug:"coolpad",category:"general",t:1},
+{name:"COROS Wearables Inc",name_en:"COROS Wearables Inc",slug:"coros-wearables-inc",category:"general",t:1},
+{name:"COSCO",name_en:"COSCO",slug:"cosco",category:"general",t:1},
+{name:"COSCO Shipping",name_en:"COSCO Shipping",slug:"cosco-shipping",category:"general",t:1},
+{name:"COSCO Shipping Development",name_en:"COSCO Shipping Development",slug:"cosco-shipping-development",category:"general",t:1},
+{name:"Cotti Coffee",name_en:"Cotti Coffee",slug:"cotti-coffee",category:"general",t:1},
+{name:"Creality",name_en:"Creality",slug:"creality",category:"general",t:1}
+, older = [];
     for (var i = rich.length - newestCount; i < rich.length; i++) newest.push(rich[i]);
     for (var i = 0; i < rich.length - newestCount; i++) older.push(rich[i]);
     var shuffledOlder = shuffleArray(older);
