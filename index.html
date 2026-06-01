@@ -2656,41 +2656,18 @@ var brandsData = [
 {name:"Stellar Jet",name_en:"Stellar Jet",slug:"stellar-jet",category:"general",t:1},
 {name:"Stellavox",name_en:"Stellavox",slug:"stellavox",category:"general",t:1},
 {name:"Stoll Giroflex",name_en:"Stoll Giroflex",slug:"stoll-giroflex",category:"general",t:1},
-{name:"Straumann",name_en:"Straumann",slug:"straumann",category:"general",t:1}
-);
-    shuffledIndices = result;
-}
-
-function fetchBrands() {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', '/brands_index.json', true);
-    xhr.onload = function() {
-        if (xhr.status === 200) {
-            var fresh = JSON.parse(xhr.responseText);
-            if (fresh && fresh.length > 0) {
-                brandsData = fresh;
-                buildShuffledList();
-                renderBrands(currentLang);
-            }
-        }
-    };
-    xhr.onerror = function() {};
-    xhr.send();
-}
-
-function escapeHtml(s) {
-    if (!s) return '';
-    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-
-function renderBrands(lang) {
-    var list = document.getElementById('brand-list');
-    if (!list || brandsData.length === 0) return;
-    if (shuffledIndices.length === 0) buildShuffledList();
-    var html = '';
-    var count = Math.min(currentCount, shuffledIndices.length);
-    for (var i = 0; i < count; i++) {
-        var idx = shuffledIndices[i];
+{name:"Straumann",name_en:"Straumann",slug:"straumann",category:"general",t:1},
+{name:"Haribo",name_en:"Haribo",slug:"haribo",category:"general",t:1},
+{name:"Hatz",name_en:"Hatz",slug:"hatz",category:"general",t:1},
+{name:"Heckler & Koch",name_en:"Heckler & Koch",slug:"heckler-koch",category:"general",t:1},
+{name:"Heidelberg Materials",name_en:"Heidelberg Materials",slug:"heidelberg-materials",category:"general",t:1},
+{name:"Heidelberger Druckmaschinen",name_en:"Heidelberger Druckmaschinen",slug:"heidelberger-druckmaschinen",category:"general",t:1},
+{name:"Heidenhain",name_en:"Heidenhain",slug:"heidenhain",category:"general",t:1},
+{name:"Helko",name_en:"Helko",slug:"helko",category:"general",t:1},
+{name:"Hella (company)",name_en:"Hella (company)",slug:"hella-company",category:"general",t:1},
+{name:"Heller Group",name_en:"Heller Group",slug:"heller-group",category:"general",t:1},
+{name:"Henkel",name_en:"Henkel",slug:"henkel",category:"general",t:1}
+;
         var b = brandsData[idx];
         if (!b) continue;
         var name = escapeHtml(b.name || '');
