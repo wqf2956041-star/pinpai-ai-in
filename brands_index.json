@@ -15232,5 +15232,65 @@
     "name": "Gola (brand)",
     "name_en": "Gola (brand)",
     "category": "sportswear"
+  },
+  {
+    "slug": "travelers-coffee",
+    "name": "Traveler's Coffee",
+    "name_en": "Traveler's Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "trung-nguyn",
+    "name": "Trung Nguyên",
+    "name_en": "Trung Nguyên",
+    "category": "food"
+  },
+  {
+    "slug": "tullys-coffee",
+    "name": "Tully's Coffee",
+    "name_en": "Tully's Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "a-twosome-place",
+    "name": "A Twosome Place",
+    "name_en": "A Twosome Place",
+    "category": "food"
+  },
+  {
+    "slug": "ucc-ueshima-coffee-co",
+    "name": "UCC Ueshima Coffee Co.",
+    "name_en": "UCC Ueshima Coffee Co.",
+    "category": "food"
+  },
+  {
+    "slug": "juan-valdez",
+    "name": "Juan Valdez",
+    "name_en": "Juan Valdez",
+    "category": "food"
+  },
+  {
+    "slug": "van-houtte",
+    "name": "Van Houtte",
+    "name_en": "Van Houtte",
+    "category": "food"
+  },
+  {
+    "slug": "vinacafe",
+    "name": "Vinacafe",
+    "name_en": "Vinacafe",
+    "category": "food"
+  },
+  {
+    "slug": "vittoria-coffee",
+    "name": "Vittoria Coffee",
+    "name_en": "Vittoria Coffee",
+    "category": "food"
+  },
+  {
+    "slug": "yit-foh-tenom-coffee",
+    "name": "Yit Foh Tenom Coffee",
+    "name_en": "Yit Foh Tenom Coffee",
+    "category": "food"
   }
 ]
