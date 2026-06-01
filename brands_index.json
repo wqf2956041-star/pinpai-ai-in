@@ -15172,5 +15172,65 @@
     "name": "FSS (brand)",
     "name_en": "FSS (brand)",
     "category": "sportswear"
+  },
+  {
+    "slug": "fubu",
+    "name": "FUBU",
+    "name_en": "FUBU",
+    "category": "sportswear"
+  },
+  {
+    "slug": "fumarel",
+    "name": "Fumarel",
+    "name_en": "Fumarel",
+    "category": "sportswear"
+  },
+  {
+    "slug": "galvin-green",
+    "name": "Galvin Green",
+    "name_en": "Galvin Green",
+    "category": "sportswear"
+  },
+  {
+    "slug": "the-game-headwear",
+    "name": "The Game Headwear",
+    "name_en": "The Game Headwear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "garcis",
+    "name": "Garcis",
+    "name_en": "Garcis",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gaynor-minden",
+    "name": "Gaynor Minden",
+    "name_en": "Gaynor Minden",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gilbert-rugby",
+    "name": "Gilbert Rugby",
+    "name_en": "Gilbert Rugby",
+    "category": "sportswear"
+  },
+  {
+    "slug": "globeride",
+    "name": "Globeride",
+    "name_en": "Globeride",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gofere-sportswear",
+    "name": "Gofere Sportswear",
+    "name_en": "Gofere Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gola-brand",
+    "name": "Gola (brand)",
+    "name_en": "Gola (brand)",
+    "category": "sportswear"
   }
 ]
