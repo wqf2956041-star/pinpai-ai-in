@@ -15352,5 +15352,65 @@
     "name": "Straumann",
     "name_en": "Straumann",
     "category": "general"
+  },
+  {
+    "slug": "haribo",
+    "name": "Haribo",
+    "name_en": "Haribo",
+    "category": "general"
+  },
+  {
+    "slug": "hatz",
+    "name": "Hatz",
+    "name_en": "Hatz",
+    "category": "general"
+  },
+  {
+    "slug": "heckler-koch",
+    "name": "Heckler & Koch",
+    "name_en": "Heckler & Koch",
+    "category": "general"
+  },
+  {
+    "slug": "heidelberg-materials",
+    "name": "Heidelberg Materials",
+    "name_en": "Heidelberg Materials",
+    "category": "general"
+  },
+  {
+    "slug": "heidelberger-druckmaschinen",
+    "name": "Heidelberger Druckmaschinen",
+    "name_en": "Heidelberger Druckmaschinen",
+    "category": "general"
+  },
+  {
+    "slug": "heidenhain",
+    "name": "Heidenhain",
+    "name_en": "Heidenhain",
+    "category": "general"
+  },
+  {
+    "slug": "helko",
+    "name": "Helko",
+    "name_en": "Helko",
+    "category": "general"
+  },
+  {
+    "slug": "hella-company",
+    "name": "Hella (company)",
+    "name_en": "Hella (company)",
+    "category": "general"
+  },
+  {
+    "slug": "heller-group",
+    "name": "Heller Group",
+    "name_en": "Heller Group",
+    "category": "general"
+  },
+  {
+    "slug": "henkel",
+    "name": "Henkel",
+    "name_en": "Henkel",
+    "category": "general"
   }
 ]
