@@ -15772,5 +15772,65 @@
     "name": "Haglöfs",
     "name_en": "Haglöfs",
     "category": "sportswear"
+  },
+  {
+    "slug": "halara",
+    "name": "Halara",
+    "name_en": "Halara",
+    "category": "sportswear"
+  },
+  {
+    "slug": "halbro",
+    "name": "Halbro",
+    "name_en": "Halbro",
+    "category": "sportswear"
+  },
+  {
+    "slug": "head-company",
+    "name": "Head (company)",
+    "name_en": "Head (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "hibbett-sports",
+    "name": "Hibbett Sports",
+    "name_en": "Hibbett Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "hugo-boss",
+    "name": "Hugo Boss",
+    "name_en": "Hugo Boss",
+    "category": "sportswear"
+  },
+  {
+    "slug": "hummel-international",
+    "name": "Hummel International",
+    "name_en": "Hummel International",
+    "category": "sportswear"
+  },
+  {
+    "slug": "hunts-county",
+    "name": "Hunts County",
+    "name_en": "Hunts County",
+    "category": "sportswear"
+  },
+  {
+    "slug": "i-measure-u",
+    "name": "I Measure U",
+    "name_en": "I Measure U",
+    "category": "sportswear"
+  },
+  {
+    "slug": "icarus-fc",
+    "name": "Icarus FC",
+    "name_en": "Icarus FC",
+    "category": "sportswear"
+  },
+  {
+    "slug": "iconix-brand-group",
+    "name": "Iconix Brand Group",
+    "name_en": "Iconix Brand Group",
+    "category": "sportswear"
   }
 ]

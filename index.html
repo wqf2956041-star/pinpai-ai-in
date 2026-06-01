@@ -2726,26 +2726,18 @@ var brandsData = [
 {name:"Gunn & Moore",name_en:"Gunn & Moore",slug:"gunn-moore",category:"sportswear",t:1},
 {name:"Gymshark",name_en:"Gymshark",slug:"gymshark",category:"sportswear",t:1},
 {name:"Haad (company)",name_en:"Haad (company)",slug:"haad-company",category:"sportswear",t:1},
-{name:"Haglöfs",name_en:"Haglöfs",slug:"haglfs",category:"sportswear",t:1}
+{name:"Haglöfs",name_en:"Haglöfs",slug:"haglfs",category:"sportswear",t:1},
+{name:"Halara",name_en:"Halara",slug:"halara",category:"sportswear",t:1},
+{name:"Halbro",name_en:"Halbro",slug:"halbro",category:"sportswear",t:1},
+{name:"Head (company)",name_en:"Head (company)",slug:"head-company",category:"sportswear",t:1},
+{name:"Hibbett Sports",name_en:"Hibbett Sports",slug:"hibbett-sports",category:"sportswear",t:1},
+{name:"Hugo Boss",name_en:"Hugo Boss",slug:"hugo-boss",category:"sportswear",t:1},
+{name:"Hummel International",name_en:"Hummel International",slug:"hummel-international",category:"sportswear",t:1},
+{name:"Hunts County",name_en:"Hunts County",slug:"hunts-county",category:"sportswear",t:1},
+{name:"I Measure U",name_en:"I Measure U",slug:"i-measure-u",category:"sportswear",t:1},
+{name:"Icarus FC",name_en:"Icarus FC",slug:"icarus-fc",category:"sportswear",t:1},
+{name:"Iconix Brand Group",name_en:"Iconix Brand Group",slug:"iconix-brand-group",category:"sportswear",t:1}
 ;
-    var idx1 = 0, idx2 = 0, idx3 = 0, dotIdx = 0;
-    // progress3: 25 '=' chars, progress 1→100% stepping by 4 then 1 at ends
-    var progStep = 1;
-    var progressChars = 25;
-
-    function updateAnimation() {
-        idx1 = (idx1 + 1) % spinners.length;
-        idx2 = (idx2 + 1) % spinners2.length;
-        idx3 = (idx3 + 1) % spinners3.length;
-        dotIdx = (dotIdx + 1) % dots.length;
-
-        var e1 = document.getElementById('spinner1');
-        var e2 = document.getElementById('spinner2');
-        var e3 = document.getElementById('spinner3');
-        var p3 = document.getElementById('progress3');
-        var d1 = document.getElementById('dot1');
-        var d2 = document.getElementById('dot2');
-        if (e1) e1.textContent = spinners[idx1];
         if (e2) e2.textContent = spinners2[idx2];
         if (e3) e3.textContent = spinners3[idx3];
         if (d1) d1.textContent = dots[dotIdx];
