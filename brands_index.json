@@ -15652,5 +15652,65 @@
     "name": "Ed's Easy Diner",
     "name_en": "Ed's Easy Diner",
     "category": "general"
+  },
+  {
+    "slug": "elonex",
+    "name": "Elonex",
+    "name_en": "Elonex",
+    "category": "general"
+  },
+  {
+    "slug": "encyclopdia-britannica-inc",
+    "name": "Encyclopædia Britannica, Inc.",
+    "name_en": "Encyclopædia Britannica, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "europa-editions-uk",
+    "name": "Europa Editions UK",
+    "name_en": "Europa Editions UK",
+    "category": "general"
+  },
+  {
+    "slug": "eutelsat-oneweb",
+    "name": "Eutelsat OneWeb",
+    "name_en": "Eutelsat OneWeb",
+    "category": "general"
+  },
+  {
+    "slug": "everest-home-improvement",
+    "name": "Everest Home Improvement",
+    "name_en": "Everest Home Improvement",
+    "category": "general"
+  },
+  {
+    "slug": "ewbank",
+    "name": "Ewbank",
+    "name_en": "Ewbank",
+    "category": "general"
+  },
+  {
+    "slug": "fatface",
+    "name": "FatFace",
+    "name_en": "FatFace",
+    "category": "general"
+  },
+  {
+    "slug": "fedden-car",
+    "name": "Fedden car",
+    "name_en": "Fedden car",
+    "category": "general"
+  },
+  {
+    "slug": "ferguson-electronics",
+    "name": "Ferguson Electronics",
+    "name_en": "Ferguson Electronics",
+    "category": "general"
+  },
+  {
+    "slug": "finastra",
+    "name": "Finastra",
+    "name_en": "Finastra",
+    "category": "general"
   }
 ]
