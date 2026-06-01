@@ -192,17 +192,10 @@ try:
         with open(brand_html_path, "w") as f:
             f.write(html)
 
-        # --- STEP 3: Copy to /var/www/pinpai/ ---
-        os.makedirs(www_dir, exist_ok=True)
-        shutil.copy2(brand_html_path, os.path.join(www_dir, "index.html"))
-        shutil.copy2(os.path.join(brand_dir, "brand.json"), os.path.join(www_dir, "brand.json"))
+        # --- STEP 3: SKIP www-copy (Caddy→GH Pages, not local) ---
+        print(f"  WWW copy skipped (reverse-proxy to GitHub Pages)")
 
-        # --- STEP 4: Verify copy succeeded ---
-        if not os.path.exists(os.path.join(www_dir, "index.html")):
-            print("FAILED to copy " + slug + " to www -- rolling back index write")
-            continue
-
-        # Mark as successfully deployed
+        # --- STEP 4
         successfully_deployed.append(b)
         added_count += 1
         print("  OK " + slug + " (" + name_zh + ") -> generated + deployed to www")
