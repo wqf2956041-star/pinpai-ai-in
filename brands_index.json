@@ -15712,5 +15712,65 @@
     "name": "Finastra",
     "name_en": "Finastra",
     "category": "general"
+  },
+  {
+    "slug": "golden-breed",
+    "name": "Golden Breed",
+    "name_en": "Golden Breed",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gooolde",
+    "name": "Goool.de",
+    "name_en": "Goool.de",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gosen-company",
+    "name": "Gosen (company)",
+    "name_en": "Gosen (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "grays-international",
+    "name": "Grays International",
+    "name_en": "Grays International",
+    "category": "sportswear"
+  },
+  {
+    "slug": "guirenniao",
+    "name": "Guirenniao",
+    "name_en": "Guirenniao",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gul-watersports",
+    "name": "Gul (watersports)",
+    "name_en": "Gul (watersports)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gunn-moore",
+    "name": "Gunn & Moore",
+    "name_en": "Gunn & Moore",
+    "category": "sportswear"
+  },
+  {
+    "slug": "gymshark",
+    "name": "Gymshark",
+    "name_en": "Gymshark",
+    "category": "sportswear"
+  },
+  {
+    "slug": "haad-company",
+    "name": "Haad (company)",
+    "name_en": "Haad (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "haglfs",
+    "name": "Haglöfs",
+    "name_en": "Haglöfs",
+    "category": "sportswear"
   }
 ]
