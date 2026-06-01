@@ -14848,5 +14848,29 @@
     "name": "Li-Ning",
     "name_en": "Li-Ning",
     "category": "fashion"
+  },
+  {
+    "slug": "daks",
+    "name": "DAKS",
+    "name_en": "DAKS",
+    "category": "fashion"
+  },
+  {
+    "slug": "fortis-watches",
+    "name": "Fortis Watches",
+    "name_en": "Fortis Watches",
+    "category": "watches"
+  },
+  {
+    "slug": "liveops",
+    "name": "Liveops",
+    "name_en": "Liveops",
+    "category": "business"
+  },
+  {
+    "slug": "loréal",
+    "name": "欧莱雅",
+    "name_en": "L'Oréal",
+    "category": "beauty"
   }
 ]
