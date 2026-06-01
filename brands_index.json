@@ -15112,5 +15112,65 @@
     "name": "Hapag-Lloyd",
     "name_en": "Hapag-Lloyd",
     "category": "general"
+  },
+  {
+    "slug": "fairtex",
+    "name": "Fairtex",
+    "name_en": "Fairtex",
+    "category": "sportswear"
+  },
+  {
+    "slug": "fairtex-gym",
+    "name": "Fairtex Gym",
+    "name_en": "Fairtex Gym",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ferrino-company",
+    "name": "Ferrino (company)",
+    "name_en": "Ferrino (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "fi-ta",
+    "name": "Fi-Ta",
+    "name_en": "Fi-Ta",
+    "category": "sportswear"
+  },
+  {
+    "slug": "finta",
+    "name": "Finta",
+    "name_en": "Finta",
+    "category": "sportswear"
+  },
+  {
+    "slug": "first-ever",
+    "name": "First Ever",
+    "name_en": "First Ever",
+    "category": "sportswear"
+  },
+  {
+    "slug": "footasylum",
+    "name": "Footasylum",
+    "name_en": "Footasylum",
+    "category": "sportswear"
+  },
+  {
+    "slug": "forward-sports",
+    "name": "Forward Sports",
+    "name_en": "Forward Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "fox-racing",
+    "name": "Fox Racing",
+    "name_en": "Fox Racing",
+    "category": "sportswear"
+  },
+  {
+    "slug": "fss-brand",
+    "name": "FSS (brand)",
+    "name_en": "FSS (brand)",
+    "category": "sportswear"
   }
 ]
