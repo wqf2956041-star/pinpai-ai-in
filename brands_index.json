@@ -14668,5 +14668,65 @@
     "name": "CVS Ferrari",
     "name_en": "CVS Ferrari",
     "category": "general"
+  },
+  {
+    "slug": "cynar",
+    "name": "Cynar",
+    "name_en": "Cynar",
+    "category": "general"
+  },
+  {
+    "slug": "d1-milano",
+    "name": "D1 Milano",
+    "name_en": "D1 Milano",
+    "category": "general"
+  },
+  {
+    "slug": "dainese",
+    "name": "Dainese",
+    "name_en": "Dainese",
+    "category": "general"
+  },
+  {
+    "slug": "dal-negro",
+    "name": "Dal Negro",
+    "name_en": "Dal Negro",
+    "category": "general"
+  },
+  {
+    "slug": "dallara",
+    "name": "Dallara",
+    "name_en": "Dallara",
+    "category": "general"
+  },
+  {
+    "slug": "damiani-group",
+    "name": "Damiani Group",
+    "name_en": "Damiani Group",
+    "category": "general"
+  },
+  {
+    "slug": "danieli",
+    "name": "Danieli",
+    "name_en": "Danieli",
+    "category": "general"
+  },
+  {
+    "slug": "de-cecco",
+    "name": "De Cecco",
+    "name_en": "De Cecco",
+    "category": "general"
+  },
+  {
+    "slug": "de-rosa-bicycle-company",
+    "name": "De Rosa (bicycle company)",
+    "name_en": "De Rosa (bicycle company)",
+    "category": "general"
+  },
+  {
+    "slug": "de-simon",
+    "name": "De Simon",
+    "name_en": "De Simon",
+    "category": "general"
   }
 ]
