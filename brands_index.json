@@ -15292,5 +15292,65 @@
     "name": "Yit Foh Tenom Coffee",
     "name_en": "Yit Foh Tenom Coffee",
     "category": "food"
+  },
+  {
+    "slug": "sinar",
+    "name": "Sinar",
+    "name_en": "Sinar",
+    "category": "general"
+  },
+  {
+    "slug": "skyguide",
+    "name": "Skyguide",
+    "name_en": "Skyguide",
+    "category": "general"
+  },
+  {
+    "slug": "sonova",
+    "name": "Sonova",
+    "name_en": "Sonova",
+    "category": "general"
+  },
+  {
+    "slug": "sputnik-engineering",
+    "name": "Sputnik Engineering",
+    "name_en": "Sputnik Engineering",
+    "category": "general"
+  },
+  {
+    "slug": "stadler-rail",
+    "name": "Stadler Rail",
+    "name_en": "Stadler Rail",
+    "category": "general"
+  },
+  {
+    "slug": "stubli",
+    "name": "Stäubli",
+    "name_en": "Stäubli",
+    "category": "general"
+  },
+  {
+    "slug": "stellar-jet",
+    "name": "Stellar Jet",
+    "name_en": "Stellar Jet",
+    "category": "general"
+  },
+  {
+    "slug": "stellavox",
+    "name": "Stellavox",
+    "name_en": "Stellavox",
+    "category": "general"
+  },
+  {
+    "slug": "stoll-giroflex",
+    "name": "Stoll Giroflex",
+    "name_en": "Stoll Giroflex",
+    "category": "general"
+  },
+  {
+    "slug": "straumann",
+    "name": "Straumann",
+    "name_en": "Straumann",
+    "category": "general"
   }
 ]
