@@ -15892,5 +15892,65 @@
     "name": "Denza",
     "name_en": "Denza",
     "category": "general"
+  },
+  {
+    "slug": "dhc-software",
+    "name": "DHC Software",
+    "name_en": "DHC Software",
+    "category": "general"
+  },
+  {
+    "slug": "dial-ev",
+    "name": "Dial EV",
+    "name_en": "Dial EV",
+    "category": "general"
+  },
+  {
+    "slug": "didi",
+    "name": "DiDi",
+    "name_en": "DiDi",
+    "category": "general"
+  },
+  {
+    "slug": "dji",
+    "name": "DJI",
+    "name_en": "DJI",
+    "category": "general"
+  },
+  {
+    "slug": "domy-marque",
+    "name": "Domy (marque)",
+    "name_en": "Domy (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "dongfang-electric",
+    "name": "Dongfang Electric",
+    "name_en": "Dongfang Electric",
+    "category": "general"
+  },
+  {
+    "slug": "dongfeng-motor-corporation",
+    "name": "Dongfeng Motor Corporation",
+    "name_en": "Dongfeng Motor Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "dongfeng-nammi",
+    "name": "Dongfeng Nammi",
+    "name_en": "Dongfeng Nammi",
+    "category": "general"
+  },
+  {
+    "slug": "dongfeng-yangtse",
+    "name": "Dongfeng Yangtse",
+    "name_en": "Dongfeng Yangtse",
+    "category": "general"
+  },
+  {
+    "slug": "dongling-vibration",
+    "name": "Dongling Vibration",
+    "name_en": "Dongling Vibration",
+    "category": "general"
   }
 ]
