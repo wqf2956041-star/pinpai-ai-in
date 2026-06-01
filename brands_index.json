@@ -16132,5 +16132,65 @@
     "name": "SWISSGEAR",
     "name_en": "SWISSGEAR",
     "category": "general"
+  },
+  {
+    "slug": "swisslog",
+    "name": "Swisslog",
+    "name_en": "Swisslog",
+    "category": "general"
+  },
+  {
+    "slug": "swisstel",
+    "name": "Swissôtel",
+    "name_en": "Swissôtel",
+    "category": "general"
+  },
+  {
+    "slug": "syngenta",
+    "name": "Syngenta",
+    "name_en": "Syngenta",
+    "category": "general"
+  },
+  {
+    "slug": "synthes",
+    "name": "Synthes",
+    "name_en": "Synthes",
+    "category": "general"
+  },
+  {
+    "slug": "tally-weijl",
+    "name": "Tally Weijl",
+    "name_en": "Tally Weijl",
+    "category": "general"
+  },
+  {
+    "slug": "tlsonique",
+    "name": "Télésonique",
+    "name_en": "Télésonique",
+    "category": "general"
+  },
+  {
+    "slug": "temenos-ag",
+    "name": "Temenos AG",
+    "name_en": "Temenos AG",
+    "category": "general"
+  },
+  {
+    "slug": "tesa-sa",
+    "name": "Tesa SA",
+    "name_en": "Tesa SA",
+    "category": "general"
+  },
+  {
+    "slug": "teseq",
+    "name": "Teseq",
+    "name_en": "Teseq",
+    "category": "general"
+  },
+  {
+    "slug": "thermoplan-ag",
+    "name": "Thermoplan AG",
+    "name_en": "Thermoplan AG",
+    "category": "general"
   }
 ]
