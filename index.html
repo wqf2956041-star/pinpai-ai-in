@@ -2552,16 +2552,18 @@ var brandsData = [
 {name:"Danieli",name_en:"Danieli",slug:"danieli",category:"general",t:1},
 {name:"De Cecco",name_en:"De Cecco",slug:"de-cecco",category:"general",t:1},
 {name:"De Rosa (bicycle company)",name_en:"De Rosa (bicycle company)",slug:"de-rosa-bicycle-company",category:"general",t:1},
-{name:"De Simon",name_en:"De Simon",slug:"de-simon",category:"general",t:1}
- = tmp;
-    }
-    return a;
-}
-
-function buildShuffledList() {
-    var total = brandsData.length;
-    if (total === 0) return;
-    var rich = [], templ = [];
+{name:"De Simon",name_en:"De Simon",slug:"de-simon",category:"general",t:1},
+{name:"Irregular Choice",name_en:"Irregular Choice",slug:"irregular-choice",category:"fashion",t:1},
+{name:"Jello Shoecompany",name_en:"Jello Shoecompany",slug:"jello-shoecompany",category:"fashion",t:1},
+{name:"Jogarbola",name_en:"Jogarbola",slug:"jogarbola",category:"fashion",t:1},
+{name:"Johnston & Murphy",name_en:"Johnston & Murphy",slug:"johnston-murphy",category:"fashion",t:1},
+{name:"Joma",name_en:"Joma",slug:"joma",category:"fashion",t:1},
+{name:"Journeys (company)",name_en:"Journeys (company)",slug:"journeys-company",category:"fashion",t:1},
+{name:"K-Swiss",name_en:"K-Swiss",slug:"k-swiss",category:"fashion",t:1},
+{name:"KangaRoos",name_en:"KangaRoos",slug:"kangaroos",category:"fashion",t:1},
+{name:"Kappa (brand)",name_en:"Kappa (brand)",slug:"kappa-brand",category:"fashion",t:1},
+{name:"Keds",name_en:"Keds",slug:"keds",category:"fashion",t:1}
+, templ = [];
     for (var i = 0; i < total; i++) {
         if (brandsData[i].t === 1) rich.push(i);
         else templ.push(i);

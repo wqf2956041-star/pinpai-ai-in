@@ -14728,5 +14728,65 @@
     "name": "De Simon",
     "name_en": "De Simon",
     "category": "general"
+  },
+  {
+    "slug": "irregular-choice",
+    "name": "Irregular Choice",
+    "name_en": "Irregular Choice",
+    "category": "fashion"
+  },
+  {
+    "slug": "jello-shoecompany",
+    "name": "Jello Shoecompany",
+    "name_en": "Jello Shoecompany",
+    "category": "fashion"
+  },
+  {
+    "slug": "jogarbola",
+    "name": "Jogarbola",
+    "name_en": "Jogarbola",
+    "category": "fashion"
+  },
+  {
+    "slug": "johnston-murphy",
+    "name": "Johnston & Murphy",
+    "name_en": "Johnston & Murphy",
+    "category": "fashion"
+  },
+  {
+    "slug": "joma",
+    "name": "Joma",
+    "name_en": "Joma",
+    "category": "fashion"
+  },
+  {
+    "slug": "journeys-company",
+    "name": "Journeys (company)",
+    "name_en": "Journeys (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "k-swiss",
+    "name": "K-Swiss",
+    "name_en": "K-Swiss",
+    "category": "fashion"
+  },
+  {
+    "slug": "kangaroos",
+    "name": "KangaRoos",
+    "name_en": "KangaRoos",
+    "category": "fashion"
+  },
+  {
+    "slug": "kappa-brand",
+    "name": "Kappa (brand)",
+    "name_en": "Kappa (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "keds",
+    "name": "Keds",
+    "name_en": "Keds",
+    "category": "fashion"
   }
 ]
