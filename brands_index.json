@@ -15952,5 +15952,65 @@
     "name": "Dongling Vibration",
     "name_en": "Dongling Vibration",
     "category": "general"
+  },
+  {
+    "slug": "wychwood-brewery",
+    "name": "Wychwood Brewery",
+    "name_en": "Wychwood Brewery",
+    "category": "beverage"
+  },
+  {
+    "slug": "manpowergroup",
+    "name": "ManpowerGroup",
+    "name_en": "ManpowerGroup",
+    "category": "general"
+  },
+  {
+    "slug": "mars-inc",
+    "name": "Mars Inc.",
+    "name_en": "Mars Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "mars-snacking",
+    "name": "Mars Snacking",
+    "name_en": "Mars Snacking",
+    "category": "general"
+  },
+  {
+    "slug": "mckesson-corporation",
+    "name": "McKesson Corporation",
+    "name_en": "McKesson Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "mclane-company",
+    "name": "McLane Company",
+    "name_en": "McLane Company",
+    "category": "general"
+  },
+  {
+    "slug": "mentor-worldwide",
+    "name": "Mentor Worldwide",
+    "name_en": "Mentor Worldwide",
+    "category": "general"
+  },
+  {
+    "slug": "merck-co",
+    "name": "Merck & Co.",
+    "name_en": "Merck & Co.",
+    "category": "general"
+  },
+  {
+    "slug": "meta-platforms",
+    "name": "Meta Platforms",
+    "name_en": "Meta Platforms",
+    "category": "general"
+  },
+  {
+    "slug": "microsemi",
+    "name": "Microsemi",
+    "name_en": "Microsemi",
+    "category": "general"
   }
 ]
