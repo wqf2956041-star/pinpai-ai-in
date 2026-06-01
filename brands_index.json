@@ -16072,5 +16072,65 @@
     "name": "Nickelodeon Group",
     "name_en": "Nickelodeon Group",
     "category": "general"
+  },
+  {
+    "slug": "strellson",
+    "name": "Strellson",
+    "name_en": "Strellson",
+    "category": "general"
+  },
+  {
+    "slug": "studer",
+    "name": "Studer",
+    "name_en": "Studer",
+    "category": "general"
+  },
+  {
+    "slug": "sulzer-manufacturer",
+    "name": "Sulzer (manufacturer)",
+    "name_en": "Sulzer (manufacturer)",
+    "category": "general"
+  },
+  {
+    "slug": "sunrise-llc",
+    "name": "Sunrise LLC",
+    "name_en": "Sunrise LLC",
+    "category": "general"
+  },
+  {
+    "slug": "swiss-federal-railways",
+    "name": "Swiss Federal Railways",
+    "name_en": "Swiss Federal Railways",
+    "category": "general"
+  },
+  {
+    "slug": "swiss-life",
+    "name": "Swiss Life",
+    "name_en": "Swiss Life",
+    "category": "general"
+  },
+  {
+    "slug": "swiss-re",
+    "name": "Swiss Re",
+    "name_en": "Swiss Re",
+    "category": "general"
+  },
+  {
+    "slug": "swiss-smile",
+    "name": "Swiss Smile",
+    "name_en": "Swiss Smile",
+    "category": "general"
+  },
+  {
+    "slug": "swisscom",
+    "name": "Swisscom",
+    "name_en": "Swisscom",
+    "category": "general"
+  },
+  {
+    "slug": "swissgear",
+    "name": "SWISSGEAR",
+    "name_en": "SWISSGEAR",
+    "category": "general"
   }
 ]
