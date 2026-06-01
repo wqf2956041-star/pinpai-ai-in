@@ -15832,5 +15832,65 @@
     "name": "Iconix Brand Group",
     "name_en": "Iconix Brand Group",
     "category": "sportswear"
+  },
+  {
+    "slug": "daqo-new-energy",
+    "name": "Daqo New Energy",
+    "name_en": "Daqo New Energy",
+    "category": "general"
+  },
+  {
+    "slug": "dashang-group",
+    "name": "Dashang Group",
+    "name_en": "Dashang Group",
+    "category": "general"
+  },
+  {
+    "slug": "datang-telecom-group",
+    "name": "Datang Telecom Group",
+    "name_en": "Datang Telecom Group",
+    "category": "general"
+  },
+  {
+    "slug": "datang-telecom-technology",
+    "name": "Datang Telecom Technology",
+    "name_en": "Datang Telecom Technology",
+    "category": "general"
+  },
+  {
+    "slug": "dayun-group",
+    "name": "Dayun Group",
+    "name_en": "Dayun Group",
+    "category": "general"
+  },
+  {
+    "slug": "deepcool",
+    "name": "DeepCool",
+    "name_en": "DeepCool",
+    "category": "general"
+  },
+  {
+    "slug": "deepin",
+    "name": "Deepin",
+    "name_en": "Deepin",
+    "category": "general"
+  },
+  {
+    "slug": "deepseek",
+    "name": "DeepSeek",
+    "name_en": "DeepSeek",
+    "category": "general"
+  },
+  {
+    "slug": "deli-company",
+    "name": "Deli (company)",
+    "name_en": "Deli (company)",
+    "category": "general"
+  },
+  {
+    "slug": "denza",
+    "name": "Denza",
+    "name_en": "Denza",
+    "category": "general"
   }
 ]
