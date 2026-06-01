@@ -2686,35 +2686,18 @@ var brandsData = [
 {name:"Champagne Louis Nicaise",name_en:"Champagne Louis Nicaise",slug:"champagne-louis-nicaise",category:"general",t:1},
 {name:"Chantelle (lingerie)",name_en:"Chantelle (lingerie)",slug:"chantelle-lingerie",category:"general",t:1},
 {name:"Charles Oudin",name_en:"Charles Oudin",slug:"charles-oudin",category:"general",t:1},
-{name:"Chloé",name_en:"Chloé",slug:"chlo",category:"general",t:1}
+{name:"Chloé",name_en:"Chloé",slug:"chlo",category:"general",t:1},
+{name:"Chocolat Poulain",name_en:"Chocolat Poulain",slug:"chocolat-poulain",category:"general",t:1},
+{name:"CIAT Group",name_en:"CIAT Group",slug:"ciat-group",category:"general",t:1},
+{name:"CIJ",name_en:"CIJ",slug:"cij",category:"general",t:1},
+{name:"Citroën",name_en:"Citroën",slug:"citron",category:"general",t:1},
+{name:"Club Med",name_en:"Club Med",slug:"club-med",category:"general",t:1},
+{name:"CMA CGM",name_en:"CMA CGM",slug:"cma-cgm",category:"general",t:1},
+{name:"Coadou-Fleury",name_en:"Coadou-Fleury",slug:"coadou-fleury",category:"general",t:1},
+{name:"Cofidis",name_en:"Cofidis",slug:"cofidis",category:"general",t:1},
+{name:"Cokin",name_en:"Cokin",slug:"cokin",category:"general",t:1},
+{name:"Com One group",name_en:"Com One group",slug:"com-one-group",category:"general",t:1}
 ;
-        var name = (b.name || '').toLowerCase();
-        var nameEn = (b.name_en || '').toLowerCase();
-        if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {
-            html += '<a class="brand-card" href="/' + b.slug + '/">';
-            html += '<h2>' + escapeHtml(b.name) + '</h2>';
-            html += '<div class="en">' + escapeHtml(b.name_en || b.name) + '</div>';
-            if (b.category) html += '<span class="cat-tag">' + escapeHtml(b.category) + '</span>';
-            html += '</a>';
-        }
-    }
-    if (!html) html = '<div style="padding:30px;text-align:center;color:#999">未找到匹配的品牌</div>';
-    list.innerHTML = html;
-    var el = document.querySelector('.brand-count');
-    if (el) el.textContent = '搜索结果';
-}
-
-document.addEventListener('DOMContentLoaded', function() {
-    if (brandsData.length > 0) {
-        buildShuffledList();
-        renderBrands('zh-CN');
-    }
-    fetchBrands();
-});
-
-// ===== Status Animation (跳动支付) =====
-(function() {
-    var spinners = ['⠸', '⠹', '⠺', '⠻', '⠼', '⠽', '⠾', '⠿'];
     var spinners2 = ['\\', '|', '/', '—'];
     var spinners3 = ['◒', '◐', '◑', '◓'];
     var dots = ['', '.', '..', '...'];

@@ -15532,5 +15532,65 @@
     "name": "Chloé",
     "name_en": "Chloé",
     "category": "general"
+  },
+  {
+    "slug": "chocolat-poulain",
+    "name": "Chocolat Poulain",
+    "name_en": "Chocolat Poulain",
+    "category": "general"
+  },
+  {
+    "slug": "ciat-group",
+    "name": "CIAT Group",
+    "name_en": "CIAT Group",
+    "category": "general"
+  },
+  {
+    "slug": "cij",
+    "name": "CIJ",
+    "name_en": "CIJ",
+    "category": "general"
+  },
+  {
+    "slug": "citron",
+    "name": "Citroën",
+    "name_en": "Citroën",
+    "category": "general"
+  },
+  {
+    "slug": "club-med",
+    "name": "Club Med",
+    "name_en": "Club Med",
+    "category": "general"
+  },
+  {
+    "slug": "cma-cgm",
+    "name": "CMA CGM",
+    "name_en": "CMA CGM",
+    "category": "general"
+  },
+  {
+    "slug": "coadou-fleury",
+    "name": "Coadou-Fleury",
+    "name_en": "Coadou-Fleury",
+    "category": "general"
+  },
+  {
+    "slug": "cofidis",
+    "name": "Cofidis",
+    "name_en": "Cofidis",
+    "category": "general"
+  },
+  {
+    "slug": "cokin",
+    "name": "Cokin",
+    "name_en": "Cokin",
+    "category": "general"
+  },
+  {
+    "slug": "com-one-group",
+    "name": "Com One group",
+    "name_en": "Com One group",
+    "category": "general"
   }
 ]
