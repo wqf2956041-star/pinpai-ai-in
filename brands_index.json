@@ -14788,5 +14788,65 @@
     "name": "Keds",
     "name_en": "Keds",
     "category": "fashion"
+  },
+  {
+    "slug": "kickers-brand",
+    "name": "Kickers (brand)",
+    "name_en": "Kickers (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "kinney-shoes",
+    "name": "Kinney Shoes",
+    "name_en": "Kinney Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "koyo-bear",
+    "name": "Koyo Bear",
+    "name_en": "Koyo Bear",
+    "category": "fashion"
+  },
+  {
+    "slug": "kubba-sportswear",
+    "name": "Kubba Sportswear",
+    "name_en": "Kubba Sportswear",
+    "category": "fashion"
+  },
+  {
+    "slug": "kustom-footwear",
+    "name": "Kustom (footwear)",
+    "name_en": "Kustom (footwear)",
+    "category": "fashion"
+  },
+  {
+    "slug": "la-new",
+    "name": "La New",
+    "name_en": "La New",
+    "category": "fashion"
+  },
+  {
+    "slug": "la-sportiva",
+    "name": "La Sportiva",
+    "name_en": "La Sportiva",
+    "category": "fashion"
+  },
+  {
+    "slug": "leder-und-schuh",
+    "name": "Leder und Schuh",
+    "name_en": "Leder und Schuh",
+    "category": "fashion"
+  },
+  {
+    "slug": "legea",
+    "name": "Legea",
+    "name_en": "Legea",
+    "category": "fashion"
+  },
+  {
+    "slug": "li-ning",
+    "name": "Li-Ning",
+    "name_en": "Li-Ning",
+    "category": "fashion"
   }
 ]
