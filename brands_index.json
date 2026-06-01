@@ -15412,5 +15412,65 @@
     "name": "Henkel",
     "name_en": "Henkel",
     "category": "general"
+  },
+  {
+    "slug": "henschel-son",
+    "name": "Henschel & Son",
+    "name_en": "Henschel & Son",
+    "category": "general"
+  },
+  {
+    "slug": "heraeus",
+    "name": "Heraeus",
+    "name_en": "Heraeus",
+    "category": "general"
+  },
+  {
+    "slug": "herbol",
+    "name": "Herbol",
+    "name_en": "Herbol",
+    "category": "general"
+  },
+  {
+    "slug": "herlitz",
+    "name": "Herlitz",
+    "name_en": "Herlitz",
+    "category": "general"
+  },
+  {
+    "slug": "herrenknecht",
+    "name": "Herrenknecht",
+    "name_en": "Herrenknecht",
+    "category": "general"
+  },
+  {
+    "slug": "hettich-company",
+    "name": "Hettich (company)",
+    "name_en": "Hettich (company)",
+    "category": "general"
+  },
+  {
+    "slug": "heyco",
+    "name": "Heyco",
+    "name_en": "Heyco",
+    "category": "general"
+  },
+  {
+    "slug": "highscreen",
+    "name": "Highscreen",
+    "name_en": "Highscreen",
+    "category": "general"
+  },
+  {
+    "slug": "hirth",
+    "name": "Hirth",
+    "name_en": "Hirth",
+    "category": "general"
+  },
+  {
+    "slug": "hitschler-company",
+    "name": "Hitschler (company)",
+    "name_en": "Hitschler (company)",
+    "category": "general"
   }
 ]
