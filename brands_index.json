@@ -14608,5 +14608,65 @@
     "name": "Comus (company)",
     "name_en": "Comus (company)",
     "category": "general"
+  },
+  {
+    "slug": "conad",
+    "name": "Conad",
+    "name_en": "Conad",
+    "category": "general"
+  },
+  {
+    "slug": "coppola-foods",
+    "name": "Coppola Foods",
+    "name_en": "Coppola Foods",
+    "category": "general"
+  },
+  {
+    "slug": "cosmed",
+    "name": "COSMED",
+    "name_en": "COSMED",
+    "category": "general"
+  },
+  {
+    "slug": "cosmi-americo-figlio",
+    "name": "Cosmi Americo & Figlio",
+    "name_en": "Cosmi Americo & Figlio",
+    "category": "general"
+  },
+  {
+    "slug": "cressi-sub",
+    "name": "Cressi-Sub",
+    "name_en": "Cressi-Sub",
+    "category": "general"
+  },
+  {
+    "slug": "crumar",
+    "name": "Crumar",
+    "name_en": "Crumar",
+    "category": "general"
+  },
+  {
+    "slug": "cugini-randi",
+    "name": "Cugini Randi",
+    "name_en": "Cugini Randi",
+    "category": "general"
+  },
+  {
+    "slug": "curiel-brand",
+    "name": "Curiel (brand)",
+    "name_en": "Curiel (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "custom-line",
+    "name": "Custom Line",
+    "name_en": "Custom Line",
+    "category": "general"
+  },
+  {
+    "slug": "cvs-ferrari",
+    "name": "CVS Ferrari",
+    "name_en": "CVS Ferrari",
+    "category": "general"
   }
 ]
