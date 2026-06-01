@@ -16192,5 +16192,65 @@
     "name": "Thermoplan AG",
     "name_en": "Thermoplan AG",
     "category": "general"
+  },
+  {
+    "slug": "enkei-corporation",
+    "name": "Enkei Corporation",
+    "name_en": "Enkei Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "epoch-co",
+    "name": "Epoch Co.",
+    "name_en": "Epoch Co.",
+    "category": "general"
+  },
+  {
+    "slug": "epson",
+    "name": "Epson",
+    "name_en": "Epson",
+    "category": "general"
+  },
+  {
+    "slug": "esp-guitars",
+    "name": "ESP Guitars",
+    "name_en": "ESP Guitars",
+    "category": "general"
+  },
+  {
+    "slug": "evernew-company",
+    "name": "Evernew (company)",
+    "name_en": "Evernew (company)",
+    "category": "general"
+  },
+  {
+    "slug": "evisu",
+    "name": "Evisu",
+    "name_en": "Evisu",
+    "category": "general"
+  },
+  {
+    "slug": "excelsior-caff",
+    "name": "Excelsior Caffé",
+    "name_en": "Excelsior Caffé",
+    "category": "general"
+  },
+  {
+    "slug": "falken-tire",
+    "name": "Falken Tire",
+    "name_en": "Falken Tire",
+    "category": "general"
+  },
+  {
+    "slug": "family-inada",
+    "name": "Family Inada",
+    "name_en": "Family Inada",
+    "category": "general"
+  },
+  {
+    "slug": "familymart",
+    "name": "FamilyMart",
+    "name_en": "FamilyMart",
+    "category": "general"
   }
 ]
