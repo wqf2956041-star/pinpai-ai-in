@@ -14548,5 +14548,65 @@
     "name": "CEAT Limited",
     "name_en": "CEAT Limited",
     "category": "general"
+  },
+  {
+    "slug": "clear-shampoo",
+    "name": "Clear (shampoo)",
+    "name_en": "Clear (shampoo)",
+    "category": "general"
+  },
+  {
+    "slug": "clment-tyres",
+    "name": "Clément Tyres",
+    "name_en": "Clément Tyres",
+    "category": "general"
+  },
+  {
+    "slug": "climaveneta",
+    "name": "Climaveneta",
+    "name_en": "Climaveneta",
+    "category": "general"
+  },
+  {
+    "slug": "costruzioni-motori-diesel",
+    "name": "Costruzioni Motori Diesel",
+    "name_en": "Costruzioni Motori Diesel",
+    "category": "general"
+  },
+  {
+    "slug": "codecasa",
+    "name": "Codecasa",
+    "name_en": "Codecasa",
+    "category": "general"
+  },
+  {
+    "slug": "coin-department-store",
+    "name": "Coin (department store)",
+    "name_en": "Coin (department store)",
+    "category": "general"
+  },
+  {
+    "slug": "colotti-trasmissioni",
+    "name": "Colotti Trasmissioni",
+    "name_en": "Colotti Trasmissioni",
+    "category": "general"
+  },
+  {
+    "slug": "columbus-company",
+    "name": "Columbus (company)",
+    "name_en": "Columbus (company)",
+    "category": "general"
+  },
+  {
+    "slug": "comau",
+    "name": "Comau",
+    "name_en": "Comau",
+    "category": "general"
+  },
+  {
+    "slug": "comus-company",
+    "name": "Comus (company)",
+    "name_en": "Comus (company)",
+    "category": "general"
   }
 ]
