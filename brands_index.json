@@ -14932,5 +14932,65 @@
     "name": "Creality",
     "name_en": "Creality",
     "category": "general"
+  },
+  {
+    "slug": "crrc",
+    "name": "CRRC",
+    "name_en": "CRRC",
+    "category": "general"
+  },
+  {
+    "slug": "crrc-shandong",
+    "name": "CRRC Shandong",
+    "name_en": "CRRC Shandong",
+    "category": "general"
+  },
+  {
+    "slug": "csg-holding",
+    "name": "CSG Holding",
+    "name_en": "CSG Holding",
+    "category": "general"
+  },
+  {
+    "slug": "cspc-pharmaceutical-group",
+    "name": "CSPC Pharmaceutical Group",
+    "name_en": "CSPC Pharmaceutical Group",
+    "category": "general"
+  },
+  {
+    "slug": "csr-corporation-limited",
+    "name": "CSR Corporation Limited",
+    "name_en": "CSR Corporation Limited",
+    "category": "general"
+  },
+  {
+    "slug": "cubot",
+    "name": "Cubot",
+    "name_en": "Cubot",
+    "category": "general"
+  },
+  {
+    "slug": "dahua-technology",
+    "name": "Dahua Technology",
+    "name_en": "Dahua Technology",
+    "category": "general"
+  },
+  {
+    "slug": "dalian-hanwei-metal",
+    "name": "Dalian Hanwei Metal",
+    "name_en": "Dalian Hanwei Metal",
+    "category": "general"
+  },
+  {
+    "slug": "crrc-dalian",
+    "name": "CRRC Dalian",
+    "name_en": "CRRC Dalian",
+    "category": "general"
+  },
+  {
+    "slug": "damai-entertainment-holdings",
+    "name": "Damai Entertainment Holdings",
+    "name_en": "Damai Entertainment Holdings",
+    "category": "general"
   }
 ]
