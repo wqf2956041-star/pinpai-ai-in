@@ -2676,48 +2676,18 @@ var brandsData = [
 {name:"Heyco",name_en:"Heyco",slug:"heyco",category:"general",t:1},
 {name:"Highscreen",name_en:"Highscreen",slug:"highscreen",category:"general",t:1},
 {name:"Hirth",name_en:"Hirth",slug:"hirth",category:"general",t:1},
-{name:"Hitschler (company)",name_en:"Hitschler (company)",slug:"hitschler-company",category:"general",t:1}
+{name:"Hitschler (company)",name_en:"Hitschler (company)",slug:"hitschler-company",category:"general",t:1},
+{name:"Cémoi",name_en:"Cémoi",slug:"cmoi",category:"general",t:1},
+{name:"Champagne Binet",name_en:"Champagne Binet",slug:"champagne-binet",category:"general",t:1},
+{name:"Champagne Bricout",name_en:"Champagne Bricout",slug:"champagne-bricout",category:"general",t:1},
+{name:"Champagne Gauthier",name_en:"Champagne Gauthier",slug:"champagne-gauthier",category:"general",t:1},
+{name:"Champagne Krug",name_en:"Champagne Krug",slug:"champagne-krug",category:"general",t:1},
+{name:"Champagne Mercier",name_en:"Champagne Mercier",slug:"champagne-mercier",category:"general",t:1},
+{name:"Champagne Louis Nicaise",name_en:"Champagne Louis Nicaise",slug:"champagne-louis-nicaise",category:"general",t:1},
+{name:"Chantelle (lingerie)",name_en:"Chantelle (lingerie)",slug:"chantelle-lingerie",category:"general",t:1},
+{name:"Charles Oudin",name_en:"Charles Oudin",slug:"charles-oudin",category:"general",t:1},
+{name:"Chloé",name_en:"Chloé",slug:"chlo",category:"general",t:1}
 ;
-        if (!b) continue;
-        var name = escapeHtml(b.name || '');
-        var nameEn = escapeHtml(b.name_en || b.name || '');
-        var slug = b.slug || '';
-        html += '<a class="brand-card" href="/' + slug + '/">';
-        html += '<h2>' + name + '</h2>';
-        html += '<div class="en">' + nameEn + '</div>';
-        if (b.category) html += '<span class="cat-tag">' + escapeHtml(b.category) + '</span>';
-        html += '</a>';
-    }
-    if (count < shuffledIndices.length) {
-        html += '<div style="text-align:center;padding:20px">';
-        html += '<button onclick="loadMore()" class="load-more-btn">加载更多品牌 ▾</button>';
-        html += '</div>';
-    }
-    list.innerHTML = html;
-    var el = document.querySelector('.brand-count');
-    if (el) el.textContent = '共 ' + brandsData.length + ' 个品牌 · 展示 ' + count + ' 个';
-}
-
-function loadMore() {
-    currentCount += DISPLAY_COUNT;
-    if (currentCount > shuffledIndices.length) currentCount = shuffledIndices.length;
-    renderBrands(currentLang);
-}
-
-function searchBrand() {
-    var input = document.getElementById('search-input');
-    var query = input.value.toLowerCase().trim();
-    var list = document.getElementById('brand-list');
-    if (!list) return;
-    if (!query) {
-        currentCount = DISPLAY_COUNT;
-        buildShuffledList();
-        renderBrands(currentLang);
-        return;
-    }
-    var html = '';
-    for (var i = 0; i < brandsData.length; i++) {
-        var b = brandsData[i];
         var name = (b.name || '').toLowerCase();
         var nameEn = (b.name_en || '').toLowerCase();
         if (name.indexOf(query) >= 0 || nameEn.indexOf(query) >= 0) {
