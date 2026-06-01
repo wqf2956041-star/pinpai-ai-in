@@ -14488,5 +14488,65 @@
     "name": "Isotta Fraschini",
     "name_en": "Isotta Fraschini",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "carpigiani",
+    "name": "Carpigiani",
+    "name_en": "Carpigiani",
+    "category": "general"
+  },
+  {
+    "slug": "carpisa",
+    "name": "Carpisa",
+    "name_en": "Carpisa",
+    "category": "general"
+  },
+  {
+    "slug": "carraro-agritalia",
+    "name": "Carraro Agritalia",
+    "name_en": "Carraro Agritalia",
+    "category": "general"
+  },
+  {
+    "slug": "carrozzeria-barbi",
+    "name": "Carrozzeria Barbi",
+    "name_en": "Carrozzeria Barbi",
+    "category": "general"
+  },
+  {
+    "slug": "carrozzeria-colli",
+    "name": "Carrozzeria Colli",
+    "name_en": "Carrozzeria Colli",
+    "category": "general"
+  },
+  {
+    "slug": "carrozzeria-fissore",
+    "name": "Carrozzeria Fissore",
+    "name_en": "Carrozzeria Fissore",
+    "category": "general"
+  },
+  {
+    "slug": "carrozzeria-ghia",
+    "name": "Carrozzeria Ghia",
+    "name_en": "Carrozzeria Ghia",
+    "category": "general"
+  },
+  {
+    "slug": "cassina-company",
+    "name": "Cassina (company)",
+    "name_en": "Cassina (company)",
+    "category": "general"
+  },
+  {
+    "slug": "castagnari",
+    "name": "Castagnari",
+    "name_en": "Castagnari",
+    "category": "general"
+  },
+  {
+    "slug": "ceat-limited",
+    "name": "CEAT Limited",
+    "name_en": "CEAT Limited",
+    "category": "general"
   }
 ]
