@@ -1800,5 +1800,65 @@
     "name": "Matsuoka Guitar",
     "name_en": "Matsuoka Guitar",
     "category": "general"
+  },
+  {
+    "slug": "acne-studios",
+    "name": "Acne Studios",
+    "name_en": "Acne Studios",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "audemars-piguet",
+    "name": "Audemars Piguet",
+    "name_en": "Audemars Piguet",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bottega-veneta",
+    "name": "Bottega Veneta",
+    "name_en": "Bottega Veneta",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "greubel-forsey",
+    "name": "Greubel Forsey",
+    "name_en": "Greubel Forsey",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "heming-company",
+    "name": "Heming (company)",
+    "name_en": "Heming (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hidesign",
+    "name": "Hidesign",
+    "name_en": "Hidesign",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hilditch-key",
+    "name": "Hilditch & Key",
+    "name_en": "Hilditch & Key",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "homer-brand",
+    "name": "Homer (brand)",
+    "name_en": "Homer (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hood-by-air",
+    "name": "Hood By Air",
+    "name_en": "Hood By Air",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hoshino-resorts",
+    "name": "Hoshino Resorts",
+    "name_en": "Hoshino Resorts",
+    "category": "fashion-luxury"
   }
 ]
