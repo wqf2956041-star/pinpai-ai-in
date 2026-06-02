@@ -2610,5 +2610,65 @@
     "name": "Mizuno",
     "name_en": "Mizuno",
     "category": "general"
+  },
+  {
+    "slug": "h-world-group-limited",
+    "name": "H World Group Limited",
+    "name_en": "H World Group Limited",
+    "category": "general"
+  },
+  {
+    "slug": "hafei",
+    "name": "Hafei",
+    "name_en": "Hafei",
+    "category": "general"
+  },
+  {
+    "slug": "haidilao",
+    "name": "Haidilao",
+    "name_en": "Haidilao",
+    "category": "general"
+  },
+  {
+    "slug": "haier",
+    "name": "Haier",
+    "name_en": "Haier",
+    "category": "general"
+  },
+  {
+    "slug": "haifu",
+    "name": "Haifu",
+    "name_en": "Haifu",
+    "category": "general"
+  },
+  {
+    "slug": "haima-automobile",
+    "name": "Haima Automobile",
+    "name_en": "Haima Automobile",
+    "category": "general"
+  },
+  {
+    "slug": "hainan-airlines",
+    "name": "Hainan Airlines",
+    "name_en": "Hainan Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "haitong-international",
+    "name": "Haitong International",
+    "name_en": "Haitong International",
+    "category": "general"
+  },
+  {
+    "slug": "hans-laser",
+    "name": "Han's Laser",
+    "name_en": "Han's Laser",
+    "category": "general"
+  },
+  {
+    "slug": "hanergy",
+    "name": "Hanergy",
+    "name_en": "Hanergy",
+    "category": "general"
   }
 ]
