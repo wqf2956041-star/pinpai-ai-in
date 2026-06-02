@@ -17752,5 +17752,65 @@
     "name": "Eko Guitars",
     "name_en": "Eko Guitars",
     "category": "general"
+  },
+  {
+    "slug": "sky-dancers",
+    "name": "Sky Dancers",
+    "name_en": "Sky Dancers",
+    "category": "toy"
+  },
+  {
+    "slug": "solido",
+    "name": "Solido",
+    "name_en": "Solido",
+    "category": "toy"
+  },
+  {
+    "slug": "sophie-the-giraffe",
+    "name": "Sophie the Giraffe",
+    "name_en": "Sophie the Giraffe",
+    "category": "toy"
+  },
+  {
+    "slug": "squishmallows",
+    "name": "Squishmallows",
+    "name_en": "Squishmallows",
+    "category": "toy"
+  },
+  {
+    "slug": "stemfie",
+    "name": "Stemfie",
+    "name_en": "Stemfie",
+    "category": "toy"
+  },
+  {
+    "slug": "stikfas",
+    "name": "Stikfas",
+    "name_en": "Stikfas",
+    "category": "toy"
+  },
+  {
+    "slug": "super-imaginative-chogokin",
+    "name": "Super Imaginative Chogokin",
+    "name_en": "Super Imaginative Chogokin",
+    "category": "toy"
+  },
+  {
+    "slug": "talk-n-play",
+    "name": "Talk 'n Play",
+    "name_en": "Talk 'n Play",
+    "category": "toy"
+  },
+  {
+    "slug": "teddy-ruxpin",
+    "name": "Teddy Ruxpin",
+    "name_en": "Teddy Ruxpin",
+    "category": "toy"
+  },
+  {
+    "slug": "tekno-toy-manufacturer",
+    "name": "Tekno (toy manufacturer)",
+    "name_en": "Tekno (toy manufacturer)",
+    "category": "toy"
   }
 ]
