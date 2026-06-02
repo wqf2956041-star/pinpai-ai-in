@@ -23474,5 +23474,35 @@
     "name": "Dane-Elec",
     "name_en": "Dane-Elec",
     "category": "general"
+  },
+  {
+    "slug": "dangel",
+    "name": "Dangel",
+    "name_en": "Dangel",
+    "category": "general"
+  },
+  {
+    "slug": "daniel-hechter-paris",
+    "name": "Daniel Hechter Paris",
+    "name_en": "Daniel Hechter Paris",
+    "category": "general"
+  },
+  {
+    "slug": "danone",
+    "name": "Danone",
+    "name_en": "Danone",
+    "category": "general"
+  },
+  {
+    "slug": "dashlane",
+    "name": "Dashlane",
+    "name_en": "Dashlane",
+    "category": "general"
+  },
+  {
+    "slug": "dassault-group",
+    "name": "Dassault Group",
+    "name_en": "Dassault Group",
+    "category": "general"
   }
 ]
