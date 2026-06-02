@@ -24339,5 +24339,65 @@
     "name": "Loesche",
     "name_en": "Loesche",
     "category": "general"
+  },
+  {
+    "slug": "loewe-electronics",
+    "name": "Loewe (electronics)",
+    "name_en": "Loewe (electronics)",
+    "category": "general"
+  },
+  {
+    "slug": "lohmann-rauscher",
+    "name": "Lohmann & Rauscher",
+    "name_en": "Lohmann & Rauscher",
+    "category": "general"
+  },
+  {
+    "slug": "lwe-automobil",
+    "name": "Löwe Automobil",
+    "name_en": "Löwe Automobil",
+    "category": "general"
+  },
+  {
+    "slug": "lufthansa-technik",
+    "name": "Lufthansa Technik",
+    "name_en": "Lufthansa Technik",
+    "category": "general"
+  },
+  {
+    "slug": "lrssen",
+    "name": "Lürssen",
+    "name_en": "Lürssen",
+    "category": "general"
+  },
+  {
+    "slug": "mrklin",
+    "name": "Märklin",
+    "name_en": "Märklin",
+    "category": "general"
+  },
+  {
+    "slug": "mafell",
+    "name": "Mafell",
+    "name_en": "Mafell",
+    "category": "general"
+  },
+  {
+    "slug": "magirus",
+    "name": "Magirus",
+    "name_en": "Magirus",
+    "category": "general"
+  },
+  {
+    "slug": "mahle-gmbh",
+    "name": "Mahle GmbH",
+    "name_en": "Mahle GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "man-se",
+    "name": "MAN SE",
+    "name_en": "MAN SE",
+    "category": "general"
   }
 ]
