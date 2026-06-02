@@ -2400,5 +2400,65 @@
     "name": "Yahoo",
     "name_en": "Yahoo",
     "category": "general"
+  },
+  {
+    "slug": "kg-mobility",
+    "name": "KG Mobility",
+    "name_en": "KG Mobility",
+    "category": "general"
+  },
+  {
+    "slug": "kia",
+    "name": "Kia",
+    "name_en": "Kia",
+    "category": "general"
+  },
+  {
+    "slug": "kia-ecodynamics",
+    "name": "Kia EcoDynamics",
+    "name_en": "Kia EcoDynamics",
+    "category": "general"
+  },
+  {
+    "slug": "kmall24",
+    "name": "Kmall24",
+    "name_en": "Kmall24",
+    "category": "general"
+  },
+  {
+    "slug": "kolon-industries",
+    "name": "Kolon Industries",
+    "name_en": "Kolon Industries",
+    "category": "general"
+  },
+  {
+    "slug": "kookmin-bank",
+    "name": "Kookmin Bank",
+    "name_en": "Kookmin Bank",
+    "category": "general"
+  },
+  {
+    "slug": "kooksoondang",
+    "name": "Kooksoondang",
+    "name_en": "Kooksoondang",
+    "category": "general"
+  },
+  {
+    "slug": "korail",
+    "name": "Korail",
+    "name_en": "Korail",
+    "category": "general"
+  },
+  {
+    "slug": "korea-data-systems",
+    "name": "Korea Data Systems",
+    "name_en": "Korea Data Systems",
+    "category": "general"
+  },
+  {
+    "slug": "korea-post",
+    "name": "Korea Post",
+    "name_en": "Korea Post",
+    "category": "general"
   }
 ]
