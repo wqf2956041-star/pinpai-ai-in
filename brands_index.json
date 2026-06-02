@@ -3390,5 +3390,35 @@
     "name": "String Ting",
     "name_en": "String Ting",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "sub-zero-company",
+    "name": "Sub-Zero (company)",
+    "name_en": "Sub-Zero (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "swarovski",
+    "name": "Swarovski",
+    "name_en": "Swarovski",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "tabbah",
+    "name": "Tabbah",
+    "name_en": "Tabbah",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "tag-heuer",
+    "name": "TAG Heuer",
+    "name_en": "TAG Heuer",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "talisker-distillery",
+    "name": "Talisker distillery",
+    "name_en": "Talisker distillery",
+    "category": "fashion-luxury"
   }
 ]
