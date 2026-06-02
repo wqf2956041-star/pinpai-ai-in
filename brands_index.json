@@ -3150,5 +3150,65 @@
     "name": "Huadong Medicine",
     "name_en": "Huadong Medicine",
     "category": "general"
+  },
+  {
+    "slug": "huafu-fashion",
+    "name": "Huafu Fashion",
+    "name_en": "Huafu Fashion",
+    "category": "general"
+  },
+  {
+    "slug": "huanghai-bus",
+    "name": "Huanghai Bus",
+    "name_en": "Huanghai Bus",
+    "category": "general"
+  },
+  {
+    "slug": "huansu",
+    "name": "Huansu",
+    "name_en": "Huansu",
+    "category": "general"
+  },
+  {
+    "slug": "huashen",
+    "name": "Huashen",
+    "name_en": "Huashen",
+    "category": "general"
+  },
+  {
+    "slug": "huatong-automotive-brand",
+    "name": "Huatong (automotive brand)",
+    "name_en": "Huatong (automotive brand)",
+    "category": "general"
+  },
+  {
+    "slug": "huawei",
+    "name": "Huawei",
+    "name_en": "Huawei",
+    "category": "general"
+  },
+  {
+    "slug": "huaxia-bank",
+    "name": "Huaxia Bank",
+    "name_en": "Huaxia Bank",
+    "category": "general"
+  },
+  {
+    "slug": "huayi-brothers",
+    "name": "Huayi Brothers",
+    "name_en": "Huayi Brothers",
+    "category": "general"
+  },
+  {
+    "slug": "huion",
+    "name": "HUION",
+    "name_en": "HUION",
+    "category": "general"
+  },
+  {
+    "slug": "huiyuan-juice",
+    "name": "Huiyuan Juice",
+    "name_en": "Huiyuan Juice",
+    "category": "general"
   }
 ]
