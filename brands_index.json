@@ -23379,5 +23379,40 @@
     "name": "Metal Mulisha",
     "name_en": "Metal Mulisha",
     "category": "sportswear"
+  },
+  {
+    "slug": "conforama",
+    "name": "Conforama",
+    "name_en": "Conforama",
+    "category": "general",
+    "updated_at": 1780407902
+  },
+  {
+    "slug": "constellium",
+    "name": "Constellium",
+    "name_en": "Constellium",
+    "category": "general",
+    "updated_at": 1780407902
+  },
+  {
+    "slug": "la-cornue",
+    "name": "La Cornue",
+    "name_en": "La Cornue",
+    "category": "general",
+    "updated_at": 1780407902
+  },
+  {
+    "slug": "corre-la-licorne",
+    "name": "Corre La Licorne",
+    "name_en": "Corre La Licorne",
+    "category": "general",
+    "updated_at": 1780407902
+  },
+  {
+    "slug": "courvoisier",
+    "name": "Courvoisier",
+    "name_en": "Courvoisier",
+    "category": "general",
+    "updated_at": 1780407902
   }
 ]
