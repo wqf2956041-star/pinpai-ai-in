@@ -18412,5 +18412,65 @@
     "name": "A. Lange & Söhne",
     "name_en": "A. Lange & Söhne",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "lanificio-fratelli-cerruti",
+    "name": "Lanificio Fratelli Cerruti",
+    "name_en": "Lanificio Fratelli Cerruti",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "lark-berry",
+    "name": "Lark & Berry",
+    "name_en": "Lark & Berry",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "laurent-ferrier",
+    "name": "Laurent Ferrier",
+    "name_en": "Laurent Ferrier",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "le-labo",
+    "name": "Le Labo",
+    "name_en": "Le Labo",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "lewis-cooper",
+    "name": "Lewis & Cooper",
+    "name_en": "Lewis & Cooper",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "lewis-leathers",
+    "name": "Lewis Leathers",
+    "name_en": "Lewis Leathers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "loews-hotels",
+    "name": "Loews Hotels",
+    "name_en": "Loews Hotels",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "longines",
+    "name": "Longines",
+    "name_en": "Longines",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "loro-piana",
+    "name": "Loro Piana",
+    "name_en": "Loro Piana",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "lozza-eyewear",
+    "name": "Lozza (eyewear)",
+    "name_en": "Lozza (eyewear)",
+    "category": "fashion-luxury"
   }
 ]
