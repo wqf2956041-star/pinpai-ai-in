@@ -17872,5 +17872,65 @@
     "name": "Tri-ang",
     "name_en": "Tri-ang",
     "category": "toy"
+  },
+  {
+    "slug": "isc-sportswear",
+    "name": "ISC (sportswear)",
+    "name_en": "ISC (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ivivva-athletica",
+    "name": "Ivivva athletica",
+    "name_en": "Ivivva athletica",
+    "category": "sportswear"
+  },
+  {
+    "slug": "izod",
+    "name": "Izod",
+    "name_en": "Izod",
+    "category": "sportswear"
+  },
+  {
+    "slug": "jw-foster-and-sons",
+    "name": "J.W. Foster and Sons",
+    "name_en": "J.W. Foster and Sons",
+    "category": "sportswear"
+  },
+  {
+    "slug": "jd-sports",
+    "name": "JD Sports",
+    "name_en": "JD Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "jofa",
+    "name": "Jofa",
+    "name_en": "Jofa",
+    "category": "sportswear"
+  },
+  {
+    "slug": "jgel",
+    "name": "Jögel",
+    "name_en": "Jögel",
+    "category": "sportswear"
+  },
+  {
+    "slug": "juicy-couture",
+    "name": "Juicy Couture",
+    "name_en": "Juicy Couture",
+    "category": "sportswear"
+  },
+  {
+    "slug": "k2-sports",
+    "name": "K2 Sports",
+    "name_en": "K2 Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "karhu-sports-brand",
+    "name": "Karhu (sports brand)",
+    "name_en": "Karhu (sports brand)",
+    "category": "sportswear"
   }
 ]
