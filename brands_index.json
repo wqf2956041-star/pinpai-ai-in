@@ -19396,5 +19396,65 @@
     "name": "Keumyoung Group",
     "name_en": "Keumyoung Group",
     "category": "general"
+  },
+  {
+    "slug": "moser-glass-company",
+    "name": "Moser (glass company)",
+    "name_en": "Moser (glass company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "mr-hare",
+    "name": "Mr Hare",
+    "name_en": "Mr Hare",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "franck-muller",
+    "name": "Franck Muller",
+    "name_en": "Franck Muller",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "mz-wallace",
+    "name": "MZ Wallace",
+    "name_en": "MZ Wallace",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "neiman-marcus",
+    "name": "Neiman Marcus",
+    "name_en": "Neiman Marcus",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "neiman-marcus-group",
+    "name": "Neiman Marcus Group",
+    "name_en": "Neiman Marcus Group",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "nomos-glashtte",
+    "name": "Nomos Glashütte",
+    "name_en": "Nomos Glashütte",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "oche-1867",
+    "name": "O'Che 1867",
+    "name_en": "O'Che 1867",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "the-oberoi-group",
+    "name": "The Oberoi Group",
+    "name_en": "The Oberoi Group",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "oceanfast",
+    "name": "Oceanfast",
+    "name_en": "Oceanfast",
+    "category": "fashion-luxury"
   }
 ]
