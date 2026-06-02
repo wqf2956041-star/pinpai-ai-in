@@ -17032,5 +17032,65 @@
     "name": "Hesketh Motorcycles",
     "name_en": "Hesketh Motorcycles",
     "category": "general"
+  },
+  {
+    "slug": "h-moser-cie",
+    "name": "H. Moser & Cie",
+    "name_en": "H. Moser & Cie",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "h-stern",
+    "name": "H. Stern",
+    "name_en": "H. Stern",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hamilton-inches",
+    "name": "Hamilton & Inches",
+    "name_en": "Hamilton & Inches",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hardy-brothers",
+    "name": "Hardy Brothers",
+    "name_en": "Hardy Brothers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "harry-winston-inc",
+    "name": "Harry Winston, Inc.",
+    "name_en": "Harry Winston, Inc.",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hstens",
+    "name": "Hästens",
+    "name_en": "Hästens",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hawico",
+    "name": "Hawico",
+    "name_en": "Hawico",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hdiard",
+    "name": "Hédiard",
+    "name_en": "Hédiard",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "iwc-schaffhausen",
+    "name": "IWC Schaffhausen",
+    "name_en": "IWC Schaffhausen",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "j-pauly-sohn",
+    "name": "J. Pauly & Sohn",
+    "name_en": "J. Pauly & Sohn",
+    "category": "fashion-luxury"
   }
 ]
