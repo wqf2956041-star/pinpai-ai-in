@@ -24219,5 +24219,65 @@
     "name": "Veldskoen Shoes",
     "name_en": "Veldskoen Shoes",
     "category": "fashion"
+  },
+  {
+    "slug": "veritas-bespoke",
+    "name": "Veritas Bespoke",
+    "name_en": "Veritas Bespoke",
+    "category": "fashion"
+  },
+  {
+    "slug": "vibram",
+    "name": "Vibram",
+    "name_en": "Vibram",
+    "category": "fashion"
+  },
+  {
+    "slug": "volley-shoe",
+    "name": "Volley (shoe)",
+    "name_en": "Volley (shoe)",
+    "category": "fashion"
+  },
+  {
+    "slug": "walk-over-shoes",
+    "name": "Walk-Over shoes",
+    "name_en": "Walk-Over shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "warrix-sports",
+    "name": "Warrix Sports",
+    "name_en": "Warrix Sports",
+    "category": "fashion"
+  },
+  {
+    "slug": "stuart-weitzman",
+    "name": "Stuart Weitzman",
+    "name_en": "Stuart Weitzman",
+    "category": "fashion"
+  },
+  {
+    "slug": "j-m-weston",
+    "name": "J. M. Weston",
+    "name_en": "J. M. Weston",
+    "category": "fashion"
+  },
+  {
+    "slug": "wildsmith-shoes",
+    "name": "Wildsmith Shoes",
+    "name_en": "Wildsmith Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "world-balance",
+    "name": "World Balance",
+    "name_en": "World Balance",
+    "category": "fashion"
+  },
+  {
+    "slug": "xtep",
+    "name": "Xtep",
+    "name_en": "Xtep",
+    "category": "fashion"
   }
 ]
