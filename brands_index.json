@@ -16912,5 +16912,65 @@
     "name": "Foton Motor",
     "name_en": "Foton Motor",
     "category": "general"
+  },
+  {
+    "slug": "gordon-murray-automotive",
+    "name": "Gordon Murray Automotive",
+    "name_en": "Gordon Murray Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "granellis-ice-cream",
+    "name": "Granelli's Ice Cream",
+    "name_en": "Granelli's Ice Cream",
+    "category": "general"
+  },
+  {
+    "slug": "graphcore",
+    "name": "Graphcore",
+    "name_en": "Graphcore",
+    "category": "general"
+  },
+  {
+    "slug": "gray-nicolls",
+    "name": "Gray-Nicolls",
+    "name_en": "Gray-Nicolls",
+    "category": "general"
+  },
+  {
+    "slug": "the-great-horseless-carriage-company",
+    "name": "The Great Horseless Carriage Company",
+    "name_en": "The Great Horseless Carriage Company",
+    "category": "general"
+  },
+  {
+    "slug": "green-cross-code",
+    "name": "Green Cross Code",
+    "name_en": "Green Cross Code",
+    "category": "general"
+  },
+  {
+    "slug": "greene-king",
+    "name": "Greene King",
+    "name_en": "Greene King",
+    "category": "general"
+  },
+  {
+    "slug": "grey-technology",
+    "name": "Grey Technology",
+    "name_en": "Grey Technology",
+    "category": "general"
+  },
+  {
+    "slug": "griffon-hoverwork",
+    "name": "Griffon Hoverwork",
+    "name_en": "Griffon Hoverwork",
+    "category": "general"
+  },
+  {
+    "slug": "gullane-entertainment",
+    "name": "Gullane Entertainment",
+    "name_en": "Gullane Entertainment",
+    "category": "general"
   }
 ]
