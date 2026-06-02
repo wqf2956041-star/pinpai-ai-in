@@ -1200,5 +1200,65 @@
     "name": "MandM Direct",
     "name_en": "MandM Direct",
     "category": "general"
+  },
+  {
+    "slug": "megger",
+    "name": "Megger",
+    "name_en": "Megger",
+    "category": "general"
+  },
+  {
+    "slug": "mellor-bus",
+    "name": "Mellor Bus",
+    "name_en": "Mellor Bus",
+    "category": "general"
+  },
+  {
+    "slug": "merlin-publishing",
+    "name": "Merlin Publishing",
+    "name_en": "Merlin Publishing",
+    "category": "general"
+  },
+  {
+    "slug": "mg-sports-and-racing-europe",
+    "name": "MG Sports and Racing Europe",
+    "name_en": "MG Sports and Racing Europe",
+    "category": "general"
+  },
+  {
+    "slug": "mg-xpower",
+    "name": "MG XPower",
+    "name_en": "MG XPower",
+    "category": "general"
+  },
+  {
+    "slug": "michell-instruments",
+    "name": "Michell Instruments",
+    "name_en": "Michell Instruments",
+    "category": "general"
+  },
+  {
+    "slug": "micro-focus",
+    "name": "Micro Focus",
+    "name_en": "Micro Focus",
+    "category": "general"
+  },
+  {
+    "slug": "microcosm-ltd",
+    "name": "Microcosm Ltd",
+    "name_en": "Microcosm Ltd",
+    "category": "general"
+  },
+  {
+    "slug": "midmeds",
+    "name": "MidMeds",
+    "name_en": "MidMeds",
+    "category": "general"
+  },
+  {
+    "slug": "ministry-of-sound",
+    "name": "Ministry of Sound",
+    "name_en": "Ministry of Sound",
+    "category": "general"
   }
 ]
