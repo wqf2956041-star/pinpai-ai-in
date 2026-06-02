@@ -23899,5 +23899,65 @@
     "name": "RTX Corporation",
     "name_en": "RTX Corporation",
     "category": "general"
+  },
+  {
+    "slug": "rxall",
+    "name": "RxAll",
+    "name_en": "RxAll",
+    "category": "general"
+  },
+  {
+    "slug": "sams-club",
+    "name": "Sam's Club",
+    "name_en": "Sam's Club",
+    "category": "general"
+  },
+  {
+    "slug": "sbarro",
+    "name": "Sbarro",
+    "name_en": "Sbarro",
+    "category": "general"
+  },
+  {
+    "slug": "scientology",
+    "name": "Scientology",
+    "name_en": "Scientology",
+    "category": "general"
+  },
+  {
+    "slug": "seaman-paper",
+    "name": "Seaman Paper",
+    "name_en": "Seaman Paper",
+    "category": "general"
+  },
+  {
+    "slug": "showtime-networks",
+    "name": "Showtime Networks",
+    "name_en": "Showtime Networks",
+    "category": "general"
+  },
+  {
+    "slug": "silverfort",
+    "name": "Silverfort",
+    "name_en": "Silverfort",
+    "category": "general"
+  },
+  {
+    "slug": "ssc-technologies",
+    "name": "SS&C Technologies",
+    "name_en": "SS&C Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "supermicro",
+    "name": "Supermicro",
+    "name_en": "Supermicro",
+    "category": "general"
+  },
+  {
+    "slug": "sykes-enterprises",
+    "name": "Sykes Enterprises",
+    "name_en": "Sykes Enterprises",
+    "category": "general"
   }
 ]
