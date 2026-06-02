@@ -2460,5 +2460,65 @@
     "name": "Korea Post",
     "name_en": "Korea Post",
     "category": "general"
+  },
+  {
+    "slug": "korea-tungsten-company",
+    "name": "Korea Tungsten Company",
+    "name_en": "Korea Tungsten Company",
+    "category": "general"
+  },
+  {
+    "slug": "koscom",
+    "name": "Koscom",
+    "name_en": "Koscom",
+    "category": "general"
+  },
+  {
+    "slug": "kt-corporation",
+    "name": "KT Corporation",
+    "name_en": "KT Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "kumho-asiana-group",
+    "name": "Kumho Asiana Group",
+    "name_en": "Kumho Asiana Group",
+    "category": "general"
+  },
+  {
+    "slug": "kumho-tire",
+    "name": "Kumho Tire",
+    "name_en": "Kumho Tire",
+    "category": "general"
+  },
+  {
+    "slug": "kyeyang-electric",
+    "name": "Kyeyang Electric",
+    "name_en": "Kyeyang Electric",
+    "category": "general"
+  },
+  {
+    "slug": "kyobo-life-insurance",
+    "name": "Kyobo Life Insurance",
+    "name_en": "Kyobo Life Insurance",
+    "category": "general"
+  },
+  {
+    "slug": "lg-cyon",
+    "name": "LG Cyon",
+    "name_en": "LG Cyon",
+    "category": "general"
+  },
+  {
+    "slug": "lg-electronics",
+    "name": "LG Electronics",
+    "name_en": "LG Electronics",
+    "category": "general"
+  },
+  {
+    "slug": "lg-uplus",
+    "name": "LG Uplus",
+    "name_en": "LG Uplus",
+    "category": "general"
   }
 ]
