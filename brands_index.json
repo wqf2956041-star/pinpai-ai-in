@@ -18736,5 +18736,65 @@
     "name": "Galanz",
     "name_en": "Galanz",
     "category": "general"
+  },
+  {
+    "slug": "gamepad-digital",
+    "name": "GamePad Digital",
+    "name_en": "GamePad Digital",
+    "category": "general"
+  },
+  {
+    "slug": "ganyuting",
+    "name": "Ganyuting",
+    "name_en": "Ganyuting",
+    "category": "general"
+  },
+  {
+    "slug": "gaokin",
+    "name": "Gaokin",
+    "name_en": "Gaokin",
+    "category": "general"
+  },
+  {
+    "slug": "geely",
+    "name": "Geely",
+    "name_en": "Geely",
+    "category": "general"
+  },
+  {
+    "slug": "geely-auto",
+    "name": "Geely Auto",
+    "name_en": "Geely Auto",
+    "category": "general"
+  },
+  {
+    "slug": "geely-galaxy",
+    "name": "Geely Galaxy",
+    "name_en": "Geely Galaxy",
+    "category": "general"
+  },
+  {
+    "slug": "geely-geometry",
+    "name": "Geely Geometry",
+    "name_en": "Geely Geometry",
+    "category": "general"
+  },
+  {
+    "slug": "geely-ming-industrial",
+    "name": "Geely Ming Industrial",
+    "name_en": "Geely Ming Industrial",
+    "category": "general"
+  },
+  {
+    "slug": "gigadevice",
+    "name": "GigaDevice",
+    "name_en": "GigaDevice",
+    "category": "general"
+  },
+  {
+    "slug": "gionee",
+    "name": "Gionee",
+    "name_en": "Gionee",
+    "category": "general"
   }
 ]
