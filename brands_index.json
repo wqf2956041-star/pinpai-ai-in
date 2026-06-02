@@ -17332,5 +17332,65 @@
     "name": "GeeXPlus",
     "name_en": "GeeXPlus",
     "category": "general"
+  },
+  {
+    "slug": "gen-corporation",
+    "name": "GEN Corporation",
+    "name_en": "GEN Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "gesshizu",
+    "name": "Gesshizu",
+    "name_en": "Gesshizu",
+    "category": "general"
+  },
+  {
+    "slug": "gigabeat",
+    "name": "Gigabeat",
+    "name_en": "Gigabeat",
+    "category": "general"
+  },
+  {
+    "slug": "glico",
+    "name": "Glico",
+    "name_en": "Glico",
+    "category": "general"
+  },
+  {
+    "slug": "glm-co-ltd",
+    "name": "GLM Co. Ltd.",
+    "name_en": "GLM Co. Ltd.",
+    "category": "general"
+  },
+  {
+    "slug": "global-cutlery",
+    "name": "Global (cutlery)",
+    "name_en": "Global (cutlery)",
+    "category": "general"
+  },
+  {
+    "slug": "globis",
+    "name": "Globis",
+    "name_en": "Globis",
+    "category": "general"
+  },
+  {
+    "slug": "graphtec",
+    "name": "Graphtec",
+    "name_en": "Graphtec",
+    "category": "general"
+  },
+  {
+    "slug": "gre-company",
+    "name": "GRE (company)",
+    "name_en": "GRE (company)",
+    "category": "general"
+  },
+  {
+    "slug": "greddy",
+    "name": "GReddy",
+    "name_en": "GReddy",
+    "category": "general"
   }
 ]
