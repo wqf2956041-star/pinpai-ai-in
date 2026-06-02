@@ -23764,5 +23764,40 @@
     "name_en": "Leica Camera",
     "category": "general",
     "updated_at": 1780411006
+  },
+  {
+    "slug": "ong-shunmugam",
+    "name": "Ong Shunmugam",
+    "name_en": "Ong Shunmugam",
+    "category": "fashion",
+    "updated_at": 1780411105
+  },
+  {
+    "slug": "orca-company",
+    "name": "Orca (company)",
+    "name_en": "Orca (company)",
+    "category": "fashion",
+    "updated_at": 1780411105
+  },
+  {
+    "slug": "paule-ka",
+    "name": "Paule Ka",
+    "name_en": "Paule Ka",
+    "category": "fashion",
+    "updated_at": 1780411105
+  },
+  {
+    "slug": "pedro-del-hierro-brand",
+    "name": "Pedro del Hierro (brand)",
+    "name_en": "Pedro del Hierro (brand)",
+    "category": "fashion",
+    "updated_at": 1780411105
+  },
+  {
+    "slug": "pendleton-woolen-mills",
+    "name": "Pendleton Woolen Mills",
+    "name_en": "Pendleton Woolen Mills",
+    "category": "fashion",
+    "updated_at": 1780411105
   }
 ]
