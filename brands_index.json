@@ -17512,5 +17512,65 @@
     "name": "Saucony",
     "name_en": "Saucony",
     "category": "fashion"
+  },
+  {
+    "slug": "sebago-company",
+    "name": "Sebago (company)",
+    "name_en": "Sebago (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "sergio-rossi",
+    "name": "Sergio Rossi",
+    "name_en": "Sergio Rossi",
+    "category": "fashion"
+  },
+  {
+    "slug": "sessions-clothing-company",
+    "name": "Sessions (clothing company)",
+    "name_en": "Sessions (clothing company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "daniella-shevel",
+    "name": "Daniella Shevel",
+    "name_en": "Daniella Shevel",
+    "category": "fashion"
+  },
+  {
+    "slug": "shoedazzle",
+    "name": "ShoeDazzle",
+    "name_en": "ShoeDazzle",
+    "category": "fashion"
+  },
+  {
+    "slug": "shy-company",
+    "name": "Shy (company)",
+    "name_en": "Shy (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "sidi-company",
+    "name": "Sidi (company)",
+    "name_en": "Sidi (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "simod",
+    "name": "Simod",
+    "name_en": "Simod",
+    "category": "fashion"
+  },
+  {
+    "slug": "skechers",
+    "name": "Skechers",
+    "name_en": "Skechers",
+    "category": "fashion"
+  },
+  {
+    "slug": "paul-smith-fashion-designer",
+    "name": "Paul Smith (fashion designer)",
+    "name_en": "Paul Smith (fashion designer)",
+    "category": "fashion"
   }
 ]
