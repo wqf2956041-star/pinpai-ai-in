@@ -3090,5 +3090,65 @@
     "name": "Nakamichi",
     "name_en": "Nakamichi",
     "category": "general"
+  },
+  {
+    "slug": "lego",
+    "name": "Lego",
+    "name_en": "Lego",
+    "category": "toy"
+  },
+  {
+    "slug": "hisilicon",
+    "name": "HiSilicon",
+    "name_en": "HiSilicon",
+    "category": "general"
+  },
+  {
+    "slug": "hisoft",
+    "name": "HiSoft",
+    "name_en": "HiSoft",
+    "category": "general"
+  },
+  {
+    "slug": "hna-group",
+    "name": "HNA Group",
+    "name_en": "HNA Group",
+    "category": "general"
+  },
+  {
+    "slug": "hohem",
+    "name": "Hohem",
+    "name_en": "Hohem",
+    "category": "general"
+  },
+  {
+    "slug": "homan-marque",
+    "name": "Homan (marque)",
+    "name_en": "Homan (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "hongxin",
+    "name": "Hongxin",
+    "name_en": "Hongxin",
+    "category": "general"
+  },
+  {
+    "slug": "horki-brand",
+    "name": "Horki (brand)",
+    "name_en": "Horki (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "hozon-auto",
+    "name": "Hozon Auto",
+    "name_en": "Hozon Auto",
+    "category": "general"
+  },
+  {
+    "slug": "huadong-medicine",
+    "name": "Huadong Medicine",
+    "name_en": "Huadong Medicine",
+    "category": "general"
   }
 ]

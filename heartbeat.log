@@ -124,3 +124,23 @@
 [2026-06-03 06:45:08] Regenerating homepage (475 brands)...
 [2026-06-03 06:45:08]   brandsData replaced: 475 entries
 [2026-06-03 06:45:08] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 07:00:01] Current: 475 brands
+[2026-06-03 07:00:01] Pool: 10 brands
+[2026-06-03 07:00:02]   ADDED nakano-corporation: Nakano Corporation (+1 langs)
+[2026-06-03 07:00:11]   ADDED namco: Namco (+5 langs)
+[2026-06-03 07:00:12]   SKIP namiki: HTTP Error 429: Too Many Requests
+[2026-06-03 07:00:14]   SKIP nanaco: HTTP Error 429: Too Many Requests
+[2026-06-03 07:00:15]   SKIP nanoblock: HTTP Error 429: Too Many Requests
+[2026-06-03 07:00:16] Regenerating homepage (477 brands)...
+[2026-06-03 07:00:16]   brandsData replaced: 477 entries
+[2026-06-03 07:00:16] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 07:15:01] Current: 477 brands
+[2026-06-03 07:15:01] Pool: 5 brands
+[2026-06-03 07:15:01]   SKIP national-brand: content too short
+[2026-06-03 07:15:07]   ADDED nec: NEC (+7 langs)
+[2026-06-03 07:15:09]   SKIP new-otani-hotels: HTTP Error 429: Too Many Requests
+[2026-06-03 07:15:10]   SKIP newgin: HTTP Error 429: Too Many Requests
+[2026-06-03 07:15:12]   SKIP nichia: HTTP Error 429: Too Many Requests
+[2026-06-03 07:15:13] Regenerating homepage (478 brands)...
+[2026-06-03 07:15:13]   brandsData replaced: 478 entries
+[2026-06-03 07:15:13] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
