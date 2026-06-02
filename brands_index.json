@@ -18232,5 +18232,65 @@
     "name": "Hirose Electric Group",
     "name_en": "Hirose Electric Group",
     "category": "general"
+  },
+  {
+    "slug": "hillman",
+    "name": "Hillman",
+    "name_en": "Hillman",
+    "category": "general"
+  },
+  {
+    "slug": "hiwatt",
+    "name": "Hiwatt",
+    "name_en": "Hiwatt",
+    "category": "general"
+  },
+  {
+    "slug": "homebase",
+    "name": "Homebase",
+    "name_en": "Homebase",
+    "category": "general"
+  },
+  {
+    "slug": "hoopers-hooch",
+    "name": "Hooper's Hooch",
+    "name_en": "Hooper's Hooch",
+    "category": "general"
+  },
+  {
+    "slug": "hornby-railways",
+    "name": "Hornby Railways",
+    "name_en": "Hornby Railways",
+    "category": "general"
+  },
+  {
+    "slug": "hot-animation",
+    "name": "HOT Animation",
+    "name_en": "HOT Animation",
+    "category": "general"
+  },
+  {
+    "slug": "hovis",
+    "name": "Hovis",
+    "name_en": "Hovis",
+    "category": "general"
+  },
+  {
+    "slug": "hp-sauce",
+    "name": "HP Sauce",
+    "name_en": "HP Sauce",
+    "category": "general"
+  },
+  {
+    "slug": "hsbc-uk",
+    "name": "HSBC UK",
+    "name_en": "HSBC UK",
+    "category": "general"
+  },
+  {
+    "slug": "hygena",
+    "name": "Hygena",
+    "name_en": "Hygena",
+    "category": "general"
   }
 ]
