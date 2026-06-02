@@ -16792,5 +16792,65 @@
     "name": "OGGI",
     "name_en": "OGGI",
     "category": "fashion"
+  },
+  {
+    "slug": "eve-energy",
+    "name": "EVE Energy",
+    "name_en": "EVE Energy",
+    "category": "general"
+  },
+  {
+    "slug": "evergrande-new-energy-auto",
+    "name": "Evergrande New Energy Auto",
+    "name_en": "Evergrande New Energy Auto",
+    "category": "general"
+  },
+  {
+    "slug": "everus",
+    "name": "Everus",
+    "name_en": "Everus",
+    "category": "general"
+  },
+  {
+    "slug": "evoke-motorcycles",
+    "name": "Evoke Motorcycles",
+    "name_en": "Evoke Motorcycles",
+    "category": "general"
+  },
+  {
+    "slug": "fangchengbao",
+    "name": "Fangchengbao",
+    "name_en": "Fangchengbao",
+    "category": "general"
+  },
+  {
+    "slug": "farida-guitars",
+    "name": "Farida Guitars",
+    "name_en": "Farida Guitars",
+    "category": "general"
+  },
+  {
+    "slug": "farmmi",
+    "name": "Farmmi",
+    "name_en": "Farmmi",
+    "category": "general"
+  },
+  {
+    "slug": "fat-shark",
+    "name": "Fat Shark",
+    "name_en": "Fat Shark",
+    "category": "general"
+  },
+  {
+    "slug": "faw-group",
+    "name": "FAW Group",
+    "name_en": "FAW Group",
+    "category": "general"
+  },
+  {
+    "slug": "feiyue-group",
+    "name": "Feiyue Group",
+    "name_en": "Feiyue Group",
+    "category": "general"
   }
 ]
