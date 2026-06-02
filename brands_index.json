@@ -2100,5 +2100,65 @@
     "name": "Farfisa",
     "name_en": "Farfisa",
     "category": "general"
+  },
+  {
+    "slug": "fastweb-telecommunications-company",
+    "name": "Fastweb (telecommunications company)",
+    "name_en": "Fastweb (telecommunications company)",
+    "category": "general"
+  },
+  {
+    "slug": "fatar",
+    "name": "Fatar",
+    "name_en": "Fatar",
+    "category": "general"
+  },
+  {
+    "slug": "fazioli",
+    "name": "Fazioli",
+    "name_en": "Fazioli",
+    "category": "general"
+  },
+  {
+    "slug": "fedrigoni",
+    "name": "Fedrigoni",
+    "name_en": "Fedrigoni",
+    "category": "general"
+  },
+  {
+    "slug": "fernet-stock",
+    "name": "Fernet Stock",
+    "name_en": "Fernet Stock",
+    "category": "general"
+  },
+  {
+    "slug": "fernet-branca",
+    "name": "Fernet-Branca",
+    "name_en": "Fernet-Branca",
+    "category": "general"
+  },
+  {
+    "slug": "ferrania",
+    "name": "Ferrania",
+    "name_en": "Ferrania",
+    "category": "general"
+  },
+  {
+    "slug": "ferrari",
+    "name": "Ferrari",
+    "name_en": "Ferrari",
+    "category": "general"
+  },
+  {
+    "slug": "ferrari-belotti",
+    "name": "Ferrari Belotti",
+    "name_en": "Ferrari Belotti",
+    "category": "general"
+  },
+  {
+    "slug": "ferrari-trento",
+    "name": "Ferrari Trento",
+    "name_en": "Ferrari Trento",
+    "category": "general"
   }
 ]
