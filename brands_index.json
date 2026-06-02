@@ -2220,5 +2220,65 @@
     "name": "Heelys",
     "name_en": "Heelys",
     "category": "fashion"
+  },
+  {
+    "slug": "herbert-levine-company",
+    "name": "Herbert Levine (company)",
+    "name_en": "Herbert Levine (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "hi-tec",
+    "name": "Hi-Tec",
+    "name_en": "Hi-Tec",
+    "category": "fashion"
+  },
+  {
+    "slug": "hoka",
+    "name": "Hoka",
+    "name_en": "Hoka",
+    "category": "fashion"
+  },
+  {
+    "slug": "humanic",
+    "name": "Humanic",
+    "name_en": "Humanic",
+    "category": "fashion"
+  },
+  {
+    "slug": "the-hundreds",
+    "name": "The Hundreds",
+    "name_en": "The Hundreds",
+    "category": "fashion"
+  },
+  {
+    "slug": "hunter-boot-ltd",
+    "name": "Hunter Boot Ltd",
+    "name_en": "Hunter Boot Ltd",
+    "category": "fashion"
+  },
+  {
+    "slug": "hush-puppies",
+    "name": "Hush Puppies",
+    "name_en": "Hush Puppies",
+    "category": "fashion"
+  },
+  {
+    "slug": "insolia",
+    "name": "Insolia",
+    "name_en": "Insolia",
+    "category": "fashion"
+  },
+  {
+    "slug": "invicta-company",
+    "name": "Invicta (company)",
+    "name_en": "Invicta (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "ipath-footwear",
+    "name": "IPath Footwear",
+    "name_en": "IPath Footwear",
+    "category": "fashion"
   }
 ]
