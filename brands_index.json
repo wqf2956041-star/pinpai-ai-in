@@ -23259,5 +23259,65 @@
     "name": "Faema",
     "name_en": "Faema",
     "category": "general"
+  },
+  {
+    "slug": "llbean",
+    "name": "L.L.Bean",
+    "name_en": "L.L.Bean",
+    "category": "sportswear"
+  },
+  {
+    "slug": "le-tigre-clothing-brand",
+    "name": "Le Tigre (clothing brand)",
+    "name_en": "Le Tigre (clothing brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "league-collegiate-wear",
+    "name": "League Collegiate Wear",
+    "name_en": "League Collegiate Wear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "lee-cooper",
+    "name": "Lee Cooper",
+    "name_en": "Lee Cooper",
+    "category": "sportswear"
+  },
+  {
+    "slug": "lgr-sportswear",
+    "name": "LGR Sportswear",
+    "name_en": "LGR Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "limited-edition-sportswear",
+    "name": "Limited Edition Sportswear",
+    "name_en": "Limited Edition Sportswear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "lonsdale-clothing",
+    "name": "Lonsdale (clothing)",
+    "name_en": "Lonsdale (clothing)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "looptworks",
+    "name": "Looptworks",
+    "name_en": "Looptworks",
+    "category": "sportswear"
+  },
+  {
+    "slug": "lorna-jane",
+    "name": "Lorna Jane",
+    "name_en": "Lorna Jane",
+    "category": "sportswear"
+  },
+  {
+    "slug": "loudmouth-golf",
+    "name": "Loudmouth Golf",
+    "name_en": "Loudmouth Golf",
+    "category": "sportswear"
   }
 ]
