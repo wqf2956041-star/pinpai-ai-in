@@ -23414,5 +23414,65 @@
     "name_en": "Courvoisier",
     "category": "general",
     "updated_at": 1780407902
+  },
+  {
+    "slug": "crdit-agricole",
+    "name": "Crédit Agricole",
+    "name_en": "Crédit Agricole",
+    "category": "general"
+  },
+  {
+    "slug": "crdit-mutuel",
+    "name": "Crédit Mutuel",
+    "name_en": "Crédit Mutuel",
+    "category": "general"
+  },
+  {
+    "slug": "creed-perfume-house",
+    "name": "Creed (perfume house)",
+    "name_en": "Creed (perfume house)",
+    "category": "general"
+  },
+  {
+    "slug": "croizet",
+    "name": "Croizet",
+    "name_en": "Croizet",
+    "category": "general"
+  },
+  {
+    "slug": "cs-communication-systmes",
+    "name": "CS Communication & Systèmes",
+    "name_en": "CS Communication & Systèmes",
+    "category": "general"
+  },
+  {
+    "slug": "cycles-peugeot",
+    "name": "Cycles Peugeot",
+    "name_en": "Cycles Peugeot",
+    "category": "general"
+  },
+  {
+    "slug": "cyfac",
+    "name": "Cyfac",
+    "name_en": "Cyfac",
+    "category": "general"
+  },
+  {
+    "slug": "daher",
+    "name": "Daher",
+    "name_en": "Daher",
+    "category": "general"
+  },
+  {
+    "slug": "dailymotion",
+    "name": "Dailymotion",
+    "name_en": "Dailymotion",
+    "category": "general"
+  },
+  {
+    "slug": "dane-elec",
+    "name": "Dane-Elec",
+    "name_en": "Dane-Elec",
+    "category": "general"
   }
 ]
