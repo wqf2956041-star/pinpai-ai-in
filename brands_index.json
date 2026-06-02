@@ -24029,5 +24029,40 @@
     "name_en": "Maine Soft Drinks Ltd",
     "category": "general",
     "updated_at": 1780413301
+  },
+  {
+    "slug": "imperial-hotel-company",
+    "name": "Imperial Hotel (company)",
+    "name_en": "Imperial Hotel (company)",
+    "category": "general",
+    "updated_at": 1780413415
+  },
+  {
+    "slug": "impul",
+    "name": "Impul",
+    "name_en": "Impul",
+    "category": "general",
+    "updated_at": 1780413415
+  },
+  {
+    "slug": "imuraya-confectionery",
+    "name": "Imuraya Confectionery",
+    "name_en": "Imuraya Confectionery",
+    "category": "general",
+    "updated_at": 1780413415
+  },
+  {
+    "slug": "inax",
+    "name": "INAX",
+    "name_en": "INAX",
+    "category": "general",
+    "updated_at": 1780413415
+  },
+  {
+    "slug": "inoue-rubber",
+    "name": "Inoue Rubber",
+    "name_en": "Inoue Rubber",
+    "category": "general",
+    "updated_at": 1780413415
   }
 ]
