@@ -1740,5 +1740,65 @@
     "name": "Mamiya",
     "name_en": "Mamiya",
     "category": "general"
+  },
+  {
+    "slug": "mandom",
+    "name": "Mandom",
+    "name_en": "Mandom",
+    "category": "general"
+  },
+  {
+    "slug": "marui",
+    "name": "Marui",
+    "name_en": "Marui",
+    "category": "general"
+  },
+  {
+    "slug": "marukome",
+    "name": "Marukome",
+    "name_en": "Marukome",
+    "category": "general"
+  },
+  {
+    "slug": "marusan-ai",
+    "name": "Marusan-Ai",
+    "name_en": "Marusan-Ai",
+    "category": "general"
+  },
+  {
+    "slug": "maruya-company",
+    "name": "Maruya (company)",
+    "name_en": "Maruya (company)",
+    "category": "general"
+  },
+  {
+    "slug": "marvelous-company",
+    "name": "Marvelous (company)",
+    "name_en": "Marvelous (company)",
+    "category": "general"
+  },
+  {
+    "slug": "maspro-denkoh",
+    "name": "Maspro Denkoh",
+    "name_en": "Maspro Denkoh",
+    "category": "general"
+  },
+  {
+    "slug": "matsukawaya-company",
+    "name": "Matsukawaya Company",
+    "name_en": "Matsukawaya Company",
+    "category": "general"
+  },
+  {
+    "slug": "matsumoto-kiyoshi",
+    "name": "Matsumoto Kiyoshi",
+    "name_en": "Matsumoto Kiyoshi",
+    "category": "general"
+  },
+  {
+    "slug": "matsuoka-guitar",
+    "name": "Matsuoka Guitar",
+    "name_en": "Matsuoka Guitar",
+    "category": "general"
   }
 ]
