@@ -16552,5 +16552,65 @@
     "name": "Goodmans (electronics company)",
     "name_en": "Goodmans (electronics company)",
     "category": "general"
+  },
+  {
+    "slug": "double-coin",
+    "name": "Double Coin",
+    "name_en": "Double Coin",
+    "category": "general"
+  },
+  {
+    "slug": "doublestar-company",
+    "name": "Doublestar (company)",
+    "name_en": "Doublestar (company)",
+    "category": "general"
+  },
+  {
+    "slug": "douyu",
+    "name": "DouYu",
+    "name_en": "DouYu",
+    "category": "general"
+  },
+  {
+    "slug": "dramabox",
+    "name": "DramaBox",
+    "name_en": "DramaBox",
+    "category": "general"
+  },
+  {
+    "slug": "dreame-technology",
+    "name": "Dreame Technology",
+    "name_en": "Dreame Technology",
+    "category": "general"
+  },
+  {
+    "slug": "eastroc-beverage",
+    "name": "Eastroc Beverage",
+    "name_en": "Eastroc Beverage",
+    "category": "general"
+  },
+  {
+    "slug": "eastroc-super-drink",
+    "name": "Eastroc Super Drink",
+    "name_en": "Eastroc Super Drink",
+    "category": "general"
+  },
+  {
+    "slug": "ecovacs-robotics",
+    "name": "Ecovacs Robotics",
+    "name_en": "Ecovacs Robotics",
+    "category": "general"
+  },
+  {
+    "slug": "edifier",
+    "name": "Edifier",
+    "name_en": "Edifier",
+    "category": "general"
+  },
+  {
+    "slug": "ehang",
+    "name": "EHang",
+    "name_en": "EHang",
+    "category": "general"
   }
 ]
