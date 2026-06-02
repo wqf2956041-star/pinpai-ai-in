@@ -23994,5 +23994,40 @@
     "name_en": "TMI Group of Companies",
     "category": "general",
     "updated_at": 1780415101
+  },
+  {
+    "slug": "treehouse-foods",
+    "name": "TreeHouse Foods",
+    "name_en": "TreeHouse Foods",
+    "category": "general",
+    "updated_at": 1780416001
+  },
+  {
+    "slug": "trend-technologies",
+    "name": "Trend Technologies",
+    "name_en": "Trend Technologies",
+    "category": "general",
+    "updated_at": 1780416001
+  },
+  {
+    "slug": "trico",
+    "name": "Trico",
+    "name_en": "Trico",
+    "category": "general",
+    "updated_at": 1780416001
+  },
+  {
+    "slug": "triumph-group",
+    "name": "Triumph Group",
+    "name_en": "Triumph Group",
+    "category": "general",
+    "updated_at": 1780416001
+  },
+  {
+    "slug": "tupperware-brands",
+    "name": "Tupperware Brands",
+    "name_en": "Tupperware Brands",
+    "category": "general",
+    "updated_at": 1780416001
   }
 ]
