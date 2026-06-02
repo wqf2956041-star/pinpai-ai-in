@@ -24064,5 +24064,65 @@
     "name_en": "Inoue Rubber",
     "category": "general",
     "updated_at": 1780413415
+  },
+  {
+    "slug": "integra-home-theater",
+    "name": "Integra Home Theater",
+    "name_en": "Integra Home Theater",
+    "category": "general"
+  },
+  {
+    "slug": "intelligent-actuator",
+    "name": "Intelligent Actuator",
+    "name_en": "Intelligent Actuator",
+    "category": "general"
+  },
+  {
+    "slug": "iris-ohyama",
+    "name": "Iris Ohyama",
+    "name_en": "Iris Ohyama",
+    "category": "general"
+  },
+  {
+    "slug": "isehan-cosmetics",
+    "name": "Isehan Cosmetics",
+    "name_en": "Isehan Cosmetics",
+    "category": "general"
+  },
+  {
+    "slug": "iseki",
+    "name": "Iseki",
+    "name_en": "Iseki",
+    "category": "general"
+  },
+  {
+    "slug": "isetan",
+    "name": "Isetan",
+    "name_en": "Isetan",
+    "category": "general"
+  },
+  {
+    "slug": "ishida-company",
+    "name": "Ishida (company)",
+    "name_en": "Ishida (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ispace-inc",
+    "name": "Ispace Inc.",
+    "name_en": "Ispace Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "ito-en",
+    "name": "Ito En",
+    "name_en": "Ito En",
+    "category": "general"
+  },
+  {
+    "slug": "ito-yokado",
+    "name": "Ito-Yokado",
+    "name_en": "Ito-Yokado",
+    "category": "general"
   }
 ]
