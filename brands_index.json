@@ -19216,5 +19216,65 @@
     "name": "Kienzle Uhren",
     "name_en": "Kienzle Uhren",
     "category": "general"
+  },
+  {
+    "slug": "kik",
+    "name": "KiK",
+    "name_en": "KiK",
+    "category": "general"
+  },
+  {
+    "slug": "kimo-industrie-elektronik-gmbh",
+    "name": "KIMO Industrie Elektronik GmbH",
+    "name_en": "KIMO Industrie Elektronik GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "kirow-ardelt-gmbh",
+    "name": "Kirow Ardelt GmbH",
+    "name_en": "Kirow Ardelt GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "kleiner-feigling",
+    "name": "Kleiner Feigling",
+    "name_en": "Kleiner Feigling",
+    "category": "general"
+  },
+  {
+    "slug": "knauf",
+    "name": "Knauf",
+    "name_en": "Knauf",
+    "category": "general"
+  },
+  {
+    "slug": "knipex",
+    "name": "Knipex",
+    "name_en": "Knipex",
+    "category": "general"
+  },
+  {
+    "slug": "knorr-brand",
+    "name": "Knorr (brand)",
+    "name_en": "Knorr (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "knorr-bremse",
+    "name": "Knorr-Bremse",
+    "name_en": "Knorr-Bremse",
+    "category": "general"
+  },
+  {
+    "slug": "knox-candles",
+    "name": "KNOX (candles)",
+    "name_en": "KNOX (candles)",
+    "category": "general"
+  },
+  {
+    "slug": "koenig-bauer",
+    "name": "Koenig & Bauer",
+    "name_en": "Koenig & Bauer",
+    "category": "general"
   }
 ]
