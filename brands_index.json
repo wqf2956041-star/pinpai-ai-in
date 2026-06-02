@@ -18796,5 +18796,65 @@
     "name": "Gionee",
     "name_en": "Gionee",
     "category": "general"
+  },
+  {
+    "slug": "maison-cardeilhac",
+    "name": "Maison Cardeilhac",
+    "name_en": "Maison Cardeilhac",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "maison-devambez",
+    "name": "Maison Devambez",
+    "name_en": "Maison Devambez",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "malabar-gold-diamonds",
+    "name": "Malabar Gold & Diamonds",
+    "name_en": "Malabar Gold & Diamonds",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "maria-tash-company",
+    "name": "Maria Tash (company)",
+    "name_en": "Maria Tash (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "maritimo-company",
+    "name": "Maritimo (company)",
+    "name_en": "Maritimo (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "mark-cross-brand",
+    "name": "Mark Cross (brand)",
+    "name_en": "Mark Cross (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "sid-mashburn",
+    "name": "Sid Mashburn",
+    "name_en": "Sid Mashburn",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "mast-brothers",
+    "name": "Mast Brothers",
+    "name_en": "Mast Brothers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "maurice-lacroix",
+    "name": "Maurice Lacroix",
+    "name_en": "Maurice Lacroix",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "raul-melgoza",
+    "name": "Raul Melgoza",
+    "name_en": "Raul Melgoza",
+    "category": "fashion-luxury"
   }
 ]
