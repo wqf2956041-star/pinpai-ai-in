@@ -3270,5 +3270,65 @@
     "name": "Pol Roger",
     "name_en": "Pol Roger",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "rogue-chocolatier",
+    "name": "Rogue Chocolatier",
+    "name_en": "Rogue Chocolatier",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "rohmir",
+    "name": "Rohmir",
+    "name_en": "Rohmir",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "rolex",
+    "name": "Rolex",
+    "name_en": "Rolex",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ron-zacapa-centenario",
+    "name": "Ron Zacapa Centenario",
+    "name_en": "Ron Zacapa Centenario",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "royal-selangor",
+    "name": "Royal Selangor",
+    "name_en": "Royal Selangor",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "scappino-fashion-house",
+    "name": "Scappino (fashion house)",
+    "name_en": "Scappino (fashion house)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "scott-charters",
+    "name": "Scott & Charters",
+    "name_en": "Scott & Charters",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "seiko",
+    "name": "Seiko",
+    "name_en": "Seiko",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "sene",
+    "name": "SENE",
+    "name_en": "SENE",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "bojana-sentaler",
+    "name": "Bojana Sentaler",
+    "name_en": "Bojana Sentaler",
+    "category": "fashion-luxury"
   }
 ]
