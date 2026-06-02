@@ -22944,5 +22944,110 @@
     "name_en": "Gree Electric",
     "category": "general",
     "updated_at": 1780407045
+  },
+  {
+    "slug": "greentree-inns",
+    "name": "GreenTree Inns",
+    "name_en": "GreenTree Inns",
+    "category": "general",
+    "updated_at": 1780407088
+  },
+  {
+    "slug": "greenwheel-ev",
+    "name": "GreenWheel EV",
+    "name_en": "GreenWheel EV",
+    "category": "general",
+    "updated_at": 1780407088
+  },
+  {
+    "slug": "gstarcad",
+    "name": "GstarCAD",
+    "name_en": "GstarCAD",
+    "category": "general",
+    "updated_at": 1780407088
+  },
+  {
+    "slug": "guangxi-sanhuan",
+    "name": "Guangxi Sanhuan",
+    "name_en": "Guangxi Sanhuan",
+    "category": "general",
+    "updated_at": 1780407088
+  },
+  {
+    "slug": "guangyuyuan",
+    "name": "Guangyuyuan",
+    "name_en": "Guangyuyuan",
+    "category": "general",
+    "updated_at": 1780407088
+  },
+  {
+    "slug": "guangzhou-baolong-motors",
+    "name": "Guangzhou Baolong Motors",
+    "name_en": "Guangzhou Baolong Motors",
+    "category": "general",
+    "updated_at": 1780407097
+  },
+  {
+    "slug": "guangzhou-pharmaceuticals",
+    "name": "Guangzhou Pharmaceuticals",
+    "name_en": "Guangzhou Pharmaceuticals",
+    "category": "general",
+    "updated_at": 1780407097
+  },
+  {
+    "slug": "guangzhou-zhujiang-brewery-group",
+    "name": "Guangzhou Zhujiang Brewery Group",
+    "name_en": "Guangzhou Zhujiang Brewery Group",
+    "category": "general",
+    "updated_at": 1780407097
+  },
+  {
+    "slug": "guizhentang-pharmaceutical-company",
+    "name": "Guizhentang Pharmaceutical Company",
+    "name_en": "Guizhentang Pharmaceutical Company",
+    "category": "general",
+    "updated_at": 1780407097
+  },
+  {
+    "slug": "guoguang-jiangxi",
+    "name": "Guoguang (Jiangxi)",
+    "name_en": "Guoguang (Jiangxi)",
+    "category": "general",
+    "updated_at": 1780407097
+  },
+  {
+    "slug": "j2o",
+    "name": "J2O",
+    "name_en": "J2O",
+    "category": "general",
+    "updated_at": 1780407115
+  },
+  {
+    "slug": "jack-wills",
+    "name": "Jack Wills",
+    "name_en": "Jack Wills",
+    "category": "general",
+    "updated_at": 1780407115
+  },
+  {
+    "slug": "jacks-store",
+    "name": "Jack's (store)",
+    "name_en": "Jack's (store)",
+    "category": "general",
+    "updated_at": 1780407115
+  },
+  {
+    "slug": "jet-brand",
+    "name": "Jet (brand)",
+    "name_en": "Jet (brand)",
+    "category": "general",
+    "updated_at": 1780407115
+  },
+  {
+    "slug": "jet2com",
+    "name": "Jet2.com",
+    "name_en": "Jet2.com",
+    "category": "general",
+    "updated_at": 1780407115
   }
 ]
