@@ -24279,5 +24279,65 @@
     "name": "Max Bögl",
     "name_en": "Max Bögl",
     "category": "general"
+  },
+  {
+    "slug": "maxdata",
+    "name": "Maxdata",
+    "name_en": "Maxdata",
+    "category": "general"
+  },
+  {
+    "slug": "maybach",
+    "name": "Maybach",
+    "name_en": "Maybach",
+    "category": "general"
+  },
+  {
+    "slug": "mckesson-europe",
+    "name": "McKesson Europe",
+    "name_en": "McKesson Europe",
+    "category": "general"
+  },
+  {
+    "slug": "mcm-worldwide",
+    "name": "MCM Worldwide",
+    "name_en": "MCM Worldwide",
+    "category": "general"
+  },
+  {
+    "slug": "mediamarkt",
+    "name": "MediaMarkt",
+    "name_en": "MediaMarkt",
+    "category": "general"
+  },
+  {
+    "slug": "meinl-percussion",
+    "name": "Meinl Percussion",
+    "name_en": "Meinl Percussion",
+    "category": "general"
+  },
+  {
+    "slug": "mennekes",
+    "name": "Mennekes",
+    "name_en": "Mennekes",
+    "category": "general"
+  },
+  {
+    "slug": "mercedes-amg",
+    "name": "Mercedes-AMG",
+    "name_en": "Mercedes-AMG",
+    "category": "general"
+  },
+  {
+    "slug": "mercedes-benz-group",
+    "name": "Mercedes-Benz Group",
+    "name_en": "Mercedes-Benz Group",
+    "category": "general"
+  },
+  {
+    "slug": "merci-candy",
+    "name": "Merci (candy)",
+    "name_en": "Merci (candy)",
+    "category": "general"
   }
 ]
