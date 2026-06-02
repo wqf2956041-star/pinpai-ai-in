@@ -234,3 +234,14 @@ Pool low! Sourcing...
   [06:30:06] Regenerating homepage (472 brands)...
   [06:30:06]   brandsData replaced: 472 entries
   [06:30:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:45] Pool: 5 | Index: 472
+  [06:45:01] Current: 472 brands
+  [06:45:01] Pool: 5 brands
+  [06:45:01]   ADDED my-local: My Local (en only)
+  [06:45:02]   SKIP mymanu: content too short
+  [06:45:03]   ADDED mysupermarket: MySupermarket (en only)
+  [06:45:06]   ADDED nad-electronics: NAD Electronics (+3 langs)
+  [06:45:07]   SKIP nails-inc: HTTP Error 429: Too Many Requests
+  [06:45:08] Regenerating homepage (475 brands)...
+  [06:45:08]   brandsData replaced: 475 entries
+  [06:45:08] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

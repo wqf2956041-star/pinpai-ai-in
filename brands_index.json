@@ -3030,5 +3030,65 @@
     "name": "Muralplast",
     "name_en": "Muralplast",
     "category": "general"
+  },
+  {
+    "slug": "mufg-bank",
+    "name": "MUFG Bank",
+    "name_en": "MUFG Bank",
+    "category": "general"
+  },
+  {
+    "slug": "mugen-motorsports",
+    "name": "Mugen Motorsports",
+    "name_en": "Mugen Motorsports",
+    "category": "general"
+  },
+  {
+    "slug": "muji",
+    "name": "Muji",
+    "name_en": "Muji",
+    "category": "general"
+  },
+  {
+    "slug": "muramatsu-flutes",
+    "name": "Muramatsu Flutes",
+    "name_en": "Muramatsu Flutes",
+    "category": "general"
+  },
+  {
+    "slug": "murata-machinery",
+    "name": "Murata Machinery",
+    "name_en": "Murata Machinery",
+    "category": "general"
+  },
+  {
+    "slug": "murata-manufacturing",
+    "name": "Murata Manufacturing",
+    "name_en": "Murata Manufacturing",
+    "category": "general"
+  },
+  {
+    "slug": "mutoh-europe-nv",
+    "name": "Mutoh Europe nv",
+    "name_en": "Mutoh Europe nv",
+    "category": "general"
+  },
+  {
+    "slug": "nabtesco",
+    "name": "Nabtesco",
+    "name_en": "Nabtesco",
+    "category": "general"
+  },
+  {
+    "slug": "nachi-fujikoshi",
+    "name": "Nachi-Fujikoshi",
+    "name_en": "Nachi-Fujikoshi",
+    "category": "general"
+  },
+  {
+    "slug": "nakamichi",
+    "name": "Nakamichi",
+    "name_en": "Nakamichi",
+    "category": "general"
   }
 ]
