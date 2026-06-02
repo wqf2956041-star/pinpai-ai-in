@@ -3480,5 +3480,65 @@
     "name": "Giacomini",
     "name_en": "Giacomini",
     "category": "general"
+  },
+  {
+    "slug": "giap-fuels",
+    "name": "Giap (fuels)",
+    "name_en": "Giap (fuels)",
+    "category": "general"
+  },
+  {
+    "slug": "gilera",
+    "name": "Gilera",
+    "name_en": "Gilera",
+    "category": "general"
+  },
+  {
+    "slug": "ansaldo-18531993",
+    "name": "Ansaldo (1853–1993)",
+    "name_en": "Ansaldo (1853–1993)",
+    "category": "general"
+  },
+  {
+    "slug": "gisa-sports-prototype",
+    "name": "GISA (sports prototype)",
+    "name_en": "GISA (sports prototype)",
+    "category": "general"
+  },
+  {
+    "slug": "giusto-manetti-battiloro",
+    "name": "Giusto Manetti Battiloro",
+    "name_en": "Giusto Manetti Battiloro",
+    "category": "general"
+  },
+  {
+    "slug": "goldoni-company",
+    "name": "Goldoni (company)",
+    "name_en": "Goldoni (company)",
+    "category": "general"
+  },
+  {
+    "slug": "graziano-trasmissioni",
+    "name": "Graziano Trasmissioni",
+    "name_en": "Graziano Trasmissioni",
+    "category": "general"
+  },
+  {
+    "slug": "grecav",
+    "name": "Grecav",
+    "name_en": "Grecav",
+    "category": "general"
+  },
+  {
+    "slug": "grimaldi-group",
+    "name": "Grimaldi Group",
+    "name_en": "Grimaldi Group",
+    "category": "general"
+  },
+  {
+    "slug": "grivel-company",
+    "name": "Grivel (company)",
+    "name_en": "Grivel (company)",
+    "category": "general"
   }
 ]
