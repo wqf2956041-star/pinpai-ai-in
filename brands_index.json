@@ -16492,5 +16492,65 @@
     "name": "Fred Perry (clothing label)",
     "name_en": "Fred Perry (clothing label)",
     "category": "general"
+  },
+  {
+    "slug": "fuel-juice-bars",
+    "name": "Fuel Juice Bars",
+    "name_en": "Fuel Juice Bars",
+    "category": "general"
+  },
+  {
+    "slug": "fulton-umbrellas",
+    "name": "Fulton Umbrellas",
+    "name_en": "Fulton Umbrellas",
+    "category": "general"
+  },
+  {
+    "slug": "future-disco",
+    "name": "Future Disco",
+    "name_en": "Future Disco",
+    "category": "general"
+  },
+  {
+    "slug": "gelert-company",
+    "name": "Gelert (company)",
+    "name_en": "Gelert (company)",
+    "category": "general"
+  },
+  {
+    "slug": "general-eyewear",
+    "name": "General Eyewear",
+    "name_en": "General Eyewear",
+    "category": "general"
+  },
+  {
+    "slug": "genesis-bicycle-company",
+    "name": "Genesis (bicycle company)",
+    "name_en": "Genesis (bicycle company)",
+    "category": "general"
+  },
+  {
+    "slug": "ginsters",
+    "name": "Ginsters",
+    "name_en": "Ginsters",
+    "category": "general"
+  },
+  {
+    "slug": "gkn",
+    "name": "GKN",
+    "name_en": "GKN",
+    "category": "general"
+  },
+  {
+    "slug": "globe-trotter",
+    "name": "Globe-Trotter",
+    "name_en": "Globe-Trotter",
+    "category": "general"
+  },
+  {
+    "slug": "goodmans-electronics-company",
+    "name": "Goodmans (electronics company)",
+    "name_en": "Goodmans (electronics company)",
+    "category": "general"
   }
 ]
