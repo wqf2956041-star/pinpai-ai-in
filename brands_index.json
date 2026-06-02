@@ -16672,5 +16672,65 @@
     "name": "Eufy",
     "name_en": "Eufy",
     "category": "general"
+  },
+  {
+    "slug": "matires-fcales",
+    "name": "Matières Fécales",
+    "name_en": "Matières Fécales",
+    "category": "fashion"
+  },
+  {
+    "slug": "mavi-jeans",
+    "name": "Mavi Jeans",
+    "name_en": "Mavi Jeans",
+    "category": "fashion"
+  },
+  {
+    "slug": "max-studio",
+    "name": "Max Studio",
+    "name_en": "Max Studio",
+    "category": "fashion"
+  },
+  {
+    "slug": "mcs-fashion-brand",
+    "name": "MCS (fashion brand)",
+    "name_en": "MCS (fashion brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "merc-clothing",
+    "name": "Merc Clothing",
+    "name_en": "Merc Clothing",
+    "category": "fashion"
+  },
+  {
+    "slug": "mic-mac-brand",
+    "name": "Mic Mac (brand)",
+    "name_en": "Mic Mac (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "miuniku",
+    "name": "Miuniku",
+    "name_en": "Miuniku",
+    "category": "fashion"
+  },
+  {
+    "slug": "monte-carlo-fashions-limited",
+    "name": "Monte Carlo Fashions Limited",
+    "name_en": "Monte Carlo Fashions Limited",
+    "category": "fashion"
+  },
+  {
+    "slug": "moods-of-norway",
+    "name": "Moods of Norway",
+    "name_en": "Moods of Norway",
+    "category": "fashion"
+  },
+  {
+    "slug": "morgan-clothing",
+    "name": "Morgan (clothing)",
+    "name_en": "Morgan (clothing)",
+    "category": "fashion"
   }
 ]
