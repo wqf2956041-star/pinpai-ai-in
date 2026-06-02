@@ -1680,5 +1680,65 @@
     "name": "Lawson (store)",
     "name_en": "Lawson (store)",
     "category": "general"
+  },
+  {
+    "slug": "lexus",
+    "name": "Lexus",
+    "name_en": "Lexus",
+    "category": "general"
+  },
+  {
+    "slug": "lixil-group",
+    "name": "Lixil Group",
+    "name_en": "Lixil Group",
+    "category": "general"
+  },
+  {
+    "slug": "lotte-holdings",
+    "name": "Lotte Holdings",
+    "name_en": "Lotte Holdings",
+    "category": "general"
+  },
+  {
+    "slug": "lumix",
+    "name": "Lumix",
+    "name_en": "Lumix",
+    "category": "general"
+  },
+  {
+    "slug": "luxman",
+    "name": "Luxman",
+    "name_en": "Luxman",
+    "category": "general"
+  },
+  {
+    "slug": "mabuchi-motor",
+    "name": "Mabuchi Motor",
+    "name_en": "Mabuchi Motor",
+    "category": "general"
+  },
+  {
+    "slug": "maeda-corporation",
+    "name": "Maeda Corporation",
+    "name_en": "Maeda Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "makino",
+    "name": "Makino",
+    "name_en": "Makino",
+    "category": "general"
+  },
+  {
+    "slug": "makita",
+    "name": "Makita",
+    "name_en": "Makita",
+    "category": "general"
+  },
+  {
+    "slug": "mamiya",
+    "name": "Mamiya",
+    "name_en": "Mamiya",
+    "category": "general"
   }
 ]
