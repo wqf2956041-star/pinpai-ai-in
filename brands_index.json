@@ -16312,5 +16312,65 @@
     "name": "Fujirebio",
     "name_en": "Fujirebio",
     "category": "general"
+  },
+  {
+    "slug": "pleo",
+    "name": "Pleo",
+    "name_en": "Pleo",
+    "category": "toy"
+  },
+  {
+    "slug": "pocher",
+    "name": "Pocher",
+    "name_en": "Pocher",
+    "category": "toy"
+  },
+  {
+    "slug": "polistil",
+    "name": "Polistil",
+    "name_en": "Polistil",
+    "category": "toy"
+  },
+  {
+    "slug": "princess-pring",
+    "name": "Princess Pring",
+    "name_en": "Princess Pring",
+    "category": "toy"
+  },
+  {
+    "slug": "rami-by-jmk",
+    "name": "RAMI by J.M.K.",
+    "name_en": "RAMI by J.M.K.",
+    "category": "toy"
+  },
+  {
+    "slug": "j-l-randall",
+    "name": "J & L Randall",
+    "name_en": "J & L Randall",
+    "category": "toy"
+  },
+  {
+    "slug": "rio-models",
+    "name": "RIO Models",
+    "name_en": "RIO Models",
+    "category": "toy"
+  },
+  {
+    "slug": "rivarossi",
+    "name": "Rivarossi",
+    "name_en": "Rivarossi",
+    "category": "toy"
+  },
+  {
+    "slug": "roboquad",
+    "name": "Roboquad",
+    "name_en": "Roboquad",
+    "category": "toy"
+  },
+  {
+    "slug": "roboraptor",
+    "name": "Roboraptor",
+    "name_en": "Roboraptor",
+    "category": "toy"
   }
 ]
