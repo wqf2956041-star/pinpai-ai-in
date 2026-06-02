@@ -2850,5 +2850,65 @@
     "name": "Franklin & Marshall (company)",
     "name_en": "Franklin & Marshall (company)",
     "category": "general"
+  },
+  {
+    "slug": "hao123",
+    "name": "Hao123",
+    "name_en": "Hao123",
+    "category": "general"
+  },
+  {
+    "slug": "harbin-electric",
+    "name": "Harbin Electric",
+    "name_en": "Harbin Electric",
+    "category": "general"
+  },
+  {
+    "slug": "harbin-pharmaceutical-group",
+    "name": "Harbin Pharmaceutical Group",
+    "name_en": "Harbin Pharmaceutical Group",
+    "category": "general"
+  },
+  {
+    "slug": "harvest-fund-management",
+    "name": "Harvest Fund Management",
+    "name_en": "Harvest Fund Management",
+    "category": "general"
+  },
+  {
+    "slug": "hasee",
+    "name": "Hasee",
+    "name_en": "Hasee",
+    "category": "general"
+  },
+  {
+    "slug": "haval-marque",
+    "name": "Haval (marque)",
+    "name_en": "Haval (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "hawtai",
+    "name": "Hawtai",
+    "name_en": "Hawtai",
+    "category": "general"
+  },
+  {
+    "slug": "hebei-airlines",
+    "name": "Hebei Airlines",
+    "name_en": "Hebei Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "hefei-meiling",
+    "name": "Hefei Meiling",
+    "name_en": "Hefei Meiling",
+    "category": "general"
+  },
+  {
+    "slug": "heibao-auto",
+    "name": "Heibao Auto",
+    "name_en": "Heibao Auto",
+    "category": "general"
   }
 ]
