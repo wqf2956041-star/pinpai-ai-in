@@ -1860,5 +1860,65 @@
     "name": "Hoshino Resorts",
     "name_en": "Hoshino Resorts",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "the-hour-glass-company",
+    "name": "The Hour Glass (company)",
+    "name_en": "The Hour Glass (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "hradyesh",
+    "name": "Hradyesh",
+    "name_en": "Hradyesh",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ikepod",
+    "name": "Ikepod",
+    "name_en": "Ikepod",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "inch2",
+    "name": "Inch2",
+    "name_en": "Inch2",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "isotta-fraschini",
+    "name": "Isotta Fraschini",
+    "name_en": "Isotta Fraschini",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "patek-philippe",
+    "name": "Patek Philippe",
+    "name_en": "Patek Philippe",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "pullman-car-or-coach",
+    "name": "Pullman (car or coach)",
+    "name_en": "Pullman (car or coach)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "quintessentially-group",
+    "name": "Quintessentially Group",
+    "name_en": "Quintessentially Group",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "rabanne-fashion-house",
+    "name": "Rabanne (fashion house)",
+    "name_en": "Rabanne (fashion house)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "raymond-weil",
+    "name": "Raymond Weil",
+    "name_en": "Raymond Weil",
+    "category": "fashion-luxury"
   }
 ]
