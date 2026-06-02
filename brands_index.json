@@ -3540,5 +3540,65 @@
     "name": "Grivel (company)",
     "name_en": "Grivel (company)",
     "category": "general"
+  },
+  {
+    "slug": "audi",
+    "name": "Audi",
+    "name_en": "Audi",
+    "category": "general"
+  },
+  {
+    "slug": "basf",
+    "name": "BASF",
+    "name_en": "BASF",
+    "category": "general"
+  },
+  {
+    "slug": "bayer",
+    "name": "Bayer",
+    "name_en": "Bayer",
+    "category": "general"
+  },
+  {
+    "slug": "bmw",
+    "name": "BMW",
+    "name_en": "BMW",
+    "category": "general"
+  },
+  {
+    "slug": "lufthansa",
+    "name": "Lufthansa",
+    "name_en": "Lufthansa",
+    "category": "general"
+  },
+  {
+    "slug": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "name_en": "Mercedes-Benz",
+    "category": "general"
+  },
+  {
+    "slug": "merck-group",
+    "name": "Merck Group",
+    "name_en": "Merck Group",
+    "category": "general"
+  },
+  {
+    "slug": "merz-b-schwanen",
+    "name": "Merz b. Schwanen",
+    "name_en": "Merz b. Schwanen",
+    "category": "general"
+  },
+  {
+    "slug": "metabo",
+    "name": "Metabo",
+    "name_en": "Metabo",
+    "category": "general"
+  },
+  {
+    "slug": "metralabs-gmbh",
+    "name": "MetraLabs GmbH",
+    "name_en": "MetraLabs GmbH",
+    "category": "general"
   }
 ]
