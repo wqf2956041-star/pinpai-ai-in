@@ -17992,5 +17992,65 @@
     "name": "Kukri Sports",
     "name_en": "Kukri Sports",
     "category": "sportswear"
+  },
+  {
+    "slug": "hofele-design",
+    "name": "Hofele-Design",
+    "name_en": "Hofele-Design",
+    "category": "general"
+  },
+  {
+    "slug": "hfner",
+    "name": "Höfner",
+    "name_en": "Höfner",
+    "category": "general"
+  },
+  {
+    "slug": "horizn",
+    "name": "Horizn",
+    "name_en": "Horizn",
+    "category": "general"
+  },
+  {
+    "slug": "hrmann",
+    "name": "Hörmann",
+    "name_en": "Hörmann",
+    "category": "general"
+  },
+  {
+    "slug": "hoyer-guitars",
+    "name": "Hoyer Guitars",
+    "name_en": "Hoyer Guitars",
+    "category": "general"
+  },
+  {
+    "slug": "huf-haus",
+    "name": "Huf Haus",
+    "name_en": "Huf Haus",
+    "category": "general"
+  },
+  {
+    "slug": "hussel",
+    "name": "Hussel",
+    "name_en": "Hussel",
+    "category": "general"
+  },
+  {
+    "slug": "hutschenreuther-family",
+    "name": "Hutschenreuther family",
+    "name_en": "Hutschenreuther family",
+    "category": "general"
+  },
+  {
+    "slug": "hypovereinsbank",
+    "name": "HypoVereinsbank",
+    "name_en": "HypoVereinsbank",
+    "category": "general"
+  },
+  {
+    "slug": "igus",
+    "name": "Igus",
+    "name_en": "Igus",
+    "category": "general"
   }
 ]
