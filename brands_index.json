@@ -17932,5 +17932,65 @@
     "name": "Karhu (sports brand)",
     "name_en": "Karhu (sports brand)",
     "category": "sportswear"
+  },
+  {
+    "slug": "studio-keel",
+    "name": "Studio Keel",
+    "name_en": "Studio Keel",
+    "category": "sportswear"
+  },
+  {
+    "slug": "kelme-company",
+    "name": "Kelme (company)",
+    "name_en": "Kelme (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "bernhard-kempa",
+    "name": "Bernhard Kempa",
+    "name_en": "Bernhard Kempa",
+    "category": "sportswear"
+  },
+  {
+    "slug": "keuka-brand",
+    "name": "Keuka (brand)",
+    "name_en": "Keuka (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "kit-and-ace",
+    "name": "Kit and Ace",
+    "name_en": "Kit and Ace",
+    "category": "sportswear"
+  },
+  {
+    "slug": "kiwami",
+    "name": "Kiwami",
+    "name_en": "Kiwami",
+    "category": "sportswear"
+  },
+  {
+    "slug": "kookaburra-sport",
+    "name": "Kookaburra Sport",
+    "name_en": "Kookaburra Sport",
+    "category": "sportswear"
+  },
+  {
+    "slug": "kosa-sports-manufacturer",
+    "name": "Kosa (sports manufacturer)",
+    "name_en": "Kosa (sports manufacturer)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "ktm-cty",
+    "name": "KTM CTY",
+    "name_en": "KTM CTY",
+    "category": "sportswear"
+  },
+  {
+    "slug": "kukri-sports",
+    "name": "Kukri Sports",
+    "name_en": "Kukri Sports",
+    "category": "sportswear"
   }
 ]
