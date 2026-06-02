@@ -19516,5 +19516,65 @@
     "name": "Paspaley",
     "name_en": "Paspaley",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "thorens",
+    "name": "Thorens",
+    "name_en": "Thorens",
+    "category": "general"
+  },
+  {
+    "slug": "threema",
+    "name": "Threema",
+    "name_en": "Threema",
+    "category": "general"
+  },
+  {
+    "slug": "tornos-ag",
+    "name": "Tornos AG",
+    "name_en": "Tornos AG",
+    "category": "general"
+  },
+  {
+    "slug": "trisa",
+    "name": "Trisa",
+    "name_en": "Trisa",
+    "category": "general"
+  },
+  {
+    "slug": "triumph-international",
+    "name": "Triumph International",
+    "name_en": "Triumph International",
+    "category": "general"
+  },
+  {
+    "slug": "tudor-scan-tech",
+    "name": "Tudor Scan Tech",
+    "name_en": "Tudor Scan Tech",
+    "category": "general"
+  },
+  {
+    "slug": "u-blox",
+    "name": "U-blox",
+    "name_en": "U-blox",
+    "category": "general"
+  },
+  {
+    "slug": "unimed-sa",
+    "name": "Unimed S.A.",
+    "name_en": "Unimed S.A.",
+    "category": "general"
+  },
+  {
+    "slug": "uster-technologies",
+    "name": "Uster Technologies",
+    "name_en": "Uster Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "veeam",
+    "name": "Veeam",
+    "name_en": "Veeam",
+    "category": "general"
   }
 ]
