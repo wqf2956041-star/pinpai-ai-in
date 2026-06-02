@@ -1260,5 +1260,65 @@
     "name": "Ministry of Sound",
     "name_en": "Ministry of Sound",
     "category": "general"
+  },
+  {
+    "slug": "minky",
+    "name": "Minky",
+    "name_en": "Minky",
+    "category": "general"
+  },
+  {
+    "slug": "molton-brown",
+    "name": "Molton Brown",
+    "name_en": "Molton Brown",
+    "category": "general"
+  },
+  {
+    "slug": "monarch-airlines",
+    "name": "Monarch Airlines",
+    "name_en": "Monarch Airlines",
+    "category": "general"
+  },
+  {
+    "slug": "moonpig",
+    "name": "Moonpig",
+    "name_en": "Moonpig",
+    "category": "general"
+  },
+  {
+    "slug": "morleys",
+    "name": "Morley's",
+    "name_en": "Morley's",
+    "category": "general"
+  },
+  {
+    "slug": "morphy-richards",
+    "name": "Morphy Richards",
+    "name_en": "Morphy Richards",
+    "category": "general"
+  },
+  {
+    "slug": "david-morris-jeweller",
+    "name": "David Morris (jeweller)",
+    "name_en": "David Morris (jeweller)",
+    "category": "general"
+  },
+  {
+    "slug": "morrisons",
+    "name": "Morrisons",
+    "name_en": "Morrisons",
+    "category": "general"
+  },
+  {
+    "slug": "mothercare",
+    "name": "Mothercare",
+    "name_en": "Mothercare",
+    "category": "general"
+  },
+  {
+    "slug": "motor-manufacturing-company",
+    "name": "Motor Manufacturing Company",
+    "name_en": "Motor Manufacturing Company",
+    "category": "general"
   }
 ]
