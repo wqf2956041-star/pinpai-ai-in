@@ -1320,5 +1320,65 @@
     "name": "Motor Manufacturing Company",
     "name_en": "Motor Manufacturing Company",
     "category": "general"
+  },
+  {
+    "slug": "3m",
+    "name": "3M",
+    "name_en": "3M",
+    "category": "general"
+  },
+  {
+    "slug": "7-eleven",
+    "name": "7-Eleven",
+    "name_en": "7-Eleven",
+    "category": "general"
+  },
+  {
+    "slug": "bank-of-america",
+    "name": "Bank of America",
+    "name_en": "Bank of America",
+    "category": "general"
+  },
+  {
+    "slug": "cisco",
+    "name": "Cisco",
+    "name_en": "Cisco",
+    "category": "general"
+  },
+  {
+    "slug": "dell",
+    "name": "Dell",
+    "name_en": "Dell",
+    "category": "general"
+  },
+  {
+    "slug": "google",
+    "name": "Google",
+    "name_en": "Google",
+    "category": "general"
+  },
+  {
+    "slug": "hewlett-packard",
+    "name": "Hewlett-Packard",
+    "name_en": "Hewlett-Packard",
+    "category": "general"
+  },
+  {
+    "slug": "ibm",
+    "name": "IBM",
+    "name_en": "IBM",
+    "category": "general"
+  },
+  {
+    "slug": "intel",
+    "name": "Intel",
+    "name_en": "Intel",
+    "category": "general"
+  },
+  {
+    "slug": "johnson-johnson",
+    "name": "Johnson & Johnson",
+    "name_en": "Johnson & Johnson",
+    "category": "general"
   }
 ]
