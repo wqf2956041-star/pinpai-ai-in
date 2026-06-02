@@ -16612,5 +16612,65 @@
     "name": "EHang",
     "name_en": "EHang",
     "category": "general"
+  },
+  {
+    "slug": "eisoo",
+    "name": "Eisoo",
+    "name_en": "Eisoo",
+    "category": "general"
+  },
+  {
+    "slug": "elf-bar",
+    "name": "Elf Bar",
+    "name_en": "Elf Bar",
+    "category": "general"
+  },
+  {
+    "slug": "elion-group",
+    "name": "Elion Group",
+    "name_en": "Elion Group",
+    "category": "general"
+  },
+  {
+    "slug": "emdoor",
+    "name": "Emdoor",
+    "name_en": "Emdoor",
+    "category": "general"
+  },
+  {
+    "slug": "eno-company",
+    "name": "Eno (company)",
+    "name_en": "Eno (company)",
+    "category": "general"
+  },
+  {
+    "slug": "enovate-marque",
+    "name": "Enovate (marque)",
+    "name_en": "Enovate (marque)",
+    "category": "general"
+  },
+  {
+    "slug": "weichai-chongqing-automotive",
+    "name": "Weichai (Chongqing) Automotive",
+    "name_en": "Weichai (Chongqing) Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "envision-energy",
+    "name": "Envision Energy",
+    "name_en": "Envision Energy",
+    "category": "general"
+  },
+  {
+    "slug": "estun-automation",
+    "name": "Estun Automation",
+    "name_en": "Estun Automation",
+    "category": "general"
+  },
+  {
+    "slug": "eufy",
+    "name": "Eufy",
+    "name_en": "Eufy",
+    "category": "general"
   }
 ]
