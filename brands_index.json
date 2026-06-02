@@ -23109,5 +23109,35 @@
     "name": "KeyStore",
     "name_en": "KeyStore",
     "category": "general"
+  },
+  {
+    "slug": "king-and-mcgaw",
+    "name": "King and McGaw",
+    "name_en": "King and McGaw",
+    "category": "general"
+  },
+  {
+    "slug": "king-of-shaves",
+    "name": "King of Shaves",
+    "name_en": "King of Shaves",
+    "category": "general"
+  },
+  {
+    "slug": "kleeneze",
+    "name": "Kleeneze",
+    "name_en": "Kleeneze",
+    "category": "general"
+  },
+  {
+    "slug": "lambs",
+    "name": "Lamb's",
+    "name_en": "Lamb's",
+    "category": "general"
+  },
+  {
+    "slug": "launer-london",
+    "name": "Launer London",
+    "name_en": "Launer London",
+    "category": "general"
   }
 ]
