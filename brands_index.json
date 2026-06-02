@@ -19336,5 +19336,65 @@
     "name": "Jin Air",
     "name_en": "Jin Air",
     "category": "general"
+  },
+  {
+    "slug": "jinwoo-smc",
+    "name": "Jinwoo SMC",
+    "name_en": "Jinwoo SMC",
+    "category": "general"
+  },
+  {
+    "slug": "joas",
+    "name": "Joas",
+    "name_en": "Joas",
+    "category": "general"
+  },
+  {
+    "slug": "kr-motors",
+    "name": "KR Motors",
+    "name_en": "KR Motors",
+    "category": "general"
+  },
+  {
+    "slug": "kakao",
+    "name": "Kakao",
+    "name_en": "Kakao",
+    "category": "general"
+  },
+  {
+    "slug": "kakaomusic",
+    "name": "KakaoMusic",
+    "name_en": "KakaoMusic",
+    "category": "general"
+  },
+  {
+    "slug": "kakaostory",
+    "name": "KakaoStory",
+    "name_en": "KakaoStory",
+    "category": "general"
+  },
+  {
+    "slug": "kakaotalk",
+    "name": "KakaoTalk",
+    "name_en": "KakaoTalk",
+    "category": "general"
+  },
+  {
+    "slug": "kb-financial-group",
+    "name": "KB Financial Group",
+    "name_en": "KB Financial Group",
+    "category": "general"
+  },
+  {
+    "slug": "kcc-corporation",
+    "name": "KCC Corporation",
+    "name_en": "KCC Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "keumyoung-group",
+    "name": "Keumyoung Group",
+    "name_en": "Keumyoung Group",
+    "category": "general"
   }
 ]
