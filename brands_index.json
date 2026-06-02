@@ -23994,5 +23994,40 @@
     "name_en": "J. Lyons and Co.",
     "category": "general",
     "updated_at": 1780412401
+  },
+  {
+    "slug": "macklin-motors",
+    "name": "Macklin Motors",
+    "name_en": "Macklin Motors",
+    "category": "general",
+    "updated_at": 1780413301
+  },
+  {
+    "slug": "macleans-toothpaste",
+    "name": "Macleans (toothpaste)",
+    "name_en": "Macleans (toothpaste)",
+    "category": "general",
+    "updated_at": 1780413301
+  },
+  {
+    "slug": "made-in-britain-campaign",
+    "name": "Made in Britain (campaign)",
+    "name_en": "Made in Britain (campaign)",
+    "category": "general",
+    "updated_at": 1780413301
+  },
+  {
+    "slug": "magnet-kitchens",
+    "name": "Magnet Kitchens",
+    "name_en": "Magnet Kitchens",
+    "category": "general",
+    "updated_at": 1780413301
+  },
+  {
+    "slug": "maine-soft-drinks-ltd",
+    "name": "Maine Soft Drinks Ltd",
+    "name_en": "Maine Soft Drinks Ltd",
+    "category": "general",
+    "updated_at": 1780413301
   }
 ]

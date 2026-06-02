@@ -145,28 +145,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
 <!-- Similar Brands -->
 <div class="similar-section">
   <h3 id="similar-title">类似品牌</h3>
-  <div class="similar-grid">
+  <div class="similar-grid" id="similar-grid">
     <a href="/escher/" class="similar-card premium"><span class="zh">埃舍尔Escher <span class="badge-premium">品牌推广</span></span><span class="en">埃舍尔Escher</span></a>
-    <a href="/3m/" class="similar-card"><span class="zh">3M </span><span class="en">3M</span></a>
-    <a href="/a--lange-and-s-hne/" class="similar-card"><span class="zh">A. Lange & Söhne </span><span class="en">A. Lange & Söhne</span></a>
-    <a href="/adidas/" class="similar-card"><span class="zh">adidas </span><span class="en">adidas</span></a>
-    <a href="/aesop/" class="similar-card"><span class="zh">Aesop </span><span class="en">Aesop</span></a>
-    <a href="/airbnb/" class="similar-card"><span class="zh">爱彼迎 </span><span class="en">Airbnb</span></a>
-    <a href="/amazon/" class="similar-card"><span class="zh">亚马逊 </span><span class="en">Amazon</span></a>
-    <a href="/anheuser-busch/" class="similar-card"><span class="zh">Anheuser-Busch </span><span class="en">Anheuser-Busch</span></a>
-    <a href="/apple/" class="similar-card"><span class="zh">苹果 </span><span class="en">Apple</span></a>
-    <a href="/benetton/" class="similar-card"><span class="zh">Benetton </span><span class="en">Benetton</span></a>
-    <a href="/bmw/" class="similar-card"><span class="zh">宝马 </span><span class="en">BMW</span></a>
-    <a href="/chanel/" class="similar-card"><span class="zh">香奈儿 </span><span class="en">Chanel</span></a>
-    <a href="/chaumet/" class="similar-card"><span class="zh">Chaumet </span><span class="en">Chaumet</span></a>
-    <a href="/coca-cola/" class="similar-card"><span class="zh">coca-cola </span><span class="en">coca-cola</span></a>
-    <a href="/disney/" class="similar-card"><span class="zh">迪士尼 </span><span class="en">Disney</span></a>
-    <a href="/ferrari/" class="similar-card"><span class="zh">ferrari </span><span class="en">ferrari</span></a>
-    <a href="/google/" class="similar-card"><span class="zh">谷歌 </span><span class="en">Google</span></a>
-    <a href="/hermes/" class="similar-card"><span class="zh">愛馬仕 </span><span class="en">Hermès</span></a>
-    <a href="/lego/" class="similar-card"><span class="zh">lego </span><span class="en">lego</span></a>
-    <a href="/loréal/" class="similar-card"><span class="zh">loréal </span><span class="en">loréal</span></a>
-    
+    <div id="dynamic-similars" style="display:contents"></div>
   </div>
 </div>
 
@@ -233,6 +214,50 @@ function switchLang(lang) {
 
 // Initialize with Chinese
 switchLang('zh-CN');
+
+// Load brands index for similar section
+var brandsIndex = [];
+
+function loadBrandData() {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '/brands_index.json', true);
+  xhr.onload = function() {
+    if (xhr.status === 200) {
+      brandsIndex = JSON.parse(xhr.responseText);
+      renderSimilarBrands();
+    }
+  };
+  xhr.send();
+}
+
+function renderSimilarBrands() {
+  if (!brandsIndex || brandsIndex.length === 0) return;
+  var currentSlug = window.location.pathname.split('/').filter(Boolean)[0];
+  var sorted = brandsIndex.slice().sort(function(a, b) {
+    return (b.updated_at || 0) - (a.updated_at || 0);
+  });
+  var pool = [];
+  for (var i = 0; i < sorted.length && pool.length < 500; i++) {
+    var b = sorted[i];
+    if (b.slug !== currentSlug && b.slug !== 'escher') {
+      pool.push(b);
+    }
+  }
+  for (var i = pool.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = pool[i]; pool[i] = pool[j]; pool[j] = tmp;
+  }
+  var maxSimilars = 19;
+  var html = '';
+  for (var i = 0; i < maxSimilars && i < pool.length; i++) {
+    var b = pool[i];
+    html += '<a href="/' + b.slug + '/" class="similar-card"><span class="zh">' + (b.name || '') + ' </span><span class="en">' + (b.name_en || '') + '</span></a>';
+  }
+  var container = document.getElementById('dynamic-similars');
+  if (container) container.innerHTML = html;
+}
+
+document.addEventListener('DOMContentLoaded', loadBrandData);
 </script>
 </body>
 </html>
