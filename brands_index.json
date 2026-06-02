@@ -24124,5 +24124,40 @@
     "name": "Ito-Yokado",
     "name_en": "Ito-Yokado",
     "category": "general"
+  },
+  {
+    "slug": "iwatsu-electric",
+    "name": "Iwatsu Electric",
+    "name_en": "Iwatsu Electric",
+    "category": "general",
+    "updated_at": 1780414202
+  },
+  {
+    "slug": "j-air",
+    "name": "J-Air",
+    "name_en": "J-Air",
+    "category": "general",
+    "updated_at": 1780414202
+  },
+  {
+    "slug": "janome",
+    "name": "Janome",
+    "name_en": "Janome",
+    "category": "general",
+    "updated_at": 1780414202
+  },
+  {
+    "slug": "japan-airlines",
+    "name": "Japan Airlines",
+    "name_en": "Japan Airlines",
+    "category": "general",
+    "updated_at": 1780414202
+  },
+  {
+    "slug": "japan-post-bank",
+    "name": "Japan Post Bank",
+    "name_en": "Japan Post Bank",
+    "category": "general",
+    "updated_at": 1780414202
   }
 ]
