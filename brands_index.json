@@ -17452,5 +17452,65 @@
     "name": "Rainbow Cobblers",
     "name_en": "Rainbow Cobblers",
     "category": "fashion"
+  },
+  {
+    "slug": "real-united",
+    "name": "Real United",
+    "name_en": "Real United",
+    "category": "fashion"
+  },
+  {
+    "slug": "red-or-dead",
+    "name": "Red or Dead",
+    "name_en": "Red or Dead",
+    "category": "fashion"
+  },
+  {
+    "slug": "reebok-ventilator",
+    "name": "Reebok Ventilator",
+    "name_en": "Reebok Ventilator",
+    "category": "fashion"
+  },
+  {
+    "slug": "reef-company",
+    "name": "Reef (company)",
+    "name_en": "Reef (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "rockport-company",
+    "name": "Rockport (company)",
+    "name_en": "Rockport (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "russell-bromley",
+    "name": "Russell & Bromley",
+    "name_en": "Russell & Bromley",
+    "category": "fashion"
+  },
+  {
+    "slug": "samuel-hubbard-shoe-company",
+    "name": "Samuel Hubbard Shoe Company",
+    "name_en": "Samuel Hubbard Shoe Company",
+    "category": "fashion"
+  },
+  {
+    "slug": "sanders-sanders-ltd",
+    "name": "Sanders & Sanders Ltd.",
+    "name_en": "Sanders & Sanders Ltd.",
+    "category": "fashion"
+  },
+  {
+    "slug": "sas-shoemakers",
+    "name": "SAS (shoemakers)",
+    "name_en": "SAS (shoemakers)",
+    "category": "fashion"
+  },
+  {
+    "slug": "saucony",
+    "name": "Saucony",
+    "name_en": "Saucony",
+    "category": "fashion"
   }
 ]
