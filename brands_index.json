@@ -17152,5 +17152,65 @@
     "name": "Jurlique",
     "name_en": "Jurlique",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "loake",
+    "name": "Loake",
+    "name_en": "Loake",
+    "category": "fashion"
+  },
+  {
+    "slug": "john-lobb-bootmaker",
+    "name": "John Lobb Bootmaker",
+    "name_en": "John Lobb Bootmaker",
+    "category": "fashion"
+  },
+  {
+    "slug": "lotto-sport-italia",
+    "name": "Lotto Sport Italia",
+    "name_en": "Lotto Sport Italia",
+    "category": "fashion"
+  },
+  {
+    "slug": "lugz",
+    "name": "Lugz",
+    "name_en": "Lugz",
+    "category": "fashion"
+  },
+  {
+    "slug": "luigi-voltan",
+    "name": "Luigi Voltan",
+    "name_en": "Luigi Voltan",
+    "category": "fashion"
+  },
+  {
+    "slug": "steve-madden-ltd",
+    "name": "Steve Madden, Ltd.",
+    "name_en": "Steve Madden, Ltd.",
+    "category": "fashion"
+  },
+  {
+    "slug": "melville-shoe-corporation",
+    "name": "Melville Shoe Corporation",
+    "name_en": "Melville Shoe Corporation",
+    "category": "fashion"
+  },
+  {
+    "slug": "merooj",
+    "name": "Merooj",
+    "name_en": "Merooj",
+    "category": "fashion"
+  },
+  {
+    "slug": "merrell-company",
+    "name": "Merrell (company)",
+    "name_en": "Merrell (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "mills-sports-brand",
+    "name": "Mills (sports brand)",
+    "name_en": "Mills (sports brand)",
+    "category": "fashion"
   }
 ]
