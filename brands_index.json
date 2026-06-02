@@ -23869,5 +23869,35 @@
     "name_en": "Saint Tropez (brand)",
     "category": "fashion",
     "updated_at": 1780411501
+  },
+  {
+    "slug": "sakis-rouvas-collection",
+    "name": "Sakis Rouvas Collection",
+    "name_en": "Sakis Rouvas Collection",
+    "category": "fashion"
+  },
+  {
+    "slug": "sandro-paris",
+    "name": "Sandro Paris",
+    "name_en": "Sandro Paris",
+    "category": "fashion"
+  },
+  {
+    "slug": "ferdinando-sarmi",
+    "name": "Ferdinando Sarmi",
+    "name_en": "Ferdinando Sarmi",
+    "category": "fashion"
+  },
+  {
+    "slug": "sasuphi",
+    "name": "Sasuphi",
+    "name_en": "Sasuphi",
+    "category": "fashion"
+  },
+  {
+    "slug": "schiaparelli-fashion-house",
+    "name": "Schiaparelli (fashion house)",
+    "name_en": "Schiaparelli (fashion house)",
+    "category": "fashion"
   }
 ]
