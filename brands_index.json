@@ -18592,5 +18592,65 @@
     "name": "Radio Computing Services",
     "name_en": "Radio Computing Services",
     "category": "general"
+  },
+  {
+    "slug": "tt-toys-toys",
+    "name": "TT Toys Toys",
+    "name_en": "TT Toys Toys",
+    "category": "toy"
+  },
+  {
+    "slug": "upsy-downsy",
+    "name": "Upsy Downsy",
+    "name_en": "Upsy Downsy",
+    "category": "toy"
+  },
+  {
+    "slug": "veb-plasticart",
+    "name": "VEB Plasticart",
+    "name_en": "VEB Plasticart",
+    "category": "toy"
+  },
+  {
+    "slug": "vitesse-models",
+    "name": "Vitesse Models",
+    "name_en": "Vitesse Models",
+    "category": "toy"
+  },
+  {
+    "slug": "wentworth-wooden-puzzles",
+    "name": "Wentworth Wooden Puzzles",
+    "name_en": "Wentworth Wooden Puzzles",
+    "category": "toy"
+  },
+  {
+    "slug": "wooly-willy",
+    "name": "Wooly Willy",
+    "name_en": "Wooly Willy",
+    "category": "toy"
+  },
+  {
+    "slug": "yat-ming",
+    "name": "Yat Ming",
+    "name_en": "Yat Ming",
+    "category": "toy"
+  },
+  {
+    "slug": "yoshikitty",
+    "name": "Yoshikitty",
+    "name_en": "Yoshikitty",
+    "category": "toy"
+  },
+  {
+    "slug": "yowie-chocolate",
+    "name": "Yowie (chocolate)",
+    "name_en": "Yowie (chocolate)",
+    "category": "toy"
+  },
+  {
+    "slug": "zbots",
+    "name": "Zbots",
+    "name_en": "Zbots",
+    "category": "toy"
   }
 ]
