@@ -18916,5 +18916,65 @@
     "name": "Moooi",
     "name_en": "Moooi",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "hirox",
+    "name": "Hirox",
+    "name_en": "Hirox",
+    "category": "general"
+  },
+  {
+    "slug": "hisamitsu-pharmaceutical",
+    "name": "Hisamitsu Pharmaceutical",
+    "name_en": "Hisamitsu Pharmaceutical",
+    "category": "general"
+  },
+  {
+    "slug": "hitachi",
+    "name": "Hitachi",
+    "name_en": "Hitachi",
+    "category": "general"
+  },
+  {
+    "slug": "hks-company",
+    "name": "HKS (company)",
+    "name_en": "HKS (company)",
+    "category": "general"
+  },
+  {
+    "slug": "hmi-hotel-group",
+    "name": "HMI Hotel Group",
+    "name_en": "HMI Hotel Group",
+    "category": "general"
+  },
+  {
+    "slug": "hobonichi",
+    "name": "Hobonichi",
+    "name_en": "Hobonichi",
+    "category": "general"
+  },
+  {
+    "slug": "hokuetsu-corporation",
+    "name": "Hokuetsu Corporation",
+    "name_en": "Hokuetsu Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "hokuyo-automatic-co-ltd",
+    "name": "Hokuyo Automatic Co., Ltd.",
+    "name_en": "Hokuyo Automatic Co., Ltd.",
+    "category": "general"
+  },
+  {
+    "slug": "hori-company",
+    "name": "Hori (company)",
+    "name_en": "Hori (company)",
+    "category": "general"
+  },
+  {
+    "slug": "horiba",
+    "name": "Horiba",
+    "name_en": "Horiba",
+    "category": "general"
   }
 ]
