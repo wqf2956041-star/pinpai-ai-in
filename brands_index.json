@@ -23049,5 +23049,65 @@
     "name_en": "Jet2.com",
     "category": "general",
     "updated_at": 1780407115
+  },
+  {
+    "slug": "jeyes-fluid",
+    "name": "Jeyes Fluid",
+    "name_en": "Jeyes Fluid",
+    "category": "general"
+  },
+  {
+    "slug": "jimmy-choo-fashion-house",
+    "name": "Jimmy Choo (fashion house)",
+    "name_en": "Jimmy Choo (fashion house)",
+    "category": "general"
+  },
+  {
+    "slug": "john-morris-and-sons-salford",
+    "name": "John Morris and Sons Salford",
+    "name_en": "John Morris and Sons Salford",
+    "category": "general"
+  },
+  {
+    "slug": "jordans-cereal",
+    "name": "Jordans (cereal)",
+    "name_en": "Jordans (cereal)",
+    "category": "general"
+  },
+  {
+    "slug": "k-cider",
+    "name": "K (cider)",
+    "name_en": "K (cider)",
+    "category": "general"
+  },
+  {
+    "slug": "kangol",
+    "name": "Kangol",
+    "name_en": "Kangol",
+    "category": "general"
+  },
+  {
+    "slug": "kcom-group",
+    "name": "KCOM Group",
+    "name_en": "KCOM Group",
+    "category": "general"
+  },
+  {
+    "slug": "keens",
+    "name": "Keen's",
+    "name_en": "Keen's",
+    "category": "general"
+  },
+  {
+    "slug": "kent-curwen",
+    "name": "Kent & Curwen",
+    "name_en": "Kent & Curwen",
+    "category": "general"
+  },
+  {
+    "slug": "keystore",
+    "name": "KeyStore",
+    "name_en": "KeyStore",
+    "category": "general"
   }
 ]
