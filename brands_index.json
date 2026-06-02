@@ -1920,5 +1920,65 @@
     "name": "Raymond Weil",
     "name_en": "Raymond Weil",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "matsuura-machinery",
+    "name": "Matsuura Machinery",
+    "name_en": "Matsuura Machinery",
+    "category": "general"
+  },
+  {
+    "slug": "matsuzakaya",
+    "name": "Matsuzakaya",
+    "name_en": "Matsuzakaya",
+    "category": "general"
+  },
+  {
+    "slug": "maxell",
+    "name": "Maxell",
+    "name_en": "Maxell",
+    "category": "general"
+  },
+  {
+    "slug": "mazda",
+    "name": "Mazda",
+    "name_en": "Mazda",
+    "category": "general"
+  },
+  {
+    "slug": "megmilk-snow-brand",
+    "name": "Megmilk Snow Brand",
+    "name_en": "Megmilk Snow Brand",
+    "category": "general"
+  },
+  {
+    "slug": "meidensha",
+    "name": "Meidensha",
+    "name_en": "Meidensha",
+    "category": "general"
+  },
+  {
+    "slug": "meiji-co",
+    "name": "Meiji Co.",
+    "name_en": "Meiji Co.",
+    "category": "general"
+  },
+  {
+    "slug": "meiji-seika-pharma",
+    "name": "Meiji Seika Pharma",
+    "name_en": "Meiji Seika Pharma",
+    "category": "general"
+  },
+  {
+    "slug": "meiji-yasuda-life",
+    "name": "Meiji Yasuda Life",
+    "name_en": "Meiji Yasuda Life",
+    "category": "general"
+  },
+  {
+    "slug": "melco",
+    "name": "Melco",
+    "name_en": "Melco",
+    "category": "general"
   }
 ]
