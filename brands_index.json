@@ -24219,5 +24219,65 @@
     "name_en": "Kagome (company)",
     "category": "general",
     "updated_at": 1780417801
+  },
+  {
+    "slug": "manheimer-berlin",
+    "name": "Manheimer Berlin",
+    "name_en": "Manheimer Berlin",
+    "category": "general"
+  },
+  {
+    "slug": "mankenberg",
+    "name": "Mankenberg",
+    "name_en": "Mankenberg",
+    "category": "general"
+  },
+  {
+    "slug": "mannhummel",
+    "name": "Mann+Hummel",
+    "name_en": "Mann+Hummel",
+    "category": "general"
+  },
+  {
+    "slug": "manroland",
+    "name": "Manroland",
+    "name_en": "Manroland",
+    "category": "general"
+  },
+  {
+    "slug": "mansory",
+    "name": "Mansory",
+    "name_en": "Mansory",
+    "category": "general"
+  },
+  {
+    "slug": "manz",
+    "name": "Manz",
+    "name_en": "Manz",
+    "category": "general"
+  },
+  {
+    "slug": "martinbauer",
+    "name": "MartinBauer",
+    "name_en": "MartinBauer",
+    "category": "general"
+  },
+  {
+    "slug": "mast-jgermeister",
+    "name": "Mast-Jägermeister",
+    "name_en": "Mast-Jägermeister",
+    "category": "general"
+  },
+  {
+    "slug": "murer-wirtz",
+    "name": "Mäurer & Wirtz",
+    "name_en": "Mäurer & Wirtz",
+    "category": "general"
+  },
+  {
+    "slug": "max-bgl",
+    "name": "Max Bögl",
+    "name_en": "Max Bögl",
+    "category": "general"
   }
 ]
