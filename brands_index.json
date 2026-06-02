@@ -17692,5 +17692,65 @@
     "name": "Dolomiti Energia",
     "name_en": "Dolomiti Energia",
     "category": "general"
+  },
+  {
+    "slug": "dolomitibus",
+    "name": "Dolomitibus",
+    "name_en": "Dolomitibus",
+    "category": "general"
+  },
+  {
+    "slug": "domori",
+    "name": "Domori",
+    "name_en": "Domori",
+    "category": "general"
+  },
+  {
+    "slug": "ducati",
+    "name": "Ducati",
+    "name_en": "Ducati",
+    "category": "general"
+  },
+  {
+    "slug": "ducati-company",
+    "name": "Ducati (company)",
+    "name_en": "Ducati (company)",
+    "category": "general"
+  },
+  {
+    "slug": "durst",
+    "name": "Durst",
+    "name_en": "Durst",
+    "category": "general"
+  },
+  {
+    "slug": "eca-sindel",
+    "name": "Eca Sindel",
+    "name_en": "Eca Sindel",
+    "category": "general"
+  },
+  {
+    "slug": "ecco-domani",
+    "name": "Ecco Domani",
+    "name_en": "Ecco Domani",
+    "category": "general"
+  },
+  {
+    "slug": "edison-company",
+    "name": "Edison (company)",
+    "name_en": "Edison (company)",
+    "category": "general"
+  },
+  {
+    "slug": "edra",
+    "name": "Edra",
+    "name_en": "Edra",
+    "category": "general"
+  },
+  {
+    "slug": "eko-guitars",
+    "name": "Eko Guitars",
+    "name_en": "Eko Guitars",
+    "category": "general"
   }
 ]
