@@ -24159,5 +24159,65 @@
     "name_en": "Japan Post Bank",
     "category": "general",
     "updated_at": 1780414202
+  },
+  {
+    "slug": "toms-shoes",
+    "name": "Toms Shoes",
+    "name_en": "Toms Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "tredair",
+    "name": "Tredair",
+    "name_en": "Tredair",
+    "category": "fashion"
+  },
+  {
+    "slug": "trickers",
+    "name": "Tricker's",
+    "name_en": "Tricker's",
+    "category": "fashion"
+  },
+  {
+    "slug": "troentorp-clogs",
+    "name": "Troentorp Clogs",
+    "name_en": "Troentorp Clogs",
+    "category": "fashion"
+  },
+  {
+    "slug": "ugg-brand",
+    "name": "UGG (brand)",
+    "name_en": "UGG (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "unification-shoes",
+    "name": "Unification Shoes",
+    "name_en": "Unification Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "united-nude",
+    "name": "United Nude",
+    "name_en": "United Nude",
+    "category": "fashion"
+  },
+  {
+    "slug": "van-lier-shoe-company",
+    "name": "Van Lier (shoe company)",
+    "name_en": "Van Lier (shoe company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "veja-brand",
+    "name": "Veja (brand)",
+    "name_en": "Veja (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "veldskoen-shoes",
+    "name": "Veldskoen Shoes",
+    "name_en": "Veldskoen Shoes",
+    "category": "fashion"
   }
 ]
