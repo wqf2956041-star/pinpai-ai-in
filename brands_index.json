@@ -17812,5 +17812,65 @@
     "name": "Tekno (toy manufacturer)",
     "name_en": "Tekno (toy manufacturer)",
     "category": "toy"
+  },
+  {
+    "slug": "thomas-friends-merchandise",
+    "name": "Thomas & Friends merchandise",
+    "name_en": "Thomas & Friends merchandise",
+    "category": "toy"
+  },
+  {
+    "slug": "timpo",
+    "name": "Timpo",
+    "name_en": "Timpo",
+    "category": "toy"
+  },
+  {
+    "slug": "tiny-love",
+    "name": "Tiny Love",
+    "name_en": "Tiny Love",
+    "category": "toy"
+  },
+  {
+    "slug": "tomica-toy-line",
+    "name": "Tomica (toy line)",
+    "name_en": "Tomica (toy line)",
+    "category": "toy"
+  },
+  {
+    "slug": "tomy",
+    "name": "Tomy",
+    "name_en": "Tomy",
+    "category": "toy"
+  },
+  {
+    "slug": "tootsietoy",
+    "name": "TootsieToy",
+    "name_en": "TootsieToy",
+    "category": "toy"
+  },
+  {
+    "slug": "tosy",
+    "name": "TOSY",
+    "name_en": "TOSY",
+    "category": "toy"
+  },
+  {
+    "slug": "toyfinity",
+    "name": "Toyfinity",
+    "name_en": "Toyfinity",
+    "category": "toy"
+  },
+  {
+    "slug": "transogram",
+    "name": "Transogram",
+    "name_en": "Transogram",
+    "category": "toy"
+  },
+  {
+    "slug": "tri-ang",
+    "name": "Tri-ang",
+    "name_en": "Tri-ang",
+    "category": "toy"
   }
 ]
