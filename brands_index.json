@@ -1560,5 +1560,65 @@
     "name": "Komamura Corporation",
     "name_en": "Komamura Corporation",
     "category": "general"
+  },
+  {
+    "slug": "komatsu-limited",
+    "name": "Komatsu Limited",
+    "name_en": "Komatsu Limited",
+    "category": "general"
+  },
+  {
+    "slug": "komori",
+    "name": "Komori",
+    "name_en": "Komori",
+    "category": "general"
+  },
+  {
+    "slug": "konami",
+    "name": "Konami",
+    "name_en": "Konami",
+    "category": "general"
+  },
+  {
+    "slug": "konica-minolta",
+    "name": "Konica Minolta",
+    "name_en": "Konica Minolta",
+    "category": "general"
+  },
+  {
+    "slug": "konigs-krone",
+    "name": "Konigs-Krone",
+    "name_en": "Konigs-Krone",
+    "category": "general"
+  },
+  {
+    "slug": "korg",
+    "name": "Korg",
+    "name_en": "Korg",
+    "category": "general"
+  },
+  {
+    "slug": "korin-japanese-trading-company",
+    "name": "Korin Japanese Trading Company",
+    "name_en": "Korin Japanese Trading Company",
+    "category": "general"
+  },
+  {
+    "slug": "kos",
+    "name": "Kosé",
+    "name_en": "Kosé",
+    "category": "general"
+  },
+  {
+    "slug": "kowa-company",
+    "name": "Kowa (company)",
+    "name_en": "Kowa (company)",
+    "category": "general"
+  },
+  {
+    "slug": "koyo-seiko",
+    "name": "Koyo Seiko",
+    "name_en": "Koyo Seiko",
+    "category": "general"
   }
 ]
