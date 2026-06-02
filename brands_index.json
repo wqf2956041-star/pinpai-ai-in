@@ -3420,5 +3420,65 @@
     "name": "Talisker distillery",
     "name_en": "Talisker distillery",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "fratelli-branca",
+    "name": "Fratelli Branca",
+    "name_en": "Fratelli Branca",
+    "category": "general"
+  },
+  {
+    "slug": "fratelli-nardi",
+    "name": "Fratelli Nardi",
+    "name_en": "Fratelli Nardi",
+    "category": "general"
+  },
+  {
+    "slug": "fulgor-milano",
+    "name": "Fulgor Milano",
+    "name_en": "Fulgor Milano",
+    "category": "general"
+  },
+  {
+    "slug": "gaggia",
+    "name": "Gaggia",
+    "name_en": "Gaggia",
+    "category": "general"
+  },
+  {
+    "slug": "garelli-motorcycles",
+    "name": "Garelli Motorcycles",
+    "name_en": "Garelli Motorcycles",
+    "category": "general"
+  },
+  {
+    "slug": "garlando",
+    "name": "Garlando",
+    "name_en": "Garlando",
+    "category": "general"
+  },
+  {
+    "slug": "garzanti",
+    "name": "Garzanti",
+    "name_en": "Garzanti",
+    "category": "general"
+  },
+  {
+    "slug": "geloso",
+    "name": "Geloso",
+    "name_en": "Geloso",
+    "category": "general"
+  },
+  {
+    "slug": "ghezzi-brian",
+    "name": "Ghezzi & Brian",
+    "name_en": "Ghezzi & Brian",
+    "category": "general"
+  },
+  {
+    "slug": "giacomini",
+    "name": "Giacomini",
+    "name_en": "Giacomini",
+    "category": "general"
   }
 ]
