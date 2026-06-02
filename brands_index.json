@@ -18532,5 +18532,65 @@
     "name": "Parsons Corporation",
     "name_en": "Parsons Corporation",
     "category": "general"
+  },
+  {
+    "slug": "peabody-energy",
+    "name": "Peabody Energy",
+    "name_en": "Peabody Energy",
+    "category": "general"
+  },
+  {
+    "slug": "pitney-bowes",
+    "name": "Pitney Bowes",
+    "name_en": "Pitney Bowes",
+    "category": "general"
+  },
+  {
+    "slug": "popcap-games",
+    "name": "PopCap Games",
+    "name_en": "PopCap Games",
+    "category": "general"
+  },
+  {
+    "slug": "ppg-industries",
+    "name": "PPG Industries",
+    "name_en": "PPG Industries",
+    "category": "general"
+  },
+  {
+    "slug": "privy-circle",
+    "name": "Privy Circle",
+    "name_en": "Privy Circle",
+    "category": "general"
+  },
+  {
+    "slug": "qi-hardware",
+    "name": "Qi Hardware",
+    "name_en": "Qi Hardware",
+    "category": "general"
+  },
+  {
+    "slug": "qualcomm",
+    "name": "Qualcomm",
+    "name_en": "Qualcomm",
+    "category": "general"
+  },
+  {
+    "slug": "quizlet",
+    "name": "Quizlet",
+    "name_en": "Quizlet",
+    "category": "general"
+  },
+  {
+    "slug": "rl-carriers",
+    "name": "R+L Carriers",
+    "name_en": "R+L Carriers",
+    "category": "general"
+  },
+  {
+    "slug": "radio-computing-services",
+    "name": "Radio Computing Services",
+    "name_en": "Radio Computing Services",
+    "category": "general"
   }
 ]
