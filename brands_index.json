@@ -2790,5 +2790,65 @@
     "name": "Trands",
     "name_en": "Trands",
     "category": "fashion"
+  },
+  {
+    "slug": "fincantieri",
+    "name": "Fincantieri",
+    "name_en": "Fincantieri",
+    "category": "general"
+  },
+  {
+    "slug": "fiocchi-munizioni",
+    "name": "Fiocchi Munizioni",
+    "name_en": "Fiocchi Munizioni",
+    "category": "general"
+  },
+  {
+    "slug": "fioravanti-automotive",
+    "name": "Fioravanti (automotive)",
+    "name_en": "Fioravanti (automotive)",
+    "category": "general"
+  },
+  {
+    "slug": "flash-fiber",
+    "name": "Flash Fiber",
+    "name_en": "Flash Fiber",
+    "category": "general"
+  },
+  {
+    "slug": "flos-bb-italia-group",
+    "name": "Flos B&B Italia Group",
+    "name_en": "Flos B&B Italia Group",
+    "category": "general"
+  },
+  {
+    "slug": "fondmetal",
+    "name": "Fondmetal",
+    "name_en": "Fondmetal",
+    "category": "general"
+  },
+  {
+    "slug": "fpt-industrial",
+    "name": "FPT Industrial",
+    "name_en": "FPT Industrial",
+    "category": "general"
+  },
+  {
+    "slug": "franchi-firearms",
+    "name": "Franchi (firearms)",
+    "name_en": "Franchi (firearms)",
+    "category": "general"
+  },
+  {
+    "slug": "franco-tosi-meccanica",
+    "name": "Franco Tosi Meccanica",
+    "name_en": "Franco Tosi Meccanica",
+    "category": "general"
+  },
+  {
+    "slug": "franklin-marshall-company",
+    "name": "Franklin & Marshall (company)",
+    "name_en": "Franklin & Marshall (company)",
+    "category": "general"
   }
 ]

@@ -155,3 +155,48 @@ Pool low! Sourcing...
   [05:45:09] Regenerating homepage (385 brands)...
   [05:45:10]   brandsData replaced: 385 entries
   [05:45:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:00] Pool: 0 | Index: 385
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + ferrero-rocher (Ferrero Rocher) [general]
+  + ferrero-ksschen (Ferrero-Küsschen) [general]
+  + ferretti-group (Ferretti Group) [general]
+  + ferrovie-dello-stato-italiane (Ferrovie dello Stato Italiane) [general]
+  + fiamm (FIAMM) [general]
+  + fiat (Fiat) [general]
+  + fiat-professional (Fiat Professional) [general]
+  + fila-company (F.I.L.A. (company)) [general]
+  + filippi-boats (Filippi Boats) [general]
+  + filippo-berio (Filippo Berio) [general]
+  + fincantieri (Fincantieri) [general]
+  + fiocchi-munizioni (Fiocchi Munizioni) [general]
+  + fioravanti-automotive (Fioravanti (automotive)) [general]
+  + flash-fiber (Flash Fiber) [general]
+  + flos-bb-italia-group (Flos B&B Italia Group) [general]
+  + fondmetal (Fondmetal) [general]
+  + fpt-industrial (FPT Industrial) [general]
+  + franchi-firearms (Franchi (firearms)) [general]
+  + franco-tosi-meccanica (Franco Tosi Meccanica) [general]
+  + franklin-marshall-company (Franklin & Marshall (company)) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [06:00:02] Current: 385 brands
+  [06:00:02] Pool: 20 brands
+  [06:00:02]   SKIP ferrero-rocher: content too short
+  [06:00:03]   SKIP ferrero-ksschen: content too short
+  [06:00:05]   ADDED ferretti-group: Ferretti Group (+4 langs)
+  [06:00:06]   SKIP ferrovie-dello-stato-italiane: HTTP Error 429: Too Many Requests
+  [06:00:07]   SKIP fiamm: HTTP Error 429: Too Many Requests
+  [06:00:08] Regenerating homepage (386 brands)...
+  [06:00:08]   brandsData replaced: 386 entries
+  [06:00:08] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:15] Pool: 15 | Index: 386
+  [06:15:01] Current: 386 brands
+  [06:15:01] Pool: 15 brands
+  [06:15:05]   ADDED fiat: Fiat (+8 langs)
+  [06:15:07]   SKIP fiat-professional: HTTP Error 429: Too Many Requests
+  [06:15:08]   SKIP fila-company: HTTP Error 429: Too Many Requests
+  [06:15:09]   SKIP filippi-boats: HTTP Error 429: Too Many Requests
+  [06:15:10]   SKIP filippo-berio: HTTP Error 429: Too Many Requests
+  [06:15:11] Regenerating homepage (387 brands)...
+  [06:15:11]   brandsData replaced: 387 entries
+  [06:15:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
