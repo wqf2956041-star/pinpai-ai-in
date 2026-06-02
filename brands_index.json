@@ -17572,5 +17572,65 @@
     "name": "Paul Smith (fashion designer)",
     "name_en": "Paul Smith (fashion designer)",
     "category": "fashion"
+  },
+  {
+    "slug": "solovair",
+    "name": "Solovair",
+    "name_en": "Solovair",
+    "category": "fashion"
+  },
+  {
+    "slug": "sorel-brand",
+    "name": "Sorel (brand)",
+    "name_en": "Sorel (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "source-vagabond-systems",
+    "name": "Source Vagabond Systems",
+    "name_en": "Source Vagabond Systems",
+    "category": "fashion"
+  },
+  {
+    "slug": "source-sandals",
+    "name": "Source Sandals",
+    "name_en": "Source Sandals",
+    "category": "fashion"
+  },
+  {
+    "slug": "start-rite",
+    "name": "Start-rite",
+    "name_en": "Start-rite",
+    "category": "fashion"
+  },
+  {
+    "slug": "superga-brand",
+    "name": "Superga (brand)",
+    "name_en": "Superga (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "tecovas-company",
+    "name": "Tecovas (company)",
+    "name_en": "Tecovas (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "thom-mcan",
+    "name": "Thom McAn",
+    "name_en": "Thom McAn",
+    "category": "fashion"
+  },
+  {
+    "slug": "tods",
+    "name": "Tod's",
+    "name_en": "Tod's",
+    "category": "fashion"
+  },
+  {
+    "slug": "tom-ford-brand",
+    "name": "Tom Ford (brand)",
+    "name_en": "Tom Ford (brand)",
+    "category": "fashion"
   }
 ]
