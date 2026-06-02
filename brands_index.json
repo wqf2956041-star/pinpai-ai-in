@@ -23539,5 +23539,40 @@
     "name_en": "Paul Stuart",
     "category": "fashion-luxury",
     "updated_at": 1780408801
+  },
+  {
+    "slug": "pc-jeweller",
+    "name": "PC Jeweller",
+    "name_en": "PC Jeweller",
+    "category": "fashion-luxury",
+    "updated_at": 1780409701
+  },
+  {
+    "slug": "penfolds",
+    "name": "Penfolds",
+    "name_en": "Penfolds",
+    "category": "fashion-luxury",
+    "updated_at": 1780409701
+  },
+  {
+    "slug": "penfolds-grange",
+    "name": "Penfolds Grange",
+    "name_en": "Penfolds Grange",
+    "category": "fashion-luxury",
+    "updated_at": 1780409701
+  },
+  {
+    "slug": "penhaligons",
+    "name": "Penhaligon's",
+    "name_en": "Penhaligon's",
+    "category": "fashion-luxury",
+    "updated_at": 1780409701
+  },
+  {
+    "slug": "abraham-louis-perrelet",
+    "name": "Abraham-Louis Perrelet",
+    "name_en": "Abraham-Louis Perrelet",
+    "category": "fashion-luxury",
+    "updated_at": 1780409701
   }
 ]
