@@ -1980,5 +1980,65 @@
     "name": "Melco",
     "name_en": "Melco",
     "category": "general"
+  },
+  {
+    "slug": "midori-liqueur",
+    "name": "Midori (liqueur)",
+    "name_en": "Midori (liqueur)",
+    "category": "general"
+  },
+  {
+    "slug": "mikasa-sports",
+    "name": "Mikasa Sports",
+    "name_en": "Mikasa Sports",
+    "category": "general"
+  },
+  {
+    "slug": "miki-house",
+    "name": "Miki House",
+    "name_en": "Miki House",
+    "category": "general"
+  },
+  {
+    "slug": "mikuni-company",
+    "name": "Mikuni (company)",
+    "name_en": "Mikuni (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ministop",
+    "name": "Ministop",
+    "name_en": "Ministop",
+    "category": "general"
+  },
+  {
+    "slug": "miranda-camera-company",
+    "name": "Miranda Camera Company",
+    "name_en": "Miranda Camera Company",
+    "category": "general"
+  },
+  {
+    "slug": "mitsubishi-aluminum-co",
+    "name": "Mitsubishi Aluminum Co.",
+    "name_en": "Mitsubishi Aluminum Co.",
+    "category": "general"
+  },
+  {
+    "slug": "mitsubishi-electric",
+    "name": "Mitsubishi Electric",
+    "name_en": "Mitsubishi Electric",
+    "category": "general"
+  },
+  {
+    "slug": "mitsubishi-heavy-industries",
+    "name": "Mitsubishi Heavy Industries",
+    "name_en": "Mitsubishi Heavy Industries",
+    "category": "general"
+  },
+  {
+    "slug": "mitsubishi-logisnext",
+    "name": "Mitsubishi Logisnext",
+    "name_en": "Mitsubishi Logisnext",
+    "category": "general"
   }
 ]
