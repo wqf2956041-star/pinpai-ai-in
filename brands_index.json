@@ -1080,5 +1080,65 @@
     "name": "Kaiyodo",
     "name_en": "Kaiyodo",
     "category": "general"
+  },
+  {
+    "slug": "kajima",
+    "name": "Kajima",
+    "name_en": "Kajima",
+    "category": "general"
+  },
+  {
+    "slug": "kanadevia",
+    "name": "Kanadevia",
+    "name_en": "Kanadevia",
+    "category": "general"
+  },
+  {
+    "slug": "kaneka-corporation",
+    "name": "Kaneka Corporation",
+    "name_en": "Kaneka Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "kansai-paint",
+    "name": "Kansai Paint",
+    "name_en": "Kansai Paint",
+    "category": "general"
+  },
+  {
+    "slug": "kao-corporation",
+    "name": "Kao Corporation",
+    "name_en": "Kao Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "kato-precision-railroad-models",
+    "name": "Kato Precision Railroad Models",
+    "name_en": "Kato Precision Railroad Models",
+    "category": "general"
+  },
+  {
+    "slug": "kawai-musical-instruments",
+    "name": "Kawai Musical Instruments",
+    "name_en": "Kawai Musical Instruments",
+    "category": "general"
+  },
+  {
+    "slug": "kawasaki-bicycle-brand",
+    "name": "Kawasaki (bicycle brand)",
+    "name_en": "Kawasaki (bicycle brand)",
+    "category": "general"
+  },
+  {
+    "slug": "kawasaki-aerospace-systems-company",
+    "name": "Kawasaki Aerospace Systems Company",
+    "name_en": "Kawasaki Aerospace Systems Company",
+    "category": "general"
+  },
+  {
+    "slug": "kddi",
+    "name": "KDDI",
+    "name_en": "KDDI",
+    "category": "general"
   }
 ]
