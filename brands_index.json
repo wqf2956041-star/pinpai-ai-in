@@ -18112,5 +18112,65 @@
     "name": "K+S",
     "name_en": "K+S",
     "category": "general"
+  },
+  {
+    "slug": "gree-japanese-company",
+    "name": "Gree (Japanese company)",
+    "name_en": "Gree (Japanese company)",
+    "category": "general"
+  },
+  {
+    "slug": "gs-yuasa",
+    "name": "GS Yuasa",
+    "name_en": "GS Yuasa",
+    "category": "general"
+  },
+  {
+    "slug": "gu-retailer",
+    "name": "GU (retailer)",
+    "name_en": "GU (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "gungho-online-entertainment",
+    "name": "GungHo Online Entertainment",
+    "name_en": "GungHo Online Entertainment",
+    "category": "general"
+  },
+  {
+    "slug": "guyatone",
+    "name": "Guyatone",
+    "name_en": "Guyatone",
+    "category": "general"
+  },
+  {
+    "slug": "gyu-kaku",
+    "name": "Gyu-Kaku",
+    "name_en": "Gyu-Kaku",
+    "category": "general"
+  },
+  {
+    "slug": "h2o-retailing",
+    "name": "H2O Retailing",
+    "name_en": "H2O Retailing",
+    "category": "general"
+  },
+  {
+    "slug": "hada-labo",
+    "name": "Hada Labo",
+    "name_en": "Hada Labo",
+    "category": "general"
+  },
+  {
+    "slug": "hakushu-distillery",
+    "name": "Hakushu distillery",
+    "name_en": "Hakushu distillery",
+    "category": "general"
+  },
+  {
+    "slug": "hamamatsu-photonics",
+    "name": "Hamamatsu Photonics",
+    "name_en": "Hamamatsu Photonics",
+    "category": "general"
   }
 ]
