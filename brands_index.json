@@ -1140,5 +1140,65 @@
     "name": "KDDI",
     "name_en": "KDDI",
     "category": "general"
+  },
+  {
+    "slug": "bbc",
+    "name": "BBC",
+    "name_en": "BBC",
+    "category": "general"
+  },
+  {
+    "slug": "bentley",
+    "name": "Bentley",
+    "name_en": "Bentley",
+    "category": "general"
+  },
+  {
+    "slug": "british-airways",
+    "name": "British Airways",
+    "name_en": "British Airways",
+    "category": "general"
+  },
+  {
+    "slug": "burberry",
+    "name": "Burberry",
+    "name_en": "Burberry",
+    "category": "general"
+  },
+  {
+    "slug": "durex",
+    "name": "Durex",
+    "name_en": "Durex",
+    "category": "general"
+  },
+  {
+    "slug": "maistro",
+    "name": "Maistro",
+    "name_en": "Maistro",
+    "category": "general"
+  },
+  {
+    "slug": "majority-audio",
+    "name": "Majority Audio",
+    "name_en": "Majority Audio",
+    "category": "general"
+  },
+  {
+    "slug": "mandate-aftershave",
+    "name": "Mandate (aftershave)",
+    "name_en": "Mandate (aftershave)",
+    "category": "general"
+  },
+  {
+    "slug": "mco",
+    "name": "M&Co.",
+    "name_en": "M&Co.",
+    "category": "general"
+  },
+  {
+    "slug": "mandm-direct",
+    "name": "MandM Direct",
+    "name_en": "MandM Direct",
+    "category": "general"
   }
 ]
