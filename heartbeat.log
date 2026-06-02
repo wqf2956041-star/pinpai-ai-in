@@ -144,3 +144,13 @@
 [2026-06-03 07:15:13] Regenerating homepage (478 brands)...
 [2026-06-03 07:15:13]   brandsData replaced: 478 entries
 [2026-06-03 07:15:13] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 07:30:02] Current: 478 brands
+[2026-06-03 07:30:02] Pool: 20 brands
+[2026-06-03 07:30:05]   ADDED shiseido: Shiseido (+6 langs)
+[2026-06-03 07:30:06]   SKIP shreve-co: HTTP Error 429: Too Many Requests
+[2026-06-03 07:30:07]   SKIP shreve-crump-low: HTTP Error 429: Too Many Requests
+[2026-06-03 07:30:08]   SKIP sljeme-company: HTTP Error 429: Too Many Requests
+[2026-06-03 07:30:09]   SKIP geoffrey-b-small: HTTP Error 429: Too Many Requests
+[2026-06-03 07:30:10] Regenerating homepage (479 brands)...
+[2026-06-03 07:30:10]   brandsData replaced: 479 entries
+[2026-06-03 07:30:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

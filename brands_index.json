@@ -3330,5 +3330,65 @@
     "name": "Bojana Sentaler",
     "name_en": "Bojana Sentaler",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "john-smedley-brand",
+    "name": "John Smedley (brand)",
+    "name_en": "John Smedley (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "roger-w-smith",
+    "name": "Roger W. Smith",
+    "name_en": "Roger W. Smith",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "snow-peak-company",
+    "name": "Snow Peak (company)",
+    "name_en": "Snow Peak (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "society-awards",
+    "name": "Society Awards",
+    "name_en": "Society Awards",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "sowind-group-sa",
+    "name": "Sowind Group SA",
+    "name_en": "Sowind Group SA",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "speake-marin",
+    "name": "Speake-Marin",
+    "name_en": "Speake-Marin",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "stagecoach-gold",
+    "name": "Stagecoach Gold",
+    "name_en": "Stagecoach Gold",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "steinway-sons",
+    "name": "Steinway & Sons",
+    "name_en": "Steinway & Sons",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "straube-piano-company",
+    "name": "Straube Piano Company",
+    "name_en": "Straube Piano Company",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "string-ting",
+    "name": "String Ting",
+    "name_en": "String Ting",
+    "category": "fashion-luxury"
   }
 ]

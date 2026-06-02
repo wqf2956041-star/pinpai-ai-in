@@ -267,3 +267,37 @@ Pool low! Sourcing...
   [07:15:13] Regenerating homepage (478 brands)...
   [07:15:13]   brandsData replaced: 478 entries
   [07:15:13] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[07:30] Pool: 0 | Index: 478
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + shiseido (Shiseido) [fashion-luxury]
+  + shreve-co (Shreve & Co.) [fashion-luxury]
+  + shreve-crump-low (Shreve, Crump & Low) [fashion-luxury]
+  + sljeme-company (Sljeme (company)) [fashion-luxury]
+  + geoffrey-b-small (Geoffrey B. Small) [fashion-luxury]
+  + john-smedley-brand (John Smedley (brand)) [fashion-luxury]
+  + roger-w-smith (Roger W. Smith) [fashion-luxury]
+  + snow-peak-company (Snow Peak (company)) [fashion-luxury]
+  + society-awards (Society Awards) [fashion-luxury]
+  + sowind-group-sa (Sowind Group SA) [fashion-luxury]
+  + speake-marin (Speake-Marin) [fashion-luxury]
+  + stagecoach-gold (Stagecoach Gold) [fashion-luxury]
+  + steinway-sons (Steinway & Sons) [fashion-luxury]
+  + straube-piano-company (Straube Piano Company) [fashion-luxury]
+  + string-ting (String Ting) [fashion-luxury]
+  + sub-zero-company (Sub-Zero (company)) [fashion-luxury]
+  + swarovski (Swarovski) [fashion-luxury]
+  + tabbah (Tabbah) [fashion-luxury]
+  + tag-heuer (TAG Heuer) [fashion-luxury]
+  + talisker-distillery (Talisker distillery) [fashion-luxury]
+  ✅ Sourced 20 new brands (pool: 20)
+  [07:30:02] Current: 478 brands
+  [07:30:02] Pool: 20 brands
+  [07:30:05]   ADDED shiseido: Shiseido (+6 langs)
+  [07:30:06]   SKIP shreve-co: HTTP Error 429: Too Many Requests
+  [07:30:07]   SKIP shreve-crump-low: HTTP Error 429: Too Many Requests
+  [07:30:08]   SKIP sljeme-company: HTTP Error 429: Too Many Requests
+  [07:30:09]   SKIP geoffrey-b-small: HTTP Error 429: Too Many Requests
+  [07:30:10] Regenerating homepage (479 brands)...
+  [07:30:10]   brandsData replaced: 479 entries
+  [07:30:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
