@@ -1500,5 +1500,65 @@
     "name": "Kintetsu World Express",
     "name_en": "Kintetsu World Express",
     "category": "general"
+  },
+  {
+    "slug": "kioxia",
+    "name": "Kioxia",
+    "name_en": "Kioxia",
+    "category": "general"
+  },
+  {
+    "slug": "kiramek",
+    "name": "Kiramek",
+    "name_en": "Kiramek",
+    "category": "general"
+  },
+  {
+    "slug": "kirin-company",
+    "name": "Kirin Company",
+    "name_en": "Kirin Company",
+    "category": "general"
+  },
+  {
+    "slug": "kissui",
+    "name": "Kissui",
+    "name_en": "Kissui",
+    "category": "general"
+  },
+  {
+    "slug": "ko-propo",
+    "name": "KO PROPO",
+    "name_en": "KO PROPO",
+    "category": "general"
+  },
+  {
+    "slug": "koa-corporation",
+    "name": "KOA Corporation",
+    "name_en": "KOA Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "kobe-steel",
+    "name": "Kobe Steel",
+    "name_en": "Kobe Steel",
+    "category": "general"
+  },
+  {
+    "slug": "kodansha",
+    "name": "Kodansha",
+    "name_en": "Kodansha",
+    "category": "general"
+  },
+  {
+    "slug": "kodenshi-auk-group",
+    "name": "Kodenshi AUK Group",
+    "name_en": "Kodenshi AUK Group",
+    "category": "general"
+  },
+  {
+    "slug": "komamura-corporation",
+    "name": "Komamura Corporation",
+    "name_en": "Komamura Corporation",
+    "category": "general"
   }
 ]
