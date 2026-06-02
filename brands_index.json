@@ -16972,5 +16972,65 @@
     "name": "Gullane Entertainment",
     "name_en": "Gullane Entertainment",
     "category": "general"
+  },
+  {
+    "slug": "halfords",
+    "name": "Halfords",
+    "name_en": "Halfords",
+    "category": "general"
+  },
+  {
+    "slug": "hamlet-cigar",
+    "name": "Hamlet (cigar)",
+    "name_en": "Hamlet (cigar)",
+    "category": "general"
+  },
+  {
+    "slug": "hammerite",
+    "name": "Hammerite",
+    "name_en": "Hammerite",
+    "category": "general"
+  },
+  {
+    "slug": "happy-faces",
+    "name": "Happy Faces",
+    "name_en": "Happy Faces",
+    "category": "general"
+  },
+  {
+    "slug": "harland-wolff",
+    "name": "Harland & Wolff",
+    "name_en": "Harland & Wolff",
+    "category": "general"
+  },
+  {
+    "slug": "hedgehog-flavour-crisps",
+    "name": "Hedgehog Flavour Crisps",
+    "name_en": "Hedgehog Flavour Crisps",
+    "category": "general"
+  },
+  {
+    "slug": "hedkandi",
+    "name": "Hedkandi",
+    "name_en": "Hedkandi",
+    "category": "general"
+  },
+  {
+    "slug": "henri-lloyd",
+    "name": "Henri Lloyd",
+    "name_en": "Henri Lloyd",
+    "category": "general"
+  },
+  {
+    "slug": "henry-vacuum-cleaner",
+    "name": "Henry (vacuum cleaner)",
+    "name_en": "Henry (vacuum cleaner)",
+    "category": "general"
+  },
+  {
+    "slug": "hesketh-motorcycles",
+    "name": "Hesketh Motorcycles",
+    "name_en": "Hesketh Motorcycles",
+    "category": "general"
   }
 ]
