@@ -23669,5 +23669,65 @@
     "name_en": "Kramer Company",
     "category": "general",
     "updated_at": 1780410601
+  },
+  {
+    "slug": "krups",
+    "name": "Krups",
+    "name_en": "Krups",
+    "category": "general"
+  },
+  {
+    "slug": "ksb-se-co-kgaa",
+    "name": "KSB SE & Co. KGaA",
+    "name_en": "KSB SE & Co. KGaA",
+    "category": "general"
+  },
+  {
+    "slug": "kuemmerling",
+    "name": "Kuemmerling",
+    "name_en": "Kuemmerling",
+    "category": "general"
+  },
+  {
+    "slug": "kw-automotive",
+    "name": "KW Automotive",
+    "name_en": "KW Automotive",
+    "category": "general"
+  },
+  {
+    "slug": "laco-uhrenmanufaktur",
+    "name": "Laco Uhrenmanufaktur",
+    "name_en": "Laco Uhrenmanufaktur",
+    "category": "general"
+  },
+  {
+    "slug": "lamy",
+    "name": "Lamy",
+    "name_en": "Lamy",
+    "category": "general"
+  },
+  {
+    "slug": "landbell",
+    "name": "Landbell",
+    "name_en": "Landbell",
+    "category": "general"
+  },
+  {
+    "slug": "lang-heyne",
+    "name": "Lang & Heyne",
+    "name_en": "Lang & Heyne",
+    "category": "general"
+  },
+  {
+    "slug": "lanxess",
+    "name": "Lanxess",
+    "name_en": "Lanxess",
+    "category": "general"
+  },
+  {
+    "slug": "lauterbacher-tropfen",
+    "name": "Lauterbacher Tropfen",
+    "name_en": "Lauterbacher Tropfen",
+    "category": "general"
   }
 ]
