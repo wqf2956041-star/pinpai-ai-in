@@ -23139,5 +23139,65 @@
     "name": "Launer London",
     "name_en": "Launer London",
     "category": "general"
+  },
+  {
+    "slug": "elena-mir",
+    "name": "Elena Mirò",
+    "name_en": "Elena Mirò",
+    "category": "general"
+  },
+  {
+    "slug": "eleventy-brand",
+    "name": "Eleventy (brand)",
+    "name_en": "Eleventy (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "elica",
+    "name": "Elica",
+    "name_en": "Elica",
+    "category": "general"
+  },
+  {
+    "slug": "elitaliana",
+    "name": "Elitaliana",
+    "name_en": "Elitaliana",
+    "category": "general"
+  },
+  {
+    "slug": "emak",
+    "name": "Emak",
+    "name_en": "Emak",
+    "category": "general"
+  },
+  {
+    "slug": "enel",
+    "name": "Enel",
+    "name_en": "Enel",
+    "category": "general"
+  },
+  {
+    "slug": "enel-x",
+    "name": "Enel X",
+    "name_en": "Enel X",
+    "category": "general"
+  },
+  {
+    "slug": "energica-motor-company",
+    "name": "Energica Motor Company",
+    "name_en": "Energica Motor Company",
+    "category": "general"
+  },
+  {
+    "slug": "enervit",
+    "name": "Enervit",
+    "name_en": "Enervit",
+    "category": "general"
+  },
+  {
+    "slug": "enessere",
+    "name": "Enessere",
+    "name_en": "Enessere",
+    "category": "general"
   }
 ]
