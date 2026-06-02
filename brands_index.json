@@ -24089,5 +24089,40 @@
     "name": "United Technologies",
     "name_en": "United Technologies",
     "category": "general"
+  },
+  {
+    "slug": "japan-post-holdings",
+    "name": "Japan Post Holdings",
+    "name_en": "Japan Post Holdings",
+    "category": "general",
+    "updated_at": 1780416901
+  },
+  {
+    "slug": "japan-radio-company",
+    "name": "Japan Radio Company",
+    "name_en": "Japan Radio Company",
+    "category": "general",
+    "updated_at": 1780416901
+  },
+  {
+    "slug": "japan-railways-group",
+    "name": "Japan Railways Group",
+    "name_en": "Japan Railways Group",
+    "category": "general",
+    "updated_at": 1780416901
+  },
+  {
+    "slug": "japan-remote-control",
+    "name": "Japan Remote Control",
+    "name_en": "Japan Remote Control",
+    "category": "general",
+    "updated_at": 1780416901
+  },
+  {
+    "slug": "japan-transport-engineering-company",
+    "name": "Japan Transport Engineering Company",
+    "name_en": "Japan Transport Engineering Company",
+    "category": "general",
+    "updated_at": 1780416901
   }
 ]
