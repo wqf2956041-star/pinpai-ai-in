@@ -1440,5 +1440,65 @@
     "name": "Verbling",
     "name_en": "Verbling",
     "category": "general"
+  },
+  {
+    "slug": "kdk",
+    "name": "KDK",
+    "name_en": "KDK",
+    "category": "general"
+  },
+  {
+    "slug": "keihin-corporation",
+    "name": "Keihin Corporation",
+    "name_en": "Keihin Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "kenko-company",
+    "name": "Kenko (company)",
+    "name_en": "Kenko (company)",
+    "category": "general"
+  },
+  {
+    "slug": "kenwood-corporation",
+    "name": "Kenwood Corporation",
+    "name_en": "Kenwood Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "keyence",
+    "name": "Keyence",
+    "name_en": "Keyence",
+    "category": "general"
+  },
+  {
+    "slug": "kikkoman",
+    "name": "Kikkoman",
+    "name_en": "Kikkoman",
+    "category": "general"
+  },
+  {
+    "slug": "kikuoka-chinese-medicine",
+    "name": "Kikuoka Chinese Medicine",
+    "name_en": "Kikuoka Chinese Medicine",
+    "category": "general"
+  },
+  {
+    "slug": "kinunken",
+    "name": "Kin'unken",
+    "name_en": "Kin'unken",
+    "category": "general"
+  },
+  {
+    "slug": "kinki-sharyo",
+    "name": "Kinki Sharyo",
+    "name_en": "Kinki Sharyo",
+    "category": "general"
+  },
+  {
+    "slug": "kintetsu-world-express",
+    "name": "Kintetsu World Express",
+    "name_en": "Kintetsu World Express",
+    "category": "general"
   }
 ]
