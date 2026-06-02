@@ -18292,5 +18292,65 @@
     "name": "Hygena",
     "name_en": "Hygena",
     "category": "general"
+  },
+  {
+    "slug": "ilford-photo",
+    "name": "Ilford Photo",
+    "name_en": "Ilford Photo",
+    "category": "general"
+  },
+  {
+    "slug": "roksanda-ilini",
+    "name": "Roksanda Ilinčić",
+    "name_en": "Roksanda Ilinčić",
+    "category": "general"
+  },
+  {
+    "slug": "imagination-technologies",
+    "name": "Imagination Technologies",
+    "name_en": "Imagination Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "imperial-leather",
+    "name": "Imperial Leather",
+    "name_en": "Imperial Leather",
+    "category": "general"
+  },
+  {
+    "slug": "inchcape-plc",
+    "name": "Inchcape plc",
+    "name_en": "Inchcape plc",
+    "category": "general"
+  },
+  {
+    "slug": "inchcape-shipping-services",
+    "name": "Inchcape Shipping Services",
+    "name_en": "Inchcape Shipping Services",
+    "category": "general"
+  },
+  {
+    "slug": "innis-gunn",
+    "name": "Innis & Gunn",
+    "name_en": "Innis & Gunn",
+    "category": "general"
+  },
+  {
+    "slug": "innovia-films",
+    "name": "Innovia Films",
+    "name_en": "Innovia Films",
+    "category": "general"
+  },
+  {
+    "slug": "international-paint",
+    "name": "International Paint",
+    "name_en": "International Paint",
+    "category": "general"
+  },
+  {
+    "slug": "isle-of-man-film",
+    "name": "Isle of Man Film",
+    "name_en": "Isle of Man Film",
+    "category": "general"
   }
 ]
