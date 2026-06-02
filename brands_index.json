@@ -17212,5 +17212,65 @@
     "name": "Mills (sports brand)",
     "name_en": "Mills (sports brand)",
     "category": "fashion"
+  },
+  {
+    "slug": "moon-boot",
+    "name": "Moon Boot",
+    "name_en": "Moon Boot",
+    "category": "fashion"
+  },
+  {
+    "slug": "munich-sport-shoes",
+    "name": "Munich (sport shoes)",
+    "name_en": "Munich (sport shoes)",
+    "category": "fashion"
+  },
+  {
+    "slug": "naot",
+    "name": "Naot",
+    "name_en": "Naot",
+    "category": "fashion"
+  },
+  {
+    "slug": "nike-inc",
+    "name": "Nike, Inc.",
+    "name_en": "Nike, Inc.",
+    "category": "fashion"
+  },
+  {
+    "slug": "nocona-boots",
+    "name": "Nocona Boots",
+    "name_en": "Nocona Boots",
+    "category": "fashion"
+  },
+  {
+    "slug": "vanessa-noel",
+    "name": "Vanessa Noel",
+    "name_en": "Vanessa Noel",
+    "category": "fashion"
+  },
+  {
+    "slug": "northwave",
+    "name": "Northwave",
+    "name_en": "Northwave",
+    "category": "fashion"
+  },
+  {
+    "slug": "oofos",
+    "name": "Oofos",
+    "name_en": "Oofos",
+    "category": "fashion"
+  },
+  {
+    "slug": "the-original-car-shoe",
+    "name": "The Original Car Shoe",
+    "name_en": "The Original Car Shoe",
+    "category": "fashion"
+  },
+  {
+    "slug": "original-penguin",
+    "name": "Original Penguin",
+    "name_en": "Original Penguin",
+    "category": "fashion"
   }
 ]
