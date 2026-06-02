@@ -2280,5 +2280,65 @@
     "name": "IPath Footwear",
     "name_en": "IPath Footwear",
     "category": "fashion"
+  },
+  {
+    "slug": "veritiv",
+    "name": "Veritiv",
+    "name_en": "Veritiv",
+    "category": "general"
+  },
+  {
+    "slug": "vertiv",
+    "name": "Vertiv",
+    "name_en": "Vertiv",
+    "category": "general"
+  },
+  {
+    "slug": "vf-corporation",
+    "name": "VF Corporation",
+    "name_en": "VF Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "viacom-20052019",
+    "name": "Viacom (2005–2019)",
+    "name_en": "Viacom (2005–2019)",
+    "category": "general"
+  },
+  {
+    "slug": "viasat-american-company",
+    "name": "Viasat (American company)",
+    "name_en": "Viasat (American company)",
+    "category": "general"
+  },
+  {
+    "slug": "visa-inc",
+    "name": "Visa Inc.",
+    "name_en": "Visa Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "w-l-gore-associates",
+    "name": "W. L. Gore & Associates",
+    "name_en": "W. L. Gore & Associates",
+    "category": "general"
+  },
+  {
+    "slug": "walgreens-boots-alliance",
+    "name": "Walgreens Boots Alliance",
+    "name_en": "Walgreens Boots Alliance",
+    "category": "general"
+  },
+  {
+    "slug": "walmart",
+    "name": "Walmart",
+    "name_en": "Walmart",
+    "category": "general"
+  },
+  {
+    "slug": "the-walt-disney-company",
+    "name": "The Walt Disney Company",
+    "name_en": "The Walt Disney Company",
+    "category": "general"
   }
 ]
