@@ -18676,5 +18676,65 @@
     "name": "Zubbles",
     "name_en": "Zubbles",
     "category": "toy"
+  },
+  {
+    "slug": "founder-technology",
+    "name": "Founder Technology",
+    "name_en": "Founder Technology",
+    "category": "general"
+  },
+  {
+    "slug": "foxconn-industrial-internet",
+    "name": "Foxconn Industrial Internet",
+    "name_en": "Foxconn Industrial Internet",
+    "category": "general"
+  },
+  {
+    "slug": "fukang-automotive-brand",
+    "name": "Fukang (automotive brand)",
+    "name_en": "Fukang (automotive brand)",
+    "category": "general"
+  },
+  {
+    "slug": "funshion",
+    "name": "Funshion",
+    "name_en": "Funshion",
+    "category": "general"
+  },
+  {
+    "slug": "fuqi-international",
+    "name": "Fuqi International",
+    "name_en": "Fuqi International",
+    "category": "general"
+  },
+  {
+    "slug": "fuyao-group",
+    "name": "Fuyao Group",
+    "name_en": "Fuyao Group",
+    "category": "general"
+  },
+  {
+    "slug": "gfive",
+    "name": "G'Five",
+    "name_en": "G'Five",
+    "category": "general"
+  },
+  {
+    "slug": "gac-group",
+    "name": "GAC Group",
+    "name_en": "GAC Group",
+    "category": "general"
+  },
+  {
+    "slug": "gac-trumpchi",
+    "name": "GAC Trumpchi",
+    "name_en": "GAC Trumpchi",
+    "category": "general"
+  },
+  {
+    "slug": "galanz",
+    "name": "Galanz",
+    "name_en": "Galanz",
+    "category": "general"
   }
 ]
