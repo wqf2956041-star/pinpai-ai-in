@@ -24184,5 +24184,40 @@
     "name": "JVC",
     "name_en": "JVC",
     "category": "general"
+  },
+  {
+    "slug": "k-line",
+    "name": "K Line",
+    "name_en": "K Line",
+    "category": "general",
+    "updated_at": 1780417801
+  },
+  {
+    "slug": "kabaya",
+    "name": "Kabaya",
+    "name_en": "Kabaya",
+    "category": "general",
+    "updated_at": 1780417801
+  },
+  {
+    "slug": "kadokawa-corporation",
+    "name": "Kadokawa Corporation",
+    "name_en": "Kadokawa Corporation",
+    "category": "general",
+    "updated_at": 1780417801
+  },
+  {
+    "slug": "kadokawa-future-publishing",
+    "name": "Kadokawa Future Publishing",
+    "name_en": "Kadokawa Future Publishing",
+    "category": "general",
+    "updated_at": 1780417801
+  },
+  {
+    "slug": "kagome-company",
+    "name": "Kagome (company)",
+    "name_en": "Kagome (company)",
+    "category": "general",
+    "updated_at": 1780417801
   }
 ]
