@@ -1620,5 +1620,65 @@
     "name": "Koyo Seiko",
     "name_en": "Koyo Seiko",
     "category": "general"
+  },
+  {
+    "slug": "kubota",
+    "name": "Kubota",
+    "name_en": "Kubota",
+    "category": "general"
+  },
+  {
+    "slug": "kumagai-gumi",
+    "name": "Kumagai Gumi",
+    "name_en": "Kumagai Gumi",
+    "category": "general"
+  },
+  {
+    "slug": "kureha-corporation",
+    "name": "Kureha Corporation",
+    "name_en": "Kureha Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "kuretake-art-products",
+    "name": "Kuretake (art products)",
+    "name_en": "Kuretake (art products)",
+    "category": "general"
+  },
+  {
+    "slug": "kurita-water-industries",
+    "name": "Kurita Water Industries",
+    "name_en": "Kurita Water Industries",
+    "category": "general"
+  },
+  {
+    "slug": "kuwahara-bicycle-company",
+    "name": "Kuwahara (bicycle company)",
+    "name_en": "Kuwahara (bicycle company)",
+    "category": "general"
+  },
+  {
+    "slug": "kyb-corporation",
+    "name": "KYB Corporation",
+    "name_en": "KYB Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "kyocera",
+    "name": "Kyocera",
+    "name_en": "Kyocera",
+    "category": "general"
+  },
+  {
+    "slug": "kyukyodo",
+    "name": "Kyukyodo",
+    "name_en": "Kyukyodo",
+    "category": "general"
+  },
+  {
+    "slug": "lawson-store",
+    "name": "Lawson (store)",
+    "name_en": "Lawson (store)",
+    "category": "general"
   }
 ]
