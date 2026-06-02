@@ -23959,5 +23959,40 @@
     "name": "Sykes Enterprises",
     "name_en": "Sykes Enterprises",
     "category": "general"
+  },
+  {
+    "slug": "sysco",
+    "name": "Sysco",
+    "name_en": "Sysco",
+    "category": "general",
+    "updated_at": 1780415101
+  },
+  {
+    "slug": "tech-data",
+    "name": "Tech Data",
+    "name_en": "Tech Data",
+    "category": "general",
+    "updated_at": 1780415101
+  },
+  {
+    "slug": "tenneco",
+    "name": "Tenneco",
+    "name_en": "Tenneco",
+    "category": "general",
+    "updated_at": 1780415101
+  },
+  {
+    "slug": "tesla-inc",
+    "name": "Tesla, Inc.",
+    "name_en": "Tesla, Inc.",
+    "category": "general",
+    "updated_at": 1780415101
+  },
+  {
+    "slug": "tmi-group-of-companies",
+    "name": "TMI Group of Companies",
+    "name_en": "TMI Group of Companies",
+    "category": "general",
+    "updated_at": 1780415101
   }
 ]
