@@ -19576,5 +19576,65 @@
     "name": "Veeam",
     "name_en": "Veeam",
     "category": "general"
+  },
+  {
+    "slug": "victoria-jungfrau-collection",
+    "name": "Victoria-Jungfrau Collection",
+    "name_en": "Victoria-Jungfrau Collection",
+    "category": "general"
+  },
+  {
+    "slug": "victorinox",
+    "name": "Victorinox",
+    "name_en": "Victorinox",
+    "category": "general"
+  },
+  {
+    "slug": "csl-vifor",
+    "name": "CSL Vifor",
+    "name_en": "CSL Vifor",
+    "category": "general"
+  },
+  {
+    "slug": "vitol",
+    "name": "Vitol",
+    "name_en": "Vitol",
+    "category": "general"
+  },
+  {
+    "slug": "vitra-furniture",
+    "name": "Vitra (furniture)",
+    "name_en": "Vitra (furniture)",
+    "category": "general"
+  },
+  {
+    "slug": "vontobel",
+    "name": "Vontobel",
+    "name_en": "Vontobel",
+    "category": "general"
+  },
+  {
+    "slug": "vz-holding",
+    "name": "VZ Holding",
+    "name_en": "VZ Holding",
+    "category": "general"
+  },
+  {
+    "slug": "wenger",
+    "name": "Wenger",
+    "name_en": "Wenger",
+    "category": "general"
+  },
+  {
+    "slug": "weleda",
+    "name": "Weleda",
+    "name_en": "Weleda",
+    "category": "general"
+  },
+  {
+    "slug": "wire-software",
+    "name": "Wire (software)",
+    "name_en": "Wire (software)",
+    "category": "general"
   }
 ]
