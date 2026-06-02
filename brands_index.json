@@ -23504,5 +23504,40 @@
     "name": "Dassault Group",
     "name_en": "Dassault Group",
     "category": "general"
+  },
+  {
+    "slug": "patchi",
+    "name": "Patchi",
+    "name_en": "Patchi",
+    "category": "fashion-luxury",
+    "updated_at": 1780408801
+  },
+  {
+    "slug": "patria-watchmaker",
+    "name": "Patria (watchmaker)",
+    "name_en": "Patria (watchmaker)",
+    "category": "fashion-luxury",
+    "updated_at": 1780408801
+  },
+  {
+    "slug": "patrickmavros",
+    "name": "PatrickMavros",
+    "name_en": "PatrickMavros",
+    "category": "fashion-luxury",
+    "updated_at": 1780408801
+  },
+  {
+    "slug": "paul-evans-brand",
+    "name": "Paul Evans (brand)",
+    "name_en": "Paul Evans (brand)",
+    "category": "fashion-luxury",
+    "updated_at": 1780408801
+  },
+  {
+    "slug": "paul-stuart",
+    "name": "Paul Stuart",
+    "name_en": "Paul Stuart",
+    "category": "fashion-luxury",
+    "updated_at": 1780408801
   }
 ]
