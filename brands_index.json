@@ -18052,5 +18052,65 @@
     "name": "Igus",
     "name_en": "Igus",
     "category": "general"
+  },
+  {
+    "slug": "indramat",
+    "name": "Indramat",
+    "name_en": "Indramat",
+    "category": "general"
+  },
+  {
+    "slug": "j-d-neuhaus",
+    "name": "J. D. Neuhaus",
+    "name_en": "J. D. Neuhaus",
+    "category": "general"
+  },
+  {
+    "slug": "jack-wolfskin",
+    "name": "Jack Wolfskin",
+    "name_en": "Jack Wolfskin",
+    "category": "general"
+  },
+  {
+    "slug": "jgermeister",
+    "name": "Jägermeister",
+    "name_en": "Jägermeister",
+    "category": "general"
+  },
+  {
+    "slug": "jenapharm",
+    "name": "Jenapharm",
+    "name_en": "Jenapharm",
+    "category": "general"
+  },
+  {
+    "slug": "jenoptik",
+    "name": "Jenoptik",
+    "name_en": "Jenoptik",
+    "category": "general"
+  },
+  {
+    "slug": "jetcar",
+    "name": "Jetcar",
+    "name_en": "Jetcar",
+    "category": "general"
+  },
+  {
+    "slug": "jungheinrich",
+    "name": "Jungheinrich",
+    "name_en": "Jungheinrich",
+    "category": "general"
+  },
+  {
+    "slug": "juwel-cigarette",
+    "name": "Juwel (cigarette)",
+    "name_en": "Juwel (cigarette)",
+    "category": "general"
+  },
+  {
+    "slug": "ks",
+    "name": "K+S",
+    "name_en": "K+S",
+    "category": "general"
   }
 ]
