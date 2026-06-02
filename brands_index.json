@@ -19156,5 +19156,65 @@
     "name": "INCA Internet",
     "name_en": "INCA Internet",
     "category": "general"
+  },
+  {
+    "slug": "krcher",
+    "name": "Kärcher",
+    "name_en": "Kärcher",
+    "category": "general"
+  },
+  {
+    "slug": "kalkhoff",
+    "name": "Kalkhoff",
+    "name_en": "Kalkhoff",
+    "category": "general"
+  },
+  {
+    "slug": "kapp-niles",
+    "name": "Kapp Niles",
+    "name_en": "Kapp Niles",
+    "category": "general"
+  },
+  {
+    "slug": "karl-rnisch",
+    "name": "Karl Rönisch",
+    "name_en": "Karl Rönisch",
+    "category": "general"
+  },
+  {
+    "slug": "kssbohrer-gelndefahrzeug",
+    "name": "Kässbohrer Geländefahrzeug",
+    "name_en": "Kässbohrer Geländefahrzeug",
+    "category": "general"
+  },
+  {
+    "slug": "kaufland",
+    "name": "Kaufland",
+    "name_en": "Kaufland",
+    "category": "general"
+  },
+  {
+    "slug": "kaweco",
+    "name": "Kaweco",
+    "name_en": "Kaweco",
+    "category": "general"
+  },
+  {
+    "slug": "keimfarben",
+    "name": "Keimfarben",
+    "name_en": "Keimfarben",
+    "category": "general"
+  },
+  {
+    "slug": "kettler",
+    "name": "Kettler",
+    "name_en": "Kettler",
+    "category": "general"
+  },
+  {
+    "slug": "kienzle-uhren",
+    "name": "Kienzle Uhren",
+    "name_en": "Kienzle Uhren",
+    "category": "general"
   }
 ]
