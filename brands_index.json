@@ -2910,5 +2910,65 @@
     "name": "Heibao Auto",
     "name_en": "Heibao Auto",
     "category": "general"
+  },
+  {
+    "slug": "hejian-technology-corporation",
+    "name": "Hejian Technology Corporation",
+    "name_en": "Hejian Technology Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "hengan-international",
+    "name": "Hengan International",
+    "name_en": "Hengan International",
+    "category": "general"
+  },
+  {
+    "slug": "hengchi",
+    "name": "Hengchi",
+    "name_en": "Hengchi",
+    "category": "general"
+  },
+  {
+    "slug": "hengtong",
+    "name": "Hengtong",
+    "name_en": "Hengtong",
+    "category": "general"
+  },
+  {
+    "slug": "hifiman",
+    "name": "HiFiMan",
+    "name_en": "HiFiMan",
+    "category": "general"
+  },
+  {
+    "slug": "higer-bus",
+    "name": "Higer Bus",
+    "name_en": "Higer Bus",
+    "category": "general"
+  },
+  {
+    "slug": "hikvision",
+    "name": "Hikvision",
+    "name_en": "Hikvision",
+    "category": "general"
+  },
+  {
+    "slug": "hiphi",
+    "name": "HiPhi",
+    "name_en": "HiPhi",
+    "category": "general"
+  },
+  {
+    "slug": "hisense",
+    "name": "Hisense",
+    "name_en": "Hisense",
+    "category": "general"
+  },
+  {
+    "slug": "hisense-kelon",
+    "name": "Hisense Kelon",
+    "name_en": "Hisense Kelon",
+    "category": "general"
   }
 ]
