@@ -24029,5 +24029,65 @@
     "name_en": "Tupperware Brands",
     "category": "general",
     "updated_at": 1780416001
+  },
+  {
+    "slug": "turner-broadcasting-system",
+    "name": "Turner Broadcasting System",
+    "name_en": "Turner Broadcasting System",
+    "category": "general"
+  },
+  {
+    "slug": "twg-global",
+    "name": "TWG Global",
+    "name_en": "TWG Global",
+    "category": "general"
+  },
+  {
+    "slug": "twitter-inc",
+    "name": "Twitter, Inc.",
+    "name_en": "Twitter, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "tyson-foods",
+    "name": "Tyson Foods",
+    "name_en": "Tyson Foods",
+    "category": "general"
+  },
+  {
+    "slug": "ukg",
+    "name": "UKG",
+    "name_en": "UKG",
+    "category": "general"
+  },
+  {
+    "slug": "ulbrich-company",
+    "name": "Ulbrich (company)",
+    "name_en": "Ulbrich (company)",
+    "category": "general"
+  },
+  {
+    "slug": "union-carbide",
+    "name": "Union Carbide",
+    "name_en": "Union Carbide",
+    "category": "general"
+  },
+  {
+    "slug": "union-pacific-corporation",
+    "name": "Union Pacific Corporation",
+    "name_en": "Union Pacific Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "united-parcel-service",
+    "name": "United Parcel Service",
+    "name_en": "United Parcel Service",
+    "category": "general"
+  },
+  {
+    "slug": "united-technologies",
+    "name": "United Technologies",
+    "name_en": "United Technologies",
+    "category": "general"
   }
 ]
