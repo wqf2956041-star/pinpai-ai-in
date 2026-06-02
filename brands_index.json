@@ -24279,5 +24279,65 @@
     "name": "Xtep",
     "name_en": "Xtep",
     "category": "fashion"
+  },
+  {
+    "slug": "leica-microsystems",
+    "name": "Leica Microsystems",
+    "name_en": "Leica Microsystems",
+    "category": "general"
+  },
+  {
+    "slug": "leidolf",
+    "name": "Leidolf",
+    "name_en": "Leidolf",
+    "category": "general"
+  },
+  {
+    "slug": "leifheit",
+    "name": "Leifheit",
+    "name_en": "Leifheit",
+    "category": "general"
+  },
+  {
+    "slug": "leoni-ag",
+    "name": "Leoni AG",
+    "name_en": "Leoni AG",
+    "category": "general"
+  },
+  {
+    "slug": "lewa",
+    "name": "LEWA",
+    "name_en": "LEWA",
+    "category": "general"
+  },
+  {
+    "slug": "lidl",
+    "name": "Lidl",
+    "name_en": "Lidl",
+    "category": "general"
+  },
+  {
+    "slug": "lilienthal-berlin",
+    "name": "Lilienthal Berlin",
+    "name_en": "Lilienthal Berlin",
+    "category": "general"
+  },
+  {
+    "slug": "linde-hydraulics",
+    "name": "Linde Hydraulics",
+    "name_en": "Linde Hydraulics",
+    "category": "general"
+  },
+  {
+    "slug": "liqui-moly",
+    "name": "Liqui Moly",
+    "name_en": "Liqui Moly",
+    "category": "general"
+  },
+  {
+    "slug": "loesche",
+    "name": "Loesche",
+    "name_en": "Loesche",
+    "category": "general"
   }
 ]
