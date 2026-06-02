@@ -2520,5 +2520,35 @@
     "name": "LG Uplus",
     "name_en": "LG Uplus",
     "category": "general"
+  },
+  {
+    "slug": "naver-corporation",
+    "name": "Naver Corporation",
+    "name_en": "Naver Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "nc-company",
+    "name": "NC (company)",
+    "name_en": "NC (company)",
+    "category": "general"
+  },
+  {
+    "slug": "nexen-tire",
+    "name": "Nexen Tire",
+    "name_en": "Nexen Tire",
+    "category": "general"
+  },
+  {
+    "slug": "next-entertainment-world",
+    "name": "Next Entertainment World",
+    "name_en": "Next Entertainment World",
+    "category": "general"
+  },
+  {
+    "slug": "nonghyup-bank",
+    "name": "Nonghyup Bank",
+    "name_en": "Nonghyup Bank",
+    "category": "general"
   }
 ]

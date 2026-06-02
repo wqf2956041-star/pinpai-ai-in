@@ -16,3 +16,31 @@
 [2026-06-03 02:03:09]   ADDED me-to-you-bears: Me to You Bears (426 chars)
 [2026-06-03 02:03:10] Regenerating homepage (153 brands)...
 [2026-06-03 02:03:10] Heartbeat complete: +3 brands (total: 153)
+[2026-06-03 04:33:13] Current: 376 brands
+[2026-06-03 04:33:13] Pool: 20 brands
+[2026-06-03 04:33:17]   ADDED line-corporation: Line Corporation (+7 langs)
+[2026-06-03 04:33:18]   SKIP lock-lock: HTTP Error 429: Too Many Requests
+[2026-06-03 04:33:19]   SKIP lotte-chilsung: HTTP Error 429: Too Many Requests
+[2026-06-03 04:33:20]   SKIP lotte-corporation: HTTP Error 429: Too Many Requests
+[2026-06-03 04:33:21]   SKIP lotte-entertainment: HTTP Error 429: Too Many Requests
+[2026-06-03 04:33:22] Regenerating homepage (377 brands)...
+[2026-06-03 04:33:22] Complete: +1 (total: 377)
+[2026-06-03 04:37:40] Current: 377 brands
+[2026-06-03 04:37:40] Pool: 15 brands
+[2026-06-03 04:37:43]   ADDED lotte-hotels-resorts: Lotte Hotels & Resorts (+6 langs)
+[2026-06-03 04:37:44]   SKIP lotte-wellfood: content too short
+[2026-06-03 04:37:44]   ADDED ls-cable-system: LS Cable & System (en only)
+[2026-06-03 04:37:45]   SKIP ls-mtron: HTTP Error 429: Too Many Requests
+[2026-06-03 04:37:47]   SKIP macrogen: HTTP Error 429: Too Many Requests
+[2026-06-03 04:37:48] Regenerating homepage (379 brands)...
+[2026-06-03 04:37:48] Complete: +2 (total: 379)
+[2026-06-03 04:45:01] Current: 379 brands
+[2026-06-03 04:45:01] Pool: 10 brands
+[2026-06-03 04:45:01]   SKIP markany: content too short
+[2026-06-03 04:45:02]   SKIP moms-touch: content too short
+[2026-06-03 04:45:04]   ADDED monami: Monami (+3 langs)
+[2026-06-03 04:45:05]   SKIP mpio: content too short
+[2026-06-03 04:45:06]   SKIP namyang-dairy-products: content too short
+[2026-06-03 04:45:06] Regenerating homepage (380 brands)...
+[2026-06-03 04:45:06]   brandsData replaced: 380 entries
+[2026-06-03 04:45:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
