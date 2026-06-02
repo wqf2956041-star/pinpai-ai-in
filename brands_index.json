@@ -16732,5 +16732,65 @@
     "name": "Morgan (clothing)",
     "name_en": "Morgan (clothing)",
     "category": "fashion"
+  },
+  {
+    "slug": "morphsuits",
+    "name": "Morphsuits",
+    "name_en": "Morphsuits",
+    "category": "fashion"
+  },
+  {
+    "slug": "moshions",
+    "name": "Moshions",
+    "name_en": "Moshions",
+    "category": "fashion"
+  },
+  {
+    "slug": "mudd-jeans",
+    "name": "Mudd Jeans",
+    "name_en": "Mudd Jeans",
+    "category": "fashion"
+  },
+  {
+    "slug": "mufti-company",
+    "name": "Mufti (company)",
+    "name_en": "Mufti (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "nakkna",
+    "name": "Nakkna",
+    "name_en": "Nakkna",
+    "category": "fashion"
+  },
+  {
+    "slug": "nina-ricci-brand",
+    "name": "Nina Ricci (brand)",
+    "name_en": "Nina Ricci (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "noko-jeans",
+    "name": "Noko Jeans",
+    "name_en": "Noko Jeans",
+    "category": "fashion"
+  },
+  {
+    "slug": "norwegian-rain",
+    "name": "Norwegian Rain",
+    "name_en": "Norwegian Rain",
+    "category": "fashion"
+  },
+  {
+    "slug": "obey-clothing-brand",
+    "name": "Obey (clothing brand)",
+    "name_en": "Obey (clothing brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "oggi",
+    "name": "OGGI",
+    "name_en": "OGGI",
+    "category": "fashion"
   }
 ]
