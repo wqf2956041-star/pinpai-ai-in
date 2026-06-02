@@ -19096,5 +19096,65 @@
     "name": "Hyundai Fomex",
     "name_en": "Hyundai Fomex",
     "category": "general"
+  },
+  {
+    "slug": "hyundai-group",
+    "name": "Hyundai Group",
+    "name_en": "Hyundai Group",
+    "category": "general"
+  },
+  {
+    "slug": "hyundai-mobis",
+    "name": "Hyundai Mobis",
+    "name_en": "Hyundai Mobis",
+    "category": "general"
+  },
+  {
+    "slug": "hyundai-motor-company",
+    "name": "Hyundai Motor Company",
+    "name_en": "Hyundai Motor Company",
+    "category": "general"
+  },
+  {
+    "slug": "hyundai-rotem",
+    "name": "Hyundai Rotem",
+    "name_en": "Hyundai Rotem",
+    "category": "general"
+  },
+  {
+    "slug": "hyundai-sungwoo-holdings",
+    "name": "Hyundai Sungwoo Holdings",
+    "name_en": "Hyundai Sungwoo Holdings",
+    "category": "general"
+  },
+  {
+    "slug": "hyundai-transys",
+    "name": "Hyundai Transys",
+    "name_en": "Hyundai Transys",
+    "category": "general"
+  },
+  {
+    "slug": "iaudio",
+    "name": "IAUDIO",
+    "name_en": "IAUDIO",
+    "category": "general"
+  },
+  {
+    "slug": "idis-company",
+    "name": "IDIS (company)",
+    "name_en": "IDIS (company)",
+    "category": "general"
+  },
+  {
+    "slug": "im-financial-group",
+    "name": "IM Financial Group",
+    "name_en": "IM Financial Group",
+    "category": "general"
+  },
+  {
+    "slug": "inca-internet",
+    "name": "INCA Internet",
+    "name_en": "INCA Internet",
+    "category": "general"
   }
 ]
