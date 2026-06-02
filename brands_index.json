@@ -2340,5 +2340,65 @@
     "name": "The Walt Disney Company",
     "name_en": "The Walt Disney Company",
     "category": "general"
+  },
+  {
+    "slug": "warner-bros-discovery",
+    "name": "Warner Bros. Discovery",
+    "name_en": "Warner Bros. Discovery",
+    "category": "general"
+  },
+  {
+    "slug": "warnermedia",
+    "name": "WarnerMedia",
+    "name_en": "WarnerMedia",
+    "category": "general"
+  },
+  {
+    "slug": "western-digital",
+    "name": "Western Digital",
+    "name_en": "Western Digital",
+    "category": "general"
+  },
+  {
+    "slug": "weyerhaeuser",
+    "name": "Weyerhaeuser",
+    "name_en": "Weyerhaeuser",
+    "category": "general"
+  },
+  {
+    "slug": "william-h-rorer-inc",
+    "name": "William H. Rorer, Inc.",
+    "name_en": "William H. Rorer, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "wk-kellogg-co",
+    "name": "WK Kellogg Co",
+    "name_en": "WK Kellogg Co",
+    "category": "general"
+  },
+  {
+    "slug": "wolfram-research",
+    "name": "Wolfram Research",
+    "name_en": "Wolfram Research",
+    "category": "general"
+  },
+  {
+    "slug": "xerox",
+    "name": "Xerox",
+    "name_en": "Xerox",
+    "category": "general"
+  },
+  {
+    "slug": "xpo-inc",
+    "name": "XPO, Inc.",
+    "name_en": "XPO, Inc.",
+    "category": "general"
+  },
+  {
+    "slug": "yahoo",
+    "name": "Yahoo",
+    "name_en": "Yahoo",
+    "category": "general"
   }
 ]
