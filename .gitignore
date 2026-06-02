@@ -44,3 +44,4 @@ expand_netflix.py
 caddy_config_block.txt
 .brand_worker.lock
 .heartbeat.lock
+.pinpai_manager.lock
