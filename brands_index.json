@@ -2730,5 +2730,65 @@
     "name": "Sophie Paris Vietnam",
     "name_en": "Sophie Paris Vietnam",
     "category": "fashion"
+  },
+  {
+    "slug": "sp5der",
+    "name": "Sp5der",
+    "name_en": "Sp5der",
+    "category": "fashion"
+  },
+  {
+    "slug": "srtx",
+    "name": "SRTX",
+    "name_en": "SRTX",
+    "category": "fashion"
+  },
+  {
+    "slug": "star-in-the-hood-company",
+    "name": "Star in the Hood (company)",
+    "name_en": "Star in the Hood (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "texas-jeans-usa",
+    "name": "Texas Jeans USA",
+    "name_en": "Texas Jeans USA",
+    "category": "fashion"
+  },
+  {
+    "slug": "the-oodie",
+    "name": "The Oodie",
+    "name_en": "The Oodie",
+    "category": "fashion"
+  },
+  {
+    "slug": "three-gun",
+    "name": "Three Gun",
+    "name_en": "Three Gun",
+    "category": "fashion"
+  },
+  {
+    "slug": "tiger-of-sweden",
+    "name": "Tiger of Sweden",
+    "name_en": "Tiger of Sweden",
+    "category": "fashion"
+  },
+  {
+    "slug": "tilfi",
+    "name": "Tilfi",
+    "name_en": "Tilfi",
+    "category": "fashion"
+  },
+  {
+    "slug": "tnt-clothing",
+    "name": "TNT (clothing)",
+    "name_en": "TNT (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "trands",
+    "name": "Trands",
+    "name_en": "Trands",
+    "category": "fashion"
   }
 ]
