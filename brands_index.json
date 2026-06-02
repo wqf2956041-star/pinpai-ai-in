@@ -23959,5 +23959,40 @@
     "name": "Londis (United Kingdom)",
     "name_en": "Londis (United Kingdom)",
     "category": "general"
+  },
+  {
+    "slug": "loungers",
+    "name": "Loungers",
+    "name_en": "Loungers",
+    "category": "general",
+    "updated_at": 1780412401
+  },
+  {
+    "slug": "luna-daily",
+    "name": "Luna Daily",
+    "name_en": "Luna Daily",
+    "category": "general",
+    "updated_at": 1780412401
+  },
+  {
+    "slug": "lux-soap",
+    "name": "Lux (soap)",
+    "name_en": "Lux (soap)",
+    "category": "general",
+    "updated_at": 1780412401
+  },
+  {
+    "slug": "lyons-maid",
+    "name": "Lyons Maid",
+    "name_en": "Lyons Maid",
+    "category": "general",
+    "updated_at": 1780412401
+  },
+  {
+    "slug": "j-lyons-and-co",
+    "name": "J. Lyons and Co.",
+    "name_en": "J. Lyons and Co.",
+    "category": "general",
+    "updated_at": 1780412401
   }
 ]
