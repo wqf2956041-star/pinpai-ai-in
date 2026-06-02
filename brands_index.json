@@ -18352,5 +18352,65 @@
     "name": "Isle of Man Film",
     "name_en": "Isle of Man Film",
     "category": "general"
+  },
+  {
+    "slug": "juvenia",
+    "name": "Juvenia",
+    "name_en": "Juvenia",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "kalyan-jewellers",
+    "name": "Kalyan Jewellers",
+    "name_en": "Kalyan Jewellers",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "khaite",
+    "name": "Khaite",
+    "name_en": "Khaite",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "max-kibardin",
+    "name": "Max Kibardin",
+    "name_en": "Max Kibardin",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "kieselstein-cord",
+    "name": "Kieselstein-Cord",
+    "name_en": "Kieselstein-Cord",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "kimberlite-diamond",
+    "name": "Kimberlite Diamond",
+    "name_en": "Kimberlite Diamond",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "kors-vodka",
+    "name": "Kors Vodka",
+    "name_en": "Kors Vodka",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "kuboraum",
+    "name": "Kuboraum",
+    "name_en": "Kuboraum",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "kuhn-komor",
+    "name": "Kuhn & Komor",
+    "name_en": "Kuhn & Komor",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "a-lange-shne",
+    "name": "A. Lange & Söhne",
+    "name_en": "A. Lange & Söhne",
+    "category": "fashion-luxury"
   }
 ]
