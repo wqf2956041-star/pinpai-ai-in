@@ -18172,5 +18172,65 @@
     "name": "Hamamatsu Photonics",
     "name_en": "Hamamatsu Photonics",
     "category": "general"
+  },
+  {
+    "slug": "hanazono-room",
+    "name": "Hanazono Room",
+    "name_en": "Hanazono Room",
+    "category": "general"
+  },
+  {
+    "slug": "hankyu-hanshin-hotels",
+    "name": "Hankyu Hanshin Hotels",
+    "name_en": "Hankyu Hanshin Hotels",
+    "category": "general"
+  },
+  {
+    "slug": "hasegawa-corporation",
+    "name": "Hasegawa Corporation",
+    "name_en": "Hasegawa Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "haseko",
+    "name": "Haseko",
+    "name_en": "Haseko",
+    "category": "general"
+  },
+  {
+    "slug": "hatena-company",
+    "name": "Hatena (company)",
+    "name_en": "Hatena (company)",
+    "category": "general"
+  },
+  {
+    "slug": "hazama-ando",
+    "name": "Hazama Ando",
+    "name_en": "Hazama Ando",
+    "category": "general"
+  },
+  {
+    "slug": "heiwa-corporation",
+    "name": "Heiwa Corporation",
+    "name_en": "Heiwa Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "hike-messenger",
+    "name": "Hike Messenger",
+    "name_en": "Hike Messenger",
+    "category": "general"
+  },
+  {
+    "slug": "hirobo",
+    "name": "Hirobo",
+    "name_en": "Hirobo",
+    "category": "general"
+  },
+  {
+    "slug": "hirose-electric-group",
+    "name": "Hirose Electric Group",
+    "name_en": "Hirose Electric Group",
+    "category": "general"
   }
 ]
