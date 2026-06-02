@@ -23799,5 +23799,40 @@
     "name_en": "Pendleton Woolen Mills",
     "category": "fashion",
     "updated_at": 1780411105
+  },
+  {
+    "slug": "pepe-jeans",
+    "name": "Pepe Jeans",
+    "name_en": "Pepe Jeans",
+    "category": "fashion",
+    "updated_at": 1780411403
+  },
+  {
+    "slug": "polly-flinders",
+    "name": "Polly Flinders",
+    "name_en": "Polly Flinders",
+    "category": "fashion",
+    "updated_at": 1780411403
+  },
+  {
+    "slug": "ramsey-retailer",
+    "name": "Ramsey (retailer)",
+    "name_en": "Ramsey (retailer)",
+    "category": "fashion",
+    "updated_at": 1780411403
+  },
+  {
+    "slug": "rastah",
+    "name": "Rastah",
+    "name_en": "Rastah",
+    "category": "fashion",
+    "updated_at": 1780411403
+  },
+  {
+    "slug": "real-gold",
+    "name": "Real Gold",
+    "name_en": "Real Gold",
+    "category": "fashion",
+    "updated_at": 1780411403
   }
 ]
