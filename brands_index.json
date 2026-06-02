@@ -23834,5 +23834,40 @@
     "name_en": "Real Gold",
     "category": "fashion",
     "updated_at": 1780411403
+  },
+  {
+    "slug": "rve-en-vert",
+    "name": "Rêve En Vert",
+    "name_en": "Rêve En Vert",
+    "category": "fashion",
+    "updated_at": 1780411501
+  },
+  {
+    "slug": "rip-curl",
+    "name": "Rip Curl",
+    "name_en": "Rip Curl",
+    "category": "fashion",
+    "updated_at": 1780411501
+  },
+  {
+    "slug": "rufskin",
+    "name": "Rufskin",
+    "name_en": "Rufskin",
+    "category": "fashion",
+    "updated_at": 1780411501
+  },
+  {
+    "slug": "seh-kelly",
+    "name": "S.E.H Kelly",
+    "name_en": "S.E.H Kelly",
+    "category": "fashion",
+    "updated_at": 1780411501
+  },
+  {
+    "slug": "saint-tropez-brand",
+    "name": "Saint Tropez (brand)",
+    "name_en": "Saint Tropez (brand)",
+    "category": "fashion",
+    "updated_at": 1780411501
   }
 ]
