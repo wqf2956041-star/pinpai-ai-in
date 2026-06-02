@@ -1380,5 +1380,65 @@
     "name": "Johnson & Johnson",
     "name_en": "Johnson & Johnson",
     "category": "general"
+  },
+  {
+    "slug": "kfc",
+    "name": "KFC",
+    "name_en": "KFC",
+    "category": "general"
+  },
+  {
+    "slug": "liveops",
+    "name": "Liveops",
+    "name_en": "Liveops",
+    "category": "general"
+  },
+  {
+    "slug": "mastercard",
+    "name": "Mastercard",
+    "name_en": "Mastercard",
+    "category": "general"
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "name_en": "Microsoft",
+    "category": "general"
+  },
+  {
+    "slug": "pepsico",
+    "name": "PepsiCo",
+    "name_en": "PepsiCo",
+    "category": "general"
+  },
+  {
+    "slug": "procter-gamble",
+    "name": "Procter & Gamble",
+    "name_en": "Procter & Gamble",
+    "category": "general"
+  },
+  {
+    "slug": "starbucks",
+    "name": "Starbucks",
+    "name_en": "Starbucks",
+    "category": "general"
+  },
+  {
+    "slug": "vagaro",
+    "name": "Vagaro",
+    "name_en": "Vagaro",
+    "category": "general"
+  },
+  {
+    "slug": "vedette-shapewear",
+    "name": "Vedette Shapewear",
+    "name_en": "Vedette Shapewear",
+    "category": "general"
+  },
+  {
+    "slug": "verbling",
+    "name": "Verbling",
+    "name_en": "Verbling",
+    "category": "general"
   }
 ]
