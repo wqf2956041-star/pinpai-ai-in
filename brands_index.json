@@ -3600,5 +3600,65 @@
     "name": "MetraLabs GmbH",
     "name_en": "MetraLabs GmbH",
     "category": "general"
+  },
+  {
+    "slug": "metz-company",
+    "name": "Metz (company)",
+    "name_en": "Metz (company)",
+    "category": "general"
+  },
+  {
+    "slug": "meyer-optik-grlitz",
+    "name": "Meyer Optik Görlitz",
+    "name_en": "Meyer Optik Görlitz",
+    "category": "general"
+  },
+  {
+    "slug": "meyer-werft",
+    "name": "Meyer Werft",
+    "name_en": "Meyer Werft",
+    "category": "general"
+  },
+  {
+    "slug": "michael-michalsky",
+    "name": "Michael Michalsky",
+    "name_en": "Michael Michalsky",
+    "category": "general"
+  },
+  {
+    "slug": "microtech-gefell",
+    "name": "Microtech Gefell",
+    "name_en": "Microtech Gefell",
+    "category": "general"
+  },
+  {
+    "slug": "miele",
+    "name": "Miele",
+    "name_en": "Miele",
+    "category": "general"
+  },
+  {
+    "slug": "mikrokopter",
+    "name": "MikroKopter",
+    "name_en": "MikroKopter",
+    "category": "general"
+  },
+  {
+    "slug": "milkfuls",
+    "name": "Milkfuls",
+    "name_en": "Milkfuls",
+    "category": "general"
+  },
+  {
+    "slug": "mtu-aero-engines",
+    "name": "MTU Aero Engines",
+    "name_en": "MTU Aero Engines",
+    "category": "general"
+  },
+  {
+    "slug": "mller-company",
+    "name": "Müller (company)",
+    "name_en": "Müller (company)",
+    "category": "general"
   }
 ]
