@@ -18976,5 +18976,65 @@
     "name": "Horiba",
     "name_en": "Horiba",
     "category": "general"
+  },
+  {
+    "slug": "howa",
+    "name": "Howa",
+    "name_en": "Howa",
+    "category": "general"
+  },
+  {
+    "slug": "hoya-corporation",
+    "name": "Hoya Corporation",
+    "name_en": "Hoya Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "ibanez",
+    "name": "Ibanez",
+    "name_en": "Ibanez",
+    "category": "general"
+  },
+  {
+    "slug": "ibiden",
+    "name": "Ibiden",
+    "name_en": "Ibiden",
+    "category": "general"
+  },
+  {
+    "slug": "ichikoh",
+    "name": "Ichikoh",
+    "name_en": "Ichikoh",
+    "category": "general"
+  },
+  {
+    "slug": "icom-incorporated",
+    "name": "Icom Incorporated",
+    "name_en": "Icom Incorporated",
+    "category": "general"
+  },
+  {
+    "slug": "idemitsu-kosan",
+    "name": "Idemitsu Kosan",
+    "name_en": "Idemitsu Kosan",
+    "category": "general"
+  },
+  {
+    "slug": "ihi-corporation",
+    "name": "IHI Corporation",
+    "name_en": "IHI Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "iiyama-company",
+    "name": "Iiyama (company)",
+    "name_en": "Iiyama (company)",
+    "category": "general"
+  },
+  {
+    "slug": "ikegami-tsushinki",
+    "name": "Ikegami Tsushinki",
+    "name_en": "Ikegami Tsushinki",
+    "category": "general"
   }
 ]
