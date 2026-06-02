@@ -23634,5 +23634,40 @@
     "name": "Altaneve",
     "name_en": "Altaneve",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "koenig-specials",
+    "name": "Koenig Specials",
+    "name_en": "Koenig Specials",
+    "category": "general",
+    "updated_at": 1780410601
+  },
+  {
+    "slug": "kgel-trailer",
+    "name": "Kögel Trailer",
+    "name_en": "Kögel Trailer",
+    "category": "general",
+    "updated_at": 1780410601
+  },
+  {
+    "slug": "kolibri-games",
+    "name": "Kolibri Games",
+    "name_en": "Kolibri Games",
+    "category": "general",
+    "updated_at": 1780410601
+  },
+  {
+    "slug": "kontron",
+    "name": "Kontron",
+    "name_en": "Kontron",
+    "category": "general",
+    "updated_at": 1780410601
+  },
+  {
+    "slug": "kramer-company",
+    "name": "Kramer Company",
+    "name_en": "Kramer Company",
+    "category": "general",
+    "updated_at": 1780410601
   }
 ]
