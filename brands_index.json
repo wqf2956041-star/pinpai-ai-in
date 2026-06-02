@@ -16372,5 +16372,65 @@
     "name": "Roboraptor",
     "name_en": "Roboraptor",
     "category": "toy"
+  },
+  {
+    "slug": "robosapien",
+    "name": "RoboSapien",
+    "name_en": "RoboSapien",
+    "category": "toy"
+  },
+  {
+    "slug": "rubble-crew",
+    "name": "Rubble & Crew",
+    "name_en": "Rubble & Crew",
+    "category": "toy"
+  },
+  {
+    "slug": "sablon-diecast",
+    "name": "Sablon diecast",
+    "name_en": "Sablon diecast",
+    "category": "toy"
+  },
+  {
+    "slug": "safir-models",
+    "name": "Safir (models)",
+    "name_en": "Safir (models)",
+    "category": "toy"
+  },
+  {
+    "slug": "salter-science",
+    "name": "Salter Science",
+    "name_en": "Salter Science",
+    "category": "toy"
+  },
+  {
+    "slug": "sanrio",
+    "name": "Sanrio",
+    "name_en": "Sanrio",
+    "category": "toy"
+  },
+  {
+    "slug": "sea-monkeys",
+    "name": "Sea-Monkeys",
+    "name_en": "Sea-Monkeys",
+    "category": "toy"
+  },
+  {
+    "slug": "sega-fave",
+    "name": "Sega Fave",
+    "name_en": "Sega Fave",
+    "category": "toy"
+  },
+  {
+    "slug": "shown-tell",
+    "name": "Show'N Tell",
+    "name_en": "Show'N Tell",
+    "category": "toy"
+  },
+  {
+    "slug": "skannerz",
+    "name": "Skannerz",
+    "name_en": "Skannerz",
+    "category": "toy"
   }
 ]
