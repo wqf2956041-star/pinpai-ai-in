@@ -19276,5 +19276,65 @@
     "name": "Koenig & Bauer",
     "name_en": "Koenig & Bauer",
     "category": "general"
+  },
+  {
+    "slug": "industrial-bank-of-korea",
+    "name": "Industrial Bank of Korea",
+    "name_en": "Industrial Bank of Korea",
+    "category": "general"
+  },
+  {
+    "slug": "infinitt-healthcare",
+    "name": "INFINITT Healthcare",
+    "name_en": "INFINITT Healthcare",
+    "category": "general"
+  },
+  {
+    "slug": "innospace",
+    "name": "Innospace",
+    "name_en": "Innospace",
+    "category": "general"
+  },
+  {
+    "slug": "innospark",
+    "name": "InnoSpark",
+    "name_en": "InnoSpark",
+    "category": "general"
+  },
+  {
+    "slug": "ioniq",
+    "name": "Ioniq",
+    "name_en": "Ioniq",
+    "category": "general"
+  },
+  {
+    "slug": "iriver",
+    "name": "IRiver",
+    "name_en": "IRiver",
+    "category": "general"
+  },
+  {
+    "slug": "isaac-toast",
+    "name": "Isaac Toast",
+    "name_en": "Isaac Toast",
+    "category": "general"
+  },
+  {
+    "slug": "jeju-air",
+    "name": "Jeju Air",
+    "name_en": "Jeju Air",
+    "category": "general"
+  },
+  {
+    "slug": "jeju-samdasoo",
+    "name": "Jeju Samdasoo",
+    "name_en": "Jeju Samdasoo",
+    "category": "general"
+  },
+  {
+    "slug": "jin-air",
+    "name": "Jin Air",
+    "name_en": "Jin Air",
+    "category": "general"
   }
 ]
