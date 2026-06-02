@@ -2550,5 +2550,65 @@
     "name": "Nonghyup Bank",
     "name_en": "Nonghyup Bank",
     "category": "general"
+  },
+  {
+    "slug": "mitsukoshi",
+    "name": "Mitsukoshi",
+    "name_en": "Mitsukoshi",
+    "category": "general"
+  },
+  {
+    "slug": "mitsumi-electric",
+    "name": "Mitsumi Electric",
+    "name_en": "Mitsumi Electric",
+    "category": "general"
+  },
+  {
+    "slug": "mitsuoka",
+    "name": "Mitsuoka",
+    "name_en": "Mitsuoka",
+    "category": "general"
+  },
+  {
+    "slug": "mitutoyo",
+    "name": "Mitutoyo",
+    "name_en": "Mitutoyo",
+    "category": "general"
+  },
+  {
+    "slug": "miyagikyo-distillery",
+    "name": "Miyagikyo distillery",
+    "name_en": "Miyagikyo distillery",
+    "category": "general"
+  },
+  {
+    "slug": "miyako-hotels-resorts",
+    "name": "Miyako Hotels & Resorts",
+    "name_en": "Miyako Hotels & Resorts",
+    "category": "general"
+  },
+  {
+    "slug": "miyata",
+    "name": "Miyata",
+    "name_en": "Miyata",
+    "category": "general"
+  },
+  {
+    "slug": "mizkan",
+    "name": "Mizkan",
+    "name_en": "Mizkan",
+    "category": "general"
+  },
+  {
+    "slug": "mizuho-bank",
+    "name": "Mizuho Bank",
+    "name_en": "Mizuho Bank",
+    "category": "general"
+  },
+  {
+    "slug": "mizuno",
+    "name": "Mizuno",
+    "name_en": "Mizuno",
+    "category": "general"
   }
 ]

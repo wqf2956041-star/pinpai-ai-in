@@ -44,3 +44,13 @@
 [2026-06-03 04:45:06] Regenerating homepage (380 brands)...
 [2026-06-03 04:45:06]   brandsData replaced: 380 entries
 [2026-06-03 04:45:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 05:00:01] Current: 380 brands
+[2026-06-03 05:00:01] Pool: 20 brands
+[2026-06-03 05:00:04]   ADDED krispy-kreme: Krispy Kreme (+8 langs)
+[2026-06-03 05:00:05]   SKIP mitsui-chemicals: HTTP Error 429: Too Many Requests
+[2026-06-03 05:00:06]   SKIP mitsui-es: HTTP Error 429: Too Many Requests
+[2026-06-03 05:00:07]   SKIP mitsui-osk-lines: HTTP Error 429: Too Many Requests
+[2026-06-03 05:00:08]   SKIP mitsui-sumitomo-insurance-group: HTTP Error 429: Too Many Requests
+[2026-06-03 05:00:09] Regenerating homepage (381 brands)...
+[2026-06-03 05:00:10]   brandsData replaced: 381 entries
+[2026-06-03 05:00:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
