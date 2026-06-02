@@ -16432,5 +16432,65 @@
     "name": "Skannerz",
     "name_en": "Skannerz",
     "category": "toy"
+  },
+  {
+    "slug": "finish-detergent",
+    "name": "Finish (detergent)",
+    "name_en": "Finish (detergent)",
+    "category": "general"
+  },
+  {
+    "slug": "finnigans",
+    "name": "Finnigans",
+    "name_en": "Finnigans",
+    "category": "general"
+  },
+  {
+    "slug": "first-choice-uk",
+    "name": "First Choice (UK)",
+    "name_en": "First Choice (UK)",
+    "category": "general"
+  },
+  {
+    "slug": "fishermans-friend",
+    "name": "Fisherman's Friend",
+    "name_en": "Fisherman's Friend",
+    "category": "general"
+  },
+  {
+    "slug": "flybe-19792020",
+    "name": "Flybe (1979–2020)",
+    "name_en": "Flybe (1979–2020)",
+    "category": "general"
+  },
+  {
+    "slug": "focusrite",
+    "name": "Focusrite",
+    "name_en": "Focusrite",
+    "category": "general"
+  },
+  {
+    "slug": "the-fold-brand",
+    "name": "The Fold (brand)",
+    "name_en": "The Fold (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "ford-of-britain",
+    "name": "Ford of Britain",
+    "name_en": "Ford of Britain",
+    "category": "general"
+  },
+  {
+    "slug": "forever-friends-brand",
+    "name": "Forever Friends (brand)",
+    "name_en": "Forever Friends (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "fred-perry-clothing-label",
+    "name": "Fred Perry (clothing label)",
+    "name_en": "Fred Perry (clothing label)",
+    "category": "general"
   }
 ]
