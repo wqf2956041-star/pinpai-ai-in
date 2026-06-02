@@ -24124,5 +24124,65 @@
     "name_en": "Japan Transport Engineering Company",
     "category": "general",
     "updated_at": 1780416901
+  },
+  {
+    "slug": "jatco",
+    "name": "JATCO",
+    "name_en": "JATCO",
+    "category": "general"
+  },
+  {
+    "slug": "jcas-airways",
+    "name": "JCAS Airways",
+    "name_en": "JCAS Airways",
+    "category": "general"
+  },
+  {
+    "slug": "jeol",
+    "name": "JEOL",
+    "name_en": "JEOL",
+    "category": "general"
+  },
+  {
+    "slug": "jfe-holdings",
+    "name": "JFE Holdings",
+    "name_en": "JFE Holdings",
+    "category": "general"
+  },
+  {
+    "slug": "jfe-steel",
+    "name": "JFE Steel",
+    "name_en": "JFE Steel",
+    "category": "general"
+  },
+  {
+    "slug": "jintan-japanese-medicine",
+    "name": "Jintan (Japanese medicine)",
+    "name_en": "Jintan (Japanese medicine)",
+    "category": "general"
+  },
+  {
+    "slug": "jtekt",
+    "name": "JTEKT",
+    "name_en": "JTEKT",
+    "category": "general"
+  },
+  {
+    "slug": "juki",
+    "name": "Juki",
+    "name_en": "Juki",
+    "category": "general"
+  },
+  {
+    "slug": "justsystems",
+    "name": "JustSystems",
+    "name_en": "JustSystems",
+    "category": "general"
+  },
+  {
+    "slug": "jvc",
+    "name": "JVC",
+    "name_en": "JVC",
+    "category": "general"
   }
 ]
