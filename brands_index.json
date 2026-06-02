@@ -2040,5 +2040,65 @@
     "name": "Mitsubishi Logisnext",
     "name_en": "Mitsubishi Logisnext",
     "category": "general"
+  },
+  {
+    "slug": "nestl",
+    "name": "Nestlé",
+    "name_en": "Nestlé",
+    "category": "food"
+  },
+  {
+    "slug": "bialetti",
+    "name": "Bialetti",
+    "name_en": "Bialetti",
+    "category": "general"
+  },
+  {
+    "slug": "binda-group",
+    "name": "Binda Group",
+    "name_en": "Binda Group",
+    "category": "general"
+  },
+  {
+    "slug": "birel",
+    "name": "Birel",
+    "name_en": "Birel",
+    "category": "general"
+  },
+  {
+    "slug": "blutec",
+    "name": "Blutec",
+    "name_en": "Blutec",
+    "category": "general"
+  },
+  {
+    "slug": "cirio",
+    "name": "Cirio",
+    "name_en": "Cirio",
+    "category": "general"
+  },
+  {
+    "slug": "falck-group",
+    "name": "Falck Group",
+    "name_en": "Falck Group",
+    "category": "general"
+  },
+  {
+    "slug": "famars",
+    "name": "FAMARS",
+    "name_en": "FAMARS",
+    "category": "general"
+  },
+  {
+    "slug": "fantic-motor",
+    "name": "Fantic Motor",
+    "name_en": "Fantic Motor",
+    "category": "general"
+  },
+  {
+    "slug": "farfisa",
+    "name": "Farfisa",
+    "name_en": "Farfisa",
+    "category": "general"
   }
 ]
