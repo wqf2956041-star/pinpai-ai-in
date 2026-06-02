@@ -19036,5 +19036,65 @@
     "name": "Ikegami Tsushinki",
     "name_en": "Ikegami Tsushinki",
     "category": "general"
+  },
+  {
+    "slug": "hj-shipbuilding-construction",
+    "name": "HJ Shipbuilding & Construction",
+    "name_en": "HJ Shipbuilding & Construction",
+    "category": "general"
+  },
+  {
+    "slug": "hl-mando",
+    "name": "HL Mando",
+    "name_en": "HL Mando",
+    "category": "general"
+  },
+  {
+    "slug": "hmm-company",
+    "name": "HMM (company)",
+    "name_en": "HMM (company)",
+    "category": "general"
+  },
+  {
+    "slug": "hollys",
+    "name": "Hollys",
+    "name_en": "Hollys",
+    "category": "general"
+  },
+  {
+    "slug": "hotel-shilla",
+    "name": "Hotel Shilla",
+    "name_en": "Hotel Shilla",
+    "category": "general"
+  },
+  {
+    "slug": "hsg-sungdong",
+    "name": "HSG Sungdong",
+    "name_en": "HSG Sungdong",
+    "category": "general"
+  },
+  {
+    "slug": "humax",
+    "name": "Humax",
+    "name_en": "Humax",
+    "category": "general"
+  },
+  {
+    "slug": "hyosung",
+    "name": "Hyosung",
+    "name_en": "Hyosung",
+    "category": "general"
+  },
+  {
+    "slug": "hyundai-cement",
+    "name": "Hyundai Cement",
+    "name_en": "Hyundai Cement",
+    "category": "general"
+  },
+  {
+    "slug": "hyundai-fomex",
+    "name": "Hyundai Fomex",
+    "name_en": "Hyundai Fomex",
+    "category": "general"
   }
 ]
