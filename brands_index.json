@@ -17392,5 +17392,65 @@
     "name": "GReddy",
     "name_en": "GReddy",
     "category": "general"
+  },
+  {
+    "slug": "ortuseight",
+    "name": "Ortuseight",
+    "name_en": "Ortuseight",
+    "category": "fashion"
+  },
+  {
+    "slug": "osiris-shoes",
+    "name": "Osiris Shoes",
+    "name_en": "Osiris Shoes",
+    "category": "fashion"
+  },
+  {
+    "slug": "pf-flyers",
+    "name": "PF Flyers",
+    "name_en": "PF Flyers",
+    "category": "fashion"
+  },
+  {
+    "slug": "palladium-boots",
+    "name": "Palladium Boots",
+    "name_en": "Palladium Boots",
+    "category": "fashion"
+  },
+  {
+    "slug": "panam-brand",
+    "name": "Panam (brand)",
+    "name_en": "Panam (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "paris-texas-brand",
+    "name": "Paris Texas (brand)",
+    "name_en": "Paris Texas (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "pediped-footwear",
+    "name": "Pediped Footwear",
+    "name_en": "Pediped Footwear",
+    "category": "fashion"
+  },
+  {
+    "slug": "puma-brand",
+    "name": "Puma (brand)",
+    "name_en": "Puma (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "r-m-williams-company",
+    "name": "R. M. Williams (company)",
+    "name_en": "R. M. Williams (company)",
+    "category": "fashion"
+  },
+  {
+    "slug": "rainbow-cobblers",
+    "name": "Rainbow Cobblers",
+    "name_en": "Rainbow Cobblers",
+    "category": "fashion"
   }
 ]
