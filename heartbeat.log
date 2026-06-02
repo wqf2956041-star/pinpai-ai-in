@@ -104,3 +104,13 @@
 [2026-06-03 06:15:11] Regenerating homepage (387 brands)...
 [2026-06-03 06:15:11]   brandsData replaced: 387 entries
 [2026-06-03 06:15:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 06:30:02] Current: 471 brands
+[2026-06-03 06:30:02] Pool: 20 brands
+[2026-06-03 06:30:02]   SKIP tribute-brand: content too short
+[2026-06-03 06:30:03]   SKIP unkl347: content too short
+[2026-06-03 06:30:04]   ADDED vilebrequin: Vilebrequin (+1 langs)
+[2026-06-03 06:30:05]   SKIP volcano-brand: content too short
+[2026-06-03 06:30:06]   SKIP john-weitz: content too short
+[2026-06-03 06:30:06] Regenerating homepage (472 brands)...
+[2026-06-03 06:30:06]   brandsData replaced: 472 entries
+[2026-06-03 06:30:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

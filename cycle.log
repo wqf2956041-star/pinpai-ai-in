@@ -200,3 +200,37 @@ Pool low! Sourcing...
   [06:15:11] Regenerating homepage (387 brands)...
   [06:15:11]   brandsData replaced: 387 entries
   [06:15:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:30] Pool: 0 | Index: 471
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + tribute-brand (Tribute Brand) [fashion]
+  + unkl347 (UNKL347) [fashion]
+  + vilebrequin (Vilebrequin) [fashion]
+  + volcano-brand (Volcano (brand)) [fashion]
+  + john-weitz (John Weitz) [fashion]
+  + wesc (WESC) [fashion]
+  + white-stuff-clothing (White Stuff Clothing) [fashion]
+  + wolford (Wolford) [fashion]
+  + wood-wood (Wood Wood) [fashion]
+  + xuly-bt (Xuly Bët) [fashion]
+  + moulton-bicycle (Moulton Bicycle) [general]
+  + mountain-warehouse (Mountain Warehouse) [general]
+  + mubi-streaming-service (Mubi (streaming service)) [general]
+  + the-muddlers-club (The Muddlers Club) [general]
+  + muralplast (Muralplast) [general]
+  + my-local (My Local) [general]
+  + mymanu (Mymanu) [general]
+  + mysupermarket (MySupermarket) [general]
+  + nad-electronics (NAD Electronics) [general]
+  + nails-inc (Nails Inc.) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [06:30:02] Current: 471 brands
+  [06:30:02] Pool: 20 brands
+  [06:30:02]   SKIP tribute-brand: content too short
+  [06:30:03]   SKIP unkl347: content too short
+  [06:30:04]   ADDED vilebrequin: Vilebrequin (+1 langs)
+  [06:30:05]   SKIP volcano-brand: content too short
+  [06:30:06]   SKIP john-weitz: content too short
+  [06:30:06] Regenerating homepage (472 brands)...
+  [06:30:06]   brandsData replaced: 472 entries
+  [06:30:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

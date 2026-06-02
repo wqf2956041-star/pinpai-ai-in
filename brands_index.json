@@ -2970,5 +2970,65 @@
     "name": "Hisense Kelon",
     "name_en": "Hisense Kelon",
     "category": "general"
+  },
+  {
+    "slug": "wesc",
+    "name": "WESC",
+    "name_en": "WESC",
+    "category": "fashion"
+  },
+  {
+    "slug": "white-stuff-clothing",
+    "name": "White Stuff Clothing",
+    "name_en": "White Stuff Clothing",
+    "category": "fashion"
+  },
+  {
+    "slug": "wolford",
+    "name": "Wolford",
+    "name_en": "Wolford",
+    "category": "fashion"
+  },
+  {
+    "slug": "wood-wood",
+    "name": "Wood Wood",
+    "name_en": "Wood Wood",
+    "category": "fashion"
+  },
+  {
+    "slug": "xuly-bt",
+    "name": "Xuly Bët",
+    "name_en": "Xuly Bët",
+    "category": "fashion"
+  },
+  {
+    "slug": "moulton-bicycle",
+    "name": "Moulton Bicycle",
+    "name_en": "Moulton Bicycle",
+    "category": "general"
+  },
+  {
+    "slug": "mountain-warehouse",
+    "name": "Mountain Warehouse",
+    "name_en": "Mountain Warehouse",
+    "category": "general"
+  },
+  {
+    "slug": "mubi-streaming-service",
+    "name": "Mubi (streaming service)",
+    "name_en": "Mubi (streaming service)",
+    "category": "general"
+  },
+  {
+    "slug": "the-muddlers-club",
+    "name": "The Muddlers Club",
+    "name_en": "The Muddlers Club",
+    "category": "general"
+  },
+  {
+    "slug": "muralplast",
+    "name": "Muralplast",
+    "name_en": "Muralplast",
+    "category": "general"
   }
 ]
