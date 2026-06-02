@@ -17632,5 +17632,65 @@
     "name": "Tom Ford (brand)",
     "name_en": "Tom Ford (brand)",
     "category": "fashion"
+  },
+  {
+    "slug": "de-tomaso",
+    "name": "De Tomaso",
+    "name_en": "De Tomaso",
+    "category": "general"
+  },
+  {
+    "slug": "de-longhi",
+    "name": "De' Longhi",
+    "name_en": "De' Longhi",
+    "category": "general"
+  },
+  {
+    "slug": "delclima",
+    "name": "DeLclima",
+    "name_en": "DeLclima",
+    "category": "general"
+  },
+  {
+    "slug": "dellorto",
+    "name": "Dell'Orto",
+    "name_en": "Dell'Orto",
+    "category": "general"
+  },
+  {
+    "slug": "della-ferrera",
+    "name": "Della Ferrera",
+    "name_en": "Della Ferrera",
+    "category": "general"
+  },
+  {
+    "slug": "di-blasi-industriale",
+    "name": "Di Blasi Industriale",
+    "name_en": "Di Blasi Industriale",
+    "category": "general"
+  },
+  {
+    "slug": "diasorin",
+    "name": "DiaSorin",
+    "name_en": "DiaSorin",
+    "category": "general"
+  },
+  {
+    "slug": "digital-bros",
+    "name": "Digital Bros",
+    "name_en": "Digital Bros",
+    "category": "general"
+  },
+  {
+    "slug": "dmack",
+    "name": "DMACK",
+    "name_en": "DMACK",
+    "category": "general"
+  },
+  {
+    "slug": "dolomiti-energia",
+    "name": "Dolomiti Energia",
+    "name_en": "Dolomiti Energia",
+    "category": "general"
   }
 ]
