@@ -144,3 +144,14 @@ Pool low! Sourcing...
   [05:30:10] Regenerating homepage (383 brands)...
   [05:30:10]   brandsData replaced: 383 entries
   [05:30:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[05:45] Pool: 5 | Index: 383
+  [05:45:01] Current: 383 brands
+  [05:45:01] Pool: 5 brands
+  [05:45:04]   ADDED hangzhou-wahaha-group: Hangzhou Wahaha Group (+6 langs)
+  [05:45:05]   ADDED hangzhou-zhongce-rubber-company: Hangzhou Zhongce Rubber Company (en only)
+  [05:45:06]   SKIP hanlin-ereader: HTTP Error 429: Too Many Requests
+  [05:45:07]   SKIP hanlong: HTTP Error 429: Too Many Requests
+  [05:45:08]   SKIP hanteng-autos: HTTP Error 429: Too Many Requests
+  [05:45:09] Regenerating homepage (385 brands)...
+  [05:45:10]   brandsData replaced: 385 entries
+  [05:45:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

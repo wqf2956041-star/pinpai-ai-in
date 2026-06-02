@@ -2670,5 +2670,65 @@
     "name": "Hanergy",
     "name_en": "Hanergy",
     "category": "general"
+  },
+  {
+    "slug": "scotch-soda-clothing",
+    "name": "Scotch & Soda (clothing)",
+    "name_en": "Scotch & Soda (clothing)",
+    "category": "fashion"
+  },
+  {
+    "slug": "shiatzy-chen",
+    "name": "Shiatzy Chen",
+    "name_en": "Shiatzy Chen",
+    "category": "fashion"
+  },
+  {
+    "slug": "shukr-brand",
+    "name": "Shukr (brand)",
+    "name_en": "Shukr (brand)",
+    "category": "fashion"
+  },
+  {
+    "slug": "silhouette-lingerie",
+    "name": "Silhouette (lingerie)",
+    "name_en": "Silhouette (lingerie)",
+    "category": "fashion"
+  },
+  {
+    "slug": "silver-jeans-co",
+    "name": "Silver Jeans Co.",
+    "name_en": "Silver Jeans Co.",
+    "category": "fashion"
+  },
+  {
+    "slug": "sinoian",
+    "name": "SINOIAN",
+    "name_en": "SINOIAN",
+    "category": "fashion"
+  },
+  {
+    "slug": "six-deuce",
+    "name": "Six Deuce",
+    "name_en": "Six Deuce",
+    "category": "fashion"
+  },
+  {
+    "slug": "sixpack-france",
+    "name": "Sixpack France",
+    "name_en": "Sixpack France",
+    "category": "fashion"
+  },
+  {
+    "slug": "smcp-group",
+    "name": "SMCP Group",
+    "name_en": "SMCP Group",
+    "category": "fashion"
+  },
+  {
+    "slug": "sophie-paris-vietnam",
+    "name": "Sophie Paris Vietnam",
+    "name_en": "Sophie Paris Vietnam",
+    "category": "fashion"
   }
 ]
