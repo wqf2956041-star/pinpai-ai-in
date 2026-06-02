@@ -18472,5 +18472,65 @@
     "name": "Lozza (eyewear)",
     "name_en": "Lozza (eyewear)",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "nile-company",
+    "name": "Nile (company)",
+    "name_en": "Nile (company)",
+    "category": "general"
+  },
+  {
+    "slug": "nordam",
+    "name": "Nordam",
+    "name_en": "Nordam",
+    "category": "general"
+  },
+  {
+    "slug": "oil-states-international",
+    "name": "Oil States International",
+    "name_en": "Oil States International",
+    "category": "general"
+  },
+  {
+    "slug": "onesubsea",
+    "name": "OneSubsea",
+    "name_en": "OneSubsea",
+    "category": "general"
+  },
+  {
+    "slug": "onsemi",
+    "name": "Onsemi",
+    "name_en": "Onsemi",
+    "category": "general"
+  },
+  {
+    "slug": "opengear",
+    "name": "Opengear",
+    "name_en": "Opengear",
+    "category": "general"
+  },
+  {
+    "slug": "optimizely",
+    "name": "Optimizely",
+    "name_en": "Optimizely",
+    "category": "general"
+  },
+  {
+    "slug": "oracle-corporation",
+    "name": "Oracle Corporation",
+    "name_en": "Oracle Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "ortiz-gaming",
+    "name": "Ortiz Gaming",
+    "name_en": "Ortiz Gaming",
+    "category": "general"
+  },
+  {
+    "slug": "parsons-corporation",
+    "name": "Parsons Corporation",
+    "name_en": "Parsons Corporation",
+    "category": "general"
   }
 ]
