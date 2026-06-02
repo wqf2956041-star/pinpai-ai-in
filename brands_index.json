@@ -17272,5 +17272,65 @@
     "name": "Original Penguin",
     "name_en": "Original Penguin",
     "category": "fashion"
+  },
+  {
+    "slug": "fujitec",
+    "name": "Fujitec",
+    "name_en": "Fujitec",
+    "category": "general"
+  },
+  {
+    "slug": "fujitsu",
+    "name": "Fujitsu",
+    "name_en": "Fujitsu",
+    "category": "general"
+  },
+  {
+    "slug": "fujiya",
+    "name": "Fujiya",
+    "name_en": "Fujiya",
+    "category": "general"
+  },
+  {
+    "slug": "funai",
+    "name": "Funai",
+    "name_en": "Funai",
+    "category": "general"
+  },
+  {
+    "slug": "furukawa-electric",
+    "name": "Furukawa Electric",
+    "name_en": "Furukawa Electric",
+    "category": "general"
+  },
+  {
+    "slug": "furuno",
+    "name": "Furuno",
+    "name_en": "Furuno",
+    "category": "general"
+  },
+  {
+    "slug": "fuso-company",
+    "name": "Fuso (company)",
+    "name_en": "Fuso (company)",
+    "category": "general"
+  },
+  {
+    "slug": "futaba-corporation",
+    "name": "Futaba Corporation",
+    "name_en": "Futaba Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "gakken",
+    "name": "Gakken",
+    "name_en": "Gakken",
+    "category": "general"
+  },
+  {
+    "slug": "geexplus",
+    "name": "GeeXPlus",
+    "name_en": "GeeXPlus",
+    "category": "general"
   }
 ]
