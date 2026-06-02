@@ -23899,5 +23899,65 @@
     "name": "Schiaparelli (fashion house)",
     "name_en": "Schiaparelli (fashion house)",
     "category": "fashion"
+  },
+  {
+    "slug": "leeds-brewery",
+    "name": "Leeds Brewery",
+    "name_en": "Leeds Brewery",
+    "category": "general"
+  },
+  {
+    "slug": "legal-general",
+    "name": "Legal & General",
+    "name_en": "Legal & General",
+    "category": "general"
+  },
+  {
+    "slug": "leon-restaurants",
+    "name": "Leon Restaurants",
+    "name_en": "Leon Restaurants",
+    "category": "general"
+  },
+  {
+    "slug": "john-lewis-partners",
+    "name": "John Lewis & Partners",
+    "name_en": "John Lewis & Partners",
+    "category": "general"
+  },
+  {
+    "slug": "lipton",
+    "name": "Lipton",
+    "name_en": "Lipton",
+    "category": "general"
+  },
+  {
+    "slug": "lloyds-of-london",
+    "name": "Lloyd's of London",
+    "name_en": "Lloyd's of London",
+    "category": "general"
+  },
+  {
+    "slug": "lloyds-bank",
+    "name": "Lloyds Bank",
+    "name_en": "Lloyds Bank",
+    "category": "general"
+  },
+  {
+    "slug": "james-lock-co",
+    "name": "James Lock & Co.",
+    "name_en": "James Lock & Co.",
+    "category": "general"
+  },
+  {
+    "slug": "locksmith-animation",
+    "name": "Locksmith Animation",
+    "name_en": "Locksmith Animation",
+    "category": "general"
+  },
+  {
+    "slug": "londis-united-kingdom",
+    "name": "Londis (United Kingdom)",
+    "name_en": "Londis (United Kingdom)",
+    "category": "general"
   }
 ]
