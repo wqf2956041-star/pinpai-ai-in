@@ -3210,5 +3210,65 @@
     "name": "Huiyuan Juice",
     "name_en": "Huiyuan Juice",
     "category": "general"
+  },
+  {
+    "slug": "billy-reid-fashion-designer",
+    "name": "Billy Reid (fashion designer)",
+    "name_en": "Billy Reid (fashion designer)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "rmy-martin",
+    "name": "Rémy Martin",
+    "name_en": "Rémy Martin",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "ressence",
+    "name": "Ressence",
+    "name_en": "Ressence",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "rh-company",
+    "name": "RH (company)",
+    "name_en": "RH (company)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "richard-mille",
+    "name": "Richard Mille",
+    "name_en": "Richard Mille",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "rimowa",
+    "name": "Rimowa",
+    "name_en": "Rimowa",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "the-ritz-carlton-hotel-company",
+    "name": "The Ritz-Carlton Hotel Company",
+    "name_en": "The Ritz-Carlton Hotel Company",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "riviera-australia",
+    "name": "Riviera Australia",
+    "name_en": "Riviera Australia",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "robert-graham-fashion-brand",
+    "name": "Robert Graham (fashion brand)",
+    "name_en": "Robert Graham (fashion brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "pol-roger",
+    "name": "Pol Roger",
+    "name_en": "Pol Roger",
+    "category": "fashion-luxury"
   }
 ]
