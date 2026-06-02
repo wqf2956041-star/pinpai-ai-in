@@ -23574,5 +23574,65 @@
     "name_en": "Abraham-Louis Perrelet",
     "category": "fashion-luxury",
     "updated_at": 1780409701
+  },
+  {
+    "slug": "persol",
+    "name": "Persol",
+    "name_en": "Persol",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "petrossian-business",
+    "name": "Petrossian (business)",
+    "name_en": "Petrossian (business)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "chteau-ptrus",
+    "name": "Château Pétrus",
+    "name_en": "Château Pétrus",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "piaget-sa",
+    "name": "Piaget SA",
+    "name_en": "Piaget SA",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "octavio-pizarro",
+    "name": "Octavio Pizarro",
+    "name_en": "Octavio Pizarro",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "polne",
+    "name": "Polène",
+    "name_en": "Polène",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "henry-poole-co",
+    "name": "Henry Poole & Co",
+    "name_en": "Henry Poole & Co",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "porsche-design",
+    "name": "Porsche Design",
+    "name_en": "Porsche Design",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "preciosa-corporation",
+    "name": "Preciosa (corporation)",
+    "name_en": "Preciosa (corporation)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "altaneve",
+    "name": "Altaneve",
+    "name_en": "Altaneve",
+    "category": "fashion-luxury"
   }
 ]
