@@ -23729,5 +23729,40 @@
     "name": "Lauterbacher Tropfen",
     "name_en": "Lauterbacher Tropfen",
     "category": "general"
+  },
+  {
+    "slug": "lawo",
+    "name": "Lawo",
+    "name_en": "Lawo",
+    "category": "general",
+    "updated_at": 1780411006
+  },
+  {
+    "slug": "leav-aviation",
+    "name": "LEAV Aviation",
+    "name_en": "LEAV Aviation",
+    "category": "general",
+    "updated_at": 1780411006
+  },
+  {
+    "slug": "ledlenser",
+    "name": "Ledlenser",
+    "name_en": "Ledlenser",
+    "category": "general",
+    "updated_at": 1780411006
+  },
+  {
+    "slug": "ledvance",
+    "name": "Ledvance",
+    "name_en": "Ledvance",
+    "category": "general",
+    "updated_at": 1780411006
+  },
+  {
+    "slug": "leica-camera",
+    "name": "Leica Camera",
+    "name_en": "Leica Camera",
+    "category": "general",
+    "updated_at": 1780411006
   }
 ]
