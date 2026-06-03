@@ -582,3 +582,44 @@ Pool low! Sourcing...
   [11:30:05]   SKIP nippon-paper-industries: content too short
   [11:30:06]   ADDED nippon-sanso-holdings-corporation: Nippon Sanso Holdings Corporation (+2 langs)
   [11:30:07] Homepage not modified (JS renders dynamically from JSON)
+[11:45] Pool: 5 | Index: 608
+  [11:45:01] Current: 608 brands
+  [11:45:01] Pool: 5 brands
+  [11:45:01]   SKIP nisshinbo-holdings: content too short
+  [11:45:02]   SKIP nissin-electric: content too short
+  [11:45:03]   ADDED nissin-kogyo: Nissin Kogyo (+2 langs)
+  [11:45:05]   ADDED niterra: Niterra (+2 langs)
+  [11:45:06]   SKIP nitori: HTTP Error 429: Too Many Requests
+  [11:45:07] Homepage not modified (JS renders dynamically from JSON)
+[12:00] Pool: 0 | Index: 610
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + pico-technology (Pico Technology) [general]
+  + pifco (Pifco) [general]
+  + piatex (Piñatex) [general]
+  + planet-organic (Planet Organic) [general]
+  + plaxton (Plaxton) [general]
+  + portmeirion-pottery (Portmeirion Pottery) [general]
+  + poundland (Poundland) [general]
+  + premier-inn (Premier Inn) [general]
+  + prestat (Prestat) [general]
+  + pret-a-manger (Pret a Manger) [general]
+  + arthur-price (Arthur Price) [general]
+  + primerdesign (Primerdesign) [general]
+  + prior-scientific (Prior Scientific) [general]
+  + prudential-plc (Prudential plc) [general]
+  + pure-company (Pure (company)) [general]
+  + pv-crystalox-solar (PV Crystalox Solar) [general]
+  + qinetiq (Qinetiq) [general]
+  + quantexa (Quantexa) [general]
+  + quietrevolution-wind-turbine (Quietrevolution wind turbine) [general]
+  + r-whites (R. White's) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [12:00:02] Current: 610 brands
+  [12:00:02] Pool: 20 brands
+  [12:00:03]   ADDED pico-technology: Pico Technology (+1 langs)
+  [12:00:04]   SKIP pifco: content too short
+  [12:00:04]   SKIP piatex: content too short
+  [12:00:06]   SKIP planet-organic: content too short
+  [12:00:07]   SKIP plaxton: content too short
+  [12:00:08] Homepage not modified (JS renders dynamically from JSON)

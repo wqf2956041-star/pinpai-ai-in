@@ -4680,5 +4680,65 @@
     "name": "Nissan Chemical Corporation",
     "name_en": "Nissan Chemical Corporation",
     "category": "general"
+  },
+  {
+    "slug": "portmeirion-pottery",
+    "name": "Portmeirion Pottery",
+    "name_en": "Portmeirion Pottery",
+    "category": "general"
+  },
+  {
+    "slug": "poundland",
+    "name": "Poundland",
+    "name_en": "Poundland",
+    "category": "general"
+  },
+  {
+    "slug": "premier-inn",
+    "name": "Premier Inn",
+    "name_en": "Premier Inn",
+    "category": "general"
+  },
+  {
+    "slug": "prestat",
+    "name": "Prestat",
+    "name_en": "Prestat",
+    "category": "general"
+  },
+  {
+    "slug": "pret-a-manger",
+    "name": "Pret a Manger",
+    "name_en": "Pret a Manger",
+    "category": "general"
+  },
+  {
+    "slug": "arthur-price",
+    "name": "Arthur Price",
+    "name_en": "Arthur Price",
+    "category": "general"
+  },
+  {
+    "slug": "primerdesign",
+    "name": "Primerdesign",
+    "name_en": "Primerdesign",
+    "category": "general"
+  },
+  {
+    "slug": "prior-scientific",
+    "name": "Prior Scientific",
+    "name_en": "Prior Scientific",
+    "category": "general"
+  },
+  {
+    "slug": "prudential-plc",
+    "name": "Prudential plc",
+    "name_en": "Prudential plc",
+    "category": "general"
+  },
+  {
+    "slug": "pure-company",
+    "name": "Pure (company)",
+    "name_en": "Pure (company)",
+    "category": "general"
   }
 ]

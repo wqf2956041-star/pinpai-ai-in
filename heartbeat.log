@@ -320,3 +320,19 @@
 [2026-06-03 11:30:05]   SKIP nippon-paper-industries: content too short
 [2026-06-03 11:30:06]   ADDED nippon-sanso-holdings-corporation: Nippon Sanso Holdings Corporation (+2 langs)
 [2026-06-03 11:30:07] Homepage not modified (JS renders dynamically from JSON)
+[2026-06-03 11:45:01] Current: 608 brands
+[2026-06-03 11:45:01] Pool: 5 brands
+[2026-06-03 11:45:01]   SKIP nisshinbo-holdings: content too short
+[2026-06-03 11:45:02]   SKIP nissin-electric: content too short
+[2026-06-03 11:45:03]   ADDED nissin-kogyo: Nissin Kogyo (+2 langs)
+[2026-06-03 11:45:05]   ADDED niterra: Niterra (+2 langs)
+[2026-06-03 11:45:06]   SKIP nitori: HTTP Error 429: Too Many Requests
+[2026-06-03 11:45:07] Homepage not modified (JS renders dynamically from JSON)
+[2026-06-03 12:00:02] Current: 610 brands
+[2026-06-03 12:00:02] Pool: 20 brands
+[2026-06-03 12:00:03]   ADDED pico-technology: Pico Technology (+1 langs)
+[2026-06-03 12:00:04]   SKIP pifco: content too short
+[2026-06-03 12:00:04]   SKIP piatex: content too short
+[2026-06-03 12:00:06]   SKIP planet-organic: content too short
+[2026-06-03 12:00:07]   SKIP plaxton: content too short
+[2026-06-03 12:00:08] Homepage not modified (JS renders dynamically from JSON)
