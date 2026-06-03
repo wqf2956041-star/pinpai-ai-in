@@ -4590,5 +4590,35 @@
     "name": "Quick (sportswear)",
     "name_en": "Quick (sportswear)",
     "category": "sportswear"
+  },
+  {
+    "slug": "rainha",
+    "name": "Rainha",
+    "name_en": "Rainha",
+    "category": "sportswear"
+  },
+  {
+    "slug": "rapala",
+    "name": "Rapala",
+    "name_en": "Rapala",
+    "category": "sportswear"
+  },
+  {
+    "slug": "rapha-sportswear",
+    "name": "Rapha (sportswear)",
+    "name_en": "Rapha (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "rawlings-company",
+    "name": "Rawlings (company)",
+    "name_en": "Rawlings (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "reebok",
+    "name": "Reebok",
+    "name_en": "Reebok",
+    "category": "sportswear"
   }
 ]
