@@ -3840,5 +3840,65 @@
     "name": "Délifrance",
     "name_en": "Délifrance",
     "category": "general"
+  },
+  {
+    "slug": "lacoste",
+    "name": "Lacoste",
+    "name_en": "Lacoste",
+    "category": "sportswear"
+  },
+  {
+    "slug": "meyba",
+    "name": "Meyba",
+    "name_en": "Meyba",
+    "category": "sportswear"
+  },
+  {
+    "slug": "mighty-sports-apparel",
+    "name": "Mighty Sports Apparel",
+    "name_en": "Mighty Sports Apparel",
+    "category": "sportswear"
+  },
+  {
+    "slug": "mitchell-ness",
+    "name": "Mitchell & Ness",
+    "name_en": "Mitchell & Ness",
+    "category": "sportswear"
+  },
+  {
+    "slug": "mitre-sports-international",
+    "name": "Mitre Sports International",
+    "name_en": "Mitre Sports International",
+    "category": "sportswear"
+  },
+  {
+    "slug": "moncler",
+    "name": "Moncler",
+    "name_en": "Moncler",
+    "category": "sportswear"
+  },
+  {
+    "slug": "mondetta",
+    "name": "Mondetta",
+    "name_en": "Mondetta",
+    "category": "sportswear"
+  },
+  {
+    "slug": "monton-sports",
+    "name": "Monton Sports",
+    "name_en": "Monton Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "mossimo",
+    "name": "Mossimo",
+    "name_en": "Mossimo",
+    "category": "sportswear"
+  },
+  {
+    "slug": "mountain-hardwear",
+    "name": "Mountain Hardwear",
+    "name_en": "Mountain Hardwear",
+    "category": "sportswear"
   }
 ]
