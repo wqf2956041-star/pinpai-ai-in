@@ -3810,5 +3810,35 @@
     "name": "Delage",
     "name_en": "Delage",
     "category": "general"
+  },
+  {
+    "slug": "delair",
+    "name": "Delair",
+    "name_en": "Delair",
+    "category": "general"
+  },
+  {
+    "slug": "delaugre-et-clayette",
+    "name": "Delaugère et Clayette",
+    "name_en": "Delaugère et Clayette",
+    "category": "general"
+  },
+  {
+    "slug": "delbeck",
+    "name": "Delbeck",
+    "name_en": "Delbeck",
+    "category": "general"
+  },
+  {
+    "slug": "delcourt-publisher",
+    "name": "Delcourt (publisher)",
+    "name_en": "Delcourt (publisher)",
+    "category": "general"
+  },
+  {
+    "slug": "dlifrance",
+    "name": "Délifrance",
+    "name_en": "Délifrance",
+    "category": "general"
   }
 ]
