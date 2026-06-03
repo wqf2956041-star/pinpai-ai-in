@@ -4350,5 +4350,65 @@
     "name": "Penalty (brand)",
     "name_en": "Penalty (brand)",
     "category": "sportswear"
+  },
+  {
+    "slug": "multiplex-modellsport",
+    "name": "Multiplex Modellsport",
+    "name_en": "Multiplex Modellsport",
+    "category": "general"
+  },
+  {
+    "slug": "munich-re",
+    "name": "Munich Re",
+    "name_en": "Munich Re",
+    "category": "general"
+  },
+  {
+    "slug": "mz-motorrad-und-zweiradwerk",
+    "name": "MZ Motorrad- und Zweiradwerk",
+    "name_en": "MZ Motorrad- und Zweiradwerk",
+    "category": "general"
+  },
+  {
+    "slug": "navigon",
+    "name": "Navigon",
+    "name_en": "Navigon",
+    "category": "general"
+  },
+  {
+    "slug": "nemetschek",
+    "name": "Nemetschek",
+    "name_en": "Nemetschek",
+    "category": "general"
+  },
+  {
+    "slug": "neoplan",
+    "name": "Neoplan",
+    "name_en": "Neoplan",
+    "category": "general"
+  },
+  {
+    "slug": "nero-ag",
+    "name": "Nero AG",
+    "name_en": "Nero AG",
+    "category": "general"
+  },
+  {
+    "slug": "neuman-esser",
+    "name": "Neuman & Esser",
+    "name_en": "Neuman & Esser",
+    "category": "general"
+  },
+  {
+    "slug": "neumeyer",
+    "name": "Neumeyer",
+    "name_en": "Neumeyer",
+    "category": "general"
+  },
+  {
+    "slug": "nil-cigarette",
+    "name": "Nil (cigarette)",
+    "name_en": "Nil (cigarette)",
+    "category": "general"
   }
 ]
