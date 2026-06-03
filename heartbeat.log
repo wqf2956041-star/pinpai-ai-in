@@ -288,3 +288,11 @@
 [2026-06-03 10:30:07]   SKIP jiangling-motors: HTTP Error 429: Too Many Requests
 [2026-06-03 10:30:08]   SKIP jiangsu-kawei-automotive-industrial-group: HTTP Error 429: Too Many Requests
 [2026-06-03 10:30:09] Homepage not modified (JS renders dynamically from JSON)
+[2026-06-03 10:45:02] Current: 602 brands
+[2026-06-03 10:45:02] Pool: 20 brands
+[2026-06-03 10:45:02]   SKIP tanishq: content too short
+[2026-06-03 10:45:03]   SKIP tanner-krolle: content too short
+[2026-06-03 10:45:06]   ADDED taschen: Taschen (+4 langs)
+[2026-06-03 10:45:07]   SKIP maria-tash: HTTP Error 429: Too Many Requests
+[2026-06-03 10:45:08]   SKIP jamal-taslaq: HTTP Error 429: Too Many Requests
+[2026-06-03 10:45:09] Homepage not modified (JS renders dynamically from JSON)

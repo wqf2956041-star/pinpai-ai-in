@@ -500,3 +500,35 @@ Pool low! Sourcing...
   [10:30:07]   SKIP jiangling-motors: HTTP Error 429: Too Many Requests
   [10:30:08]   SKIP jiangsu-kawei-automotive-industrial-group: HTTP Error 429: Too Many Requests
   [10:30:09] Homepage not modified (JS renders dynamically from JSON)
+[10:45] Pool: 0 | Index: 602
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + tanishq (Tanishq) [fashion-luxury]
+  + tanner-krolle (Tanner Krolle) [fashion-luxury]
+  + taschen (Taschen) [fashion-luxury]
+  + maria-tash (Maria Tash) [fashion-luxury]
+  + jamal-taslaq (Jamal Taslaq) [fashion-luxury]
+  + tata-cliq (Tata Cliq) [fashion-luxury]
+  + thermador (Thermador) [fashion-luxury]
+  + thomas-lyte (Thomas Lyte) [fashion-luxury]
+  + thresher-glenny (Thresher & Glenny) [fashion-luxury]
+  + aitor-throup (Aitor Throup) [fashion-luxury]
+  + titoni (Titoni) [fashion-luxury]
+  + tricouni-brand (Tricouni (brand)) [fashion-luxury]
+  + truefitt-hill (Truefitt & Hill) [fashion-luxury]
+  + trump-home (Trump Home) [fashion-luxury]
+  + the-trump-organization (The Trump Organization) [fashion-luxury]
+  + twg-tea (TWG Tea) [fashion-luxury]
+  + ulysse-nardin (Ulysse Nardin) [fashion-luxury]
+  + universal-genve (Universal Genève) [fashion-luxury]
+  + vacheron-constantin (Vacheron Constantin) [fashion-luxury]
+  + vakko (Vakko) [fashion-luxury]
+  ✅ Sourced 20 new brands (pool: 20)
+  [10:45:02] Current: 602 brands
+  [10:45:02] Pool: 20 brands
+  [10:45:02]   SKIP tanishq: content too short
+  [10:45:03]   SKIP tanner-krolle: content too short
+  [10:45:06]   ADDED taschen: Taschen (+4 langs)
+  [10:45:07]   SKIP maria-tash: HTTP Error 429: Too Many Requests
+  [10:45:08]   SKIP jamal-taslaq: HTTP Error 429: Too Many Requests
+  [10:45:09] Homepage not modified (JS renders dynamically from JSON)

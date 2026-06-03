@@ -4470,5 +4470,65 @@
     "name": "Osram Opto Semiconductors GmbH",
     "name_en": "Osram Opto Semiconductors GmbH",
     "category": "general"
+  },
+  {
+    "slug": "tata-cliq",
+    "name": "Tata Cliq",
+    "name_en": "Tata Cliq",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "thermador",
+    "name": "Thermador",
+    "name_en": "Thermador",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "thomas-lyte",
+    "name": "Thomas Lyte",
+    "name_en": "Thomas Lyte",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "thresher-glenny",
+    "name": "Thresher & Glenny",
+    "name_en": "Thresher & Glenny",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "aitor-throup",
+    "name": "Aitor Throup",
+    "name_en": "Aitor Throup",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "titoni",
+    "name": "Titoni",
+    "name_en": "Titoni",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "tricouni-brand",
+    "name": "Tricouni (brand)",
+    "name_en": "Tricouni (brand)",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "truefitt-hill",
+    "name": "Truefitt & Hill",
+    "name_en": "Truefitt & Hill",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "trump-home",
+    "name": "Trump Home",
+    "name_en": "Trump Home",
+    "category": "fashion-luxury"
+  },
+  {
+    "slug": "the-trump-organization",
+    "name": "The Trump Organization",
+    "name_en": "The Trump Organization",
+    "category": "fashion-luxury"
   }
 ]
