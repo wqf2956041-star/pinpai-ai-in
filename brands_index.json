@@ -4410,5 +4410,65 @@
     "name": "Nil (cigarette)",
     "name_en": "Nil (cigarette)",
     "category": "general"
+  },
+  {
+    "slug": "nivea",
+    "name": "Nivea",
+    "name_en": "Nivea",
+    "category": "general"
+  },
+  {
+    "slug": "nkd-retailer",
+    "name": "NKD (retailer)",
+    "name_en": "NKD (retailer)",
+    "category": "general"
+  },
+  {
+    "slug": "noblex-e-optics-gmbh",
+    "name": "NOBLEX E-Optics GmbH",
+    "name_en": "NOBLEX E-Optics GmbH",
+    "category": "general"
+  },
+  {
+    "slug": "nordex",
+    "name": "Nordex",
+    "name_en": "Nordex",
+    "category": "general"
+  },
+  {
+    "slug": "obi-retail-chain",
+    "name": "OBI (retail chain)",
+    "name_en": "OBI (retail chain)",
+    "category": "general"
+  },
+  {
+    "slug": "dr-oetker",
+    "name": "Dr. Oetker",
+    "name_en": "Dr. Oetker",
+    "category": "general"
+  },
+  {
+    "slug": "opel",
+    "name": "Opel",
+    "name_en": "Opel",
+    "category": "general"
+  },
+  {
+    "slug": "orionette",
+    "name": "Orionette",
+    "name_en": "Orionette",
+    "category": "general"
+  },
+  {
+    "slug": "osram",
+    "name": "Osram",
+    "name_en": "Osram",
+    "category": "general"
+  },
+  {
+    "slug": "osram-opto-semiconductors-gmbh",
+    "name": "Osram Opto Semiconductors GmbH",
+    "name_en": "Osram Opto Semiconductors GmbH",
+    "category": "general"
   }
 ]
