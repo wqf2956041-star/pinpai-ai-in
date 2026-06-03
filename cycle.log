@@ -423,3 +423,37 @@ Pool low! Sourcing...
   [09:45:10] Regenerating homepage (599 brands)...
   [09:45:10]   brandsData replaced: 599 entries
   [09:45:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[10:00] Pool: 0 | Index: 600
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + vans (Vans) [fashion]
+  + hunkt (Hunkt) [general]
+  + huya-live (Huya Live) [general]
+  + hytera (Hytera) [general]
+  + icar-marque (ICar (marque)) [general]
+  + icarbonx (ICarbonX) [general]
+  + iflytek (IFlytek) [general]
+  + industrial-bank-china (Industrial Bank (China)) [general]
+  + infinix-mobile (Infinix Mobile) [general]
+  + ingenic-semiconductor (Ingenic Semiconductor) [general]
+  + inoherb (Inoherb) [general]
+  + inovance (Inovance) [general]
+  + inspur (Inspur) [general]
+  + insta360 (Insta360) [general]
+  + iqoo (IQOO) [general]
+  + ique (IQue) [general]
+  + itel-mobile (Itel Mobile) [general]
+  + ja-solar-holdings (JA Solar Holdings) [general]
+  + jac-group (JAC Group) [general]
+  + jaecoo (Jaecoo) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [10:00:02] Current: 600 brands
+  [10:00:02] Pool: 20 brands
+  [10:00:02]   SKIP vans: content too short
+  [10:00:03]   SKIP hunkt: content too short
+  [10:00:04]   SKIP huya-live: content too short
+  [10:00:04]   SKIP hytera: content too short
+  [10:00:05]   SKIP icar-marque: content too short
+  [10:00:06] Regenerating homepage (600 brands)...
+  [10:00:06]   brandsData replaced: 600 entries
+  [10:00:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

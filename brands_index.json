@@ -4080,5 +4080,65 @@
     "name": "Pearson plc",
     "name_en": "Pearson plc",
     "category": "general"
+  },
+  {
+    "slug": "icarbonx",
+    "name": "ICarbonX",
+    "name_en": "ICarbonX",
+    "category": "general"
+  },
+  {
+    "slug": "iflytek",
+    "name": "IFlytek",
+    "name_en": "IFlytek",
+    "category": "general"
+  },
+  {
+    "slug": "industrial-bank-china",
+    "name": "Industrial Bank (China)",
+    "name_en": "Industrial Bank (China)",
+    "category": "general"
+  },
+  {
+    "slug": "infinix-mobile",
+    "name": "Infinix Mobile",
+    "name_en": "Infinix Mobile",
+    "category": "general"
+  },
+  {
+    "slug": "ingenic-semiconductor",
+    "name": "Ingenic Semiconductor",
+    "name_en": "Ingenic Semiconductor",
+    "category": "general"
+  },
+  {
+    "slug": "inoherb",
+    "name": "Inoherb",
+    "name_en": "Inoherb",
+    "category": "general"
+  },
+  {
+    "slug": "inovance",
+    "name": "Inovance",
+    "name_en": "Inovance",
+    "category": "general"
+  },
+  {
+    "slug": "inspur",
+    "name": "Inspur",
+    "name_en": "Inspur",
+    "category": "general"
+  },
+  {
+    "slug": "insta360",
+    "name": "Insta360",
+    "name_en": "Insta360",
+    "category": "general"
+  },
+  {
+    "slug": "iqoo",
+    "name": "IQOO",
+    "name_en": "IQOO",
+    "category": "general"
   }
 ]
