@@ -214,3 +214,23 @@
 [2026-06-03 09:00:11] Regenerating homepage (594 brands)...
 [2026-06-03 09:00:11]   brandsData replaced: 594 entries
 [2026-06-03 09:00:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 09:15:01] Current: 594 brands
+[2026-06-03 09:15:01] Pool: 20 brands
+[2026-06-03 09:15:03]   ADDED nichicon: Nichicon (+3 langs)
+[2026-06-03 09:15:07]   ADDED nidec: Nidec (+3 langs)
+[2026-06-03 09:15:08]   SKIP nihon-dempa-kogyo: HTTP Error 429: Too Many Requests
+[2026-06-03 09:15:09]   SKIP nihon-kohden: HTTP Error 429: Too Many Requests
+[2026-06-03 09:15:10]   SKIP niigata-transys: HTTP Error 429: Too Many Requests
+[2026-06-03 09:15:11] Regenerating homepage (596 brands)...
+[2026-06-03 09:15:11]   brandsData replaced: 596 entries
+[2026-06-03 09:15:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 09:30:01] Current: 596 brands
+[2026-06-03 09:30:01] Pool: 15 brands
+[2026-06-03 09:30:07]   ADDED nikka-whisky-distilling: Nikka Whisky Distilling (+5 langs)
+[2026-06-03 09:30:09]   SKIP nikken-sekkei: content too short
+[2026-06-03 09:30:10]   SKIP nikko-ceramics: content too short
+[2026-06-03 09:30:10]   SKIP nikko-rc: HTTP Error 429: Too Many Requests
+[2026-06-03 09:30:12]   SKIP nikkor: HTTP Error 429: Too Many Requests
+[2026-06-03 09:30:13] Regenerating homepage (597 brands)...
+[2026-06-03 09:30:13]   brandsData replaced: 597 entries
+[2026-06-03 09:30:13] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

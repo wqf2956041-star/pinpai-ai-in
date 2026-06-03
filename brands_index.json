@@ -3960,5 +3960,65 @@
     "name": "New Balance",
     "name_en": "New Balance",
     "category": "sportswear"
+  },
+  {
+    "slug": "nik-company",
+    "name": "Nikō (company)",
+    "name_en": "Nikō (company)",
+    "category": "general"
+  },
+  {
+    "slug": "nikoh",
+    "name": "Nikoh",
+    "name_en": "Nikoh",
+    "category": "general"
+  },
+  {
+    "slug": "nikon",
+    "name": "Nikon",
+    "name_en": "Nikon",
+    "category": "general"
+  },
+  {
+    "slug": "nintendo",
+    "name": "Nintendo",
+    "name_en": "Nintendo",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-cable",
+    "name": "Nippon Cable",
+    "name_en": "Nippon Cable",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-chemi-con",
+    "name": "Nippon Chemi-Con",
+    "name_en": "Nippon Chemi-Con",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-electric-glass",
+    "name": "Nippon Electric Glass",
+    "name_en": "Nippon Electric Glass",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-express",
+    "name": "Nippon Express",
+    "name_en": "Nippon Express",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-flour-mills",
+    "name": "Nippon Flour Mills",
+    "name_en": "Nippon Flour Mills",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-ichi-software",
+    "name": "Nippon Ichi Software",
+    "name_en": "Nippon Ichi Software",
+    "category": "general"
   }
 ]
