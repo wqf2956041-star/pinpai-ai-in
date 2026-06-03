@@ -3690,5 +3690,65 @@
     "name": "POSCO",
     "name_en": "POSCO",
     "category": "general"
+  },
+  {
+    "slug": "zurich-insurance-group",
+    "name": "Zurich Insurance Group",
+    "name_en": "Zurich Insurance Group",
+    "category": "general"
+  },
+  {
+    "slug": "zyliss",
+    "name": "Zyliss",
+    "name_en": "Zyliss",
+    "category": "general"
+  },
+  {
+    "slug": "national-rail",
+    "name": "National Rail",
+    "name_en": "National Rail",
+    "category": "general"
+  },
+  {
+    "slug": "natracare",
+    "name": "Natracare",
+    "name_en": "Natracare",
+    "category": "general"
+  },
+  {
+    "slug": "natwest",
+    "name": "NatWest",
+    "name_en": "NatWest",
+    "category": "general"
+  },
+  {
+    "slug": "nck",
+    "name": "NCK",
+    "name_en": "NCK",
+    "category": "general"
+  },
+  {
+    "slug": "neals-yard-remedies",
+    "name": "Neal's Yard Remedies",
+    "name_en": "Neal's Yard Remedies",
+    "category": "general"
+  },
+  {
+    "slug": "new-lingwood",
+    "name": "New & Lingwood",
+    "name_en": "New & Lingwood",
+    "category": "general"
+  },
+  {
+    "slug": "new-hudson-company",
+    "name": "New Hudson (company)",
+    "name_en": "New Hudson (company)",
+    "category": "general"
+  },
+  {
+    "slug": "new-penguin-shakespeare",
+    "name": "New Penguin Shakespeare",
+    "name_en": "New Penguin Shakespeare",
+    "category": "general"
   }
 ]
