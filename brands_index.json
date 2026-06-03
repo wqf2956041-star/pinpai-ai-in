@@ -4290,5 +4290,65 @@
     "name": "One Way Sport",
     "name_en": "One Way Sport",
     "category": "sportswear"
+  },
+  {
+    "slug": "oneill-brand",
+    "name": "O'Neill (brand)",
+    "name_en": "O'Neill (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "osprey-packs",
+    "name": "Osprey Packs",
+    "name_en": "Osprey Packs",
+    "category": "sportswear"
+  },
+  {
+    "slug": "outdoor-voices",
+    "name": "Outdoor Voices",
+    "name_en": "Outdoor Voices",
+    "category": "sportswear"
+  },
+  {
+    "slug": "pantofola-doro",
+    "name": "Pantofola d'Oro",
+    "name_en": "Pantofola d'Oro",
+    "category": "sportswear"
+  },
+  {
+    "slug": "parsons-xtreme-golf",
+    "name": "Parsons Xtreme Golf",
+    "name_en": "Parsons Xtreme Golf",
+    "category": "sportswear"
+  },
+  {
+    "slug": "passenger-company",
+    "name": "Passenger (company)",
+    "name_en": "Passenger (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "patagonia-inc",
+    "name": "Patagonia, Inc.",
+    "name_en": "Patagonia, Inc.",
+    "category": "sportswear"
+  },
+  {
+    "slug": "patrick-sportswear-company",
+    "name": "Patrick (sportswear company)",
+    "name_en": "Patrick (sportswear company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "peak-sport-products",
+    "name": "Peak Sport Products",
+    "name_en": "Peak Sport Products",
+    "category": "sportswear"
+  },
+  {
+    "slug": "penalty-brand",
+    "name": "Penalty (brand)",
+    "name_en": "Penalty (brand)",
+    "category": "sportswear"
   }
 ]
