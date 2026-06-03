@@ -234,3 +234,13 @@
 [2026-06-03 09:30:13] Regenerating homepage (597 brands)...
 [2026-06-03 09:30:13]   brandsData replaced: 597 entries
 [2026-06-03 09:30:13] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 09:45:01] Current: 597 brands
+[2026-06-03 09:45:01] Pool: 20 brands
+[2026-06-03 09:45:01]   SKIP newgate-company: content too short
+[2026-06-03 09:45:06]   ADDED ni-railways: NI Railways (+6 langs)
+[2026-06-03 09:45:07]   ADDED no-7-brand: No. 7 (brand) (en only)
+[2026-06-03 09:45:08]   SKIP noble-automotive: HTTP Error 429: Too Many Requests
+[2026-06-03 09:45:09]   SKIP nugen-audio: HTTP Error 429: Too Many Requests
+[2026-06-03 09:45:10] Regenerating homepage (599 brands)...
+[2026-06-03 09:45:10]   brandsData replaced: 599 entries
+[2026-06-03 09:45:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
