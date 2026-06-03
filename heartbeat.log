@@ -154,3 +154,33 @@
 [2026-06-03 07:30:10] Regenerating homepage (479 brands)...
 [2026-06-03 07:30:10]   brandsData replaced: 479 entries
 [2026-06-03 07:30:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 07:45:01] Current: 586 brands
+[2026-06-03 07:45:01] Pool: 20 brands
+[2026-06-03 07:45:04]   ADDED nongshim: Nongshim (+7 langs)
+[2026-06-03 07:45:05]   SKIP oci-company: HTTP Error 429: Too Many Requests
+[2026-06-03 07:45:06]   SKIP oriental-brewery: HTTP Error 429: Too Many Requests
+[2026-06-03 07:45:07]   SKIP orion-corporation-south-korean-company: HTTP Error 429: Too Many Requests
+[2026-06-03 07:45:08]   SKIP ottogi: HTTP Error 429: Too Many Requests
+[2026-06-03 07:45:09] Regenerating homepage (587 brands)...
+[2026-06-03 07:45:09]   brandsData replaced: 587 entries
+[2026-06-03 07:45:09] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 08:00:01] Current: 587 brands
+[2026-06-03 08:00:01] Pool: 15 brands
+[2026-06-03 08:00:02]   ADDED oullim-spirra: Oullim Spirra (+2 langs)
+[2026-06-03 08:00:04]   ADDED oxford-toy-company: Oxford (toy company) (+2 langs)
+[2026-06-03 08:00:05]   SKIP pan-ocean: content too short
+[2026-06-03 08:00:06]   SKIP pandora-tv: HTTP Error 429: Too Many Requests
+[2026-06-03 08:00:07]   SKIP pantech: HTTP Error 429: Too Many Requests
+[2026-06-03 08:00:08] Regenerating homepage (589 brands)...
+[2026-06-03 08:00:08]   brandsData replaced: 589 entries
+[2026-06-03 08:00:08] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[2026-06-03 08:15:01] Current: 589 brands
+[2026-06-03 08:15:01] Pool: 10 brands
+[2026-06-03 08:15:03]   ADDED paris-baguette: Paris Baguette (+4 langs)
+[2026-06-03 08:15:04]   SKIP pepero: content too short
+[2026-06-03 08:15:05]   SKIP perigee-aerospace: content too short
+[2026-06-03 08:15:06]   SKIP phiaton: content too short
+[2026-06-03 08:15:06]   SKIP pigeon-company: content too short
+[2026-06-03 08:15:07] Regenerating homepage (590 brands)...
+[2026-06-03 08:15:07]   brandsData replaced: 590 entries
+[2026-06-03 08:15:07] ERROR: Homepage JS missing renderBrands! NOT saving broken page.

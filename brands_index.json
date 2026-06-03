@@ -3660,5 +3660,35 @@
     "name": "Müller (company)",
     "name_en": "Müller (company)",
     "category": "general"
+  },
+  {
+    "slug": "pinkfong",
+    "name": "Pinkfong",
+    "name_en": "Pinkfong",
+    "category": "general"
+  },
+  {
+    "slug": "the-plaza-seoul",
+    "name": "The Plaza Seoul",
+    "name_en": "The Plaza Seoul",
+    "category": "general"
+  },
+  {
+    "slug": "polaris-office",
+    "name": "Polaris Office",
+    "name_en": "Polaris Office",
+    "category": "general"
+  },
+  {
+    "slug": "poongsan-corporation",
+    "name": "Poongsan Corporation",
+    "name_en": "Poongsan Corporation",
+    "category": "general"
+  },
+  {
+    "slug": "posco",
+    "name": "POSCO",
+    "name_en": "POSCO",
+    "category": "general"
   }
 ]
