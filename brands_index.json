@@ -4620,5 +4620,65 @@
     "name": "Reebok",
     "name_en": "Reebok",
     "category": "sportswear"
+  },
+  {
+    "slug": "nippon-sharyo",
+    "name": "Nippon Sharyo",
+    "name_en": "Nippon Sharyo",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-sheet-glass",
+    "name": "Nippon Sheet Glass",
+    "name_en": "Nippon Sheet Glass",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-soda",
+    "name": "Nippon Soda",
+    "name_en": "Nippon Soda",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-steel",
+    "name": "Nippon Steel",
+    "name_en": "Nippon Steel",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-telegraph-and-telephone",
+    "name": "Nippon Telegraph and Telephone",
+    "name_en": "Nippon Telegraph and Telephone",
+    "category": "general"
+  },
+  {
+    "slug": "nippon-yusen",
+    "name": "Nippon Yusen",
+    "name_en": "Nippon Yusen",
+    "category": "general"
+  },
+  {
+    "slug": "nipro",
+    "name": "Nipro",
+    "name_en": "Nipro",
+    "category": "general"
+  },
+  {
+    "slug": "nishiki-bicycle-company",
+    "name": "Nishiki (bicycle company)",
+    "name_en": "Nishiki (bicycle company)",
+    "category": "general"
+  },
+  {
+    "slug": "nissan",
+    "name": "Nissan",
+    "name_en": "Nissan",
+    "category": "general"
+  },
+  {
+    "slug": "nissan-chemical-corporation",
+    "name": "Nissan Chemical Corporation",
+    "name_en": "Nissan Chemical Corporation",
+    "category": "general"
   }
 ]
