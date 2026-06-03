@@ -4860,5 +4860,65 @@
     "name": "Samsung SDS",
     "name_en": "Samsung SDS",
     "category": "general"
+  },
+  {
+    "slug": "richardson-sheffield",
+    "name": "Richardson Sheffield",
+    "name_en": "Richardson Sheffield",
+    "category": "general"
+  },
+  {
+    "slug": "richmond-cigarette",
+    "name": "Richmond (cigarette)",
+    "name_en": "Richmond (cigarette)",
+    "category": "general"
+  },
+  {
+    "slug": "riley-brand",
+    "name": "Riley (brand)",
+    "name_en": "Riley (brand)",
+    "category": "general"
+  },
+  {
+    "slug": "rimmel",
+    "name": "Rimmel",
+    "name_en": "Rimmel",
+    "category": "general"
+  },
+  {
+    "slug": "roberts-radio",
+    "name": "Roberts Radio",
+    "name_en": "Roberts Radio",
+    "category": "general"
+  },
+  {
+    "slug": "robinson-valentine",
+    "name": "Robinson Valentine",
+    "name_en": "Robinson Valentine",
+    "category": "general"
+  },
+  {
+    "slug": "rogers-international",
+    "name": "Rogers International",
+    "name_en": "Rogers International",
+    "category": "general"
+  },
+  {
+    "slug": "rohan-clothing",
+    "name": "Rohan (clothing)",
+    "name_en": "Rohan (clothing)",
+    "category": "general"
+  },
+  {
+    "slug": "roksan",
+    "name": "Roksan",
+    "name_en": "Roksan",
+    "category": "general"
+  },
+  {
+    "slug": "rola-cola",
+    "name": "Rola Cola",
+    "name_en": "Rola Cola",
+    "category": "general"
   }
 ]
