@@ -623,3 +623,12 @@ Pool low! Sourcing...
   [12:00:06]   SKIP planet-organic: content too short
   [12:00:07]   SKIP plaxton: content too short
   [12:00:08] Homepage not modified (JS renders dynamically from JSON)
+[12:15] Pool: 5 | Index: 611
+  [12:15:01] Current: 611 brands
+  [12:15:01] Pool: 5 brands
+  [12:15:01]   SKIP pv-crystalox-solar: content too short
+  [12:15:03]   ADDED qinetiq: Qinetiq (+4 langs)
+  [12:15:04]   SKIP quantexa: content too short
+  [12:15:05]   ADDED quietrevolution-wind-turbine: Quietrevolution wind turbine (en only)
+  [12:15:06]   SKIP r-whites: HTTP Error 429: Too Many Requests
+  [12:15:07] Homepage not modified (JS renders dynamically from JSON)

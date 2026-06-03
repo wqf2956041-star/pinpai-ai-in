@@ -4740,5 +4740,65 @@
     "name": "Pure (company)",
     "name_en": "Pure (company)",
     "category": "general"
+  },
+  {
+    "slug": "proto-motors",
+    "name": "Proto Motors",
+    "name_en": "Proto Motors",
+    "category": "general"
+  },
+  {
+    "slug": "prouna",
+    "name": "Prouna",
+    "name_en": "Prouna",
+    "category": "general"
+  },
+  {
+    "slug": "qcells",
+    "name": "Qcells",
+    "name_en": "Qcells",
+    "category": "general"
+  },
+  {
+    "slug": "rainbow-robotics",
+    "name": "Rainbow Robotics",
+    "name_en": "Rainbow Robotics",
+    "category": "general"
+  },
+  {
+    "slug": "remote-solution",
+    "name": "Remote Solution",
+    "name_en": "Remote Solution",
+    "category": "general"
+  },
+  {
+    "slug": "rokinon",
+    "name": "Rokinon",
+    "name_en": "Rokinon",
+    "category": "general"
+  },
+  {
+    "slug": "s-oil",
+    "name": "S-Oil",
+    "name_en": "S-Oil",
+    "category": "general"
+  },
+  {
+    "slug": "samchuly",
+    "name": "Samchuly",
+    "name_en": "Samchuly",
+    "category": "general"
+  },
+  {
+    "slug": "samoo-architects-engineers",
+    "name": "Samoo Architects & Engineers",
+    "name_en": "Samoo Architects & Engineers",
+    "category": "general"
+  },
+  {
+    "slug": "sampyo-cement",
+    "name": "Sampyo Cement",
+    "name_en": "Sampyo Cement",
+    "category": "general"
   }
 ]
