@@ -4200,5 +4200,35 @@
     "name": "Jonway Automobile",
     "name_en": "Jonway Automobile",
     "category": "general"
+  },
+  {
+    "slug": "joox",
+    "name": "Joox",
+    "name_en": "Joox",
+    "category": "general"
+  },
+  {
+    "slug": "joy-air",
+    "name": "Joy Air",
+    "name_en": "Joy Air",
+    "category": "general"
+  },
+  {
+    "slug": "joyoung",
+    "name": "Joyoung",
+    "name_en": "Joyoung",
+    "category": "general"
+  },
+  {
+    "slug": "juneyao-air",
+    "name": "Juneyao Air",
+    "name_en": "Juneyao Air",
+    "category": "general"
+  },
+  {
+    "slug": "jxd",
+    "name": "JXD",
+    "name_en": "JXD",
+    "category": "general"
   }
 ]
