@@ -4230,5 +4230,65 @@
     "name": "JXD",
     "name_en": "JXD",
     "category": "general"
+  },
+  {
+    "slug": "new-era-cap-company",
+    "name": "New Era Cap Company",
+    "name_en": "New Era Cap Company",
+    "category": "sportswear"
+  },
+  {
+    "slug": "nivia-sports",
+    "name": "Nivia Sports",
+    "name_en": "Nivia Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "no-fear",
+    "name": "No Fear",
+    "name_en": "No Fear",
+    "category": "sportswear"
+  },
+  {
+    "slug": "nomis-company",
+    "name": "Nomis (company)",
+    "name_en": "Nomis (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "the-north-face",
+    "name": "The North Face",
+    "name_en": "The North Face",
+    "category": "sportswear"
+  },
+  {
+    "slug": "oneills",
+    "name": "O'Neills",
+    "name_en": "O'Neills",
+    "category": "sportswear"
+  },
+  {
+    "slug": "olympikus",
+    "name": "Olympikus",
+    "name_en": "Olympikus",
+    "category": "sportswear"
+  },
+  {
+    "slug": "omp-racing",
+    "name": "OMP Racing",
+    "name_en": "OMP Racing",
+    "category": "sportswear"
+  },
+  {
+    "slug": "onda-sportswear",
+    "name": "Onda (sportswear)",
+    "name_en": "Onda (sportswear)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "one-way-sport",
+    "name": "One Way Sport",
+    "name_en": "One Way Sport",
+    "category": "sportswear"
   }
 ]
