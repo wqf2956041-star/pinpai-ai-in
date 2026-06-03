@@ -457,3 +457,46 @@ Pool low! Sourcing...
   [10:00:06] Regenerating homepage (600 brands)...
   [10:00:06]   brandsData replaced: 600 entries
   [10:00:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[10:15] Pool: 5 | Index: 600
+  [10:15:01] Current: 600 brands
+  [10:15:01] Pool: 5 brands
+  [10:15:04]   ADDED ique: IQue (+8 langs)
+  [10:15:06]   SKIP itel-mobile: HTTP Error 429: Too Many Requests
+  [10:15:07]   SKIP ja-solar-holdings: HTTP Error 429: Too Many Requests
+  [10:15:08]   SKIP jac-group: HTTP Error 429: Too Many Requests
+  [10:15:09]   SKIP jaecoo: HTTP Error 429: Too Many Requests
+  [10:15:10] Regenerating homepage (601 brands)...
+  [10:15:10]   brandsData replaced: 601 entries
+  [10:15:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[10:30] Pool: 0 | Index: 601
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + jdcom (JD.com) [general]
+  + jetion-holdings (Jetion Holdings) [general]
+  + jetour (Jetour) [general]
+  + jiangling-motors (Jiangling Motors) [general]
+  + jiangsu-kawei-automotive-industrial-group (Jiangsu Kawei Automotive Industrial Group) [general]
+  + jiangte-joylong-automobile (Jiangte Joylong Automobile) [general]
+  + jiangxi-air (Jiangxi Air) [general]
+  + jidong-cement (Jidong Cement) [general]
+  + jilin-aodong-medicine (Jilin Aodong Medicine) [general]
+  + jinbei-car-brand (Jinbei (car brand)) [general]
+  + jincheng-group (Jincheng Group) [general]
+  + jinjiang-international (Jinjiang International) [general]
+  + jinjiang-literature-city (Jinjiang Literature City) [general]
+  + jmc-yusheng (JMC Yusheng) [general]
+  + jonway-automobile (Jonway Automobile) [general]
+  + joox (Joox) [general]
+  + joy-air (Joy Air) [general]
+  + joyoung (Joyoung) [general]
+  + juneyao-air (Juneyao Air) [general]
+  + jxd (JXD) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [10:30:03] Current: 601 brands
+  [10:30:03] Pool: 20 brands
+  [10:30:04]   ADDED jdcom: JD.com (+3 langs)
+  [10:30:05]   SKIP jetion-holdings: HTTP Error 429: Too Many Requests
+  [10:30:06]   SKIP jetour: HTTP Error 429: Too Many Requests
+  [10:30:07]   SKIP jiangling-motors: HTTP Error 429: Too Many Requests
+  [10:30:08]   SKIP jiangsu-kawei-automotive-industrial-group: HTTP Error 429: Too Many Requests
+  [10:30:09] Homepage not modified (JS renders dynamically from JSON)
