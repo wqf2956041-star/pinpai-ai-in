@@ -3900,5 +3900,65 @@
     "name": "Mountain Hardwear",
     "name_en": "Mountain Hardwear",
     "category": "sportswear"
+  },
+  {
+    "slug": "mr-price-group",
+    "name": "Mr Price Group",
+    "name_en": "Mr Price Group",
+    "category": "sportswear"
+  },
+  {
+    "slug": "musto-company",
+    "name": "Musto (company)",
+    "name_en": "Musto (company)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "n-corah-sons",
+    "name": "N. Corah & Sons",
+    "name_en": "N. Corah & Sons",
+    "category": "sportswear"
+  },
+  {
+    "slug": "naai",
+    "name": "NAAI",
+    "name_en": "NAAI",
+    "category": "sportswear"
+  },
+  {
+    "slug": "nanque",
+    "name": "Nanque",
+    "name_en": "Nanque",
+    "category": "sportswear"
+  },
+  {
+    "slug": "napapijri",
+    "name": "Napapijri",
+    "name_en": "Napapijri",
+    "category": "sportswear"
+  },
+  {
+    "slug": "nautica",
+    "name": "Nautica",
+    "name_en": "Nautica",
+    "category": "sportswear"
+  },
+  {
+    "slug": "nelo",
+    "name": "Nelo",
+    "name_en": "Nelo",
+    "category": "sportswear"
+  },
+  {
+    "slug": "net-world-sports",
+    "name": "Net World Sports",
+    "name_en": "Net World Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "new-balance",
+    "name": "New Balance",
+    "name_en": "New Balance",
+    "category": "sportswear"
   }
 ]
