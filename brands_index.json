@@ -3750,5 +3750,65 @@
     "name": "New Penguin Shakespeare",
     "name_en": "New Penguin Shakespeare",
     "category": "general"
+  },
+  {
+    "slug": "balenciaga",
+    "name": "Balenciaga",
+    "name_en": "Balenciaga",
+    "category": "general"
+  },
+  {
+    "slug": "carambar",
+    "name": "Carambar",
+    "name_en": "Carambar",
+    "category": "general"
+  },
+  {
+    "slug": "groupe-casino",
+    "name": "Groupe Casino",
+    "name_en": "Groupe Casino",
+    "category": "general"
+  },
+  {
+    "slug": "chaumet",
+    "name": "Chaumet",
+    "name_en": "Chaumet",
+    "category": "general"
+  },
+  {
+    "slug": "daum-studio",
+    "name": "Daum (studio)",
+    "name_en": "Daum (studio)",
+    "category": "general"
+  },
+  {
+    "slug": "dbv-technologies",
+    "name": "DBV Technologies",
+    "name_en": "DBV Technologies",
+    "category": "general"
+  },
+  {
+    "slug": "de-la-chapelle",
+    "name": "De La Chapelle",
+    "name_en": "De La Chapelle",
+    "category": "general"
+  },
+  {
+    "slug": "debacq-cie",
+    "name": "Debacq & Cie",
+    "name_en": "Debacq & Cie",
+    "category": "general"
+  },
+  {
+    "slug": "debauve-gallais",
+    "name": "Debauve & Gallais",
+    "name_en": "Debauve & Gallais",
+    "category": "general"
+  },
+  {
+    "slug": "delage",
+    "name": "Delage",
+    "name_en": "Delage",
+    "category": "general"
   }
 ]

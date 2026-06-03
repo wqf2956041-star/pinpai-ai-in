@@ -379,3 +379,14 @@ Pool low! Sourcing...
   [08:45:06] Regenerating homepage (592 brands)...
   [08:45:06]   brandsData replaced: 592 entries
   [08:45:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[09:00] Pool: 20 | Index: 592
+  [09:00:01] Current: 592 brands
+  [09:00:01] Pool: 20 brands
+  [09:00:03]   ADDED yahoo-inc-19952017: Yahoo! Inc. (1995–2017) (+1 langs)
+  [09:00:06]   ADDED yum-brands: Yum! Brands (+5 langs)
+  [09:00:08]   SKIP zeebo-inc: HTTP Error 429: Too Many Requests
+  [09:00:09]   SKIP accor: HTTP Error 429: Too Many Requests
+  [09:00:10]   SKIP air-france: HTTP Error 429: Too Many Requests
+  [09:00:11] Regenerating homepage (594 brands)...
+  [09:00:11]   brandsData replaced: 594 entries
+  [09:00:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
