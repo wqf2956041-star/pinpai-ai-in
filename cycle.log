@@ -532,3 +532,44 @@ Pool low! Sourcing...
   [10:45:07]   SKIP maria-tash: HTTP Error 429: Too Many Requests
   [10:45:08]   SKIP jamal-taslaq: HTTP Error 429: Too Many Requests
   [10:45:09] Homepage not modified (JS renders dynamically from JSON)
+[11:00] Pool: 5 | Index: 603
+  [11:00:01] Current: 603 brands
+  [11:00:01] Pool: 5 brands
+  [11:00:02]   ADDED twg-tea: TWG Tea (+3 langs)
+  [11:00:04]   ADDED ulysse-nardin: Ulysse Nardin (+3 langs)
+  [11:00:05]   SKIP universal-genve: HTTP Error 429: Too Many Requests
+  [11:00:06]   SKIP vacheron-constantin: HTTP Error 429: Too Many Requests
+  [11:00:07]   SKIP vakko: HTTP Error 429: Too Many Requests
+  [11:00:08] Homepage not modified (JS renders dynamically from JSON)
+[11:15] Pool: 0 | Index: 605
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + penn-racquet-sports (Penn Racquet Sports) [sportswear]
+  + ping-golf (Ping (golf)) [sportswear]
+  + pinko-fashion (Pinko (fashion)) [sportswear]
+  + pirma (Pirma) [sportswear]
+  + poker-sports-manufacturer (Poker (sports manufacturer)) [sportswear]
+  + pony-brand (Pony (brand)) [sportswear]
+  + prana-brand (Prana (brand)) [sportswear]
+  + presto-nike (Presto (Nike)) [sportswear]
+  + prince-sports (Prince Sports) [sportswear]
+  + pro-specs (Pro-Specs) [sportswear]
+  + proviz-sports (Proviz Sports) [sportswear]
+  + provogue (Provogue) [sportswear]
+  + psycho-bunny (Psycho Bunny) [sportswear]
+  + quechua-brand (Quechua (brand)) [sportswear]
+  + quick-sportswear (Quick (sportswear)) [sportswear]
+  + rainha (Rainha) [sportswear]
+  + rapala (Rapala) [sportswear]
+  + rapha-sportswear (Rapha (sportswear)) [sportswear]
+  + rawlings-company (Rawlings (company)) [sportswear]
+  + reebok (Reebok) [sportswear]
+  ✅ Sourced 20 new brands (pool: 20)
+  [11:15:02] Current: 605 brands
+  [11:15:02] Pool: 20 brands
+  [11:15:02]   SKIP penn-racquet-sports: content too short
+  [11:15:03]   SKIP ping-golf: content too short
+  [11:15:04]   SKIP pinko-fashion: content too short
+  [11:15:05]   ADDED pirma: Pirma (+1 langs)
+  [11:15:06]   SKIP poker-sports-manufacturer: content too short
+  [11:15:07] Homepage not modified (JS renders dynamically from JSON)

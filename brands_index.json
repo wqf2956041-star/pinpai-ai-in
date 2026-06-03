@@ -4530,5 +4530,65 @@
     "name": "The Trump Organization",
     "name_en": "The Trump Organization",
     "category": "fashion-luxury"
+  },
+  {
+    "slug": "pony-brand",
+    "name": "Pony (brand)",
+    "name_en": "Pony (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "prana-brand",
+    "name": "Prana (brand)",
+    "name_en": "Prana (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "presto-nike",
+    "name": "Presto (Nike)",
+    "name_en": "Presto (Nike)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "prince-sports",
+    "name": "Prince Sports",
+    "name_en": "Prince Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "pro-specs",
+    "name": "Pro-Specs",
+    "name_en": "Pro-Specs",
+    "category": "sportswear"
+  },
+  {
+    "slug": "proviz-sports",
+    "name": "Proviz Sports",
+    "name_en": "Proviz Sports",
+    "category": "sportswear"
+  },
+  {
+    "slug": "provogue",
+    "name": "Provogue",
+    "name_en": "Provogue",
+    "category": "sportswear"
+  },
+  {
+    "slug": "psycho-bunny",
+    "name": "Psycho Bunny",
+    "name_en": "Psycho Bunny",
+    "category": "sportswear"
+  },
+  {
+    "slug": "quechua-brand",
+    "name": "Quechua (brand)",
+    "name_en": "Quechua (brand)",
+    "category": "sportswear"
+  },
+  {
+    "slug": "quick-sportswear",
+    "name": "Quick (sportswear)",
+    "name_en": "Quick (sportswear)",
+    "category": "sportswear"
   }
 ]

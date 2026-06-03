@@ -296,3 +296,19 @@
 [2026-06-03 10:45:07]   SKIP maria-tash: HTTP Error 429: Too Many Requests
 [2026-06-03 10:45:08]   SKIP jamal-taslaq: HTTP Error 429: Too Many Requests
 [2026-06-03 10:45:09] Homepage not modified (JS renders dynamically from JSON)
+[2026-06-03 11:00:01] Current: 603 brands
+[2026-06-03 11:00:01] Pool: 5 brands
+[2026-06-03 11:00:02]   ADDED twg-tea: TWG Tea (+3 langs)
+[2026-06-03 11:00:04]   ADDED ulysse-nardin: Ulysse Nardin (+3 langs)
+[2026-06-03 11:00:05]   SKIP universal-genve: HTTP Error 429: Too Many Requests
+[2026-06-03 11:00:06]   SKIP vacheron-constantin: HTTP Error 429: Too Many Requests
+[2026-06-03 11:00:07]   SKIP vakko: HTTP Error 429: Too Many Requests
+[2026-06-03 11:00:08] Homepage not modified (JS renders dynamically from JSON)
+[2026-06-03 11:15:02] Current: 605 brands
+[2026-06-03 11:15:02] Pool: 20 brands
+[2026-06-03 11:15:02]   SKIP penn-racquet-sports: content too short
+[2026-06-03 11:15:03]   SKIP ping-golf: content too short
+[2026-06-03 11:15:04]   SKIP pinko-fashion: content too short
+[2026-06-03 11:15:05]   ADDED pirma: Pirma (+1 langs)
+[2026-06-03 11:15:06]   SKIP poker-sports-manufacturer: content too short
+[2026-06-03 11:15:07] Homepage not modified (JS renders dynamically from JSON)
