@@ -7,7 +7,7 @@ No user interaction needed. No LLM calls.
 """
 import json, os, csv, sys, re, time, urllib.request, urllib.error, urllib.parse
 
-BASE = "/workspace/pinpai-ai-in"
+BASE = "/var/www/pinpai-repo"
 POOL_FILE = os.path.join(BASE, ".next_batch.json")
 LOCK_FILE = os.path.join(BASE, ".sourcing.lock")
 DONE_FILE = os.path.join(BASE, ".sourced_slugs.json")

@@ -7,7 +7,7 @@ If pool empty, calls auto_source_brands.py to refill.
 """
 import json, os, csv, re, sys, shutil, subprocess
 
-BASE = "/workspace/pinpai-ai-in"
+BASE = "/var/www/pinpai-repo"
 WWW = "/var/www/pinpai"
 LOCK_FILE = os.path.join(BASE, ".heartbeat.lock")
 
