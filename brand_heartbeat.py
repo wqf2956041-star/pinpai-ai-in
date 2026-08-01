@@ -150,29 +150,52 @@ try:
             print("No template for " + slug + " -- skipping")
             continue
 
-        with open(template_path) as f:
-            template_html = f.read()
-
-        html = template_html.replace("adidas", slug)
-        html = html.replace("阿迪达斯", name_zh)
-        html = html.replace("Adidas", name_en)
-        html = html.replace('category: "sport"', 'category: "' + category + '"')
+        # Generate 10-language brand content using generate_brand_content.py
+        gen_script = os.path.join(BASE, "generate_brand_content.py")
+        cmd = [
+            sys.executable, gen_script,
+            slug, name_zh, name_en, category,
+            str(b.get("founding_year", "")),
+            b.get("founder", ""),
+            b.get("website", "")
+        ]
+        print("  Generating brand content for " + slug + "...")
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+        if result.returncode != 0:
+            print("  FAILED to generate content for " + slug + ": " + result.stderr[:200])
+            # Fallback to old template replacement
+            with open(template_path) as f:
+                template_html = f.read()
+            html = template_html.replace("adidas", slug)
+            html = html.replace("阿迪达斯", name_zh)
+            html = html.replace("Adidas", name_en)
+            html = html.replace('category: "sport"', 'category: "' + category + '"')
+        else:
+            try:
+                gen_result = json.loads(result.stdout)
+                if "html" in gen_result:
+                    html = gen_result["html"]
+                    print("  Generated proper 10-language content for " + slug)
+                else:
+                    print("  WARNING: generate script returned: " + str(gen_result)[:100])
+                    raise Exception("No html in result")
+            except Exception as e:
+                print("  Falling back to template for " + slug + ": " + str(e))
+                with open(template_path) as f:
+                    template_html = f.read()
+                html = template_html.replace("adidas", slug)
+                html = html.replace("阿迪达斯", name_zh)
+                html = html.replace("Adidas", name_en)
+                html = html.replace('category: "sport"', 'category: "' + category + '"')
 
         brand_html_path = os.path.join(brand_dir, "index.html")
         with open(brand_html_path, "w") as f:
             f.write(html)
 
-        # --- STEP 3: Copy to /var/www/pinpai/ ---
-        os.makedirs(www_dir, exist_ok=True)
-        shutil.copy2(brand_html_path, os.path.join(www_dir, "index.html"))
-        shutil.copy2(os.path.join(brand_dir, "brand.json"), os.path.join(www_dir, "brand.json"))
+        # --- STEP 3: SKIP www-copy (Caddy→GH Pages, not local) ---
+        print(f"  WWW copy skipped (reverse-proxy to GitHub Pages)")
 
-        # --- STEP 4: Verify copy succeeded ---
-        if not os.path.exists(os.path.join(www_dir, "index.html")):
-            print("FAILED to copy " + slug + " to www -- rolling back index write")
-            continue
-
-        # Mark as successfully deployed
+        # --- STEP 4
         successfully_deployed.append(b)
         added_count += 1
         print("  OK " + slug + " (" + name_zh + ") -> generated + deployed to www")
@@ -218,6 +241,48 @@ try:
         print("   Git push successful")
     else:
         print("   Git push returned " + str(result))
+
+    # --- STEP 9: Sync gh-pages (GitHub Pages) ---
+    if result == 0:
+        try:
+            # Use worktree to avoid checkout conflicts
+            gh_deploy = "/tmp/gh-pages-deploy"
+            # Remove stale worktree if exists
+            if os.path.exists(gh_deploy):
+                shutil.rmtree(gh_deploy, ignore_errors=True)
+                # Also remove worktree metadata
+                os.system("cd " + BASE + " && git worktree prune 2>/dev/null")
+            # Create clean worktree
+            rc = os.system("cd " + BASE + " && git worktree add " + gh_deploy + " gh-pages 2>/dev/null")
+            if rc == 0:
+                # Remove all files from worktree
+                os.system("cd " + gh_deploy + " && git rm -rf . 2>/dev/null")
+                # Copy fresh index.html
+                shutil.copy(os.path.join(BASE, "index.html"), os.path.join(gh_deploy, "index.html"))
+                # Commit and force push
+                os.system("cd " + gh_deploy + " && git add index.html && git commit -m 'deploy: sync gh-pages'")
+                push_rc = os.system("cd " + gh_deploy + " && git push origin gh-pages --force")
+                if push_rc == 0:
+                    print("   gh-pages sync successful")
+                else:
+                    print("   gh-pages push returned " + str(push_rc))
+                # Cleanup
+                os.system("cd " + BASE + " && git worktree remove " + gh_deploy + " 2>/dev/null")
+                shutil.rmtree(gh_deploy, ignore_errors=True)
+            else:
+                # Fallback: branch switch and push
+                print("   worktree failed, using branch switch fallback")
+                os.system("cd " + BASE + " && git branch -D gh-pages 2>/dev/null")
+                os.system("cd " + BASE + " && git checkout -b gh-pages 2>/dev/null")
+                os.system("cd " + BASE + " && git rm -rf . 2>/dev/null")
+                os.system("cd " + BASE + " && git checkout main -- index.html 2>/dev/null")
+                os.system("cd " + BASE + " && git add index.html && git commit -m 'deploy: sync gh-pages'")
+                os.system("cd " + BASE + " && git push origin gh-pages --force")
+                os.system("cd " + BASE + " && git checkout main")
+        except Exception as e:
+            print("   gh-pages sync error: " + str(e))
+            # Ensure back on main
+            os.system("cd " + BASE + " && git checkout main 2>/dev/null")
 
     print("")
     print("Heartbeat complete: +" + str(added_count) + " brands deployed (total: " + str(len(index)) + ")")

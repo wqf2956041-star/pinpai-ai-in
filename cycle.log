@@ -1,0 +1,652 @@
+[02:15] Pool: 10 | Index: 153
+[02:30] Pool: 10 | Index: 153
+[02:45] Pool: 20 | Index: 153
+[03:00] Pool: 0 | Index: 153
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + komatsu-limited (Komatsu Limited) [general]
+  + komori (Komori) [general]
+  + konami (Konami) [general]
+  + konica-minolta (Konica Minolta) [general]
+  + konigs-krone (Konigs-Krone) [general]
+  + korg (Korg) [general]
+  + korin-japanese-trading-company (Korin Japanese Trading Company) [general]
+  + kos (Kosé) [general]
+  + kowa-company (Kowa (company)) [general]
+  + koyo-seiko (Koyo Seiko) [general]
+  + kubota (Kubota) [general]
+  + kumagai-gumi (Kumagai Gumi) [general]
+  + kureha-corporation (Kureha Corporation) [general]
+  + kuretake-art-products (Kuretake (art products)) [general]
+  + kurita-water-industries (Kurita Water Industries) [general]
+  + kuwahara-bicycle-company (Kuwahara (bicycle company)) [general]
+  + kyb-corporation (KYB Corporation) [general]
+  + kyocera (Kyocera) [general]
+  + kyukyodo (Kyukyodo) [general]
+  + lawson-store (Lawson (store)) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+[03:15] Pool: 10 | Index: 153
+[03:30] Pool: 10 | Index: 153
+[03:45] Pool: 0 | Index: 256
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + lexus (Lexus) [general]
+  + lixil-group (Lixil Group) [general]
+  + lotte-holdings (Lotte Holdings) [general]
+  + lumix (Lumix) [general]
+  + luxman (Luxman) [general]
+  + mabuchi-motor (Mabuchi Motor) [general]
+  + maeda-corporation (Maeda Corporation) [general]
+  + makino (Makino) [general]
+  + makita (Makita) [general]
+  + mamiya (Mamiya) [general]
+  + mandom (Mandom) [general]
+  + marui (Marui) [general]
+  + marukome (Marukome) [general]
+  + marusan-ai (Marusan-Ai) [general]
+  + maruya-company (Maruya (company)) [general]
+  + marvelous-company (Marvelous (company)) [general]
+  + maspro-denkoh (Maspro Denkoh) [general]
+  + matsukawaya-company (Matsukawaya Company) [general]
+  + matsumoto-kiyoshi (Matsumoto Kiyoshi) [general]
+  + matsuoka-guitar (Matsuoka Guitar) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+[04:00] Pool: 20 | Index: 256
+[04:15] Pool: 0 | Index: 376
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + kg-mobility (KG Mobility) [general]
+  + kia (Kia) [general]
+  + kia-ecodynamics (Kia EcoDynamics) [general]
+  + kmall24 (Kmall24) [general]
+  + kolon-industries (Kolon Industries) [general]
+  + kookmin-bank (Kookmin Bank) [general]
+  + kooksoondang (Kooksoondang) [general]
+  + korail (Korail) [general]
+  + korea-data-systems (Korea Data Systems) [general]
+  + korea-post (Korea Post) [general]
+  + korea-tungsten-company (Korea Tungsten Company) [general]
+  + koscom (Koscom) [general]
+  + kt-corporation (KT Corporation) [general]
+  + kumho-asiana-group (Kumho Asiana Group) [general]
+  + kumho-tire (Kumho Tire) [general]
+  + kyeyang-electric (Kyeyang Electric) [general]
+  + kyobo-life-insurance (Kyobo Life Insurance) [general]
+  + lg-cyon (LG Cyon) [general]
+  + lg-electronics (LG Electronics) [general]
+  + lg-uplus (LG Uplus) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+[04:30] Pool: 20 | Index: 376
+[04:45] Pool: 10 | Index: 379
+  [04:45:01] Current: 379 brands
+  [04:45:01] Pool: 10 brands
+  [04:45:01]   SKIP markany: content too short
+  [04:45:02]   SKIP moms-touch: content too short
+  [04:45:04]   ADDED monami: Monami (+3 langs)
+  [04:45:05]   SKIP mpio: content too short
+  [04:45:06]   SKIP namyang-dairy-products: content too short
+  [04:45:06] Regenerating homepage (380 brands)...
+  [04:45:06]   brandsData replaced: 380 entries
+  [04:45:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[05:00] Pool: 20 | Index: 380
+  [05:00:01] Current: 380 brands
+  [05:00:01] Pool: 20 brands
+  [05:00:04]   ADDED krispy-kreme: Krispy Kreme (+8 langs)
+  [05:00:05]   SKIP mitsui-chemicals: HTTP Error 429: Too Many Requests
+  [05:00:06]   SKIP mitsui-es: HTTP Error 429: Too Many Requests
+  [05:00:07]   SKIP mitsui-osk-lines: HTTP Error 429: Too Many Requests
+  [05:00:08]   SKIP mitsui-sumitomo-insurance-group: HTTP Error 429: Too Many Requests
+  [05:00:09] Regenerating homepage (381 brands)...
+  [05:00:10]   brandsData replaced: 381 entries
+  [05:00:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[05:15] Pool: 5 | Index: 381
+  [05:15:01] Current: 381 brands
+  [05:15:01] Pool: 5 brands
+  [05:15:01]   SKIP modec: content too short
+  [05:15:05]   ADDED molten-corporation: Molten Corporation (+7 langs)
+  [05:15:06]   SKIP monchhichi: HTTP Error 429: Too Many Requests
+  [05:15:07]   SKIP morinaga-company: HTTP Error 429: Too Many Requests
+  [05:15:09]   SKIP msad-insurance-group: HTTP Error 429: Too Many Requests
+  [05:15:10] Regenerating homepage (382 brands)...
+  [05:15:10]   brandsData replaced: 382 entries
+  [05:15:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[05:30] Pool: 0 | Index: 382
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + baidu (Baidu) [general]
+  + bytedance (ByteDance) [general]
+  + guosen-securities (Guosen Securities) [general]
+  + gx-airlines (GX Airlines) [general]
+  + gyon (Gyon) [general]
+  + h-world-group-limited (H World Group Limited) [general]
+  + hafei (Hafei) [general]
+  + haidilao (Haidilao) [general]
+  + haier (Haier) [general]
+  + haifu (Haifu) [general]
+  + haima-automobile (Haima Automobile) [general]
+  + hainan-airlines (Hainan Airlines) [general]
+  + haitong-international (Haitong International) [general]
+  + hans-laser (Han's Laser) [general]
+  + hanergy (Hanergy) [general]
+  + hangzhou-wahaha-group (Hangzhou Wahaha Group) [general]
+  + hangzhou-zhongce-rubber-company (Hangzhou Zhongce Rubber Company) [general]
+  + hanlin-ereader (Hanlin eReader) [general]
+  + hanlong (Hanlong) [general]
+  + hanteng-autos (Hanteng Autos) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [05:30:02] Current: 382 brands
+  [05:30:02] Pool: 20 brands
+  [05:30:04]   ADDED baidu: Baidu (+7 langs)
+  [05:30:05]   SKIP bytedance: HTTP Error 429: Too Many Requests
+  [05:30:07]   SKIP guosen-securities: HTTP Error 429: Too Many Requests
+  [05:30:08]   SKIP gx-airlines: HTTP Error 429: Too Many Requests
+  [05:30:09]   SKIP gyon: HTTP Error 429: Too Many Requests
+  [05:30:10] Regenerating homepage (383 brands)...
+  [05:30:10]   brandsData replaced: 383 entries
+  [05:30:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[05:45] Pool: 5 | Index: 383
+  [05:45:01] Current: 383 brands
+  [05:45:01] Pool: 5 brands
+  [05:45:04]   ADDED hangzhou-wahaha-group: Hangzhou Wahaha Group (+6 langs)
+  [05:45:05]   ADDED hangzhou-zhongce-rubber-company: Hangzhou Zhongce Rubber Company (en only)
+  [05:45:06]   SKIP hanlin-ereader: HTTP Error 429: Too Many Requests
+  [05:45:07]   SKIP hanlong: HTTP Error 429: Too Many Requests
+  [05:45:08]   SKIP hanteng-autos: HTTP Error 429: Too Many Requests
+  [05:45:09] Regenerating homepage (385 brands)...
+  [05:45:10]   brandsData replaced: 385 entries
+  [05:45:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:00] Pool: 0 | Index: 385
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + ferrero-rocher (Ferrero Rocher) [general]
+  + ferrero-ksschen (Ferrero-Küsschen) [general]
+  + ferretti-group (Ferretti Group) [general]
+  + ferrovie-dello-stato-italiane (Ferrovie dello Stato Italiane) [general]
+  + fiamm (FIAMM) [general]
+  + fiat (Fiat) [general]
+  + fiat-professional (Fiat Professional) [general]
+  + fila-company (F.I.L.A. (company)) [general]
+  + filippi-boats (Filippi Boats) [general]
+  + filippo-berio (Filippo Berio) [general]
+  + fincantieri (Fincantieri) [general]
+  + fiocchi-munizioni (Fiocchi Munizioni) [general]
+  + fioravanti-automotive (Fioravanti (automotive)) [general]
+  + flash-fiber (Flash Fiber) [general]
+  + flos-bb-italia-group (Flos B&B Italia Group) [general]
+  + fondmetal (Fondmetal) [general]
+  + fpt-industrial (FPT Industrial) [general]
+  + franchi-firearms (Franchi (firearms)) [general]
+  + franco-tosi-meccanica (Franco Tosi Meccanica) [general]
+  + franklin-marshall-company (Franklin & Marshall (company)) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [06:00:02] Current: 385 brands
+  [06:00:02] Pool: 20 brands
+  [06:00:02]   SKIP ferrero-rocher: content too short
+  [06:00:03]   SKIP ferrero-ksschen: content too short
+  [06:00:05]   ADDED ferretti-group: Ferretti Group (+4 langs)
+  [06:00:06]   SKIP ferrovie-dello-stato-italiane: HTTP Error 429: Too Many Requests
+  [06:00:07]   SKIP fiamm: HTTP Error 429: Too Many Requests
+  [06:00:08] Regenerating homepage (386 brands)...
+  [06:00:08]   brandsData replaced: 386 entries
+  [06:00:08] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:15] Pool: 15 | Index: 386
+  [06:15:01] Current: 386 brands
+  [06:15:01] Pool: 15 brands
+  [06:15:05]   ADDED fiat: Fiat (+8 langs)
+  [06:15:07]   SKIP fiat-professional: HTTP Error 429: Too Many Requests
+  [06:15:08]   SKIP fila-company: HTTP Error 429: Too Many Requests
+  [06:15:09]   SKIP filippi-boats: HTTP Error 429: Too Many Requests
+  [06:15:10]   SKIP filippo-berio: HTTP Error 429: Too Many Requests
+  [06:15:11] Regenerating homepage (387 brands)...
+  [06:15:11]   brandsData replaced: 387 entries
+  [06:15:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:30] Pool: 0 | Index: 471
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + tribute-brand (Tribute Brand) [fashion]
+  + unkl347 (UNKL347) [fashion]
+  + vilebrequin (Vilebrequin) [fashion]
+  + volcano-brand (Volcano (brand)) [fashion]
+  + john-weitz (John Weitz) [fashion]
+  + wesc (WESC) [fashion]
+  + white-stuff-clothing (White Stuff Clothing) [fashion]
+  + wolford (Wolford) [fashion]
+  + wood-wood (Wood Wood) [fashion]
+  + xuly-bt (Xuly Bët) [fashion]
+  + moulton-bicycle (Moulton Bicycle) [general]
+  + mountain-warehouse (Mountain Warehouse) [general]
+  + mubi-streaming-service (Mubi (streaming service)) [general]
+  + the-muddlers-club (The Muddlers Club) [general]
+  + muralplast (Muralplast) [general]
+  + my-local (My Local) [general]
+  + mymanu (Mymanu) [general]
+  + mysupermarket (MySupermarket) [general]
+  + nad-electronics (NAD Electronics) [general]
+  + nails-inc (Nails Inc.) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [06:30:02] Current: 471 brands
+  [06:30:02] Pool: 20 brands
+  [06:30:02]   SKIP tribute-brand: content too short
+  [06:30:03]   SKIP unkl347: content too short
+  [06:30:04]   ADDED vilebrequin: Vilebrequin (+1 langs)
+  [06:30:05]   SKIP volcano-brand: content too short
+  [06:30:06]   SKIP john-weitz: content too short
+  [06:30:06] Regenerating homepage (472 brands)...
+  [06:30:06]   brandsData replaced: 472 entries
+  [06:30:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[06:45] Pool: 5 | Index: 472
+  [06:45:01] Current: 472 brands
+  [06:45:01] Pool: 5 brands
+  [06:45:01]   ADDED my-local: My Local (en only)
+  [06:45:02]   SKIP mymanu: content too short
+  [06:45:03]   ADDED mysupermarket: MySupermarket (en only)
+  [06:45:06]   ADDED nad-electronics: NAD Electronics (+3 langs)
+  [06:45:07]   SKIP nails-inc: HTTP Error 429: Too Many Requests
+  [06:45:08] Regenerating homepage (475 brands)...
+  [06:45:08]   brandsData replaced: 475 entries
+  [06:45:08] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[07:00] Pool: 10 | Index: 475
+  [07:00:01] Current: 475 brands
+  [07:00:01] Pool: 10 brands
+  [07:00:02]   ADDED nakano-corporation: Nakano Corporation (+1 langs)
+  [07:00:11]   ADDED namco: Namco (+5 langs)
+  [07:00:12]   SKIP namiki: HTTP Error 429: Too Many Requests
+  [07:00:14]   SKIP nanaco: HTTP Error 429: Too Many Requests
+  [07:00:15]   SKIP nanoblock: HTTP Error 429: Too Many Requests
+  [07:00:16] Regenerating homepage (477 brands)...
+  [07:00:16]   brandsData replaced: 477 entries
+  [07:00:16] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[07:15] Pool: 5 | Index: 477
+  [07:15:01] Current: 477 brands
+  [07:15:01] Pool: 5 brands
+  [07:15:01]   SKIP national-brand: content too short
+  [07:15:07]   ADDED nec: NEC (+7 langs)
+  [07:15:09]   SKIP new-otani-hotels: HTTP Error 429: Too Many Requests
+  [07:15:10]   SKIP newgin: HTTP Error 429: Too Many Requests
+  [07:15:12]   SKIP nichia: HTTP Error 429: Too Many Requests
+  [07:15:13] Regenerating homepage (478 brands)...
+  [07:15:13]   brandsData replaced: 478 entries
+  [07:15:13] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[07:30] Pool: 0 | Index: 478
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + shiseido (Shiseido) [fashion-luxury]
+  + shreve-co (Shreve & Co.) [fashion-luxury]
+  + shreve-crump-low (Shreve, Crump & Low) [fashion-luxury]
+  + sljeme-company (Sljeme (company)) [fashion-luxury]
+  + geoffrey-b-small (Geoffrey B. Small) [fashion-luxury]
+  + john-smedley-brand (John Smedley (brand)) [fashion-luxury]
+  + roger-w-smith (Roger W. Smith) [fashion-luxury]
+  + snow-peak-company (Snow Peak (company)) [fashion-luxury]
+  + society-awards (Society Awards) [fashion-luxury]
+  + sowind-group-sa (Sowind Group SA) [fashion-luxury]
+  + speake-marin (Speake-Marin) [fashion-luxury]
+  + stagecoach-gold (Stagecoach Gold) [fashion-luxury]
+  + steinway-sons (Steinway & Sons) [fashion-luxury]
+  + straube-piano-company (Straube Piano Company) [fashion-luxury]
+  + string-ting (String Ting) [fashion-luxury]
+  + sub-zero-company (Sub-Zero (company)) [fashion-luxury]
+  + swarovski (Swarovski) [fashion-luxury]
+  + tabbah (Tabbah) [fashion-luxury]
+  + tag-heuer (TAG Heuer) [fashion-luxury]
+  + talisker-distillery (Talisker distillery) [fashion-luxury]
+  ✅ Sourced 20 new brands (pool: 20)
+  [07:30:02] Current: 478 brands
+  [07:30:02] Pool: 20 brands
+  [07:30:05]   ADDED shiseido: Shiseido (+6 langs)
+  [07:30:06]   SKIP shreve-co: HTTP Error 429: Too Many Requests
+  [07:30:07]   SKIP shreve-crump-low: HTTP Error 429: Too Many Requests
+  [07:30:08]   SKIP sljeme-company: HTTP Error 429: Too Many Requests
+  [07:30:09]   SKIP geoffrey-b-small: HTTP Error 429: Too Many Requests
+  [07:30:10] Regenerating homepage (479 brands)...
+  [07:30:10]   brandsData replaced: 479 entries
+  [07:30:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[07:45] Pool: 0 | Index: 586
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + nongshim (Nongshim) [general]
+  + oci-company (OCI (company)) [general]
+  + oriental-brewery (Oriental Brewery) [general]
+  + orion-corporation-south-korean-company (Orion Corporation (South Korean company)) [general]
+  + ottogi (Ottogi) [general]
+  + oullim-spirra (Oullim Spirra) [general]
+  + oxford-toy-company (Oxford (toy company)) [general]
+  + pan-ocean (Pan Ocean) [general]
+  + pandora-tv (Pandora TV) [general]
+  + pantech (Pantech) [general]
+  + paris-baguette (Paris Baguette) [general]
+  + pepero (Pepero) [general]
+  + perigee-aerospace (Perigee Aerospace) [general]
+  + phiaton (Phiaton) [general]
+  + pigeon-company (Pigeon (company)) [general]
+  + pinkfong (Pinkfong) [general]
+  + the-plaza-seoul (The Plaza Seoul) [general]
+  + polaris-office (Polaris Office) [general]
+  + poongsan-corporation (Poongsan Corporation) [general]
+  + posco (POSCO) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [07:45:01] Current: 586 brands
+  [07:45:01] Pool: 20 brands
+  [07:45:04]   ADDED nongshim: Nongshim (+7 langs)
+  [07:45:05]   SKIP oci-company: HTTP Error 429: Too Many Requests
+  [07:45:06]   SKIP oriental-brewery: HTTP Error 429: Too Many Requests
+  [07:45:07]   SKIP orion-corporation-south-korean-company: HTTP Error 429: Too Many Requests
+  [07:45:08]   SKIP ottogi: HTTP Error 429: Too Many Requests
+  [07:45:09] Regenerating homepage (587 brands)...
+  [07:45:09]   brandsData replaced: 587 entries
+  [07:45:09] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[08:00] Pool: 15 | Index: 587
+  [08:00:01] Current: 587 brands
+  [08:00:01] Pool: 15 brands
+  [08:00:02]   ADDED oullim-spirra: Oullim Spirra (+2 langs)
+  [08:00:04]   ADDED oxford-toy-company: Oxford (toy company) (+2 langs)
+  [08:00:05]   SKIP pan-ocean: content too short
+  [08:00:06]   SKIP pandora-tv: HTTP Error 429: Too Many Requests
+  [08:00:07]   SKIP pantech: HTTP Error 429: Too Many Requests
+  [08:00:08] Regenerating homepage (589 brands)...
+  [08:00:08]   brandsData replaced: 589 entries
+  [08:00:08] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[08:15] Pool: 10 | Index: 589
+  [08:15:01] Current: 589 brands
+  [08:15:01] Pool: 10 brands
+  [08:15:03]   ADDED paris-baguette: Paris Baguette (+4 langs)
+  [08:15:04]   SKIP pepero: content too short
+  [08:15:05]   SKIP perigee-aerospace: content too short
+  [08:15:06]   SKIP phiaton: content too short
+  [08:15:06]   SKIP pigeon-company: content too short
+  [08:15:07] Regenerating homepage (590 brands)...
+  [08:15:07]   brandsData replaced: 590 entries
+  [08:15:07] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[08:30] Pool: 20 | Index: 590
+  [08:30:01] Current: 590 brands
+  [08:30:01] Pool: 20 brands
+  [08:30:07]   ADDED novartis: Novartis (+8 langs)
+  [08:30:08]   SKIP roche: HTTP Error 429: Too Many Requests
+  [08:30:09]   SKIP ubs: HTTP Error 429: Too Many Requests
+  [08:30:10]   SKIP wire-swiss: HTTP Error 429: Too Many Requests
+  [08:30:11]   SKIP xix-gmbh: HTTP Error 429: Too Many Requests
+  [08:30:12] Regenerating homepage (591 brands)...
+  [08:30:12]   brandsData replaced: 591 entries
+  [08:30:12] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[08:45] Pool: 15 | Index: 591
+  [08:45:01] Current: 591 brands
+  [08:45:01] Pool: 15 brands
+  [08:45:02]   ADDED ypsomed-holding: Ypsomed Holding (+1 langs)
+  [08:45:03]   SKIP zephyr-surgical-implants: content too short
+  [08:45:04]   SKIP zepter-international: content too short
+  [08:45:04]   SKIP zino-davidoff-group: content too short
+  [08:45:05]   SKIP zurich-instruments: content too short
+  [08:45:06] Regenerating homepage (592 brands)...
+  [08:45:06]   brandsData replaced: 592 entries
+  [08:45:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[09:00] Pool: 20 | Index: 592
+  [09:00:01] Current: 592 brands
+  [09:00:01] Pool: 20 brands
+  [09:00:03]   ADDED yahoo-inc-19952017: Yahoo! Inc. (1995–2017) (+1 langs)
+  [09:00:06]   ADDED yum-brands: Yum! Brands (+5 langs)
+  [09:00:08]   SKIP zeebo-inc: HTTP Error 429: Too Many Requests
+  [09:00:09]   SKIP accor: HTTP Error 429: Too Many Requests
+  [09:00:10]   SKIP air-france: HTTP Error 429: Too Many Requests
+  [09:00:11] Regenerating homepage (594 brands)...
+  [09:00:11]   brandsData replaced: 594 entries
+  [09:00:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[09:15] Pool: 20 | Index: 594
+  [09:15:01] Current: 594 brands
+  [09:15:01] Pool: 20 brands
+  [09:15:03]   ADDED nichicon: Nichicon (+3 langs)
+  [09:15:07]   ADDED nidec: Nidec (+3 langs)
+  [09:15:08]   SKIP nihon-dempa-kogyo: HTTP Error 429: Too Many Requests
+  [09:15:09]   SKIP nihon-kohden: HTTP Error 429: Too Many Requests
+  [09:15:10]   SKIP niigata-transys: HTTP Error 429: Too Many Requests
+  [09:15:11] Regenerating homepage (596 brands)...
+  [09:15:11]   brandsData replaced: 596 entries
+  [09:15:11] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[09:30] Pool: 15 | Index: 596
+  [09:30:01] Current: 596 brands
+  [09:30:01] Pool: 15 brands
+  [09:30:07]   ADDED nikka-whisky-distilling: Nikka Whisky Distilling (+5 langs)
+  [09:30:09]   SKIP nikken-sekkei: content too short
+  [09:30:10]   SKIP nikko-ceramics: content too short
+  [09:30:10]   SKIP nikko-rc: HTTP Error 429: Too Many Requests
+  [09:30:12]   SKIP nikkor: HTTP Error 429: Too Many Requests
+  [09:30:13] Regenerating homepage (597 brands)...
+  [09:30:13]   brandsData replaced: 597 entries
+  [09:30:13] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[09:45] Pool: 20 | Index: 597
+  [09:45:01] Current: 597 brands
+  [09:45:01] Pool: 20 brands
+  [09:45:01]   SKIP newgate-company: content too short
+  [09:45:06]   ADDED ni-railways: NI Railways (+6 langs)
+  [09:45:07]   ADDED no-7-brand: No. 7 (brand) (en only)
+  [09:45:08]   SKIP noble-automotive: HTTP Error 429: Too Many Requests
+  [09:45:09]   SKIP nugen-audio: HTTP Error 429: Too Many Requests
+  [09:45:10] Regenerating homepage (599 brands)...
+  [09:45:10]   brandsData replaced: 599 entries
+  [09:45:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[10:00] Pool: 0 | Index: 600
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + vans (Vans) [fashion]
+  + hunkt (Hunkt) [general]
+  + huya-live (Huya Live) [general]
+  + hytera (Hytera) [general]
+  + icar-marque (ICar (marque)) [general]
+  + icarbonx (ICarbonX) [general]
+  + iflytek (IFlytek) [general]
+  + industrial-bank-china (Industrial Bank (China)) [general]
+  + infinix-mobile (Infinix Mobile) [general]
+  + ingenic-semiconductor (Ingenic Semiconductor) [general]
+  + inoherb (Inoherb) [general]
+  + inovance (Inovance) [general]
+  + inspur (Inspur) [general]
+  + insta360 (Insta360) [general]
+  + iqoo (IQOO) [general]
+  + ique (IQue) [general]
+  + itel-mobile (Itel Mobile) [general]
+  + ja-solar-holdings (JA Solar Holdings) [general]
+  + jac-group (JAC Group) [general]
+  + jaecoo (Jaecoo) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [10:00:02] Current: 600 brands
+  [10:00:02] Pool: 20 brands
+  [10:00:02]   SKIP vans: content too short
+  [10:00:03]   SKIP hunkt: content too short
+  [10:00:04]   SKIP huya-live: content too short
+  [10:00:04]   SKIP hytera: content too short
+  [10:00:05]   SKIP icar-marque: content too short
+  [10:00:06] Regenerating homepage (600 brands)...
+  [10:00:06]   brandsData replaced: 600 entries
+  [10:00:06] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[10:15] Pool: 5 | Index: 600
+  [10:15:01] Current: 600 brands
+  [10:15:01] Pool: 5 brands
+  [10:15:04]   ADDED ique: IQue (+8 langs)
+  [10:15:06]   SKIP itel-mobile: HTTP Error 429: Too Many Requests
+  [10:15:07]   SKIP ja-solar-holdings: HTTP Error 429: Too Many Requests
+  [10:15:08]   SKIP jac-group: HTTP Error 429: Too Many Requests
+  [10:15:09]   SKIP jaecoo: HTTP Error 429: Too Many Requests
+  [10:15:10] Regenerating homepage (601 brands)...
+  [10:15:10]   brandsData replaced: 601 entries
+  [10:15:10] ERROR: Homepage JS missing renderBrands! NOT saving broken page.
+[10:30] Pool: 0 | Index: 601
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + jdcom (JD.com) [general]
+  + jetion-holdings (Jetion Holdings) [general]
+  + jetour (Jetour) [general]
+  + jiangling-motors (Jiangling Motors) [general]
+  + jiangsu-kawei-automotive-industrial-group (Jiangsu Kawei Automotive Industrial Group) [general]
+  + jiangte-joylong-automobile (Jiangte Joylong Automobile) [general]
+  + jiangxi-air (Jiangxi Air) [general]
+  + jidong-cement (Jidong Cement) [general]
+  + jilin-aodong-medicine (Jilin Aodong Medicine) [general]
+  + jinbei-car-brand (Jinbei (car brand)) [general]
+  + jincheng-group (Jincheng Group) [general]
+  + jinjiang-international (Jinjiang International) [general]
+  + jinjiang-literature-city (Jinjiang Literature City) [general]
+  + jmc-yusheng (JMC Yusheng) [general]
+  + jonway-automobile (Jonway Automobile) [general]
+  + joox (Joox) [general]
+  + joy-air (Joy Air) [general]
+  + joyoung (Joyoung) [general]
+  + juneyao-air (Juneyao Air) [general]
+  + jxd (JXD) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [10:30:03] Current: 601 brands
+  [10:30:03] Pool: 20 brands
+  [10:30:04]   ADDED jdcom: JD.com (+3 langs)
+  [10:30:05]   SKIP jetion-holdings: HTTP Error 429: Too Many Requests
+  [10:30:06]   SKIP jetour: HTTP Error 429: Too Many Requests
+  [10:30:07]   SKIP jiangling-motors: HTTP Error 429: Too Many Requests
+  [10:30:08]   SKIP jiangsu-kawei-automotive-industrial-group: HTTP Error 429: Too Many Requests
+  [10:30:09] Homepage not modified (JS renders dynamically from JSON)
+[10:45] Pool: 0 | Index: 602
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + tanishq (Tanishq) [fashion-luxury]
+  + tanner-krolle (Tanner Krolle) [fashion-luxury]
+  + taschen (Taschen) [fashion-luxury]
+  + maria-tash (Maria Tash) [fashion-luxury]
+  + jamal-taslaq (Jamal Taslaq) [fashion-luxury]
+  + tata-cliq (Tata Cliq) [fashion-luxury]
+  + thermador (Thermador) [fashion-luxury]
+  + thomas-lyte (Thomas Lyte) [fashion-luxury]
+  + thresher-glenny (Thresher & Glenny) [fashion-luxury]
+  + aitor-throup (Aitor Throup) [fashion-luxury]
+  + titoni (Titoni) [fashion-luxury]
+  + tricouni-brand (Tricouni (brand)) [fashion-luxury]
+  + truefitt-hill (Truefitt & Hill) [fashion-luxury]
+  + trump-home (Trump Home) [fashion-luxury]
+  + the-trump-organization (The Trump Organization) [fashion-luxury]
+  + twg-tea (TWG Tea) [fashion-luxury]
+  + ulysse-nardin (Ulysse Nardin) [fashion-luxury]
+  + universal-genve (Universal Genève) [fashion-luxury]
+  + vacheron-constantin (Vacheron Constantin) [fashion-luxury]
+  + vakko (Vakko) [fashion-luxury]
+  ✅ Sourced 20 new brands (pool: 20)
+  [10:45:02] Current: 602 brands
+  [10:45:02] Pool: 20 brands
+  [10:45:02]   SKIP tanishq: content too short
+  [10:45:03]   SKIP tanner-krolle: content too short
+  [10:45:06]   ADDED taschen: Taschen (+4 langs)
+  [10:45:07]   SKIP maria-tash: HTTP Error 429: Too Many Requests
+  [10:45:08]   SKIP jamal-taslaq: HTTP Error 429: Too Many Requests
+  [10:45:09] Homepage not modified (JS renders dynamically from JSON)
+[11:00] Pool: 5 | Index: 603
+  [11:00:01] Current: 603 brands
+  [11:00:01] Pool: 5 brands
+  [11:00:02]   ADDED twg-tea: TWG Tea (+3 langs)
+  [11:00:04]   ADDED ulysse-nardin: Ulysse Nardin (+3 langs)
+  [11:00:05]   SKIP universal-genve: HTTP Error 429: Too Many Requests
+  [11:00:06]   SKIP vacheron-constantin: HTTP Error 429: Too Many Requests
+  [11:00:07]   SKIP vakko: HTTP Error 429: Too Many Requests
+  [11:00:08] Homepage not modified (JS renders dynamically from JSON)
+[11:15] Pool: 0 | Index: 605
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + penn-racquet-sports (Penn Racquet Sports) [sportswear]
+  + ping-golf (Ping (golf)) [sportswear]
+  + pinko-fashion (Pinko (fashion)) [sportswear]
+  + pirma (Pirma) [sportswear]
+  + poker-sports-manufacturer (Poker (sports manufacturer)) [sportswear]
+  + pony-brand (Pony (brand)) [sportswear]
+  + prana-brand (Prana (brand)) [sportswear]
+  + presto-nike (Presto (Nike)) [sportswear]
+  + prince-sports (Prince Sports) [sportswear]
+  + pro-specs (Pro-Specs) [sportswear]
+  + proviz-sports (Proviz Sports) [sportswear]
+  + provogue (Provogue) [sportswear]
+  + psycho-bunny (Psycho Bunny) [sportswear]
+  + quechua-brand (Quechua (brand)) [sportswear]
+  + quick-sportswear (Quick (sportswear)) [sportswear]
+  + rainha (Rainha) [sportswear]
+  + rapala (Rapala) [sportswear]
+  + rapha-sportswear (Rapha (sportswear)) [sportswear]
+  + rawlings-company (Rawlings (company)) [sportswear]
+  + reebok (Reebok) [sportswear]
+  ✅ Sourced 20 new brands (pool: 20)
+  [11:15:02] Current: 605 brands
+  [11:15:02] Pool: 20 brands
+  [11:15:02]   SKIP penn-racquet-sports: content too short
+  [11:15:03]   SKIP ping-golf: content too short
+  [11:15:04]   SKIP pinko-fashion: content too short
+  [11:15:05]   ADDED pirma: Pirma (+1 langs)
+  [11:15:06]   SKIP poker-sports-manufacturer: content too short
+  [11:15:07] Homepage not modified (JS renders dynamically from JSON)
+[11:30] Pool: 20 | Index: 606
+  [11:30:01] Current: 606 brands
+  [11:30:01] Pool: 20 brands
+  [11:30:02]   ADDED nippon-kayaku: Nippon Kayaku (+1 langs)
+  [11:30:03]   SKIP nippon-life: content too short
+  [11:30:05]   SKIP nippon-paint: content too short
+  [11:30:05]   SKIP nippon-paper-industries: content too short
+  [11:30:06]   ADDED nippon-sanso-holdings-corporation: Nippon Sanso Holdings Corporation (+2 langs)
+  [11:30:07] Homepage not modified (JS renders dynamically from JSON)
+[11:45] Pool: 5 | Index: 608
+  [11:45:01] Current: 608 brands
+  [11:45:01] Pool: 5 brands
+  [11:45:01]   SKIP nisshinbo-holdings: content too short
+  [11:45:02]   SKIP nissin-electric: content too short
+  [11:45:03]   ADDED nissin-kogyo: Nissin Kogyo (+2 langs)
+  [11:45:05]   ADDED niterra: Niterra (+2 langs)
+  [11:45:06]   SKIP nitori: HTTP Error 429: Too Many Requests
+  [11:45:07] Homepage not modified (JS renders dynamically from JSON)
+[12:00] Pool: 0 | Index: 610
+Pool low! Sourcing...
+  Pool low (0). Finding more brands...
+  + pico-technology (Pico Technology) [general]
+  + pifco (Pifco) [general]
+  + piatex (Piñatex) [general]
+  + planet-organic (Planet Organic) [general]
+  + plaxton (Plaxton) [general]
+  + portmeirion-pottery (Portmeirion Pottery) [general]
+  + poundland (Poundland) [general]
+  + premier-inn (Premier Inn) [general]
+  + prestat (Prestat) [general]
+  + pret-a-manger (Pret a Manger) [general]
+  + arthur-price (Arthur Price) [general]
+  + primerdesign (Primerdesign) [general]
+  + prior-scientific (Prior Scientific) [general]
+  + prudential-plc (Prudential plc) [general]
+  + pure-company (Pure (company)) [general]
+  + pv-crystalox-solar (PV Crystalox Solar) [general]
+  + qinetiq (Qinetiq) [general]
+  + quantexa (Quantexa) [general]
+  + quietrevolution-wind-turbine (Quietrevolution wind turbine) [general]
+  + r-whites (R. White's) [general]
+  ✅ Sourced 20 new brands (pool: 20)
+  [12:00:02] Current: 610 brands
+  [12:00:02] Pool: 20 brands
+  [12:00:03]   ADDED pico-technology: Pico Technology (+1 langs)
+  [12:00:04]   SKIP pifco: content too short
+  [12:00:04]   SKIP piatex: content too short
+  [12:00:06]   SKIP planet-organic: content too short
+  [12:00:07]   SKIP plaxton: content too short
+  [12:00:08] Homepage not modified (JS renders dynamically from JSON)
+[12:15] Pool: 5 | Index: 611
+  [12:15:01] Current: 611 brands
+  [12:15:01] Pool: 5 brands
+  [12:15:01]   SKIP pv-crystalox-solar: content too short
+  [12:15:03]   ADDED qinetiq: Qinetiq (+4 langs)
+  [12:15:04]   SKIP quantexa: content too short
+  [12:15:05]   ADDED quietrevolution-wind-turbine: Quietrevolution wind turbine (en only)
+  [12:15:06]   SKIP r-whites: HTTP Error 429: Too Many Requests
+  [12:15:07] Homepage not modified (JS renders dynamically from JSON)
+[12:30] Pool: 20 | Index: 613
+  [12:30:01] Current: 613 brands
+  [12:30:01] Pool: 20 brands
+  [12:30:01]   ADDED radley-company: Radley (company) (en only)
+  [12:30:02]   SKIP raffles-cigarette: content too short
+  [12:30:03]   SKIP ragdoll-productions: content too short
+  [12:30:04]   ADDED the-range-retailer: The Range (retailer) (en only)
+  [12:30:06]   ADDED raspberry-pi: Raspberry Pi (+2 langs)
+  [12:30:07] Homepage not modified (JS renders dynamically from JSON)
+[12:45] Pool: 15 | Index: 616
+  [12:45:01] Current: 616 brands
+  [12:45:01] Pool: 15 brands
+  [12:45:02]   ADDED raspberry-pi-4: Raspberry Pi 4 (+1 langs)
+  [12:45:03]   SKIP regal-cigarette: content too short
+  [12:45:04]   SKIP rev7-gum: content too short
+  [12:45:05]   ADDED rexine: Rexine (+1 langs)
+  [12:45:06]   ADDED ribena: Ribena (en only)
+  [12:45:07] Homepage not modified (JS renders dynamically from JSON)

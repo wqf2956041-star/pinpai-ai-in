@@ -1,0 +1,6 @@
+{
+  "name": "Escher Codespace",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "postCreateCommand": "curl -fsSL https://tailscale.com/install.sh | sh && sudo tailscale up --authkey tskey-auth-kd3Ydiooi521CNTRL-SSMmRF6ubsVJZkHaQXhtrVZK22xQQS6T5",
+  "remoteUser": "codespace"
+}
